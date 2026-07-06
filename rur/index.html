@@ -1,0 +1,1119 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RUR Rankings — UFF Analytics</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jstat@1.9.6/dist/jstat.min.js"></script>
+
+  <style>
+    :root {
+      /* Tema Azul para RUR (Round University Ranking) */
+      --primary-color: #1e40af;
+      /* Azul escuro */
+      --primary-light: #3b82f6;
+      /* Azul vibrante */
+      --bg-color: #f3f4f6;
+      --card-bg: #ffffff;
+      --text-main: #212529;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: var(--bg-color);
+      color: var(--text-main);
+      padding-bottom: 40px;
+    }
+
+    /* Header */
+    .app-header {
+      background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
+      color: white;
+      padding: 2rem 1rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 10px rgba(30, 64, 175, 0.2);
+    }
+
+    .app-header h1 {
+      font-weight: 700;
+      margin: 0;
+    }
+
+    .app-header .subtitle {
+      opacity: 0.9;
+      font-weight: 300;
+      font-size: 1.1rem;
+      margin-top: 5px;
+    }
+
+    /* Controls */
+    .controls-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+      margin-bottom: 24px;
+      border-left: 5px solid var(--primary-color);
+    }
+
+    .form-label {
+      font-weight: 500;
+      color: var(--primary-color);
+      font-size: 0.9rem;
+      margin-bottom: 4px;
+    }
+
+    .form-select,
+    .btn {
+      border-radius: 8px;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    .btn-primary:hover {
+      background-color: var(--primary-light);
+      border-color: var(--primary-light);
+    }
+
+    .btn-outline-primary {
+      color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    .btn-outline-primary:hover,
+    .btn-check:checked+.btn-outline-primary {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+      color: white;
+    }
+
+    /* Note Card */
+    .note-card {
+      background: #eef2ff;
+      border-left: 4px solid var(--primary-light);
+      border-radius: 8px;
+      padding: 14px 18px;
+      margin-bottom: 24px;
+      font-size: 0.9rem;
+      color: #1e3a8a;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.04);
+    }
+
+    .note-card .bi {
+      color: var(--primary-color);
+      font-size: 1.3rem;
+      flex-shrink: 0;
+      margin-top: 1px;
+    }
+
+    .note-card strong {
+      color: var(--primary-color);
+    }
+
+    /* Grid Layout */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 20px;
+    }
+
+    @media(max-width: 1200px) {
+      .grid {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    @media(max-width: 768px) {
+      .grid {
+        grid-template-columns: 1fr;
+      }
+
+      .controls-card {
+        flex-direction: column;
+      }
+    }
+
+    /* Chart Cards */
+    .chart-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, 0.05);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.03);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .chart-header {
+      padding: 15px 20px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .chart-title {
+      font-weight: 700;
+      color: var(--primary-color);
+      font-size: 1rem;
+      margin: 0;
+    }
+
+    .chart-body {
+      padding: 10px;
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Footers & Stats */
+    .stats-footer {
+      background: #fdfdfd;
+      border-top: 1px solid #eee;
+      padding: 10px 15px;
+      font-size: 0.8rem;
+      color: #555;
+    }
+
+    .stats-footer .muted-note {
+      color: #888;
+      font-size: 0.72rem;
+      margin-top: 3px;
+    }
+
+    .table-stats {
+      font-size: 0.8rem;
+      margin-top: 10px;
+      margin-bottom: 0;
+    }
+
+    .table-stats th {
+      background-color: #f8f9fa;
+    }
+
+    .stat-badge {
+      display: inline-block;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-weight: 600;
+      font-size: 0.7rem;
+      margin-left: 5px;
+    }
+
+    .badge-sig {
+      background-color: #e8f5e9;
+      color: #2e7d32;
+      border: 1px solid #c8e6c9;
+    }
+
+    .badge-not-sig {
+      background-color: #f5f5f5;
+      color: #616161;
+      border: 1px solid #e0e0e0;
+    }
+
+    /* Trend Indicators */
+    .trend-up {
+      color: #2e7d32;
+      font-weight: bold;
+    }
+
+    .trend-down {
+      color: #c62828;
+      font-weight: bold;
+    }
+
+    .trend-flat {
+      color: #616161;
+    }
+
+    footer {
+      margin-top: 40px;
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+    }
+
+    footer a {
+      color: var(--primary-light);
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header class="app-header">
+    <div class="container-fluid px-4">
+      <h1>RUR Rankings — UFF Analytics</h1>
+      <div class="subtitle">Round University Ranking · Comparative Analysis (2019–2026)</div>
+    </div>
+  </header>
+
+  <div class="container-fluid px-4">
+    <div class="controls-card">
+      <div class="row g-3 align-items-end">
+        <div class="col-md-3">
+          <label class="form-label"><i class="bi bi-building"></i> Compare UFF with:</label>
+          <select id="compareSelect" class="form-select">
+            <option value="">Select an university...</option>
+          </select>
+        </div>
+        <div class="col-md-3">
+          <label class="form-label"><i class="bi bi-calendar-range"></i> Period:</label>
+          <div class="input-group">
+            <select id="minYear" class="form-select"></select>
+            <span class="input-group-text bg-light text-muted">to</span>
+            <select id="maxYear" class="form-select"></select>
+          </div>
+        </div>
+        <div class="col-md-2">
+          <label class="form-label"><i class="bi bi-sliders"></i> Metric:</label>
+          <select id="metricSelect" class="form-select">
+            <option value="score" selected>Score</option>
+            <option value="world_rank">World rank</option>
+            <option value="country_rank">Country rank (BR)</option>
+          </select>
+        </div>
+        <div class="col-md-2">
+          <label class="form-label"><i class="bi bi-graph-up"></i> Visualization:</label>
+          <div class="btn-group w-100" role="group">
+            <input type="radio" class="btn-check" name="chartType" id="typeLine" value="line" checked>
+            <label class="btn btn-outline-primary" for="typeLine"><i class="bi bi-bezier2"></i> Trends</label>
+            <input type="radio" class="btn-check" name="chartType" id="typeBox" value="box">
+            <label class="btn btn-outline-primary" for="typeBox"><i class="bi bi-box-seam"></i> Dist.</label>
+          </div>
+        </div>
+        <div class="col-md-2">
+          <label class="form-label"><i class="bi bi-chat-left-text"></i> Data Labels:</label>
+          <div class="d-flex gap-2 mt-2">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="annMode" id="annUff" value="uff" checked>
+              <label class="form-check-label" for="annUff">UFF</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="annMode" id="annBoth" value="both">
+              <label class="form-check-label" for="annBoth">Both</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="annMode" id="annNone" value="none">
+              <label class="form-check-label" for="annNone">Off</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-12 d-flex justify-content-between align-items-center">
+          <div id="status" class="text-primary fw-bold small">
+            <div class="spinner-border spinner-border-sm" role="status"></div> Loading dataset...
+          </div>
+          <div>
+            <button id="refreshBtn" class="btn btn-sm btn-outline-secondary me-2"><i class="bi bi-arrow-clockwise"></i>
+              Reset</button>
+            <button id="applyFilter" class="btn btn-primary px-4"><i class="bi bi-check2-circle"></i> Update
+              Dashboard</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="charts" class="grid"></div>
+
+    <footer>
+      <strong>Data Source:</strong> Round University Ranking (RUR) — Brazil. Developed by PGI/PLAN (UFF).
+    </footer>
+  </div>
+
+  <script>
+    (async function () {
+
+      // --- Config ---
+      // Dados embutidos (long): funciona offline e no GitHub Pages sem hospedar CSV.
+      // Para carregar de um CSV hospedado (padrao fetch dos outros dashboards),
+      // preencha RUR_CSV_URL com a URL raw e mantenha a mesma estrutura de colunas.
+      const RUR_CSV_URL = "";
+      const RUR_CSV = `indicador,ano,rank,universidade,country,league,country_rank,score,location
+financial_sustainability,2019,21,A.C.Camargo Cancer Center,Brazil,Diamond,1,88.842,Sao Paulo
+financial_sustainability,2019,132,State University of Campinas (Unicamp),Brazil,Golden,2,79.077,"Campinas, SP"
+financial_sustainability,2019,166,University of Sao Paulo,Brazil,Golden,3,77.122,Sao Paulo - SP
+financial_sustainability,2019,493,Fluminense Federal University,Brazil,Copper,4,53.981,Rio de Janeiro
+financial_sustainability,2019,539,Universidade Federal De Viçosa,Brazil,World,5,49.132,Vicosa - MS
+financial_sustainability,2019,614,Universidade Federal do Ceara,Brazil,World,6,43.789,Fortaleza
+financial_sustainability,2019,691,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,7,36.07,Porto Alegre
+financial_sustainability,2019,713,Unisinos University,Brazil,World,8,33.141,Sao Leopoldo
+financial_sustainability,2020,139,State University of Campinas (Unicamp),Brazil,Golden,1,82.693,"Campinas, SP"
+financial_sustainability,2020,178,University of Sao Paulo,Brazil,Golden,2,80.813,Sao Paulo - SP
+financial_sustainability,2020,198,A.C.Camargo Cancer Center,Brazil,Golden,3,79.358,Sao Paulo
+financial_sustainability,2020,536,Universidade Federal De Viçosa,Brazil,World,4,52.55,Vicosa - MS
+financial_sustainability,2020,580,Universidade Federal do Ceara,Brazil,World,5,48.832,Fortaleza
+financial_sustainability,2020,638,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,43.664,Porto Alegre
+financial_sustainability,2021,119,State University of Campinas (Unicamp),Brazil,Golden,1,83.788,"Campinas, SP"
+financial_sustainability,2021,121,University of Sao Paulo,Brazil,Golden,2,83.587,Sao Paulo - SP
+financial_sustainability,2021,202,A.C.Camargo Cancer Center,Brazil,Silver,3,78.51,Sao Paulo
+financial_sustainability,2021,585,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,4,49.153,Porto Alegre
+financial_sustainability,2021,615,Universidade Federal do Ceara,Brazil,World,5,47.578,Fortaleza
+financial_sustainability,2021,646,Fluminense Federal University,Brazil,World,6,44.492,Rio de Janeiro
+financial_sustainability,2022,44,University of Sao Paulo,Brazil,Diamond,1,87.901,Sao Paulo - SP
+financial_sustainability,2022,103,Fluminense Federal University,Brazil,Golden,2,81.402,Rio de Janeiro
+financial_sustainability,2022,159,State University of Campinas (Unicamp),Brazil,Golden,3,76.843,"Campinas, SP"
+financial_sustainability,2022,243,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,Silver,4,71.119,Porto Alegre
+financial_sustainability,2022,314,Universidade Federal do Rio de Janeiro,Brazil,Bronze,5,64.943,Rio de Janeiro - RJ
+financial_sustainability,2022,348,Universidade Federal de Lavras,Brazil,Bronze,6,62.452,Lavras
+financial_sustainability,2022,667,Universidade Federal do Ceara,Brazil,World,7,41.055,Fortaleza
+financial_sustainability,2022,723,A.C.Camargo Cancer Center,Brazil,World,8,37.282,Sao Paulo
+financial_sustainability,2022,795,Universidade Federal De Viçosa,Brazil,World,9,31.002,Vicosa - MS
+financial_sustainability,2023,69,University of Sao Paulo,Brazil,Diamond,1,86.92,Sao Paulo - SP
+financial_sustainability,2023,153,State University of Campinas (Unicamp),Brazil,Golden,2,80.892,"Campinas, SP"
+financial_sustainability,2023,371,Fluminense Federal University,Brazil,Bronze,3,65.917,Rio de Janeiro
+financial_sustainability,2023,394,Universidade Federal do Rio de Janeiro,Brazil,Bronze,4,64.412,Rio de Janeiro - RJ
+financial_sustainability,2023,429,A.C.Camargo Cancer Center,Brazil,Copper,5,62.349,Sao Paulo
+financial_sustainability,2023,430,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,Copper,6,62.327,Porto Alegre
+financial_sustainability,2023,473,UNESP - Universidade Estadual Paulista,Brazil,Copper,7,59.838,Sao Jose do Rio Preto - SP
+financial_sustainability,2023,533,University of the Sinos Valley,Brazil,World,8,56.127,Sao Leopoldo - RS
+financial_sustainability,2023,576,Universidade Federal de Lavras,Brazil,World,9,53.286,Lavras
+financial_sustainability,2023,721,Universidade Federal De Viçosa,Brazil,World,10,43.932,Vicosa - MS
+financial_sustainability,2023,739,Unisinos University,Brazil,World,11,42.194,Sao Leopoldo
+financial_sustainability,2023,749,Universidade Federal do Ceara,Brazil,World,12,41.65,Fortaleza
+financial_sustainability,2023,806,Universidade Federal de Santa Maria (UFSM),Brazil,World,13,37.746,"Santa Maria, RS"
+financial_sustainability,2023,824,Federal University of Pernambuco,Brazil,World,14,36.784,Recife
+financial_sustainability,2024,111,University of Sao Paulo,Brazil,Golden,1,84.207,Sao Paulo - SP
+financial_sustainability,2024,143,State University of Campinas (Unicamp),Brazil,Golden,2,81.538,"Campinas, SP"
+financial_sustainability,2024,370,Universidade Federal do Rio de Janeiro,Brazil,Bronze,3,65.453,Rio de Janeiro - RJ
+financial_sustainability,2024,384,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,Bronze,4,64.5,Porto Alegre
+financial_sustainability,2024,411,A.C.Camargo Cancer Center,Brazil,Copper,5,63.147,Sao Paulo
+financial_sustainability,2024,502,Universidade Federal de Lavras,Brazil,World,6,56.343,Lavras
+financial_sustainability,2024,660,Universidade Federal De Viçosa,Brazil,World,7,45.32,Vicosa - MS
+financial_sustainability,2024,686,Universidade Federal de Santa Maria (UFSM),Brazil,World,8,43.301,"Santa Maria, RS"
+financial_sustainability,2024,690,Universidade Federal do Ceara,Brazil,World,9,42.902,Fortaleza
+financial_sustainability,2024,904,Fluminense Federal University,Brazil,World,10,28.402,Rio de Janeiro
+financial_sustainability,2025,87,University of Sao Paulo,Brazil,Diamond,1,86.221,Sao Paulo - SP
+financial_sustainability,2025,143,State University of Campinas (Unicamp),Brazil,Golden,2,81.688,"Campinas, SP"
+financial_sustainability,2025,391,Universidade Federal do Rio de Janeiro,Brazil,Bronze,3,65.611,Rio de Janeiro - RJ
+financial_sustainability,2025,438,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,Copper,4,63.098,Porto Alegre
+financial_sustainability,2025,522,Universidade Federal de Lavras,Brazil,World,5,56.57,Lavras
+financial_sustainability,2025,655,Universidade Federal de Santa Maria (UFSM),Brazil,World,6,48.969,"Santa Maria, RS"
+financial_sustainability,2025,706,Universidade Federal do Ceara,Brazil,World,7,45.109,Fortaleza
+financial_sustainability,2025,782,Universidade Federal De Viçosa,Brazil,World,8,40.334,Vicosa - MS
+financial_sustainability,2025,911,Fluminense Federal University,Brazil,World,9,31.869,Rio de Janeiro
+financial_sustainability,2026,74,University of Sao Paulo,Brazil,Diamond,1,87.525,Sao Paulo - SP
+financial_sustainability,2026,148,State University of Campinas (Unicamp),Brazil,Golden,2,82.558,"Campinas, SP"
+financial_sustainability,2026,394,Universidade Federal do Rio de Janeiro,Brazil,Bronze,3,66.968,Rio de Janeiro - RJ
+financial_sustainability,2026,431,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,Copper,4,64.796,Porto Alegre
+financial_sustainability,2026,521,Universidade Federal de Lavras,Brazil,World,5,58.671,Lavras
+financial_sustainability,2026,554,State University of Maringa,Brazil,World,6,56.068,
+financial_sustainability,2026,663,Universidade Federal de Santa Maria (UFSM),Brazil,World,7,50.57,"Santa Maria, RS"
+financial_sustainability,2026,699,Universidade Federal do Ceara,Brazil,World,8,47.714,Fortaleza
+financial_sustainability,2026,784,Universidade Federal De Viçosa,Brazil,World,9,42.799,Vicosa - MS
+financial_sustainability,2026,885,Fluminense Federal University,Brazil,World,10,36.446,Rio de Janeiro
+international_diversity,2019,448,University of Sao Paulo,Brazil,Copper,1,48.686,Sao Paulo - SP
+international_diversity,2019,497,State University of Campinas (Unicamp),Brazil,Copper,2,42.88,"Campinas, SP"
+international_diversity,2019,715,Universidade Federal De Viçosa,Brazil,World,3,23.285,Vicosa - MS
+international_diversity,2019,736,Unisinos University,Brazil,World,4,19.648,Sao Leopoldo
+international_diversity,2019,741,Universidade Federal do Ceara,Brazil,World,5,19.237,Fortaleza
+international_diversity,2019,745,Fluminense Federal University,Brazil,World,6,18.81,Rio de Janeiro
+international_diversity,2019,753,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,7,18.046,Porto Alegre
+international_diversity,2019,763,A.C.Camargo Cancer Center,Brazil,World,8,16.966,Sao Paulo
+international_diversity,2020,420,University of Sao Paulo,Brazil,Copper,1,50.667,Sao Paulo - SP
+international_diversity,2020,460,State University of Campinas (Unicamp),Brazil,Copper,2,46.29,"Campinas, SP"
+international_diversity,2020,711,Universidade Federal De Viçosa,Brazil,World,3,25.417,Vicosa - MS
+international_diversity,2020,728,Universidade Federal do Ceara,Brazil,World,4,22.413,Fortaleza
+international_diversity,2020,732,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,5,22.008,Porto Alegre
+international_diversity,2020,779,A.C.Camargo Cancer Center,Brazil,World,6,15.286,Sao Paulo
+international_diversity,2021,427,University of Sao Paulo,Brazil,Copper,1,51.981,Sao Paulo - SP
+international_diversity,2021,465,State University of Campinas (Unicamp),Brazil,Copper,2,48.077,"Campinas, SP"
+international_diversity,2021,583,A.C.Camargo Cancer Center,Brazil,World,3,36.979,Sao Paulo
+international_diversity,2021,667,Fluminense Federal University,Brazil,World,4,30.906,Rio de Janeiro
+international_diversity,2021,752,Universidade Federal do Ceara,Brazil,World,5,23.845,Fortaleza
+international_diversity,2021,793,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,19.303,Porto Alegre
+international_diversity,2022,448,University of Sao Paulo,Brazil,Copper,1,55.124,Sao Paulo - SP
+international_diversity,2022,496,State University of Campinas (Unicamp),Brazil,Copper,2,51.199,"Campinas, SP"
+international_diversity,2022,546,Universidade Federal do Rio de Janeiro,Brazil,World,3,47.638,Rio de Janeiro - RJ
+international_diversity,2022,662,A.C.Camargo Cancer Center,Brazil,World,4,39.261,Sao Paulo
+international_diversity,2022,714,Fluminense Federal University,Brazil,World,5,35.731,Rio de Janeiro
+international_diversity,2022,852,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,29.111,Porto Alegre
+international_diversity,2022,875,Universidade Federal do Ceara,Brazil,World,7,27.319,Fortaleza
+international_diversity,2022,877,Universidade Federal De Viçosa,Brazil,World,8,27.194,Vicosa - MS
+international_diversity,2022,949,Universidade Federal de Lavras,Brazil,World,9,20.805,Lavras
+international_diversity,2023,229,A.C.Camargo Cancer Center,Brazil,Silver,1,73.946,Sao Paulo
+international_diversity,2023,403,UNESP - Universidade Estadual Paulista,Brazil,Copper,2,64.597,Sao Jose do Rio Preto - SP
+international_diversity,2023,529,University of Sao Paulo,Brazil,World,3,57.401,Sao Paulo - SP
+international_diversity,2023,665,State University of Campinas (Unicamp),Brazil,World,4,49.433,"Campinas, SP"
+international_diversity,2023,828,Fluminense Federal University,Brazil,World,5,40.599,Rio de Janeiro
+international_diversity,2023,852,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,38.861,Porto Alegre
+international_diversity,2023,855,Universidade Federal do Rio de Janeiro,Brazil,World,7,38.706,Rio de Janeiro - RJ
+international_diversity,2023,896,Universidade Federal do Ceara,Brazil,World,8,36.309,Fortaleza
+international_diversity,2023,918,Unisinos University,Brazil,World,9,35.057,Sao Leopoldo
+international_diversity,2023,973,Universidade Federal De Viçosa,Brazil,World,10,31.459,Vicosa - MS
+international_diversity,2023,1038,Universidade Federal de Santa Maria (UFSM),Brazil,World,11,27.843,"Santa Maria, RS"
+international_diversity,2023,1069,Universidade Federal de Lavras,Brazil,World,12,25.939,Lavras
+international_diversity,2023,1070,University of the Sinos Valley,Brazil,World,13,25.935,Sao Leopoldo - RS
+international_diversity,2023,1114,Federal University of Pernambuco,Brazil,World,14,22.543,Recife
+international_diversity,2024,161,A.C.Camargo Cancer Center,Brazil,Golden,1,77.766,Sao Paulo
+international_diversity,2024,504,State University of Campinas (Unicamp),Brazil,World,2,58.72,"Campinas, SP"
+international_diversity,2024,535,University of Sao Paulo,Brazil,World,3,56.853,Sao Paulo - SP
+international_diversity,2024,654,Universidade Federal do Rio de Janeiro,Brazil,World,4,49.032,Rio de Janeiro - RJ
+international_diversity,2024,728,Fluminense Federal University,Brazil,World,5,44.475,Rio de Janeiro
+international_diversity,2024,782,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,41.25,Porto Alegre
+international_diversity,2024,802,Universidade Federal De Viçosa,Brazil,World,7,40.513,Vicosa - MS
+international_diversity,2024,905,Universidade Federal do Ceara,Brazil,World,8,34.898,Fortaleza
+international_diversity,2024,934,Universidade Federal de Lavras,Brazil,World,9,33.312,Lavras
+international_diversity,2024,943,Universidade Federal de Santa Maria (UFSM),Brazil,World,10,32.674,"Santa Maria, RS"
+international_diversity,2025,517,State University of Campinas (Unicamp),Brazil,World,1,59.079,"Campinas, SP"
+international_diversity,2025,551,University of Sao Paulo,Brazil,World,2,56.917,Sao Paulo - SP
+international_diversity,2025,692,Universidade Federal do Rio de Janeiro,Brazil,World,3,49.082,Rio de Janeiro - RJ
+international_diversity,2025,748,Fluminense Federal University,Brazil,World,4,45.076,Rio de Janeiro
+international_diversity,2025,827,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,5,41.529,Porto Alegre
+international_diversity,2025,906,Universidade Federal De Viçosa,Brazil,World,6,37.974,Vicosa - MS
+international_diversity,2025,1000,Universidade Federal de Lavras,Brazil,World,7,32.775,Lavras
+international_diversity,2025,1003,Universidade Federal de Santa Maria (UFSM),Brazil,World,8,32.599,"Santa Maria, RS"
+international_diversity,2025,1063,Universidade Federal do Ceara,Brazil,World,9,28.951,Fortaleza
+international_diversity,2026,508,State University of Campinas (Unicamp),Brazil,World,1,61.132,"Campinas, SP"
+international_diversity,2026,513,University of Sao Paulo,Brazil,World,2,60.741,Sao Paulo - SP
+international_diversity,2026,698,Fluminense Federal University,Brazil,World,3,50.055,Rio de Janeiro
+international_diversity,2026,709,Universidade Federal do Rio de Janeiro,Brazil,World,4,49.555,Rio de Janeiro - RJ
+international_diversity,2026,855,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,5,41.262,Porto Alegre
+international_diversity,2026,924,Universidade Federal de Lavras,Brazil,World,6,37.891,Lavras
+international_diversity,2026,929,Universidade Federal De Viçosa,Brazil,World,7,37.714,Vicosa - MS
+international_diversity,2026,998,Universidade Federal de Santa Maria (UFSM),Brazil,World,8,34.948,"Santa Maria, RS"
+international_diversity,2026,1040,Universidade Federal do Ceara,Brazil,World,9,32.639,Fortaleza
+international_diversity,2026,1071,State University of Maringa,Brazil,World,10,30.635,
+research,2019,211,University of Sao Paulo,Brazil,Silver,1,72.157,Sao Paulo - SP
+research,2019,338,State University of Campinas (Unicamp),Brazil,Bronze,2,59.72,"Campinas, SP"
+research,2019,386,A.C.Camargo Cancer Center,Brazil,Bronze,3,55.531,Sao Paulo
+research,2019,504,Universidade Federal De Viçosa,Brazil,World,4,44.252,Vicosa - MS
+research,2019,639,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,5,29.826,Porto Alegre
+research,2019,658,Universidade Federal do Ceara,Brazil,World,6,26.956,Fortaleza
+research,2019,701,Unisinos University,Brazil,World,7,22.209,Sao Leopoldo
+research,2019,737,Fluminense Federal University,Brazil,World,8,17.14,Rio de Janeiro
+research,2020,215,University of Sao Paulo,Brazil,Silver,1,74.501,Sao Paulo - SP
+research,2020,304,State University of Campinas (Unicamp),Brazil,Bronze,2,64.241,"Campinas, SP"
+research,2020,333,A.C.Camargo Cancer Center,Brazil,Bronze,3,61.843,Sao Paulo
+research,2020,480,Universidade Federal De Viçosa,Brazil,Copper,4,47.677,Vicosa - MS
+research,2020,627,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,5,31.946,Porto Alegre
+research,2020,641,Universidade Federal do Ceara,Brazil,World,6,30.805,Fortaleza
+research,2021,209,University of Sao Paulo,Brazil,Silver,1,74.554,Sao Paulo - SP
+research,2021,221,A.C.Camargo Cancer Center,Brazil,Silver,2,73.719,Sao Paulo
+research,2021,279,State University of Campinas (Unicamp),Brazil,Silver,3,67.317,"Campinas, SP"
+research,2021,590,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,4,38.212,Porto Alegre
+research,2021,598,Universidade Federal do Ceara,Brazil,World,5,37.401,Fortaleza
+research,2021,614,Fluminense Federal University,Brazil,World,6,35.435,Rio de Janeiro
+research,2022,182,University of Sao Paulo,Brazil,Golden,1,79.565,Sao Paulo - SP
+research,2022,205,A.C.Camargo Cancer Center,Brazil,Silver,2,77.918,Sao Paulo
+research,2022,313,State University of Campinas (Unicamp),Brazil,Bronze,3,69.33,"Campinas, SP"
+research,2022,553,Universidade Federal do Rio de Janeiro,Brazil,World,4,50.757,Rio de Janeiro - RJ
+research,2022,618,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,5,45.253,Porto Alegre
+research,2022,644,Universidade Federal De Viçosa,Brazil,World,6,43.299,Vicosa - MS
+research,2022,658,Fluminense Federal University,Brazil,World,7,41.878,Rio de Janeiro
+research,2022,682,Universidade Federal de Lavras,Brazil,World,8,39.218,Lavras
+research,2022,689,Universidade Federal do Ceara,Brazil,World,9,38.709,Fortaleza
+research,2023,142,State University of Campinas (Unicamp),Brazil,Golden,1,77.919,"Campinas, SP"
+research,2023,145,University of Sao Paulo,Brazil,Golden,2,77.415,Sao Paulo - SP
+research,2023,493,A.C.Camargo Cancer Center,Brazil,Copper,3,57.575,Sao Paulo
+research,2023,570,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,4,53.044,Porto Alegre
+research,2023,592,Universidade Federal do Ceara,Brazil,World,5,51.471,Fortaleza
+research,2023,608,Universidade Federal de Santa Maria (UFSM),Brazil,World,6,50.235,"Santa Maria, RS"
+research,2023,616,Universidade Federal do Rio de Janeiro,Brazil,World,7,49.739,Rio de Janeiro - RJ
+research,2023,646,Universidade Federal De Viçosa,Brazil,World,8,48.067,Vicosa - MS
+research,2023,691,Universidade Federal de Lavras,Brazil,World,9,45.542,Lavras
+research,2023,724,Fluminense Federal University,Brazil,World,10,43.703,Rio de Janeiro
+research,2023,726,Federal University of Pernambuco,Brazil,World,11,43.687,Recife
+research,2023,755,Unisinos University,Brazil,World,12,41.732,Sao Leopoldo
+research,2023,892,UNESP - Universidade Estadual Paulista,Brazil,World,13,34.277,Sao Jose do Rio Preto - SP
+research,2023,1111,University of the Sinos Valley,Brazil,World,14,19.755,Sao Leopoldo - RS
+research,2024,160,State University of Campinas (Unicamp),Brazil,Golden,1,76.367,"Campinas, SP"
+research,2024,311,University of Sao Paulo,Brazil,Bronze,2,68.371,Sao Paulo - SP
+research,2024,522,Universidade Federal de Santa Maria (UFSM),Brazil,World,3,55.59,"Santa Maria, RS"
+research,2024,558,Universidade Federal do Rio de Janeiro,Brazil,World,4,52.993,Rio de Janeiro - RJ
+research,2024,570,Universidade Federal de Lavras,Brazil,World,5,52.147,Lavras
+research,2024,586,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,51.573,Porto Alegre
+research,2024,600,Universidade Federal De Viçosa,Brazil,World,7,51.097,Vicosa - MS
+research,2024,603,A.C.Camargo Cancer Center,Brazil,World,8,50.996,Sao Paulo
+research,2024,668,Fluminense Federal University,Brazil,World,9,45.899,Rio de Janeiro
+research,2024,811,Universidade Federal do Ceara,Brazil,World,10,36.121,Fortaleza
+research,2025,186,State University of Campinas (Unicamp),Brazil,Golden,1,75.65,"Campinas, SP"
+research,2025,301,University of Sao Paulo,Brazil,Bronze,2,70.2,Sao Paulo - SP
+research,2025,423,Universidade Federal do Rio de Janeiro,Brazil,Copper,3,62.705,Rio de Janeiro - RJ
+research,2025,535,Universidade Federal de Santa Maria (UFSM),Brazil,World,4,55.577,"Santa Maria, RS"
+research,2025,638,Universidade Federal De Viçosa,Brazil,World,5,49.925,Vicosa - MS
+research,2025,660,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,48.521,Porto Alegre
+research,2025,669,Universidade Federal de Lavras,Brazil,World,7,48.221,Lavras
+research,2025,678,Fluminense Federal University,Brazil,World,8,47.559,Rio de Janeiro
+research,2025,843,Universidade Federal do Ceara,Brazil,World,9,37.491,Fortaleza
+research,2026,179,State University of Campinas (Unicamp),Brazil,Golden,1,77.462,"Campinas, SP"
+research,2026,283,University of Sao Paulo,Brazil,Silver,2,71.985,Sao Paulo - SP
+research,2026,664,Universidade Federal de Santa Maria (UFSM),Brazil,World,3,50.669,"Santa Maria, RS"
+research,2026,683,Universidade Federal de Lavras,Brazil,World,4,49.81,Lavras
+research,2026,723,Universidade Federal do Ceara,Brazil,World,5,47.51,Fortaleza
+research,2026,727,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,46.96,Porto Alegre
+research,2026,732,State University of Maringa,Brazil,World,7,46.607,
+research,2026,787,Fluminense Federal University,Brazil,World,8,43.3,Rio de Janeiro
+research,2026,796,Universidade Federal De Viçosa,Brazil,World,9,42.98,Vicosa - MS
+research,2026,870,Universidade Federal do Rio de Janeiro,Brazil,World,10,38.993,Rio de Janeiro - RJ
+teaching,2019,59,University of Sao Paulo,Brazil,Diamond,1,85.854,Sao Paulo - SP
+teaching,2019,60,State University of Campinas (Unicamp),Brazil,Diamond,2,85.678,"Campinas, SP"
+teaching,2019,123,A.C.Camargo Cancer Center,Brazil,Golden,3,75.77,Sao Paulo
+teaching,2019,186,Universidade Federal De Viçosa,Brazil,Golden,4,67.94,Vicosa - MS
+teaching,2019,313,Universidade Federal do Ceara,Brazil,Bronze,5,59.377,Fortaleza
+teaching,2019,535,Fluminense Federal University,Brazil,World,6,42.98,Rio de Janeiro
+teaching,2019,651,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,7,33.608,Porto Alegre
+teaching,2019,663,Unisinos University,Brazil,World,8,32.181,Sao Leopoldo
+teaching,2020,60,State University of Campinas (Unicamp),Brazil,Diamond,1,85.85,"Campinas, SP"
+teaching,2020,66,University of Sao Paulo,Brazil,Diamond,2,84.912,Sao Paulo - SP
+teaching,2020,78,A.C.Camargo Cancer Center,Brazil,Diamond,3,82.126,Sao Paulo
+teaching,2020,177,Universidade Federal De Viçosa,Brazil,Golden,4,69.531,Vicosa - MS
+teaching,2020,330,Universidade Federal do Ceara,Brazil,Bronze,5,57.957,Fortaleza
+teaching,2020,603,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,38.405,Porto Alegre
+teaching,2021,61,University of Sao Paulo,Brazil,Diamond,1,85.337,Sao Paulo - SP
+teaching,2021,66,State University of Campinas (Unicamp),Brazil,Diamond,2,84.21,"Campinas, SP"
+teaching,2021,86,A.C.Camargo Cancer Center,Brazil,Diamond,3,81.432,Sao Paulo
+teaching,2021,282,Universidade Federal do Ceara,Brazil,Silver,4,62.406,Fortaleza
+teaching,2021,409,Fluminense Federal University,Brazil,Copper,5,53.941,Rio de Janeiro
+teaching,2021,576,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,41.838,Porto Alegre
+teaching,2022,72,University of Sao Paulo,Brazil,Diamond,1,85.293,Sao Paulo - SP
+teaching,2022,82,State University of Campinas (Unicamp),Brazil,Diamond,2,84.066,"Campinas, SP"
+teaching,2022,96,A.C.Camargo Cancer Center,Brazil,Diamond,3,82.067,Sao Paulo
+teaching,2022,107,Universidade Federal do Rio de Janeiro,Brazil,Golden,4,80.719,Rio de Janeiro - RJ
+teaching,2022,190,Universidade Federal De Viçosa,Brazil,Golden,5,71.399,Vicosa - MS
+teaching,2022,269,Universidade Federal de Lavras,Brazil,Silver,6,66.131,Lavras
+teaching,2022,275,Universidade Federal do Ceara,Brazil,Silver,7,65.836,Fortaleza
+teaching,2022,396,Fluminense Federal University,Brazil,Bronze,8,58.589,Rio de Janeiro
+teaching,2022,603,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,9,46.451,Porto Alegre
+teaching,2023,102,University of Sao Paulo,Brazil,Golden,1,83.215,Sao Paulo - SP
+teaching,2023,154,UNESP - Universidade Estadual Paulista,Brazil,Golden,2,77.646,Sao Jose do Rio Preto - SP
+teaching,2023,170,Federal University of Pernambuco,Brazil,Golden,3,76.458,Recife
+teaching,2023,179,State University of Campinas (Unicamp),Brazil,Golden,4,75.615,"Campinas, SP"
+teaching,2023,186,Universidade Federal do Rio de Janeiro,Brazil,Golden,5,75.137,Rio de Janeiro - RJ
+teaching,2023,191,Universidade Federal de Santa Maria (UFSM),Brazil,Golden,6,74.657,"Santa Maria, RS"
+teaching,2023,275,A.C.Camargo Cancer Center,Brazil,Silver,7,69.395,Sao Paulo
+teaching,2023,276,Universidade Federal De Viçosa,Brazil,Silver,8,69.214,Vicosa - MS
+teaching,2023,324,Universidade Federal do Ceara,Brazil,Bronze,9,66.714,Fortaleza
+teaching,2023,404,Universidade Federal de Lavras,Brazil,Copper,10,62.304,Lavras
+teaching,2023,466,Fluminense Federal University,Brazil,Copper,11,58.659,Rio de Janeiro
+teaching,2023,750,University of the Sinos Valley,Brazil,World,12,44.841,Sao Leopoldo - RS
+teaching,2023,777,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,13,44.048,Porto Alegre
+teaching,2023,795,Unisinos University,Brazil,World,14,43.224,Sao Leopoldo
+teaching,2024,76,University of Sao Paulo,Brazil,Diamond,1,86.226,Sao Paulo - SP
+teaching,2024,82,A.C.Camargo Cancer Center,Brazil,Diamond,2,85.468,Sao Paulo
+teaching,2024,160,State University of Campinas (Unicamp),Brazil,Golden,3,77.837,"Campinas, SP"
+teaching,2024,161,Universidade Federal do Rio de Janeiro,Brazil,Golden,4,77.836,Rio de Janeiro - RJ
+teaching,2024,190,Universidade Federal de Santa Maria (UFSM),Brazil,Golden,5,74.585,"Santa Maria, RS"
+teaching,2024,207,Universidade Federal De Viçosa,Brazil,Silver,6,73.32,Vicosa - MS
+teaching,2024,282,Universidade Federal de Lavras,Brazil,Silver,7,67.753,Lavras
+teaching,2024,303,Universidade Federal do Ceara,Brazil,Bronze,8,66.59,Fortaleza
+teaching,2024,378,Fluminense Federal University,Brazil,Bronze,9,62.464,Rio de Janeiro
+teaching,2024,574,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,10,52.371,Porto Alegre
+teaching,2025,73,University of Sao Paulo,Brazil,Diamond,1,85.758,Sao Paulo - SP
+teaching,2025,102,Universidade Federal do Rio de Janeiro,Brazil,Golden,2,82.516,Rio de Janeiro - RJ
+teaching,2025,155,Universidade Federal De Viçosa,Brazil,Golden,3,77.46,Vicosa - MS
+teaching,2025,194,State University of Campinas (Unicamp),Brazil,Golden,4,73.901,"Campinas, SP"
+teaching,2025,201,Universidade Federal de Santa Maria (UFSM),Brazil,Silver,5,73.668,"Santa Maria, RS"
+teaching,2025,368,Universidade Federal do Ceara,Brazil,Bronze,6,63.265,Fortaleza
+teaching,2025,414,Universidade Federal de Lavras,Brazil,Copper,7,60.987,Lavras
+teaching,2025,445,Fluminense Federal University,Brazil,Copper,8,59.638,Rio de Janeiro
+teaching,2025,659,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,9,50.332,Porto Alegre
+teaching,2026,67,University of Sao Paulo,Brazil,Diamond,1,87.723,Sao Paulo - SP
+teaching,2026,114,Universidade Federal do Rio de Janeiro,Brazil,Golden,2,80.946,Rio de Janeiro - RJ
+teaching,2026,173,State University of Campinas (Unicamp),Brazil,Golden,3,76.172,"Campinas, SP"
+teaching,2026,196,State University of Maringa,Brazil,Golden,4,74.461,
+teaching,2026,222,Universidade Federal De Viçosa,Brazil,Silver,5,72.679,Vicosa - MS
+teaching,2026,247,Universidade Federal de Santa Maria (UFSM),Brazil,Silver,6,70.683,"Santa Maria, RS"
+teaching,2026,251,Universidade Federal de Lavras,Brazil,Silver,7,70.441,Lavras
+teaching,2026,390,Universidade Federal do Ceara,Brazil,Bronze,8,63.406,Fortaleza
+teaching,2026,410,Fluminense Federal University,Brazil,Copper,9,62.104,Rio de Janeiro
+teaching,2026,537,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,10,56.625,Porto Alegre
+world,2019,112,University of Sao Paulo,Brazil,Golden,1,78.389,Sao Paulo - SP
+world,2019,183,State University of Campinas (Unicamp),Brazil,Golden,2,72.702,"Campinas, SP"
+world,2019,267,A.C.Camargo Cancer Center,Brazil,Silver,3,64.992,Sao Paulo
+world,2019,421,Universidade Federal De Viçosa,Brazil,Copper,4,53.94,Vicosa - MS
+world,2019,574,Universidade Federal do Ceara,Brazil,World,5,42.221,Fortaleza
+world,2019,688,Fluminense Federal University,Brazil,World,6,32.195,Rio de Janeiro
+world,2019,691,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,7,31.79,Porto Alegre
+world,2019,728,Unisinos University,Brazil,World,8,27.917,Sao Leopoldo
+world,2020,111,University of Sao Paulo,Brazil,Golden,1,78.535,Sao Paulo - SP
+world,2020,167,State University of Campinas (Unicamp),Brazil,Golden,2,74.437,"Campinas, SP"
+world,2020,240,A.C.Camargo Cancer Center,Brazil,Silver,3,68.328,Sao Paulo
+world,2020,409,Universidade Federal De Viçosa,Brazil,Copper,4,55.927,Vicosa - MS
+world,2020,566,Universidade Federal do Ceara,Brazil,World,5,43.549,Fortaleza
+world,2020,650,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,35.35,Porto Alegre
+world,2021,108,University of Sao Paulo,Brazil,Golden,1,79.328,Sao Paulo - SP
+world,2021,155,State University of Campinas (Unicamp),Brazil,Golden,2,75.49,"Campinas, SP"
+world,2021,157,A.C.Camargo Cancer Center,Brazil,Golden,3,75.319,Sao Paulo
+world,2021,521,Universidade Federal do Ceara,Brazil,World,4,48.245,Fortaleza
+world,2021,564,Fluminense Federal University,Brazil,World,5,44.368,Rio de Janeiro
+world,2021,623,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,6,39.672,Porto Alegre
+world,2022,76,University of Sao Paulo,Brazil,Diamond,1,84.305,Sao Paulo - SP
+world,2022,149,State University of Campinas (Unicamp),Brazil,Golden,2,77.926,"Campinas, SP"
+world,2022,194,A.C.Camargo Cancer Center,Brazil,Golden,3,75.103,Sao Paulo
+world,2022,324,Universidade Federal do Rio de Janeiro,Brazil,Bronze,4,67.134,Rio de Janeiro - RJ
+world,2022,517,Fluminense Federal University,Brazil,World,5,54.655,Rio de Janeiro
+world,2022,525,Universidade Federal De Viçosa,Brazil,World,6,54.273,Vicosa - MS
+world,2022,545,Universidade Federal de Lavras,Brazil,World,7,53.092,Lavras
+world,2022,575,Universidade Federal do Ceara,Brazil,World,8,51.126,Fortaleza
+world,2022,606,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,9,49.136,Porto Alegre
+world,2023,84,University of Sao Paulo,Brazil,Diamond,1,80.721,Sao Paulo - SP
+world,2023,149,State University of Campinas (Unicamp),Brazil,Golden,2,76.445,"Campinas, SP"
+world,2023,335,A.C.Camargo Cancer Center,Brazil,Bronze,3,65.934,Sao Paulo
+world,2023,431,Universidade Federal do Rio de Janeiro,Brazil,Copper,4,61.66,Rio de Janeiro - RJ
+world,2023,493,UNESP - Universidade Estadual Paulista,Brazil,Copper,5,58.31,Sao Jose do Rio Preto - SP
+world,2023,503,Universidade Federal de Santa Maria (UFSM),Brazil,World,6,57.791,"Santa Maria, RS"
+world,2023,531,Universidade Federal do Ceara,Brazil,World,7,56.369,Fortaleza
+world,2023,546,Universidade Federal De Viçosa,Brazil,World,8,55.706,Vicosa - MS
+world,2023,555,Federal University of Pernambuco,Brazil,World,9,55.146,Recife
+world,2023,601,Fluminense Federal University,Brazil,World,10,52.855,Rio de Janeiro
+world,2023,623,Universidade Federal de Lavras,Brazil,World,11,52.3,Lavras
+world,2023,668,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,12,50.336,Porto Alegre
+world,2023,816,Unisinos University,Brazil,World,13,42.778,Sao Leopoldo
+world,2023,972,University of the Sinos Valley,Brazil,World,14,34.785,Sao Leopoldo - RS
+world,2024,125,University of Sao Paulo,Brazil,Golden,1,78.628,Sao Paulo - SP
+world,2024,127,State University of Campinas (Unicamp),Brazil,Golden,2,78.503,"Campinas, SP"
+world,2024,266,A.C.Camargo Cancer Center,Brazil,Silver,3,70.849,Sao Paulo
+world,2024,363,Universidade Federal do Rio de Janeiro,Brazil,Bronze,4,65.937,Rio de Janeiro - RJ
+world,2024,444,Universidade Federal de Santa Maria (UFSM),Brazil,Copper,5,61.727,"Santa Maria, RS"
+world,2024,473,Universidade Federal De Viçosa,Brazil,Copper,6,60.313,Vicosa - MS
+world,2024,500,Universidade Federal de Lavras,Brazil,Copper,7,58.934,Lavras
+world,2024,572,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,8,54.095,Porto Alegre
+world,2024,612,Fluminense Federal University,Brazil,World,9,52.308,Rio de Janeiro
+world,2024,643,Universidade Federal do Ceara,Brazil,World,10,50.419,Fortaleza
+world,2025,113,University of Sao Paulo,Brazil,Golden,1,79.399,Sao Paulo - SP
+world,2025,158,State University of Campinas (Unicamp),Brazil,Golden,2,76.614,"Campinas, SP"
+world,2025,240,Universidade Federal do Rio de Janeiro,Brazil,Silver,3,71.949,Rio de Janeiro - RJ
+world,2025,448,Universidade Federal de Santa Maria (UFSM),Brazil,Copper,4,61.923,"Santa Maria, RS"
+world,2025,473,Universidade Federal De Viçosa,Brazil,Copper,5,60.708,Vicosa - MS
+world,2025,589,Universidade Federal de Lavras,Brazil,World,6,54.47,Lavras
+world,2025,636,Fluminense Federal University,Brazil,World,7,52.272,Rio de Janeiro
+world,2025,645,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,8,51.827,Porto Alegre
+world,2025,702,Universidade Federal do Ceara,Brazil,World,9,49.272,Fortaleza
+world,2026,109,University of Sao Paulo,Brazil,Golden,1,80.854,Sao Paulo - SP
+world,2026,150,State University of Campinas (Unicamp),Brazil,Golden,2,77.961,"Campinas, SP"
+world,2026,477,Universidade Federal do Rio de Janeiro,Brazil,Copper,3,61.085,Rio de Janeiro - RJ
+world,2026,522,Universidade Federal de Lavras,Brazil,World,4,59.293,Lavras
+world,2026,538,Universidade Federal de Santa Maria (UFSM),Brazil,World,5,58.607,"Santa Maria, RS"
+world,2026,539,State University of Maringa,Brazil,World,6,58.597,
+world,2026,591,Universidade Federal De Viçosa,Brazil,World,7,55.668,Vicosa - MS
+world,2026,626,Universidade Federal do Ceara,Brazil,World,8,53.802,Fortaleza
+world,2026,632,Pontifícia Universidade Católica Do Rio Grande Do Sul,Brazil,World,9,53.473,Porto Alegre
+world,2026,664,Fluminense Federal University,Brazil,World,10,52.063,Rio de Janeiro`;
+
+      const uffName = "Fluminense Federal University";
+
+      // Ordem e rotulos dos indicadores (cada um vira um card)
+      const INDICATORS = [
+        { key: "world", label: "World (Overall)" },
+        { key: "teaching", label: "Teaching" },
+        { key: "research", label: "Research" },
+        { key: "financial_sustainability", label: "Financial Sustainability" },
+        { key: "international_diversity", label: "International Diversity" }
+      ];
+
+      // --- Globals ---
+      const chartsDiv = document.getElementById("charts");
+      const compareSelect = document.getElementById("compareSelect");
+      const minYear = document.getElementById("minYear");
+      const maxYear = document.getElementById("maxYear");
+      const metricSelect = document.getElementById("metricSelect");
+      const statusEl = document.getElementById("status");
+
+      let annotationMode = "uff";
+      let chartType = "line";
+      let metric = "score";
+      let rows = [];
+      let INDEX = {}; // INDEX[indicador][universidade][ano] = {score, rank, crank}
+
+      // Definicao das metricas plotaveis
+      const METRICS = {
+        score:        { field: "score", label: "Score",             isRank: false, dec: 1 },
+        world_rank:   { field: "rank",  label: "World rank",         isRank: true,  dec: 0 },
+        country_rank: { field: "crank", label: "Country rank (BR)",  isRank: true,  dec: 0 }
+      };
+      const M = () => METRICS[metric];
+
+      // --- Utils ---
+      const parseNumber = v => {
+        if (v == null) return NaN;
+        v = String(v).replace(/–/g, "-").replace(/,/g, ".");
+        const m = v.match(/-?\d+(\.\d+)?/);
+        return m ? +m[0] : NaN;
+      };
+      const isValid = v => typeof v === "number" && !isNaN(v);
+      const hasComparison = name => name && name !== uffName;
+
+      function buildIndex() {
+        INDEX = {};
+        rows.forEach(r => {
+          const ind = (r.indicador || "").trim();
+          const uni = (r.universidade || "").trim();
+          const y = parseNumber(r.ano);
+          if (!ind || !uni || !isValid(y)) return;
+          const score = parseNumber(r.score);
+          const rank = parseNumber(r.rank);
+          const crank = parseNumber(r.country_rank);
+          (INDEX[ind] = INDEX[ind] || {});
+          (INDEX[ind][uni] = INDEX[ind][uni] || {});
+          INDEX[ind][uni][y] = {
+            score: isValid(score) ? score : null,
+            rank: isValid(rank) ? rank : null,
+            crank: isValid(crank) ? crank : null
+          };
+        });
+      }
+      const getCell = (ind, uni, y) =>
+        (INDEX[ind] && INDEX[ind][uni] && INDEX[ind][uni][y]) || null;
+
+      // --- Stats: Mann-Kendall (significancia em p<0.05) ---
+      // isRank=true: valor menor = melhor, entao tendencia decrescente = "Improving".
+      function calculateMannKendall(data, isRank) {
+        const n = data.length;
+        if (n < 4) return { text: "Insufficient Data", p: null, trend: "trend-flat", sig: false };
+        let S = 0;
+        for (let k = 0; k < n - 1; k++) {
+          for (let j = k + 1; j < n; j++) S += Math.sign(data[j] - data[k]);
+        }
+        const counts = {}; data.forEach(x => counts[x] = (counts[x] || 0) + 1);
+        let tieTerm = 0; Object.values(counts).forEach(t => { if (t > 1) tieTerm += t * (t - 1) * (2 * t + 5); });
+        const varS = (n * (n - 1) * (2 * n + 5) - tieTerm) / 18;
+        if (varS === 0) return { text: "Stable", p: 1.0, trend: "trend-flat", sig: false };
+        let Z = 0; if (S > 0) Z = (S - 1) / Math.sqrt(varS); else if (S < 0) Z = (S + 1) / Math.sqrt(varS);
+        const p = 2 * (1 - jStat.normal.cdf(Math.abs(Z), 0, 1));
+        const sig = p < 0.05;
+        let text = "Stable", trendClass = "trend-flat";
+        if (sig) {
+          if (isRank) {
+            // S<0: rank caindo (posicao melhora) -> Improving
+            if (S < 0) { text = "Improving ↗"; trendClass = "trend-up"; }
+            else { text = "Worsening ↘"; trendClass = "trend-down"; }
+          } else {
+            if (S > 0) { text = "Increasing ↗"; trendClass = "trend-up"; }
+            else { text = "Decreasing ↘"; trendClass = "trend-down"; }
+          }
+        }
+        return { text, p, trend: trendClass, z: Z, sig };
+      }
+
+      // --- Stats: Summary Table ---
+      function getSummaryStats(arr) {
+        if (!arr || arr.length === 0) return null;
+        return {
+          n: arr.length, mean: jStat.mean(arr), median: jStat.median(arr),
+          stdev: arr.length > 1 ? jStat.stdev(arr, true) : 0, min: jStat.min(arr), max: jStat.max(arr)
+        };
+      }
+
+      function createSummaryTableHTML(uffArr, cmpArr, cmpName) {
+        const sUff = getSummaryStats(uffArr);
+        const sCmp = (cmpName && cmpArr.length) ? getSummaryStats(cmpArr) : null;
+        if (!sUff) return "";
+        const dec = M().dec;
+        const fmt = (n) => n.toFixed(dec);
+        const fmtSd = (n) => n.toFixed(Math.max(dec, 2)); // desvio-padrao sempre com >=2 casas
+        return `
+          <table class="table table-bordered table-sm table-stats">
+            <thead>
+              <tr><th>Metric</th><th>UFF (n=${sUff.n})</th>${sCmp ? `<th>${cmpName} (n=${sCmp.n})</th>` : ''}</tr>
+            </thead>
+            <tbody>
+              <tr><td>Mean</td><td>${fmt(sUff.mean)}</td>${sCmp ? `<td>${fmt(sCmp.mean)}</td>` : ''}</tr>
+              <tr><td>Median</td><td>${fmt(sUff.median)}</td>${sCmp ? `<td>${fmt(sCmp.median)}</td>` : ''}</tr>
+              <tr><td>Std Dev</td><td>${fmtSd(sUff.stdev)}</td>${sCmp ? `<td>${fmtSd(sCmp.stdev)}</td>` : ''}</tr>
+              <tr><td>Min / Max</td><td>${fmt(sUff.min)} / ${fmt(sUff.max)}</td>${sCmp ? `<td>${fmt(sCmp.min)} / ${fmt(sCmp.max)}</td>` : ''}</tr>
+            </tbody>
+          </table>
+        `;
+      }
+
+      // --- Stats: Teste t PAREADO (emparelhado por ano) ---
+      // uffArr[i] e cmpArr[i] sao o mesmo ano. Testa H0: media das diferencas = 0.
+      function calculatePairedTTest(uffArr, cmpArr) {
+        const n = uffArr.length;
+        if (n < 3) return { error: "Pares insuficientes (n<3)" };
+        const d = uffArr.map((a, i) => a - cmpArr[i]);
+        const meanD = jStat.mean(d);
+        const sdD = jStat.stdev(d, true);
+        // Checagem descritiva das variancias dos dois grupos (F-test)
+        const vUff = jStat.variance(uffArr, true);
+        const vCmp = jStat.variance(cmpArr, true);
+        let fStat = (vUff >= vCmp) ? (vCmp === 0 ? Infinity : vUff / vCmp) : vCmp / vUff;
+        const pF = isFinite(fStat) ? 2 * (1 - jStat.centralF.cdf(fStat, n - 1, n - 1)) : 0;
+        const equalVar = pF > 0.05;
+        if (sdD === 0) {
+          return {
+            n, meanD, testUsed: "Paired t-test", pValT: (meanD === 0 ? 1 : 0),
+            significant: meanD !== 0, vUff, vCmp, fStat, pF, equalVar
+          };
+        }
+        const se = sdD / Math.sqrt(n);
+        const tStat = meanD / se;
+        const df = n - 1;
+        const pValT = 2 * (1 - jStat.studentt.cdf(Math.abs(tStat), df));
+        return {
+          n, meanD, tStat, df, pValT, significant: pValT < 0.05,
+          testUsed: "Paired t-test", vUff, vCmp, fStat, pF, equalVar
+        };
+      }
+
+      // --- Load Data ---
+      try {
+        let text;
+        if (RUR_CSV_URL) {
+          text = await fetch(RUR_CSV_URL).then(r => r.text());
+        } else {
+          text = RUR_CSV;
+        }
+        rows = Papa.parse(text.trim(), { header: true, skipEmptyLines: true }).data;
+        if (!rows.length) throw new Error("Empty dataset");
+        buildIndex();
+        statusEl.innerHTML = '<i class="bi bi-check-circle-fill text-success"></i> Data Ready';
+      } catch (err) {
+        statusEl.innerHTML = '<span class="text-danger">Error loading data</span>';
+        console.error(err);
+        return;
+      }
+
+      // --- Setup Filters ---
+      const uniNames = [...new Set(rows.map(r => (r.universidade || "").trim()))]
+        .filter(n => n && n !== uffName)
+        .sort((a, b) => a.localeCompare(b, 'pt', { sensitivity: 'base' }));
+      uniNames.forEach(n => compareSelect.add(new Option(n, n)));
+
+      const years = [...new Set(rows.map(r => parseNumber(r.ano)).filter(isValid))].sort((a, b) => a - b);
+      years.forEach(y => { minYear.add(new Option(y, y)); maxYear.add(new Option(y, y)); });
+      minYear.value = years[0];
+      maxYear.value = years.at(-1);
+
+      // --- Render ---
+      function render(compareTo = "") {
+        chartsDiv.innerHTML = "";
+        const hasCmp = hasComparison(compareTo);
+        const startY = parseInt(minYear.value, 10);
+        const endY = parseInt(maxYear.value, 10);
+
+        const yrRange = [];
+        for (let y = startY; y <= endY; y++) yrRange.push(y);
+
+        INDICATORS.forEach(indObj => {
+          const ind = indObj.key;
+          if (!INDEX[ind]) return;
+
+          const fld = M().field; // campo plotado: score | rank | crank
+          const uffTime = [], cmpTime = [], uffData = [], cmpData = [];
+          const uffPaired = [], cmpPaired = [];
+          const uffMeta = [], cmpMeta = []; // p/ hover dos boxplots (year, score, rank, crank)
+
+          yrRange.forEach(y => {
+            const cu = getCell(ind, uffName, y);
+            const vu = cu ? cu[fld] : null; // valor da metrica selecionada
+            uffTime.push({ x: y, y: isValid(vu) ? vu : null, score: cu ? cu.score : null, rank: cu ? cu.rank : null, crank: cu ? cu.crank : null });
+            if (isValid(vu)) uffData.push(vu);
+
+            let cc = null, vc = null;
+            if (hasCmp) {
+              cc = getCell(ind, compareTo, y);
+              vc = cc ? cc[fld] : null;
+              cmpTime.push({ x: y, y: isValid(vc) ? vc : null, score: cc ? cc.score : null, rank: cc ? cc.rank : null, crank: cc ? cc.crank : null });
+              if (isValid(vc)) cmpData.push(vc);
+            }
+            // Pares completos (mesmo ano com dado em ambos) -> base do teste pareado
+            if (hasCmp && isValid(vu) && isValid(vc)) {
+              uffPaired.push(vu);
+              cmpPaired.push(vc);
+              uffMeta.push({ y, score: cu.score, rank: cu.rank, crank: cu.crank });
+              cmpMeta.push({ y, score: cc.score, rank: cc.rank, crank: cc.crank });
+            }
+          });
+          // Meta p/ box sem comparacao = todos os anos com valor valido da metrica
+          if (!hasCmp) {
+            yrRange.forEach(y => {
+              const cu = getCell(ind, uffName, y);
+              if (cu && isValid(cu[fld])) uffMeta.push({ y, score: cu.score, rank: cu.rank, crank: cu.crank });
+            });
+          }
+
+          if (uffData.length === 0 && cmpData.length === 0) return;
+
+          // Create Card
+          const card = document.createElement("div");
+          card.className = "chart-card";
+          card.innerHTML = `<div class="chart-header"><h3 class="chart-title">${indObj.label}</h3></div>`;
+          const body = document.createElement("div");
+          body.className = "chart-body";
+          const plotDiv = document.createElement("div");
+          plotDiv.style.height = "300px";
+          body.appendChild(plotDiv);
+          card.appendChild(body);
+          chartsDiv.appendChild(card);
+
+          const yAxisConfig = { title: M().label, automargin: true, gridcolor: "#f0f0f0" };
+          // Rank: menor = melhor -> eixo invertido
+          yAxisConfig.autorange = M().isRank ? "reversed" : true;
+          const xAxisConfig = { gridcolor: "#f0f0f0", automargin: true };
+          if (chartType === 'line') {
+            xAxisConfig.title = 'Year';
+            xAxisConfig.dtick = 1;
+            xAxisConfig.range = [startY - 0.5, endY + 0.5];
+            xAxisConfig.autorange = false;
+          } else {
+            xAxisConfig.autorange = true;
+          }
+
+          const layout = {
+            margin: { t: 30, l: 50, r: 20, b: 30 },
+            font: { family: 'Roboto, sans-serif', size: 11 },
+            yaxis: yAxisConfig, xaxis: xAxisConfig,
+            showlegend: true, legend: { orientation: "h", x: 0, y: 1.3 },
+            paper_bgcolor: "#ffffff",
+            plot_bgcolor: "#ffffff"
+          };
+
+          const config = {
+            responsive: true,
+            displayModeBar: 'hover',
+            displaylogo: false,
+            modeBarButtonsToRemove: ['select2d', 'lasso2d']
+          };
+
+          if (chartType === "line") {
+            const dash = v => (v != null ? v : "—");
+            const dec = M().dec;
+            const lineHover = who =>
+              "%{x}<br>Score: %{customdata[0]}<br>World rank: %{customdata[1]}<br>Country rank (BR): %{customdata[2]}<extra>" + who + "</extra>";
+            const cdata = arr => arr.map(d => [
+              (d.score != null ? d.score.toFixed(1) : "—"),
+              dash(d.rank), dash(d.crank)
+            ]);
+            const traces = [{
+              x: uffTime.map(d => d.x), y: uffTime.map(d => d.y),
+              customdata: cdata(uffTime),
+              mode: "lines+markers", name: "UFF",
+              connectgaps: false,
+              hovertemplate: lineHover("UFF"),
+              line: { color: "#1e40af", width: 3 }, marker: { size: 6 }
+            }];
+            if (hasCmp) {
+              traces.push({
+                x: cmpTime.map(d => d.x), y: cmpTime.map(d => d.y),
+                customdata: cdata(cmpTime),
+                mode: "lines+markers", name: compareTo,
+                connectgaps: false,
+                hovertemplate: lineHover(compareTo),
+                line: { color: "#ff9800", width: 3, dash: "dot" }, marker: { size: 6 }
+              });
+            }
+
+            const anns = [];
+            const addAnn = (arr, col) => arr.forEach(d => {
+              if (d.y !== null) anns.push({
+                x: d.x, y: d.y, text: d.y.toFixed(dec),
+                showarrow: false, yshift: 12,
+                font: { color: col, size: 10, weight: "bold" }, bgcolor: "rgba(255,255,255,0.8)"
+              });
+            });
+            if (annotationMode === "uff" || annotationMode === "both") addAnn(uffTime, "#1e40af");
+            if (annotationMode === "both" && hasCmp) addAnn(cmpTime, "#e65100");
+            layout.annotations = anns;
+
+            Plotly.newPlot(plotDiv, traces, layout, config);
+
+            // Mann-Kendall Footer
+            const mkUff = calculateMannKendall(uffData, M().isRank);
+            const footer = document.createElement("div");
+            footer.className = "stats-footer";
+            const badgeMK = m => m.p == null ? "" :
+              (m.sig ? `<span class="stat-badge badge-sig">Sig. (p&lt;0.05)</span>`
+                     : `<span class="stat-badge badge-not-sig">n.s.</span>`);
+            let mkHtml = `<div><strong>UFF Trend:</strong> <span class="${mkUff.trend}">${mkUff.text}</span> (p=${mkUff.p != null ? mkUff.p.toFixed(3) : '-'}) ${badgeMK(mkUff)}</div>`;
+            if (hasCmp && cmpData.length > 0) {
+              const mkCmp = calculateMannKendall(cmpData, M().isRank);
+              mkHtml += `<div><strong>${compareTo} Trend:</strong> <span class="${mkCmp.trend}">${mkCmp.text}</span> (p=${mkCmp.p != null ? mkCmp.p.toFixed(3) : '-'}) ${badgeMK(mkCmp)}</div>`;
+            }
+            footer.innerHTML = mkHtml;
+            card.appendChild(footer);
+
+          } else {
+            // Box Plot — quando ha comparacao, usa apenas os anos emparelhados
+            const boxUff = hasCmp ? uffPaired : uffData;
+            const boxCmp = cmpPaired;
+            const dashB = v => (v != null ? v : "—");
+            const boxHover = who =>
+              "Year: %{customdata[0]}<br>Score: %{customdata[1]}<br>World rank: %{customdata[2]}<br>Country rank (BR): %{customdata[3]}<extra>" + who + "</extra>";
+            const boxCdata = arr => arr.map(m => [
+              m.y, (m.score != null ? m.score.toFixed(1) : "—"), dashB(m.rank), dashB(m.crank)
+            ]);
+
+            const traces = [{
+              y: boxUff, type: 'box', name: 'UFF', marker: { color: '#1e40af' },
+              boxpoints: 'all', jitter: 0.4, pointpos: 0,
+              customdata: boxCdata(uffMeta),
+              hovertemplate: boxHover("UFF")
+            }];
+            if (hasCmp) {
+              traces.push({
+                y: boxCmp, type: 'box', name: compareTo, marker: { color: '#ff9800' },
+                boxpoints: 'all', jitter: 0.4, pointpos: 0,
+                customdata: boxCdata(cmpMeta),
+                hovertemplate: boxHover(compareTo)
+              });
+            }
+            Plotly.newPlot(plotDiv, traces, layout, config);
+
+            // Summary Stats Table
+            if (boxUff.length > 0) {
+              const tableContainer = document.createElement("div");
+              tableContainer.style.padding = "0 10px 10px 10px";
+              tableContainer.innerHTML = createSummaryTableHTML(boxUff, boxCmp, compareTo);
+              body.appendChild(tableContainer);
+            }
+
+            // Teste t pareado
+            if (hasCmp) {
+              const footer = document.createElement("div");
+              footer.className = "stats-footer";
+              if (uffPaired.length < 3) {
+                footer.innerHTML = `<div><strong>Paired t-test:</strong> pares insuficientes (n=${uffPaired.length}, requer ≥3 anos em comum)</div>`;
+              } else {
+                const st = calculatePairedTTest(uffPaired, cmpPaired);
+                const badge = st.significant
+                  ? `<span class="stat-badge badge-sig">Sig. Diff (p&lt;0.05)</span>`
+                  : `<span class="stat-badge badge-not-sig">Not Significant</span>`;
+                footer.innerHTML =
+                  `<div><strong>${st.testUsed}</strong> (n pares=${st.n}) | p=${st.pValT.toFixed(4)} ${badge}</div>` +
+                  `<div class="muted-note">Variâncias — UFF: ${st.vUff.toFixed(2)} · ${compareTo}: ${st.vCmp.toFixed(2)} (F=${isFinite(st.fStat) ? st.fStat.toFixed(2) : '∞'}, p=${st.pF.toFixed(3)} → ${st.equalVar ? 'variâncias equivalentes' : 'variâncias distintas'})</div>`;
+              }
+              card.appendChild(footer);
+            }
+          }
+        });
+      }
+
+      compareSelect.onchange = e => render(e.target.value);
+      minYear.onchange = () => render(compareSelect.value);
+      maxYear.onchange = () => render(compareSelect.value);
+      metricSelect.onchange = e => { metric = e.target.value; render(compareSelect.value); };
+
+      document.getElementById("applyFilter").onclick = () => render(compareSelect.value);
+      document.getElementById("refreshBtn").onclick = () => location.reload();
+      document.querySelectorAll("input[name='annMode']").forEach(r => r.onchange = e => { annotationMode = e.target.value; render(compareSelect.value); });
+      document.querySelectorAll("input[name='chartType']").forEach(r => r.onchange = e => { chartType = e.target.value; render(compareSelect.value); });
+
+      render();
+    })();
+  </script>
+</body>
+
+</html>
