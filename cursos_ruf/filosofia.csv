@@ -1,0 +1,280 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição PP;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em Permanência dos alunos;Nota em Permanência dos alunos;Posição em avaliação dos docentes;Nota em avaliação dos docentes
+2023;filosofia;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.1;1;8;35;6.1;;;1;8;1;40;;;;;;;
+2023;filosofia;Universidade Estadual de Campinas;SP;2;Estadual;2;35.39;2;61.53;23;6.77;2;7.94;;;1;8;2;38.82;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica de São Paulo;SP;3;Privada;2;35.39;6;56.33;51;5.2;46;5.48;;;1;8;3;37.65;;;;;;;
+2023;filosofia;Universidade Federal de Minas Gerais;MG;4;Federal;11;29.9;3;60.7;13;7.33;6;7.72;;;1;8;3;37.65;;;;;;;
+2023;filosofia;Universidade Federal do Rio Grande do Sul;RS;5;Federal;11;29.9;4;59.63;29;6.43;9;7.55;;;1;8;3;37.65;;;;;;;
+2023;filosofia;Universidade Federal do Rio de Janeiro;RJ;6;Federal;11;29.9;5;59.47;17;7.11;24;6.71;;;1;8;3;37.65;;;;;;;
+2023;filosofia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;7;Estadual;2;35.39;9;53.81;1;8;36;6.04;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Universidade Federal de Santa Catarina;SC;8;Federal;11;29.9;7;55.04;1;8;14;7.27;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Universidade Federal Fluminense;RJ;9;Federal;11;29.9;10;53.53;26;6.6;16;7.16;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Universidade Federal do Piauí;PI;10;Federal;11;29.9;13;51.52;100;2.46;83;3.41;;;1;8;3;37.65;;;;;;;
+2023;filosofia;Universidade Federal de Pernambuco;PE;11;Federal;11;29.9;14;50.8;59;4.76;32;6.27;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;12;Privada;11;29.9;16;46.31;28;6.49;43;5.65;;;99;2.4;8;31.77;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;13;Privada;11;29.9;17;44.49;15;7.22;59;4.76;;;128;0.74;8;31.77;;;;;;;
+2023;filosofia;Universidade Federal de São Carlos;SP;14;Federal;31;17.7;8;54.54;14;7.27;10;7.5;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Universidade Estadual de Londrina;PR;15;Estadual;11;29.9;20;40.87;55;4.98;3;7.89;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade Federal de São Paulo;SP;16;Federal;11;29.9;21;40.37;12;7.39;55;4.98;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade do Estado do Rio de Janeiro;RJ;17;Estadual;2;35.39;30;33.78;27;6.55;70;4.14;;;87;3.09;18;20;;;;;;;
+2023;filosofia;Universidade Presbiteriana Mackenzie;SP;18;Privada;11;29.9;25;38.35;63;4.53;40;5.82;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade do Vale do Rio dos Sinos;RS;19;Privada;31;17.7;15;48.51;30;6.38;15;7.22;;;86;3.14;8;31.77;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica do Paraná;PR;20;Privada;11;29.9;29;33.98;43;5.65;39;5.87;;;98;2.46;18;20;;;;;;;
+2023;filosofia;Universidade Federal de Sergipe;SE;21;Federal;31;17.7;18;41.87;21;6.88;19;6.99;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade Federal do Paraná;PR;22;Federal;31;17.7;19;41.15;41;5.76;12;7.39;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade Federal da Bahia;BA;23;Federal;2;35.39;42;19.92;54;5.04;21;6.88;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Goiás;GO;24;Federal;2;35.39;51;19.14;40;5.82;49;5.32;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Ceará;CE;25;Federal;2;35.39;54;18.8;62;4.59;33;6.21;;;1;8;;;;;;;;;
+2023;filosofia;Universidade de Brasília;DF;26;Federal;;;11;52.42;42;5.71;20;6.94;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Universidade Federal de Santa Maria;RS;27;Federal;;;12;51.85;24;6.71;48;5.37;;;1;8;8;31.77;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica de Goiás;GO;28;Privada;2;35.39;63;16.33;68;4.25;71;4.08;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Ceará;CE;29;Estadual;2;35.39;64;16.11;85;3.3;58;4.81;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Alagoas;AL;30;Federal;11;29.9;65;16;47;5.43;98;2.57;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Amazonas;AM;30;Federal;11;29.9;65;16;70;4.14;75;3.86;;;1;8;;;;;;;;;
+2023;filosofia;Universidade do Estado da Bahia;BA;32;Estadual;11;29.9;69;15.61;80;3.58;72;4.03;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Católica de Pernambuco;PE;33;Privada;31;17.7;33;27.13;81;3.52;99;2.52;;;122;1.09;18;20;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica de Campinas;SP;34;Privada;31;17.7;34;26.89;61;4.64;112;1.79;;;133;0.46;18;20;;;;;;;
+2023;filosofia;Universidade Estadual de Feira de Santana;BA;35;Estadual;11;29.9;72;14.66;58;4.81;111;1.85;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Piauí;PI;36;Estadual;11;29.9;77;13.82;88;3.13;96;2.69;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Pará;PA;37;Federal;11;29.9;78;13.81;44;5.59;140;0.22;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual de Santa Cruz;BA;38;Estadual;11;29.9;86;12.7;111;1.85;93;2.85;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Católica de Santos;SP;39;Privada;;;22;39.97;33;6.21;41;5.76;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade Federal de Mato Grosso;MT;40;Federal;;;23;39.8;1;8;76;3.8;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade Federal Rural do Rio de Janeiro;RJ;41;Federal;31;17.7;39;21.04;33;6.21;22;6.83;;;1;8;;;;;;;;;
+2023;filosofia;Fundação Universidade Federal de Rondônia;RO;42;Federal;;;24;38.63;72;4.03;26;6.6;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade Estadual de Maringá;PR;43;Estadual;31;17.7;40;20.19;66;4.36;4;7.83;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Espírito Santo;ES;44;Federal;31;17.7;41;20.03;46;5.48;27;6.55;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Mato Grosso do Sul;MS;45;Federal;31;17.7;44;19.8;33;6.21;44;5.59;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Paraná;PR;46;Estadual;31;17.7;52;19.08;45;5.54;45;5.54;;;1;8;;;;;;;;;
+2023;filosofia;Universidade de Passo Fundo;RS;47;Privada;;;26;36.62;47;5.43;87;3.19;;;1;8;18;20;;;;;;;
+2023;filosofia;Universidade de Caxias do Sul;RS;48;Privada;;;27;35.27;37;5.99;18;7.05;;;102;2.23;18;20;;;;;;;
+2023;filosofia;Universidade Metodista de São Paulo;SP;49;Privada;31;17.7;58;17.23;1;8;122;1.23;;;1;8;;;;;;;;;
+2023;filosofia;Fundação Universidade Federal do Tocantins;TO;50;Federal;31;17.7;59;16.89;19;6.99;110;1.9;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Campina Grande;PB;51;Federal;31;17.7;60;16.79;49;5.32;82;3.47;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Maranhão;MA;52;Federal;31;17.7;61;16.73;82;3.47;50;5.26;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Franciscana;RS;53;Privada;;;28;34.38;78;3.69;5;7.78;;;90;2.91;18;20;;;;;;;
+2023;filosofia;Universidade Católica Dom Bosco;MS;54;Privada;31;17.7;65;16;71;4.08;74;3.92;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Sudoeste da Bahia;BA;55;Estadual;31;17.7;68;15.89;78;3.69;69;4.2;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Pelotas;RS;56;Federal;;;31;33.43;137;0.39;54;5.04;;;1;8;18;20;;;;;;;
+2023;filosofia;Faculdade de São Bento;SP;57;Privada;;;32;32.13;60;4.7;53;5.09;;;100;2.34;18;20;;;;;;;
+2023;filosofia;Universidade Estadual da Paraíba;PB;58;Estadual;31;17.7;75;14.32;107;2.07;68;4.25;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Regional de Blumenau;SC;59;Municipal;31;17.7;81;13.73;1;8;60;4.7;;;123;1.03;;;;;;;;;
+2023;filosofia;Pontifícia Universidade Católica de Minas Gerais;MG;60;Privada;31;17.7;83;13.52;15;7.22;63;4.53;;;110;1.77;;;;;;;;;
+2023;filosofia;Universidade Estadual Vale do Acaraú;CE;61;Estadual;31;17.7;85;13.26;74;3.92;120;1.34;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Norte do Paraná;PR;62;Estadual;31;17.7;87;12.42;109;1.96;100;2.46;;;1;8;;;;;;;;;
+2023;filosofia;Universidade São Judas Tadeu;SP;63;Privada;31;17.7;88;12.36;88;3.13;122;1.23;;;1;8;;;;;;;;;
+2023;filosofia;Centro Universitário Assunção;SP;64;Privada;31;17.7;114;7.43;69;4.2;122;1.23;;;106;2;;;;;;;;;
+2023;filosofia;Faculdade Dehoniana;SP;65;Privada;31;17.7;119;6.74;106;2.13;80;3.58;;;123;1.03;;;;;;;;;
+2023;filosofia;Fundação Universidade Federal do ABC;SP;66;Federal;;;35;24;1;8;1;8;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Lavras;MG;67;Federal;;;36;23.44;1;8;11;7.44;;;1;8;;;;;;;;;
+2023;filosofia;Centro Universitário Sagrado Coração;SP;68;Privada;31;17.7;130;5.06;94;2.8;122;1.23;;;123;1.03;;;;;;;;;
+2023;filosofia;Universidade do Estado do Pará;PA;69;Estadual;31;17.7;131;4.76;117;1.51;140;0.22;;;88;3.03;;;;;;;;;
+2023;filosofia;Faculdade de Filosofia e Teologia Paulo Vi;SP;70;Privada;31;17.7;132;4.72;102;2.35;122;1.23;;;121;1.14;;;;;;;;;
+2023;filosofia;Universidade Federal de Ouro Preto;MG;71;Federal;;;37;22.16;18;7.05;17;7.11;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Católica de Pouso Alegre;MG;72;Privada;31;17.7;133;4.44;120;1.34;107;2.07;;;123;1.03;;;;;;;;;
+2023;filosofia;Colégio Pedro II;RJ;73;Federal;;;38;21.6;22;6.83;23;6.77;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Juiz de Fora;MG;74;Federal;;;42;19.92;50;5.26;25;6.66;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal da Paraíba;PB;75;Federal;;;45;19.75;31;6.32;47;5.43;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal da Integração Latino-americana;PR;76;Federal;;;46;19.58;25;6.66;56;4.92;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de Uberlândia;MG;77;Federal;;;47;19.53;52;5.15;30;6.38;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Centro Oeste;PR;78;Estadual;;;48;19.3;55;4.98;31;6.32;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Católica de Brasília;DF;79;Privada;;;49;19.25;1;8;86;3.25;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal de São João Del Rei;MG;80;Federal;;;50;19.24;53;5.09;34;6.15;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal da Fronteira Sul;SC;81;Federal;;;53;18.97;32;6.27;60;4.7;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Rio Grande do Norte;RN;82;Federal;;;55;18.74;39;5.87;57;4.87;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Estado do Rio de Janeiro;RJ;83;Federal;;;56;18.58;1;8;8;7.61;;;89;2.97;;;;;;;;;
+2023;filosofia;Faculdade de Santa Cruz da Bahia;BA;84;Privada;;;57;18.35;1;8;102;2.35;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual do Oeste do Paraná;PR;85;Estadual;;;62;16.39;38;5.93;100;2.46;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Cariri;CE;86;Federal;;;70;15.5;77;3.75;77;3.75;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade de Ciências da Bahia;BA;87;Privada;;;71;15.33;55;4.98;102;2.35;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Serra da Mesa;GO;88;Privada;;;73;14.54;120;1.34;51;5.2;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Federal do Recôncavo da Bahia;BA;89;Federal;;;74;14.44;94;2.8;79;3.64;;;1;8;;;;;;;;;
+2023;filosofia;Universidade do Estado do Rio Grande do Norte;RN;90;Estadual;;;76;13.88;92;2.91;91;2.97;;;1;8;;;;;;;;;
+2023;filosofia;Universidade Estadual de Montes Claros;MG;91;Estadual;;;79;13.77;94;2.8;91;2.97;;;1;8;;;;;;;;;
+2023;filosofia;Centro Universitário Ítalo-brasileiro;SP;92;Privada;;;80;13.76;63;4.53;122;1.23;;;1;8;;;;;;;;;
+2023;filosofia;FAE Centro Universitário;PR;93;Privada;;;82;13.54;20;6.94;67;4.31;;;101;2.29;;;;;;;;;
+2023;filosofia;Universidade Federal do Acre;AC;94;Federal;;;84;13.49;101;2.41;89;3.08;;;1;8;;;;;;;;;
+2023;filosofia;Universidade do Estado de Mato Grosso;MT;95;Estadual;;;89;12.31;72;4.03;139;0.28;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Jesuíta de Filosofia e Teologia;MG;96;Privada;;;90;11.78;93;2.85;13;7.33;;;113;1.6;;;;;;;;;
+2023;filosofia;Faculdade São Bento da Bahia;BA;97;Privada;;;91;11.75;119;1.4;102;2.35;;;1;8;;;;;;;;;
+2023;filosofia;Instituto de Ciências Sociais e Humanas;GO;98;Privada;;;92;11.7;138;0.34;84;3.36;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Unirb - Barreiras;BA;99;Privada;;;93;11.36;126;1.01;102;2.35;;;1;8;;;;;;;;;
+2023;filosofia;Universidade do Estado do Amapá;AP;100;Estadual;;;94;11.35;88;3.13;140;0.22;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Católica de Rondônia;RO;101;Privada;;;95;10.69;126;1.01;114;1.68;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Paulus de Tecnologia e Comunicação;SP;102;Privada;;;96;10.66;84;3.36;37;5.99;;;118;1.31;;;;;;;;;
+2023;filosofia;Universidade Federal do Amapá;AP;103;Federal;;;97;10.57;112;1.79;130;0.78;;;1;8;;;;;;;;;
+2023;filosofia;Centro Universitário Católica de Quixadá;CE;104;Privada;;;98;10.3;86;3.25;65;4.42;;;95;2.63;;;;;;;;;
+2023;filosofia;Faculdade Católica de Belém;PA;105;Privada;;;99;10.24;134;0.56;114;1.68;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Pan Americana;PA;106;Privada;;;100;9.9;140;0.22;114;1.68;;;1;8;;;;;;;;;
+2023;filosofia;Gran Centro Universitário;PR;107;Privada;;;101;9.74;126;1.01;131;0.73;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Evangélica do Meio Norte;MA;108;Privada;;;102;9.63;126;1.01;133;0.62;;;1;8;;;;;;;;;
+2023;filosofia;Faculdade Católica de Anápolis;GO;109;Privada;;;103;9.61;143;0.06;7;7.66;;;108;1.89;;;;;;;;;
+2023;filosofia;Faculdade São Luís;SC;110;Privada;;;104;9.57;91;2.97;29;6.43;;;138;0.17;;;;;;;;;
+2023;filosofia;Universidade Católica de Petrópolis;RJ;111;Privada;;;105;9.55;103;2.29;52;5.15;;;104;2.11;;;;;;;;;
+2023;filosofia;Centro Universitário Salesiano de São Paulo;SP;112;Privada;;;106;9.32;118;1.46;28;6.49;;;117;1.37;;;;;;;;;
+2023;filosofia;Universidade Estadual de Roraima;RR;113;Estadual;;;107;9.17;33;6.21;140;0.22;;;93;2.74;;;;;;;;;
+2023;filosofia;Faculdade São Bento do Rio de Janeiro;RJ;114;Privada;;;108;9.13;67;4.31;64;4.48;;;135;0.34;;;;;;;;;
+2023;filosofia;Centro Universitário Salesiano;ES;115;Privada;;;109;9.1;94;2.8;62;4.59;;;111;1.71;;;;;;;;;
+2023;filosofia;Universidade Católica do Salvador;BA;116;Privada;;;110;8.51;82;3.47;102;2.35;;;94;2.69;;;;;;;;;
+2023;filosofia;Faculdade Palotina;RS;117;Privada;;;111;8.24;74;3.92;78;3.69;;;130;0.63;;;;;;;;;
+2023;filosofia;Faculdade Dom Luciano Mendes;MG;118;Privada;;;112;7.86;124;1.12;42;5.71;;;123;1.03;;;;;;;;;
+2023;filosofia;Faculdade Sant'Ana;PR;119;Privada;;;113;7.61;86;3.25;113;1.73;;;95;2.63;;;;;;;;;
+2023;filosofia;Faculdade Unirb - Natal;RN;120;Privada;;;115;7.32;63;4.53;133;0.62;;;103;2.17;;;;;;;;;
+2023;filosofia;Universidade de Sorocaba;SP;121;Privada;;;116;7.31;74;3.92;109;1.96;;;116;1.43;;;;;;;;;
+2023;filosofia;Faculdade Católica da Paraíba;PB;122;Privada;;;117;7.07;136;0.45;38;5.93;;;129;0.69;;;;;;;;;
+2023;filosofia;Faculdade Mozarteum de São Paulo;SP;123;Privada;;;118;7;126;1.01;88;3.13;;;91;2.86;;;;;;;;;
+2023;filosofia;Universidade Católica de Pelotas;RS;124;Privada;;;120;6.59;114;1.68;94;2.8;;;104;2.11;;;;;;;;;
+2023;filosofia;Fajopa - Faculdade João Paulo II;SP;125;Privada;;;121;6.46;104;2.24;90;3.02;;;120;1.2;;;;;;;;;
+2023;filosofia;Centro Universitário Academia;MG;126;Privada;;;122;6.25;116;1.57;95;2.74;;;107;1.94;;;;;;;;;
+2023;filosofia;Instituto Santo Tomás de Aquino;MG;127;Privada;;;123;6.04;115;1.62;66;4.36;;;140;0.06;;;;;;;;;
+2023;filosofia;Faculdade Católica de Fortaleza;CE;128;Privada;;;124;5.73;105;2.18;108;2.01;;;114;1.54;;;;;;;;;
+2023;filosofia;Faculdade São Basílio Magno;PR;129;Privada;;;125;5.72;94;2.8;97;2.63;;;136;0.29;;;;;;;;;
+2023;filosofia;Faculdade Canção Nova;SP;130;Privada;;;126;5.52;94;2.8;122;1.23;;;115;1.49;;;;;;;;;
+2023;filosofia;Instituto Católico de Estudos Superiores do Piauí;PI;131;Privada;;;127;5.49;122;1.23;73;3.97;;;136;0.29;;;;;;;;;
+2023;filosofia;Instituto de Filosofia e Teologia de Goiás;GO;132;Privada;;;128;5.26;110;1.9;84;3.36;;;;;;;;;;;;;
+2023;filosofia;Faculdade de Teologia e Ciências de Votuporanga;SP;133;Privada;;;129;5.15;124;1.12;122;1.23;;;92;2.8;;;;;;;;;
+2023;filosofia;Faculdade Católica de Feira de Santana;BA;134;Privada;;;134;4.19;132;0.67;81;3.52;;;;;;;;;;;;;
+2023;filosofia;Sinal Faculdade de Ciências Humanas e Sociais;AC;135;Privada;;;135;3.79;140;0.22;114;1.68;;;108;1.89;;;;;;;;;
+2023;filosofia;Instituto de Estudos Superiores do Maranhão;MA;136;Privada;;;136;3.63;135;0.5;133;0.62;;;97;2.51;;;;;;;;;
+2023;filosofia;Faculdade de Teologia da Arquidiocese de Brasília;DF;137;Privada;;;137;3.62;133;0.62;121;1.29;;;111;1.71;;;;;;;;;
+2023;filosofia;Faculdade Vicentina;PR;138;Privada;;;138;3.25;108;2.01;131;0.73;;;132;0.51;;;;;;;;;
+2023;filosofia;Faculdade São Francisco do Ceará;CE;139;Privada;;;139;3.06;123;1.18;133;0.62;;;119;1.26;;;;;;;;;
+2023;filosofia;Faculdade Salesiana Dom Bosco;AM;140;Privada;;;140;2.98;131;0.73;114;1.68;;;131;0.57;;;;;;;;;
+2023;filosofia;Faculdade Católica de Mato Grosso;MT;141;Privada;;;141;2.18;113;1.73;138;0.34;;;139;0.11;;;;;;;;;
+2023;filosofia;Faculdade Diocesana São José;AC;142;Privada;;;142;1.9;140;0.22;114;1.68;;;;;;;;;;;;;
+2023;filosofia;Faculdade São Tomás de Aquino;AL;143;Privada;;;143;1.3;139;0.28;133;0.62;;;134;0.4;;;;;;;;;
+2025;filosofia;Universidade de São Paulo;SP;1;Estadual;1;30;1;65.94;;;36;5.94;;;1;8;;;1;1;8;42;4;1;40
+2025;filosofia;Universidade Federal do Rio de Janeiro;RJ;2;Federal;5;28.59;2;65.49;;;25;6.59;;;1;8;;;2;12;7.35;23;4.93;2;38.62
+2025;filosofia;Universidade Estadual de Campinas;SP;3;Estadual;2;29.65;4;63.56;;;2;7.94;;;1;8;;;3;14;7.24;88;1.76;2;38.62
+2025;filosofia;Universidade Federal de Minas Gerais;MG;4;Federal;5;28.59;3;63.89;;;6;7.71;;;1;8;;;4;6;7.71;86;1.85;2;38.62
+2025;filosofia;Universidade Federal do Rio Grande do Sul;RS;5;Federal;5;28.59;7;58.88;;;9;7.53;;;1;8;;;5;22;6.77;81;2.1;5;34.48
+2025;filosofia;Pontifícia Universidade Católica de São Paulo;SP;6;Privada;5;28.59;8;57.1;;;46;5.35;;;1;8;;;1;30;6.29;63;2.98;5;34.48
+2025;filosofia;Universidade Federal de Santa Catarina;SC;7;Federal;16;24.71;5;60.33;;;14;7.24;;;1;8;;;6;8;7.59;62;3.02;5;34.48
+2025;filosofia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;8;Estadual;2;29.65;11;54.09;;;37;5.88;;;1;8;;;7;1;8;1;6;11;26.21
+2025;filosofia;Universidade Federal de São Carlos;SP;9;Federal;16;24.71;10;55.21;;;10;7.47;;;1;8;;;8;9;7.53;1;6;11;26.21
+2025;filosofia;Universidade Federal Fluminense;RJ;10;Federal;5;28.59;14;49.34;;;16;7.12;;;1;8;;;9;19;6.94;102;1.07;11;26.21
+2025;filosofia;Universidade de Brasília;DF;11;Federal;35;18;6;59.38;;;20;6.88;;;1;8;;;10;38;5.82;38;4.2;5;34.48
+2025;filosofia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;12;Privada;16;24.71;13;51.53;;;59;4.59;;;122;0.83;;;2;13;7.29;35;4.34;5;34.48
+2025;filosofia;Universidade Federal da Bahia;BA;13;Federal;5;28.59;19;46.21;;;21;6.82;;;1;8;;;11;49;5.18;;;11;26.21
+2025;filosofia;Universidade Federal de Pernambuco;PE;14;Federal;5;28.59;20;46.17;;;33;6.12;;;1;8;;;12;55;4.82;103;1.02;11;26.21
+2025;filosofia;Universidade Federal de Santa Maria;RS;15;Federal;35;18;9;55.57;;;48;5.24;;;1;8;;;13;11;7.41;115;0.44;5;34.48
+2025;filosofia;Universidade Presbiteriana Mackenzie;SP;16;Privada;16;24.71;16;47.8;;;22;6.77;;;1;8;;;3;21;6.82;;;11;26.21
+2025;filosofia;Universidade do Vale do Rio dos Sinos;RS;17;Privada;16;24.71;17;47.72;;;15;7.18;;;77;3.5;;;4;25;6.59;37;4.24;11;26.21
+2025;filosofia;Universidade Federal do Paraná;PR;18;Federal;35;18;12;53.21;;;12;7.35;;;1;8;;;14;41;5.65;1;6;11;26.21
+2025;filosofia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;19;Privada;16;24.71;26;42.12;;;43;5.53;;;89;2.79;;;5;37;5.88;89;1.71;11;26.21
+2025;filosofia;Universidade Católica de Santos;SP;20;Privada;35;18;18;46.71;;;41;5.65;;;1;8;;;6;24;6.65;120;0.2;11;26.21
+2025;filosofia;Universidade Federal de Mato Grosso;MT;21;Federal;35;18;21;45.99;;;76;3.59;;;1;8;;;15;31;6.24;84;1.95;11;26.21
+2025;filosofia;Universidade Federal do Rio Grande do Norte;RN;22;Federal;35;18;22;45.88;;;57;4.71;;;1;8;;;16;42;5.59;96;1.37;11;26.21
+2025;filosofia;Universidade de Caxias do Sul;RS;23;Privada;35;18;23;45.51;;;18;7;;;93;2.55;;;7;50;5.12;29;4.63;11;26.21
+2025;filosofia;Pontifícia Universidade Católica do Paraná;PR;24;Privada;35;18;24;44.25;;;40;5.71;;;87;2.9;;;8;39;5.77;49;3.66;11;26.21
+2025;filosofia;Pontifícia Universidade Católica de Campinas;SP;25;Privada;35;18;28;38.54;;;115;1.29;;;124;0.71;;;9;36;5.94;34;4.39;11;26.21
+2025;filosofia;Universidade de Passo Fundo;RS;26;Privada;35;18;29;37.82;;;88;2.88;;;84;3.08;;;10;51;5.06;112;0.59;11;26.21
+2025;filosofia;Universidade Federal da Paraíba;PB;27;Federal;16;24.71;31;26.29;;;47;5.29;;;1;8;;;17;18;7;1;6;;
+2025;filosofia;Universidade Federal de Goiás;GO;28;Federal;5;28.59;42;21.96;;;49;5.18;;;1;8;;;18;35;6;67;2.78;;
+2025;filosofia;Universidade Estadual de Maringá;PR;29;Estadual;16;24.71;35;25.32;;;4;7.82;;;1;8;;;19;56;4.77;27;4.73;;
+2025;filosofia;Universidade Estadual de Londrina;PR;30;Estadual;16;24.71;36;25.22;;;3;7.88;;;1;8;;;20;48;5.24;40;4.1;;
+2025;filosofia;Universidade Federal do Ceará;CE;31;Federal;5;28.59;50;20.6;;;34;6.06;;;1;8;;;21;54;4.88;90;1.66;;
+2025;filosofia;Fundação Universidade Federal de Rondônia;RO;32;Federal;;;15;48.61;;;27;6.47;;;1;8;;;22;52;5;64;2.93;11;26.21
+2025;filosofia;Universidade Federal de Sergipe;SE;33;Federal;16;24.71;40;23.09;;;19;6.94;;;1;8;;;23;40;5.71;74;2.44;;
+2025;filosofia;Universidade do Estado da Bahia;BA;34;Estadual;5;28.59;60;18.67;;;72;3.82;;;1;8;;;24;67;4.12;68;2.73;;
+2025;filosofia;Universidade do Estado do Rio de Janeiro;RJ;35;Estadual;2;29.65;65;17.43;;;70;3.94;;;81;3.26;;;25;17;7.06;59;3.17;;
+2025;filosofia;Universidade Estadual do Ceará;CE;36;Estadual;16;24.71;43;21.89;;;58;4.65;;;1;8;;;26;82;3.24;1;6;;
+2025;filosofia;Fundação Universidade Federal do ABC;SP;37;Federal;35;18;30;28.29;;;1;8;;;1;8;;;27;1;8;36;4.29;;
+2025;filosofia;Universidade Federal de Alagoas;AL;38;Federal;16;24.71;57;19.38;;;99;2.24;;;1;8;;;28;58;4.65;32;4.49;;
+2025;filosofia;Universidade Federal de Juiz de Fora;MG;39;Federal;35;18;32;25.94;;;26;6.53;;;1;8;;;29;45;5.41;1;6;;
+2025;filosofia;Universidade Federal de Ouro Preto;MG;40;Federal;35;18;33;25.54;;;17;7.06;;;1;8;;;30;26;6.53;43;3.95;;
+2025;filosofia;Universidade Federal do Pará;PA;41;Federal;16;24.71;58;18.77;;;133;0.24;;;1;8;;;31;60;4.53;1;6;;
+2025;filosofia;Universidade Federal de São Paulo;SP;42;Federal;35;18;34;25.37;;;55;4.82;;;1;8;;;32;5;7.77;26;4.78;;
+2025;filosofia;Universidade Franciscana;RS;43;Privada;;;25;42.7;;;5;7.77;;;82;3.2;;;11;74;3.71;87;1.81;11;26.21
+2025;filosofia;Universidade Federal do Amazonas;AM;44;Federal;16;24.71;62;17.73;;;75;3.65;;;1;8;;;33;91;2.71;55;3.37;;
+2025;filosofia;Pontifícia Universidade Católica de Goiás;GO;45;Privada;5;28.59;85;13.77;;;71;3.88;;;78;3.44;;;12;83;3.18;57;3.27;;
+2025;filosofia;Universidade Estadual da Paraíba;PB;46;Estadual;16;24.71;64;17.48;;;68;4.06;;;1;8;;;34;103;2;54;3.42;;
+2025;filosofia;Pontifícia Universidade Católica de Minas Gerais;MG;47;Privada;16;24.71;70;16.67;;;63;4.35;;;104;1.9;;;13;23;6.71;48;3.71;;
+2025;filosofia;Universidade Federal de Mato Grosso do Sul;MS;48;Federal;35;18;39;23.16;;;44;5.47;;;1;8;;;35;27;6.47;58;3.22;;
+2025;filosofia;Universidade Federal do Espírito Santo;ES;49;Federal;35;18;41;22.88;;;28;6.41;;;1;8;;;36;46;5.35;60;3.12;;
+2025;filosofia;Faculdade Jesuíta de Filosofia e Teologia;MG;50;Privada;;;27;40.53;;;13;7.29;;;99;2.19;;;14;97;2.35;73;2.49;11;26.21
+2025;filosofia;Universidade Estadual de Feira de Santana;BA;51;Estadual;16;24.71;75;15.34;;;114;1.35;;;1;8;;;37;75;3.65;76;2.34;;
+2025;filosofia;Universidade Estadual do Paraná;PR;52;Estadual;35;18;44;21.44;;;45;5.41;;;1;8;;;38;57;4.71;56;3.32;;
+2025;filosofia;Universidade Estadual do Oeste do Paraná;PR;53;Estadual;35;18;45;21.29;;;102;2.06;;;1;8;;;39;15;7.18;41;4.05;;
+2025;filosofia;Universidade Federal do Maranhão;MA;54;Federal;35;18;47;20.82;;;50;5.12;;;1;8;;;40;70;3.94;47;3.76;;
+2025;filosofia;Universidade Federal de São João Del Rei;MG;55;Federal;35;18;52;20.2;;;35;6;;;1;8;;;41;44;5.47;109;0.73;;
+2025;filosofia;Universidade Estadual do Centro Oeste;PR;56;Estadual;35;18;53;19.85;;;32;6.18;;;1;8;;;42;63;4.35;97;1.32;;
+2025;filosofia;Universidade Estadual do Sudoeste da Bahia;BA;57;Estadual;35;18;54;19.67;;;69;4;;;1;8;;;43;72;3.82;45;3.85;;
+2025;filosofia;Universidade Federal de Uberlândia;MG;58;Federal;35;18;55;19.53;;;31;6.24;;;1;8;;;44;47;5.29;;;;
+2025;filosofia;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;59;Estadual;35;18;59;18.76;;;132;0.29;;;1;8;;;45;61;4.47;1;6;;
+2025;filosofia;Fundação Universidade Federal do Tocantins;TO;60;Federal;35;18;61;18.19;;;113;1.41;;;1;8;;;46;20;6.88;85;1.9;;
+2025;filosofia;Universidade Federal do Cariri;CE;61;Federal;35;18;66;17.32;;;77;3.53;;;1;8;;;47;76;3.59;79;2.2;;
+2025;filosofia;Centro Universitário Católico Ítalo Brasileiro;SP;62;Privada;35;18;67;17.27;;;119;1.06;;;1;8;;;15;34;6.06;80;2.15;;
+2025;filosofia;Universidade Estadual do Norte do Paraná;PR;63;Estadual;35;18;71;16.52;;;102;2.06;;;1;8;;;48;92;2.65;46;3.81;;
+2025;filosofia;Universidade Católica de Pernambuco;PE;64;Privada;16;24.71;109;9.6;;;100;2.18;;;112;1.42;;;16;69;4;83;2;;
+2025;filosofia;Universidade Federal do Piauí;PI;65;Federal;35;18;73;16.19;;;84;3.12;;;1;8;;;49;99;2.24;66;2.83;;
+2025;filosofia;Universidade do Estado do Rio Grande do Norte;RN;66;Estadual;35;18;74;15.62;;;92;2.65;;;1;8;;;50;79;3.41;92;1.56;;
+2025;filosofia;Universidade Estadual Vale do Acaraú;CE;67;Estadual;35;18;77;15.19;;;117;1.18;;;1;8;;;51;78;3.47;72;2.54;;
+2025;filosofia;Universidade Federal do Amapá;AP;68;Federal;35;18;78;14.89;;;125;0.71;;;1;8;;;52;114;1.35;25;4.83;;
+2025;filosofia;Universidade Estadual do Piauí;PI;69;Estadual;35;18;79;14.86;;;97;2.35;;;1;8;;;53;81;3.29;99;1.22;;
+2025;filosofia;Universidade Federal do Recôncavo da Bahia;BA;70;Federal;35;18;80;14.78;;;79;3.41;;;1;8;;;54;88;2.88;114;0.49;;
+2025;filosofia;Universidade Estadual de Santa Cruz;BA;71;Estadual;35;18;83;14.11;;;94;2.53;;;1;8;;;55;96;2.41;100;1.17;;
+2025;filosofia;Universidade do Estado do Pará;PA;72;Estadual;16;24.71;127;7.1;;;133;0.24;;;76;3.56;;;56;105;1.88;95;1.42;;
+2025;filosofia;Faculdade de São Bento;SP;73;Privada;35;18;87;13.6;;;53;4.94;;;117;1.13;;;17;53;4.94;71;2.59;;
+2025;filosofia;Universidade Estadual do Maranhão;MA;74;Estadual;35;18;89;13.58;;;81;3.29;;;1;8;;;57;98;2.29;;;;
+2025;filosofia;Centro Universitário Salesiano de São Paulo;SP;75;Privada;35;18;93;12.46;;;29;6.35;;;107;1.72;;;18;122;0.88;52;3.51;;
+2025;filosofia;Universidade do Estado do Amapá;AP;76;Estadual;35;18;95;11.95;;;133;0.24;;;1;8;;;58;112;1.47;78;2.24;;
+2025;filosofia;Universidade Católica de Brasília;DF;77;Privada;35;18;108;10.11;;;87;2.94;;;91;2.67;;;19;106;1.82;69;2.68;;
+2025;filosofia;Universidade Católica do Salvador;BA;78;Privada;35;18;116;8.64;;;104;1.94;;;94;2.49;;;20;87;2.94;98;1.27;;
+2025;filosofia;Universidade São Judas Tadeu;SP;79;Privada;35;18;120;8.15;;;119;1.06;;;91;2.67;;;21;71;3.88;113;0.54;;
+2025;filosofia;Universidade Federal Rural do Rio de Janeiro;RJ;80;Federal;78;2.82;46;21.28;;;23;6.71;;;1;8;;;59;32;6.18;116;0.39;;
+2025;filosofia;Universidade Federal de Lavras;MG;81;Federal;;;37;23.94;;;11;7.41;;;1;8;;;60;7;7.65;106;0.88;;
+2025;filosofia;Universidade Federal da Integração Latino-americana;PR;82;Federal;;;38;23.31;;;56;4.77;;;1;8;;;61;10;7.47;61;3.07;;
+2025;filosofia;Faculdade Canção Nova;SP;83;Privada;35;18;134;4.43;;;119;1.06;;;108;1.66;;;22;108;1.71;;;;
+2025;filosofia;Universidade Católica Dom Bosco;MS;84;Privada;78;2.82;56;19.41;;;74;3.71;;;1;8;;;23;65;4.24;53;3.46;;
+2025;filosofia;Colégio Pedro II;RJ;85;Federal;;;48;20.77;;;24;6.65;;;1;8;;;62;33;6.12;;;;
+2025;filosofia;Universidade Federal do Estado do Rio de Janeiro;RJ;86;Federal;;;49;20.72;;;8;7.59;;;75;3.62;;;63;1;8;93;1.51;;
+2025;filosofia;Universidade Federal de Campina Grande;PB;87;Federal;78;2.82;63;17.68;;;83;3.18;;;1;8;;;64;29;6.35;121;0.15;;
+2025;filosofia;Faculdade Serra da Mesa;GO;88;Privada;;;51;20.24;;;51;5.06;;;1;8;;;24;117;1.18;1;6;;
+2025;filosofia;Universidade Estadual de Montes Claros;MG;89;Estadual;;;68;17.02;;;92;2.65;;;1;8;;;65;95;2.47;44;3.9;;
+2025;filosofia;Universidade Federal de Pelotas;RS;90;Federal;;;69;16.77;;;54;4.88;;;1;8;;;66;85;3.06;107;0.83;;
+2025;filosofia;Universidade Federal do Acre;AC;91;Federal;;;72;16.47;;;90;2.77;;;1;8;;;67;89;2.82;65;2.88;;
+2025;filosofia;Universidade Regional de Blumenau;SC;92;Municipal;78;2.82;92;12.95;;;60;4.53;;;114;1.3;;;68;16;7.12;;;;
+2025;filosofia;Faculdade Católica de Anápolis;GO;93;Privada;;;76;15.31;;;7;7.65;;;109;1.6;;;25;136;0.06;1;6;;
+2025;filosofia;FAE Centro Universitário;PR;94;Privada;;;81;14.49;;;67;4.12;;;88;2.84;;;26;28;6.41;101;1.12;;
+2025;filosofia;Universidade Federal da Fronteira Sul;SC;95;Federal;;;82;14.31;;;60;4.53;;;80;3.32;;;69;43;5.53;105;0.93;;
+2025;filosofia;Universidade Católica de Petrópolis;RJ;96;Privada;;;84;14.1;;;52;5;;;101;2.07;;;27;93;2.59;33;4.44;;
+2025;filosofia;Faculdade Católica de Belém;PA;97;Privada;;;86;13.65;;;127;0.59;;;1;8;;;28;129;0.47;30;4.59;;
+2025;filosofia;Faculdade São Bento do Rio de Janeiro;RJ;98;Privada;;;88;13.59;;;64;4.29;;;128;0.47;;;29;64;4.29;31;4.54;;
+2025;filosofia;Universidade Estadual de Roraima;RR;99;Estadual;;;90;13.26;;;133;0.24;;;95;2.43;;;70;59;4.59;1;6;;
+2025;filosofia;Faculdade São Luís;SC;100;Privada;;;91;13.08;;;30;6.29;;;133;0.18;;;30;86;3;50;3.61;;
+2025;filosofia;Faculdade Mozarteum de São Paulo;SP;101;Privada;;;94;12.37;;;89;2.82;;;85;3.02;;;31;128;0.53;1;6;;
+2025;filosofia;Instituto Santo Tomás de Aquino;MG;102;Privada;;;96;11.95;;;66;4.18;;;134;0.12;;;32;109;1.65;1;6;;
+2025;filosofia;Faculdade Dehoniana;SP;103;Privada;78;2.82;112;9.06;;;80;3.35;;;103;1.96;;;33;90;2.77;104;0.98;;
+2025;filosofia;Faculdade Dom Luciano Mendes;MG;104;Privada;;;97;11.81;;;42;5.59;;;113;1.36;;;34;125;0.71;39;4.15;;
+2025;filosofia;Faculdade Sant'Ana;PR;105;Privada;;;98;11.73;;;116;1.24;;;97;2.31;;;35;100;2.18;1;6;;
+2025;filosofia;Centro Universitário Assunção;SP;106;Privada;78;2.82;114;8.83;;;119;1.06;;;110;1.54;;;36;66;4.18;82;2.05;;
+2025;filosofia;Instituto de Estudos Superiores do Maranhão;MA;107;Privada;;;99;11.26;;;108;1.71;;;83;3.14;;;37;130;0.41;1;6;;
+2025;filosofia;Faculdade de Filosofia e Teologia Paulo Vi;SP;108;Privada;78;2.82;118;8.39;;;119;1.06;;;115;1.24;;;38;113;1.41;28;4.68;;
+2025;filosofia;Faculdade de Teologia e Ciências de Votuporanga;SP;108;Privada;;;100;11.21;;;119;1.06;;;79;3.38;;;38;124;0.77;1;6;;
+2025;filosofia;Instituto de Filosofia e Teologia de Goiás;GO;110;Privada;;;101;11.18;;;85;3.06;;;135;0.06;;;40;102;2.06;1;6;;
+2025;filosofia;Centro Universitário Salesiano;ES;111;Privada;;;102;11.07;;;62;4.41;;;105;1.84;;;41;94;2.53;77;2.29;;
+2025;filosofia;Faculdade São Bento da Bahia;BA;112;Privada;;;103;11.06;;;104;1.94;;;1;8;;;42;118;1.12;;;;
+2025;filosofia;Centro Universitário Católica de Quixadá;CE;113;Privada;;;104;11.02;;;65;4.24;;;86;2.96;;;43;73;3.77;123;0.05;;
+2025;filosofia;Instituto Católico de Estudos Superiores do Piauí;PI;114;Privada;;;105;11.01;;;73;3.77;;;129;0.42;;;44;123;0.82;1;6;;
+2025;filosofia;Faculdade Dois de Julho;BA;115;Privada;;;106;10.94;;;104;1.94;;;1;8;;;45;120;1;;;;
+2025;filosofia;Faculdade Paulus de Tecnologia e Comunicação;SP;116;Privada;;;107;10.93;;;38;5.82;;;120;0.95;;;46;68;4.06;122;0.1;;
+2025;filosofia;Faculdade Católica de Feira de Santana;BA;117;Privada;;;110;9.42;;;82;3.24;;;125;0.65;;;47;126;0.65;24;4.88;;
+2025;filosofia;Faculdade Católica de Pouso Alegre;MG;118;Privada;78;2.82;131;6.35;;;107;1.77;;;121;0.89;;;48;119;1.06;70;2.63;;
+2025;filosofia;Faculdade Salesiana Dom Bosco;AM;119;Privada;;;111;9.07;;;127;0.59;;;116;1.19;;;49;115;1.29;1;6;;
+2025;filosofia;Faculdade Vicentina;PR;120;Privada;;;113;8.95;;;126;0.65;;;130;0.36;;;50;104;1.94;1;6;;
+2025;filosofia;Centro Universitário Ceuni;AM;121;Privada;;;115;8.71;;;127;0.59;;;1;8;;;51;135;0.12;;;;
+2025;filosofia;Faculdade Unirb - Natal;RN;122;Privada;;;117;8.55;;;108;1.71;;;96;2.37;;;52;61;4.47;;;;
+2025;filosofia;Faculdade Católica de Mato Grosso;MT;123;Privada;;;119;8.18;;;131;0.35;;;126;0.59;;;53;116;1.24;1;6;;
+2025;filosofia;Faculdade Palotina;RS;124;Privada;;;121;8;;;78;3.47;;;118;1.07;;;54;84;3.12;117;0.34;;
+2025;filosofia;Centro Universitário Academia;MG;125;Privada;;;122;7.86;;;96;2.41;;;98;2.25;;;55;110;1.59;91;1.61;;
+2025;filosofia;Faculdade Católica de Fortaleza;CE;126;Privada;;;123;7.65;;;108;1.71;;;106;1.78;;;56;107;1.77;75;2.39;;
+2025;filosofia;Universidade Católica de Pelotas;RS;127;Privada;;;124;7.51;;;95;2.47;;;90;2.73;;;57;111;1.53;108;0.78;;
+2025;filosofia;Faculdade João Paulo II;SP;128;Privada;;;125;7.3;;;91;2.71;;;119;1.01;;;58;101;2.12;94;1.46;;
+2025;filosofia;Universidade de Sorocaba;SP;129;Privada;;;126;7.11;;;112;1.47;;;111;1.48;;;59;77;3.53;111;0.63;;
+2025;filosofia;Faculdade Católica da Paraíba;PB;130;Privada;;;128;7.07;;;39;5.77;;;123;0.77;;;60;132;0.29;119;0.24;;
+2025;filosofia;Faculdade Diocesana São José;AC;131;Privada;;;129;6.94;;;127;0.59;;;;;;;61;131;0.35;1;6;;
+2025;filosofia;Faculdade São Basílio Magno;PR;132;Privada;;;130;6.85;;;98;2.29;;;127;0.53;;;62;80;3.35;110;0.68;;
+2025;filosofia;Faculdade São Tomás de Aquino;AL;133;Privada;;;132;5.81;;;108;1.71;;;131;0.3;;;63;133;0.24;51;3.56;;
+2025;filosofia;Instituto de Ciências Sociais e Humanas;GO;134;Privada;;;133;5.37;;;85;3.06;;;100;2.13;;;64;134;0.18;;;;
+2025;filosofia;Faculdade de Teologia da Arquidiocese de Brasília;DF;135;Privada;;;135;4.02;;;118;1.12;;;102;2.02;;;65;127;0.59;118;0.29;;
+2025;filosofia;Centro Universitário dos Guararapes;PE;136;Privada;;;136;3.48;;;100;2.18;;;131;0.3;;;66;120;1;;;;

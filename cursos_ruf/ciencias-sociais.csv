@@ -1,0 +1,305 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2023;ciencias-sociais;Universidade de São Paulo;SP;1;Estadual;1;36;2;60.94;1;8;40;4.94;;;1;8;1;40;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Campinas;SP;2;Estadual;2;35.41;3;60.91;19;6.59;7;7.53;;;1;8;2;38.79;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Minas Gerais;MG;3;Federal;7;32.46;1;61.46;13;7.06;6;7.61;;;1;8;2;38.79;;;;;;;
+2023;ciencias-sociais;Universidade Federal Fluminense;RJ;4;Federal;7;32.46;4;59.03;24;6.2;26;6.04;;;1;8;2;38.79;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Rio de Janeiro;RJ;5;Federal;7;32.46;5;57.93;41;4.86;23;6.28;;;1;8;2;38.79;;;;;;;
+2023;ciencias-sociais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;6;Estadual;2;35.41;10;52.73;12;7.14;41;4.86;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade do Estado do Rio de Janeiro;RJ;7;Estadual;2;35.41;12;52.34;26;6.04;32;5.57;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Santa Catarina;SC;8;Federal;7;32.46;7;53.68;23;6.28;18;6.67;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Rio Grande do Sul;RS;9;Federal;7;32.46;8;53.28;34;5.41;12;7.14;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Pernambuco;PE;10;Federal;7;32.46;14;50.85;40;4.94;37;5.18;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Londrina;PR;11;Estadual;7;32.46;15;50.84;48;4.31;29;5.8;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;12;Privada;7;32.46;19;49.52;1;8;4;7.77;;;90;1.02;7;32.73;;;;;;;
+2023;ciencias-sociais;Pontifícia Universidade Católica do Rio Grande do Sul;RS;13;Privada;7;32.46;23;47.86;15;6.9;10;7.29;;;91;0.94;7;32.73;;;;;;;
+2023;ciencias-sociais;Pontifícia Universidade Católica de São Paulo;SP;14;Privada;7;32.46;24;47.81;65;2.98;42;4.78;;;87;1.26;2;38.79;;;;;;;
+2023;ciencias-sociais;Universidade Federal da Bahia;BA;15;Federal;2;35.41;31;44.03;62;3.22;20;6.51;;;83;1.57;7;32.73;;;;;;;
+2023;ciencias-sociais;Pontifícia Universidade Católica de Minas Gerais;MG;16;Privada;7;32.46;26;46.21;29;5.8;22;6.35;;;86;1.33;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade do Vale do Rio dos Sinos;RS;17;Privada;7;32.46;27;45.51;28;5.88;33;5.49;;;85;1.41;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Paraná;PR;18;Federal;24;22.43;6;55.32;1;8;19;6.59;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade do Estado da Bahia;BA;19;Estadual;7;32.46;28;45.28;71;2.51;77;2.04;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Escola de Ciências Sociais FGV Cpdoc;RJ;20;Privada;24;22.43;9;52.88;48;4.31;3;7.84;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Uberlândia;MG;21;Federal;24;22.43;11;52.42;46;4.47;11;7.22;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade de Brasília;DF;22;Federal;24;22.43;13;51.87;43;4.71;21;6.43;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Juiz de Fora;MG;23;Federal;24;22.43;16;50.77;64;3.06;14;6.98;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Espírito Santo;ES;24;Federal;24;22.43;17;50.22;61;3.29;24;6.2;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Rio Grande do Norte;RN;25;Federal;24;22.43;18;50.07;44;4.63;43;4.71;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal da Paraíba;PB;26;Federal;24;22.43;20;49.43;47;4.39;48;4.31;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Fundação Universidade Federal do Vale do São Francisco;PE;27;Federal;24;22.43;21;48.5;52;4;55;3.77;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Pontifícia Universidade Católica do Paraná;PR;28;Privada;24;22.43;25;47.79;21;6.43;8;7.45;;;88;1.18;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Amazonas;AM;29;Federal;24;22.43;30;44.5;83;1.57;75;2.2;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Fundação Universidade Federal do Tocantins;TO;30;Federal;24;22.43;32;43.71;76;2.12;92;0.86;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Pontifícia Universidade Católica de Campinas;SP;31;Privada;24;22.43;33;41.51;70;2.59;28;5.88;;;99;0.31;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade de Pernambuco;PE;32;Estadual;7;32.46;45;18.27;29;5.8;46;4.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Goiás;GO;33;Federal;7;32.46;51;17.1;54;3.84;36;5.26;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual do Ceará;CE;34;Estadual;7;32.46;55;16;59;3.45;45;4.55;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;35;Federal;;;22;48.18;16;6.82;95;0.63;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Piauí;PI;36;Federal;7;32.46;73;12.94;92;0.86;51;4.08;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Viçosa;MG;37;Federal;24;22.43;36;22.9;1;8;15;6.9;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Estado do Rio de Janeiro;RJ;38;Federal;24;22.43;37;22.59;18;6.67;2;7.92;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Pelotas;RS;39;Federal;;;29;44.65;102;0.08;54;3.84;;;1;8;7;32.73;;;;;;;
+2023;ciencias-sociais;Universidade Federal de São Paulo;SP;40;Federal;24;22.43;38;21.97;11;7.22;17;6.75;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Ceará;CE;41;Federal;2;35.41;93;8.79;56;3.69;57;3.61;;;84;1.49;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de São Carlos;SP;42;Federal;24;22.43;39;20.87;17;6.75;25;6.12;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Maringá;PR;43;Estadual;24;22.43;43;18.43;57;3.61;16;6.82;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Sergipe;SE;44;Federal;24;22.43;44;18.35;35;5.33;39;5.02;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal Rural do Rio de Janeiro;RJ;45;Federal;24;22.43;46;18.2;20;6.51;56;3.69;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Catalão;GO;46;Federal;24;22.43;49;17.41;21;6.43;65;2.98;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal Rural de Pernambuco;PE;47;Federal;24;22.43;52;16.86;29;5.8;64;3.06;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Alagoas;AL;48;Federal;24;22.43;56;15.92;38;5.1;67;2.82;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Alfenas;MG;49;Federal;24;22.43;58;15.3;51;4.08;62;3.22;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Mato Grosso do Sul;MS;50;Federal;24;22.43;59;15.06;33;5.49;83;1.57;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Santa Cruz;BA;51;Estadual;24;22.43;63;14.51;63;3.14;60;3.37;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade do Estado do Rio Grande do Norte;RN;52;Estadual;24;22.43;64;14.43;77;2.04;47;4.39;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual Vale do Acaraú;CE;53;Estadual;24;22.43;66;14.12;39;5.02;89;1.1;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Maranhão;MA;54;Federal;24;22.43;70;13.57;66;2.9;69;2.67;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual do Sudoeste da Bahia;BA;55;Estadual;24;22.43;74;12.7;85;1.41;61;3.29;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Campina Grande;PB;56;Federal;24;22.43;77;12.39;72;2.43;78;1.96;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Pará;PA;56;Federal;24;22.43;77;12.39;53;3.92;97;0.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual do Piauí;PI;58;Estadual;24;22.43;82;11.61;78;1.96;82;1.65;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade do Estado do Pará;PA;59;Estadual;24;22.43;91;9.49;90;1.02;97;0.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;60;Privada;24;22.43;95;7.37;91;0.94;27;5.96;;;97;0.47;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual do Maranhão;MA;61;Estadual;24;22.43;97;4.95;88;1.18;76;2.12;;;82;1.65;;;;;;;;;
+2023;ciencias-sociais;Escola Superior de Propaganda e Marketing;SP;62;Privada;24;22.43;98;4.87;81;1.73;71;2.51;;;95;0.63;;;;;;;;;
+2023;ciencias-sociais;Universidade da Amazônia;PA;63;Privada;24;22.43;100;2.59;100;0.24;84;1.49;;;92;0.86;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;64;Estadual;;;34;24;1;8;1;8;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Cândido Mendes;RJ;65;Privada;;;35;23.77;1;8;4;7.77;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Santa Maria;RS;66;Federal;;;40;20.63;1;8;44;4.63;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal da Integração Latino-americana;PR;67;Federal;;;41;19.53;1;8;58;3.53;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal da Fronteira Sul;SC;68;Federal;;;42;19.06;27;5.96;38;5.1;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Colégio Pedro II;RJ;69;Federal;;;47;17.8;29;5.8;52;4;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Fundação Universidade Federal da Grande Dourados;MS;70;Federal;;;48;17.57;14;6.98;70;2.59;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual do Oeste do Paraná;PR;71;Estadual;;;50;17.17;60;3.37;29;5.8;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Sul da Bahia;BA;72;Federal;;;53;16.71;1;8;94;0.71;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Mato Grosso;MT;73;Federal;;;54;16.55;48;4.31;49;4.24;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Fundação Universidade Federal do Pampa;RS;74;Federal;;;57;15.45;58;3.53;53;3.92;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Fundação Universidade Federal de Rondônia;RO;75;Federal;;;60;14.99;36;5.26;81;1.73;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;75;Federal;;;60;14.99;55;3.77;62;3.22;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Oeste do Pará;PA;77;Federal;;;62;14.59;25;6.12;97;0.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade de Caxias do Sul;RS;78;Privada;;;65;14.35;1;8;33;5.49;;;92;0.86;;;;;;;;;
+2023;ciencias-sociais;Universidade do Oeste de Santa Catarina;SC;79;Privada;;;67;13.96;97;0.47;33;5.49;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade do Estado de Minas Gerais;MG;79;Estadual;;;67;13.96;99;0.31;31;5.65;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal de Roraima;RR;81;Federal;;;69;13.65;37;5.18;97;0.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;82;Federal;;;71;13.33;80;1.8;58;3.53;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Sul e Sudeste do Pará;PA;83;Federal;;;72;13.02;45;4.55;97;0.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade do Estado de Mato Grosso;MT;84;Estadual;;;75;12.63;98;0.39;49;4.24;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;85;Federal;;;76;12.47;84;1.49;65;2.98;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Recôncavo da Bahia;BA;86;Federal;;;79;12.16;74;2.28;79;1.88;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Amapá;AP;87;Federal;;;80;12;75;2.2;80;1.8;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Regional do Cariri;CE;88;Estadual;;;81;11.69;68;2.75;91;0.94;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Federal do Acre;AC;89;Federal;;;83;11.37;73;2.35;90;1.02;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Faculdade Sesi-SP de Educação;SP;90;Privada;;;84;11.29;93;0.78;71;2.51;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Centro Universitário Fundação Santo André;SP;91;Privada;;;85;11.22;94;0.71;71;2.51;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Centro Universitário Tabosa de Almeida;PE;92;Privada;;;86;10.9;85;1.41;84;1.49;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Regional de Blumenau;SC;93;Municipal;;;87;10.44;69;2.67;13;7.06;;;94;0.71;;;;;;;;;
+2023;ciencias-sociais;Centro Universitário Internacional;PR;94;Privada;;;88;10.2;82;1.65;8;7.45;;;89;1.1;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual da Paraíba;PB;95;Estadual;;;89;9.96;85;1.41;96;0.55;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Montes Claros;MG;96;Estadual;;;90;9.88;89;1.1;93;0.78;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Roraima;RR;97;Estadual;;;92;9.18;94;0.71;97;0.47;;;1;8;;;;;;;;;
+2023;ciencias-sociais;Escola de Sociologia e Política de São Paulo;SP;98;Privada;;;94;7.45;42;4.78;71;2.51;;;101;0.16;;;;;;;;;
+2023;ciencias-sociais;Universidade Estadual de Mato Grosso do Sul;MS;99;Estadual;;;96;6.12;67;2.82;68;2.75;;;96;0.55;;;;;;;;;
+2023;ciencias-sociais;Universidade Católica de Pernambuco;PE;100;Privada;;;99;3.61;79;1.88;84;1.49;;;100;0.24;;;;;;;;;
+2023;ciencias-sociais;Faculdade Republicana;DF;101;Privada;;;101;2.12;96;0.55;84;1.49;;;102;0.08;;;;;;;;;
+2023;ciencias-sociais;Centro Universitário do Distrito Federal;DF;102;Privada;;;102;2.04;101;0.16;84;1.49;;;98;0.39;;;;;;;;;
+2024;ciencias-sociais;Universidade Estadual de Campinas;SP;1;Estadual;2;35.57;1;61.55;;;7;7.53;;;1;8;;;16;6.82;2;39.2;;;
+2024;ciencias-sociais;Universidade de São Paulo;SP;2;Estadual;1;36;3;60.7;;;41;4.86;;;1;8;;;3;7.84;1;40;;;
+2024;ciencias-sociais;Universidade Federal do Rio de Janeiro;RJ;3;Federal;2;35.57;4;59.13;;;23;6.28;;;1;8;;;31;5.65;2;39.2;;;
+2024;ciencias-sociais;Universidade Federal de Minas Gerais;MG;4;Federal;7;33.4;2;60.74;;;6;7.61;;;1;8;;;7;7.53;4;37.6;;;
+2024;ciencias-sociais;Universidade Federal do Rio Grande do Sul;RS;5;Federal;7;33.4;5;57.73;;;12;7.14;;;1;8;;;19;6.59;6;36;;;
+2024;ciencias-sociais;Universidade Federal Fluminense;RJ;6;Federal;7;33.4;7;55.91;;;26;6.04;;;1;8;;;18;6.67;7;35.2;;;
+2024;ciencias-sociais;Universidade do Estado do Rio de Janeiro;RJ;7;Estadual;7;33.4;8;55.05;;;32;5.57;;;1;8;;;23;6.28;7;35.2;;;
+2024;ciencias-sociais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;8;Estadual;2;35.57;13;52.39;;;42;4.78;;;1;8;;;6;7.61;11;32;;;
+2024;ciencias-sociais;Universidade Federal de Pernambuco;PE;9;Federal;7;33.4;10;53.24;;;38;5.1;;;1;8;;;40;4.94;7;35.2;;;
+2024;ciencias-sociais;Universidade Federal de Santa Catarina;SC;10;Federal;7;33.4;11;53.02;;;18;6.67;;;1;8;;;22;6.35;11;32;;;
+2024;ciencias-sociais;Universidade de Brasília;DF;11;Federal;18;28.63;6;57.36;;;21;6.43;;;1;8;;;35;5.33;4;37.6;;;
+2024;ciencias-sociais;Universidade Federal do Paraná;PR;12;Federal;18;28.63;9;54.28;;;19;6.59;;;1;8;;;5;7.69;11;32;;;
+2024;ciencias-sociais;Universidade Federal de São Carlos;SP;13;Federal;18;28.63;12;52.87;;;25;6.12;;;1;8;;;17;6.75;11;32;;;
+2024;ciencias-sociais;Pontifícia Universidade Católica de São Paulo;SP;14;Privada;2;35.57;25;45.09;;;43;4.71;;;84;1.49;;;56;3.69;7;35.2;;;
+2024;ciencias-sociais;Universidade Federal da Bahia;BA;15;Federal;2;35.57;29;44.71;;;20;6.51;;;76;2.12;;;51;4.08;11;32;;;
+2024;ciencias-sociais;Universidade Federal de Goiás;GO;16;Federal;7;33.4;20;45.64;;;37;5.18;;;1;8;;;36;5.26;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de São Paulo;SP;17;Federal;18;28.63;16;49.72;;;17;6.75;;;1;8;;;4;7.77;17;27.2;;;
+2024;ciencias-sociais;Universidade Estadual do Ceará;CE;18;Estadual;7;33.4;30;43.12;;;46;4.47;;;1;8;;;59;3.45;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de Sergipe;SE;19;Federal;18;28.63;24;45.16;;;40;4.94;;;1;8;;;39;5.02;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal da Paraíba;PB;20;Federal;18;28.63;26;44.93;;;49;4.24;;;1;8;;;33;5.49;17;27.2;;;
+2024;ciencias-sociais;Universidade Estadual de Londrina;PR;21;Estadual;18;28.63;28;44.84;;;29;5.8;;;1;8;;;54;3.84;17;27.2;;;
+2024;ciencias-sociais;Universidade do Estado da Bahia;BA;22;Estadual;7;33.4;40;39.52;;;77;2.04;;;1;8;;;74;2.28;17;27.2;;;
+2024;ciencias-sociais;Pontifícia Universidade Católica do Rio Grande do Sul;RS;23;Privada;18;28.63;32;43.04;;;10;7.29;;;88;1.18;;;9;7.37;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de Alagoas;AL;24;Federal;18;28.63;33;42.58;;;68;2.75;;;1;8;;;44;4.63;17;27.2;;;
+2024;ciencias-sociais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;24;Privada;18;28.63;33;42.58;;;4;7.77;;;97;0.47;;;12;7.14;17;27.2;;;
+2024;ciencias-sociais;Pontifícia Universidade Católica de Minas Gerais;MG;26;Privada;7;33.4;43;37.79;;;22;6.35;;;87;1.26;;;65;2.98;17;27.2;;;
+2024;ciencias-sociais;Escola de Ciências Sociais FGV Cpdoc;RJ;27;Privada;40;19.08;14;51.21;;;3;7.84;;;1;8;;;60;3.37;11;32;;;
+2024;ciencias-sociais;Universidade Federal do Ceará;CE;28;Federal;7;33.4;47;36.22;;;58;3.53;;;78;1.96;;;58;3.53;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal do Maranhão;MA;29;Federal;18;28.63;35;40.93;;;70;2.59;;;1;8;;;63;3.14;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de Pelotas;RS;30;Federal;18;28.63;36;40.62;;;55;3.77;;;1;8;;;82;1.65;17;27.2;;;
+2024;ciencias-sociais;Universidade do Vale do Rio dos Sinos;RS;31;Privada;18;28.63;37;40.46;;;33;5.49;;;82;1.65;;;25;6.12;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal do Pará;PA;32;Federal;18;28.63;38;40.45;;;97;0.47;;;1;8;;;42;4.78;17;27.2;;;
+2024;ciencias-sociais;Pontifícia Universidade Católica do Paraná;PR;33;Privada;18;28.63;39;40.06;;;8;7.45;;;89;1.1;;;48;4.31;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal do Amazonas;AM;34;Federal;18;28.63;41;39.2;;;75;2.2;;;1;8;;;80;1.8;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de Uberlândia;MG;35;Federal;40;19.08;17;48.15;;;11;7.22;;;1;8;;;30;5.73;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de Santa Maria;RS;36;Federal;40;19.08;18;46.81;;;45;4.55;;;1;8;;;13;7.06;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal de Juiz de Fora;MG;37;Federal;40;19.08;19;46.34;;;14;6.98;;;1;8;;;50;4.16;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal do Rio Grande do Norte;RN;38;Federal;40;19.08;21;45.24;;;44;4.63;;;1;8;;;34;5.41;17;27.2;;;
+2024;ciencias-sociais;Universidade Estadual de Maringá;PR;38;Estadual;40;19.08;21;45.24;;;16;6.82;;;1;8;;;62;3.22;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal do Espírito Santo;ES;40;Federal;40;19.08;23;45.17;;;24;6.2;;;1;8;;;55;3.77;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal Rural do Rio de Janeiro;RJ;41;Federal;40;19.08;27;44.85;;;57;3.61;;;1;8;;;26;6.04;17;27.2;;;
+2024;ciencias-sociais;Universidade Estadual do Maranhão;MA;42;Estadual;18;28.63;49;32.22;;;76;2.12;;;80;1.8;;;89;1.1;17;27.2;;;
+2024;ciencias-sociais;Fundação Universidade Federal do Tocantins;TO;43;Federal;40;19.08;42;38.73;;;92;0.86;;;1;8;;;69;2.67;17;27.2;;;
+2024;ciencias-sociais;Pontifícia Universidade Católica de Campinas;SP;44;Privada;40;19.08;44;37.47;;;28;5.88;;;98;0.39;;;52;4;17;27.2;;;
+2024;ciencias-sociais;Universidade Estadual de Montes Claros;MG;45;Estadual;40;19.08;45;37.16;;;93;0.78;;;1;8;;;88;1.18;17;27.2;;;
+2024;ciencias-sociais;Fundação Universidade Federal do Vale do São Francisco;PE;46;Federal;40;19.08;46;37.01;;;56;3.69;;;79;1.88;;;49;4.24;17;27.2;;;
+2024;ciencias-sociais;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;47;Estadual;77;3.04;15;51.2;;;1;8;;;1;8;;;1;8;17;27.2;;;
+2024;ciencias-sociais;Universidade do Vale do Itajaí;SC;48;Privada;40;19.08;48;34.81;;;33;5.49;;;96;0.55;;;83;1.57;17;27.2;;;
+2024;ciencias-sociais;Escola Superior de Propaganda e Marketing;SP;49;Privada;40;19.08;50;31.99;;;72;2.43;;;95;0.63;;;81;1.73;17;27.2;;;
+2024;ciencias-sociais;Universidade de Pernambuco;PE;50;Estadual;18;28.63;56;17.57;;;47;4.39;;;1;8;;;37;5.18;;;;;
+2024;ciencias-sociais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;51;Federal;;;31;43.05;;;95;0.63;;;1;8;;;11;7.22;17;27.2;;;
+2024;ciencias-sociais;Universidade Federal do Estado do Rio de Janeiro;RJ;52;Federal;40;19.08;51;22.9;;;2;7.92;;;1;8;;;14;6.98;;;;;
+2024;ciencias-sociais;Universidade Federal do Piauí;PI;53;Federal;18;28.63;74;13.26;;;52;4;;;1;8;;;87;1.26;;;;;
+2024;ciencias-sociais;Universidade Federal de Viçosa;MG;54;Federal;40;19.08;52;22.35;;;15;6.9;;;1;8;;;8;7.45;;;;;
+2024;ciencias-sociais;Universidade Federal de Campina Grande;PB;55;Federal;18;28.63;78;12.55;;;78;1.96;;;1;8;;;70;2.59;;;;;
+2024;ciencias-sociais;Universidade Estadual do Piauí;PI;56;Estadual;18;28.63;85;11.53;;;82;1.65;;;1;8;;;79;1.88;;;;;
+2024;ciencias-sociais;Universidade do Estado do Pará;PA;57;Estadual;18;28.63;92;9.18;;;97;0.47;;;1;8;;;94;0.71;;;;;
+2024;ciencias-sociais;Universidade Estadual do Oeste do Paraná;PR;58;Estadual;40;19.08;54;18.66;;;29;5.8;;;1;8;;;41;4.86;;;;;
+2024;ciencias-sociais;Universidade Federal Rural de Pernambuco;PE;59;Federal;40;19.08;57;17.49;;;65;2.98;;;1;8;;;20;6.51;;;;;
+2024;ciencias-sociais;Universidade Federal de Alfenas;MG;60;Federal;40;19.08;59;16.94;;;63;3.14;;;1;8;;;29;5.8;;;;;
+2024;ciencias-sociais;Universidade Federal de Catalão;GO;61;Federal;40;19.08;60;16.86;;;66;2.9;;;1;8;;;27;5.96;;;;;
+2024;ciencias-sociais;Universidade Cândido Mendes;RJ;62;Privada;40;19.08;61;16.79;;;4;7.77;;;1;8;;;90;1.02;;;;;
+2024;ciencias-sociais;Universidade Federal de Mato Grosso do Sul;MS;63;Federal;40;19.08;63;16;;;83;1.57;;;1;8;;;21;6.43;;;;;
+2024;ciencias-sociais;Universidade do Estado do Rio Grande do Norte;RN;64;Estadual;40;19.08;68;14.27;;;48;4.31;;;1;8;;;78;1.96;;;;;
+2024;ciencias-sociais;Universidade Estadual Vale do Acaraú;CE;65;Estadual;40;19.08;71;13.81;;;89;1.1;;;1;8;;;43;4.71;;;;;
+2024;ciencias-sociais;Universidade Estadual de Santa Cruz;BA;66;Estadual;40;19.08;73;13.64;;;61;3.29;;;1;8;;;73;2.35;;;;;
+2024;ciencias-sociais;Universidade Federal do Recôncavo da Bahia;BA;67;Federal;40;19.08;75;13.17;;;79;1.88;;;1;8;;;61;3.29;;;;;
+2024;ciencias-sociais;Universidade Federal de Roraima;RR;68;Federal;40;19.08;76;13.02;;;97;0.47;;;1;8;;;45;4.55;;;;;
+2024;ciencias-sociais;Universidade Federal do Amapá;AP;69;Federal;40;19.08;80;12.31;;;80;1.8;;;1;8;;;71;2.51;;;;;
+2024;ciencias-sociais;Universidade Estadual do Sudoeste da Bahia;BA;70;Estadual;40;19.08;82;12.08;;;62;3.22;;;1;8;;;92;0.86;;;;;
+2024;ciencias-sociais;Universidade Federal da Fronteira Sul;SC;71;Federal;40;19.08;83;11.85;;;39;5.02;;;81;1.73;;;38;5.1;;;;;
+2024;ciencias-sociais;Universidade Regional do Cariri;CE;72;Estadual;40;19.08;84;11.76;;;91;0.94;;;1;8;;;67;2.82;;;;;
+2024;ciencias-sociais;Universidade de Caxias do Sul;RS;73;Privada;40;19.08;90;10.19;;;33;5.49;;;93;0.78;;;53;3.92;;;;;
+2024;ciencias-sociais;Universidade Estadual da Paraíba;PB;74;Estadual;40;19.08;91;9.88;;;96;0.55;;;1;8;;;86;1.33;;;;;
+2024;ciencias-sociais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;75;Privada;40;19.08;94;7.6;;;27;5.96;;;92;0.86;;;93;0.78;;;;;
+2024;ciencias-sociais;Universidade Federal do Sul e Sudeste do Pará;PA;76;Federal;40;19.08;95;6.98;;;97;0.47;;;77;2.04;;;46;4.47;;;;;
+2024;ciencias-sociais;Universidade Católica de Pernambuco;PE;77;Privada;40;19.08;97;4;;;84;1.49;;;99;0.31;;;75;2.2;;;;;
+2024;ciencias-sociais;Universidade da Amazônia;PA;78;Privada;40;19.08;99;3.06;;;84;1.49;;;86;1.33;;;100;0.24;;;;;
+2024;ciencias-sociais;Universidade Federal da Integração Latino-americana;PR;79;Federal;77;3.04;53;18.74;;;59;3.45;;;1;8;;;10;7.29;;;;;
+2024;ciencias-sociais;Colégio Pedro II;RJ;80;Federal;;;55;18.12;;;53;3.92;;;1;8;;;24;6.2;;;;;
+2024;ciencias-sociais;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;81;Federal;77;3.04;64;14.75;;;63;3.14;;;1;8;;;57;3.61;;;;;
+2024;ciencias-sociais;Universidade Federal de Mato Grosso;MT;82;Federal;77;3.04;65;14.59;;;50;4.16;;;1;8;;;72;2.43;;;;;
+2024;ciencias-sociais;Fundação Universidade Federal da Grande Dourados;MS;83;Federal;;;58;17.41;;;71;2.51;;;1;8;;;15;6.9;;;;;
+2024;ciencias-sociais;Universidade do Estado de Minas Gerais;MG;84;Estadual;77;3.04;71;13.81;;;31;5.65;;;1;8;;;101;0.16;;;;;
+2024;ciencias-sociais;Universidade Federal do Sul da Bahia;BA;85;Federal;;;62;16.71;;;94;0.71;;;1;8;;;1;8;;;;;
+2024;ciencias-sociais;Fundação Universidade Federal do Pampa;RS;86;Federal;;;65;14.59;;;54;3.84;;;1;8;;;68;2.75;;;;;
+2024;ciencias-sociais;Universidade Federal do Oeste do Pará;PA;87;Federal;;;67;14.35;;;97;0.47;;;1;8;;;28;5.88;;;;;
+2024;ciencias-sociais;Fundação Universidade Federal de Rondônia;RO;88;Federal;;;69;14.12;;;81;1.73;;;1;8;;;47;4.39;;;;;
+2024;ciencias-sociais;Faculdade Sesi-SP de Educação;SP;89;Privada;77;3.04;87;11.06;;;72;2.43;;;1;8;;;95;0.63;;;;;
+2024;ciencias-sociais;Universidade do Oeste de Santa Catarina;SC;90;Privada;;;70;14.04;;;33;5.49;;;1;8;;;96;0.55;;;;;
+2024;ciencias-sociais;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;91;Federal;;;77;12.94;;;59;3.45;;;1;8;;;84;1.49;;;;;
+2024;ciencias-sociais;Universidade do Estado de Mato Grosso;MT;92;Estadual;;;79;12.47;;;50;4.16;;;1;8;;;99;0.31;;;;;
+2024;ciencias-sociais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;93;Federal;;;80;12.31;;;66;2.9;;;1;8;;;85;1.41;;;;;
+2024;ciencias-sociais;Universidade Federal do Acre;AC;94;Federal;;;86;11.14;;;90;1.02;;;1;8;;;76;2.12;;;;;
+2024;ciencias-sociais;Universidade Regional de Blumenau;SC;95;Municipal;;;89;11.06;;;13;7.06;;;91;0.94;;;64;3.06;;;;;
+2024;ciencias-sociais;Centro Universitário Internacional;PR;95;Privada;;;87;11.06;;;8;7.45;;;83;1.57;;;77;2.04;;;;;
+2024;ciencias-sociais;Universidade Estadual de Mato Grosso do Sul;MS;97;Estadual;77;3.04;96;6.28;;;69;2.67;;;94;0.71;;;66;2.9;;;;;
+2024;ciencias-sociais;Escola de Sociologia e Política de São Paulo;SP;98;Privada;;;93;8.16;;;72;2.43;;;101;0.16;;;32;5.57;;;;;
+2024;ciencias-sociais;Centro Universitário Tabosa de Almeida;PE;99;Privada;;;98;3.92;;;84;1.49;;;85;1.41;;;90;1.02;;;;;
+2024;ciencias-sociais;Faculdade Republicana;DF;100;Privada;;;100;2.2;;;84;1.49;;;100;0.24;;;97;0.47;;;;;
+2024;ciencias-sociais;Universidade Estadual de Roraima;RR;101;Estadual;;;101;1.88;;;97;0.47;;;90;1.02;;;98;0.39;;;;;
+2024;ciencias-sociais;Centro Universitário do Distrito Federal;DF;102;Privada;;;102;1.65;;;84;1.49;;;102;0.08;;;102;0.08;;;;;
+2025;ciencias-sociais;Universidade de São Paulo;SP;1;Estadual;1;30;1;65.4;;;39;4.96;;;1;8;;;4;7.76;1;40;1;21;4.68
+2025;ciencias-sociais;Universidade Estadual de Campinas;SP;2;Estadual;2;29.66;2;64.65;;;6;7.6;;;1;8;;;17;6.72;2;39.23;2;45;3.1
+2025;ciencias-sociais;Universidade Federal de Minas Gerais;MG;3;Federal;5;28.64;3;63.53;;;5;7.68;;;1;8;;;7;7.52;4;37.69;3;52;2.64
+2025;ciencias-sociais;Universidade Federal do Rio de Janeiro;RJ;4;Federal;5;28.64;4;61.38;;;22;6.32;;;1;8;;;46;4.4;2;39.23;4;40;3.43
+2025;ciencias-sociais;Universidade Federal do Rio Grande do Sul;RS;5;Federal;5;28.64;6;60.87;;;10;7.28;;;1;8;;;19;6.56;5;36.92;5;60;2.11
+2025;ciencias-sociais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;6;Estadual;2;29.66;8;58.15;;;40;4.88;;;1;8;;;5;7.68;11;32.31;6;12;5.28
+2025;ciencias-sociais;Universidade de Brasília;DF;7;Federal;16;24.89;5;60.92;;;19;6.56;;;1;8;;;39;4.96;5;36.92;7;24;4.48
+2025;ciencias-sociais;Universidade Federal Fluminense;RJ;8;Federal;5;28.64;9;57.05;;;24;6.16;;;1;8;;;18;6.64;7;35.39;8;79;0.86
+2025;ciencias-sociais;Universidade Federal de Pernambuco;PE;9;Federal;5;28.64;10;56.56;;;36;5.2;;;1;8;;;41;4.8;7;35.39;9;44;3.17
+2025;ciencias-sociais;Universidade Federal de Santa Catarina;SC;10;Federal;5;28.64;13;55.23;;;16;6.8;;;1;8;;;25;6.08;11;32.31;10;61;2.04
+2025;ciencias-sociais;Universidade Federal do Paraná;PR;11;Federal;25;21.82;7;60.23;;;18;6.64;;;1;8;;;10;7.28;11;32.31;11;1;6
+2025;ciencias-sociais;Universidade Federal de São Carlos;SP;12;Federal;16;24.89;11;55.72;;;23;6.24;;;1;8;;;16;6.8;11;32.31;12;56;2.37
+2025;ciencias-sociais;Universidade do Estado do Rio de Janeiro;RJ;13;Estadual;5;28.64;18;50.67;;;30;5.68;;;82;1.52;;;28;5.84;7;35.39;13;58;2.24
+2025;ciencias-sociais;Universidade Federal da Paraíba;PB;14;Federal;16;24.89;17;51.37;;;47;4.32;;;1;8;;;34;5.36;17;27.69;14;1;6
+2025;ciencias-sociais;Universidade Federal da Bahia;BA;15;Federal;5;28.64;23;47.44;;;17;6.72;;;77;1.92;;;57;3.52;11;32.31;15;47;2.97
+2025;ciencias-sociais;Pontifícia Universidade Católica de São Paulo;SP;16;Privada;2;29.66;25;46;;;41;4.8;;;86;1.2;;;59;3.36;7;35.39;1;73;1.25
+2025;ciencias-sociais;Universidade Estadual de Londrina;PR;17;Estadual;16;24.89;19;50.58;;;27;5.92;;;1;8;;;40;4.88;17;27.69;16;30;4.09
+2025;ciencias-sociais;Universidade Estadual de Maringá;PR;18;Estadual;25;21.82;16;51.93;;;14;6.96;;;1;8;;;60;3.28;17;27.69;17;1;6
+2025;ciencias-sociais;Universidade Federal do Pará;PA;19;Federal;16;24.89;26;45.77;;;95;0.48;;;1;8;;;56;3.6;17;27.69;18;1;6
+2025;ciencias-sociais;Universidade Federal de Uberlândia;MG;20;Federal;25;21.82;20;48.57;;;9;7.36;;;1;8;;;32;5.52;17;27.69;19;;
+2025;ciencias-sociais;Universidade do Estado da Bahia;BA;21;Estadual;5;28.64;34;41.66;;;78;1.84;;;1;8;;;70;2.48;17;27.69;20;67;1.65
+2025;ciencias-sociais;Pontifícia Universidade Católica do Rio Grande do Sul;RS;22;Privada;16;24.89;28;45.31;;;8;7.44;;;88;1.04;;;9;7.36;17;27.69;2;65;1.78
+2025;ciencias-sociais;Universidade Federal de Sergipe;SE;23;Federal;25;21.82;21;48.12;;;38;5.04;;;1;8;;;49;4.16;17;27.69;21;43;3.23
+2025;ciencias-sociais;Universidade Federal de São Paulo;SP;24;Federal;48;13.98;12;55.31;;;15;6.88;;;1;8;;;6;7.6;17;27.69;22;14;5.14
+2025;ciencias-sociais;Universidade do Vale do Rio dos Sinos;RS;25;Privada;16;24.89;30;44.23;;;31;5.6;;;83;1.44;;;30;5.68;17;27.69;3;34;3.82
+2025;ciencias-sociais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;26;Privada;25;21.82;24;46.9;;;4;7.76;;;96;0.4;;;23;6.24;17;27.69;4;19;4.81
+2025;ciencias-sociais;Escola de Ciências Sociais FGV Cpdoc;RJ;27;Privada;48;13.98;14;54;;;3;7.84;;;1;8;;;37;5.12;11;32.31;5;81;0.73
+2025;ciencias-sociais;Pontifícia Universidade Católica do Paraná;PR;28;Privada;25;21.82;27;45.66;;;7;7.52;;;84;1.36;;;36;5.2;17;27.69;6;33;3.89
+2025;ciencias-sociais;Pontifícia Universidade Católica de Minas Gerais;MG;29;Privada;16;24.89;32;42.29;;;20;6.48;;;87;1.12;;;58;3.44;17;27.69;7;38;3.56
+2025;ciencias-sociais;Universidade Federal de Juiz de Fora;MG;30;Federal;48;13.98;15;53.05;;;12;7.12;;;1;8;;;48;4.24;17;27.69;23;1;6
+2025;ciencias-sociais;Universidade Federal de Pelotas;RS;31;Federal;25;21.82;33;41.92;;;53;3.84;;;1;8;;;81;1.6;17;27.69;24;80;0.79
+2025;ciencias-sociais;Universidade Federal de Goiás;GO;32;Federal;5;28.64;40;34.94;;;35;5.28;;;1;8;;;44;4.56;36;13.08;25;31;4.02
+2025;ciencias-sociais;Universidade Federal de Santa Maria;RS;33;Federal;48;13.98;22;47.99;;;43;4.64;;;1;8;;;11;7.2;17;27.69;26;85;0.46
+2025;ciencias-sociais;Universidade Estadual do Ceará;CE;34;Estadual;16;24.89;38;35.48;;;44;4.56;;;1;8;;;53;3.84;36;13.08;27;1;6
+2025;ciencias-sociais;Universidade Federal do Espírito Santo;ES;35;Federal;25;21.82;35;37.8;;;21;6.4;;;1;8;;;47;4.32;36;13.08;28;1;6
+2025;ciencias-sociais;Universidade Federal do Estado do Rio de Janeiro;RJ;36;Federal;25;21.82;37;37.28;;;2;7.92;;;1;8;;;14;6.96;36;13.08;29;72;1.32
+2025;ciencias-sociais;Fundação Universidade Federal do Tocantins;TO;37;Federal;48;13.98;29;44.29;;;89;0.96;;;1;8;;;55;3.68;17;27.69;30;32;3.96
+2025;ciencias-sociais;Pontifícia Universidade Católica de Campinas;SP;38;Privada;48;13.98;31;43.53;;;26;6;;;95;0.48;;;31;5.6;17;27.69;8;35;3.76
+2025;ciencias-sociais;Universidade Federal de Alagoas;AL;39;Federal;25;21.82;42;33.02;;;66;2.8;;;1;8;;;42;4.72;36;13.08;31;25;4.42
+2025;ciencias-sociais;Universidade Federal do Rio Grande do Norte;RN;40;Federal;25;21.82;44;31.89;;;42;4.72;;;1;8;;;43;4.64;36;13.08;32;70;1.45
+2025;ciencias-sociais;Universidade Federal do Maranhão;MA;41;Federal;25;21.82;45;31.68;;;68;2.64;;;1;8;;;65;2.88;36;13.08;33;15;5.08
+2025;ciencias-sociais;Universidade Federal do Ceará;CE;42;Federal;5;28.64;52;24.15;;;56;3.6;;;79;1.76;;;51;4;36;13.08;34;66;1.71
+2025;ciencias-sociais;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;43;Estadual;48;13.98;36;37.34;;;1;8;;;1;8;;;1;8;36;13.08;35;88;0.26
+2025;ciencias-sociais;Universidade Federal do Amazonas;AM;44;Federal;25;21.82;47;28.79;;;77;1.92;;;1;8;;;88;1.04;36;13.08;36;20;4.75
+2025;ciencias-sociais;Universidade do Vale do Itajaí;SC;45;Privada;48;13.98;39;35.05;;;31;5.6;;;90;0.88;;;90;0.88;17;27.69;9;;
+2025;ciencias-sociais;Universidade Federal de Viçosa;MG;46;Federal;25;21.82;50;26.63;;;13;7.04;;;1;8;;;13;7.04;;;37;23;4.55
+2025;ciencias-sociais;Escola Superior de Propaganda e Marketing;SP;47;Privada;25;21.82;54;23.07;;;70;2.48;;;93;0.64;;;77;1.92;36;13.08;10;17;4.95
+2025;ciencias-sociais;Fundação Universidade Federal do Vale do São Francisco;PE;48;Federal;48;13.98;46;30.11;;;54;3.76;;;1;8;;;50;4.08;36;13.08;38;74;1.19
+2025;ciencias-sociais;Universidade Estadual do Maranhão;MA;49;Estadual;25;21.82;58;21.62;;;79;1.76;;;81;1.6;;;89;0.96;36;13.08;39;28;4.22
+2025;ciencias-sociais;Universidade de Pernambuco;PE;50;Estadual;25;21.82;60;19.74;;;45;4.48;;;1;8;;;35;5.28;;;40;62;1.98
+2025;ciencias-sociais;Universidade de Caxias do Sul;RS;51;Privada;48;13.98;48;27.48;;;31;5.6;;;91;0.8;;;1;8;36;13.08;11;;
+2025;ciencias-sociais;Universidade Estadual do Oeste do Paraná;PR;52;Estadual;48;13.98;51;26.08;;;27;5.92;;;1;8;;;24;6.16;;;41;1;6
+2025;ciencias-sociais;Universidade do Estado do Rio Grande do Norte;RN;53;Estadual;25;21.82;67;16.86;;;46;4.4;;;1;8;;;79;1.76;;;42;51;2.7
+2025;ciencias-sociais;Universidade Federal do Piauí;PI;54;Federal;25;21.82;71;15.79;;;50;4.08;;;1;8;;;86;1.2;;;43;54;2.51
+2025;ciencias-sociais;Universidade Federal Rural do Rio de Janeiro;RJ;55;Federal;78;3.75;41;33.26;;;55;3.68;;;1;8;;;22;6.32;36;13.08;44;59;2.18
+2025;ciencias-sociais;Universidade Federal Rural de Pernambuco;PE;56;Federal;48;13.98;56;22.01;;;63;3.04;;;1;8;;;29;5.76;;;45;13;5.21
+2025;ciencias-sociais;Universidade do Estado do Pará;PA;57;Estadual;25;21.82;81;13.57;;;95;0.48;;;1;8;;;91;0.8;;;46;27;4.29
+2025;ciencias-sociais;Universidade Estadual do Piauí;PI;58;Estadual;25;21.82;83;13.05;;;84;1.36;;;1;8;;;78;1.84;;;47;64;1.85
+2025;ciencias-sociais;Universidade Federal de Alfenas;MG;59;Federal;48;13.98;61;19.69;;;61;3.2;;;1;8;;;27;5.92;;;48;53;2.57
+2025;ciencias-sociais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;60;Federal;;;43;32.99;;;93;0.64;;;1;8;;;12;7.12;36;13.08;49;29;4.15
+2025;ciencias-sociais;Universidade Federal de Mato Grosso;MT;61;Federal;48;13.98;62;18.2;;;48;4.24;;;1;8;;;62;3.12;;;50;49;2.84
+2025;ciencias-sociais;Universidade Federal de Roraima;RR;62;Federal;48;13.98;63;17.15;;;95;0.48;;;1;8;;;38;5.04;;;51;37;3.63
+2025;ciencias-sociais;Universidade Estadual do Sudoeste da Bahia;BA;63;Estadual;48;13.98;65;16.99;;;60;3.28;;;1;8;;;84;1.36;;;52;26;4.35
+2025;ciencias-sociais;Universidade Estadual de Montes Claros;MG;64;Estadual;78;3.75;49;26.66;;;91;0.8;;;1;8;;;85;1.28;36;13.08;53;39;3.5
+2025;ciencias-sociais;Universidade Federal do Sul e Sudeste do Pará;PA;65;Federal;48;13.98;70;15.83;;;95;0.48;;;1;8;;;33;5.44;;;54;63;1.91
+2025;ciencias-sociais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;66;Privada;25;21.82;96;7.71;;;25;6.08;;;94;0.56;;;95;0.48;;;12;83;0.59
+2025;ciencias-sociais;Universidade Estadual Vale do Acaraú;CE;67;Estadual;48;13.98;74;15.17;;;86;1.2;;;1;8;;;61;3.2;;;55;50;2.77
+2025;ciencias-sociais;Universidade do Estado de Minas Gerais;MG;68;Estadual;48;13.98;76;15.07;;;29;5.76;;;1;8;;;97;0.32;;;56;77;0.99
+2025;ciencias-sociais;Universidade Estadual de Santa Cruz;BA;69;Estadual;48;13.98;77;14.21;;;59;3.36;;;1;8;;;72;2.32;;;57;84;0.53
+2025;ciencias-sociais;Universidade Federal do Recôncavo da Bahia;BA;70;Federal;48;13.98;79;14.15;;;81;1.6;;;1;8;;;73;2.24;;;58;57;2.31
+2025;ciencias-sociais;Universidade Federal do Amapá;AP;71;Federal;48;13.98;80;14.12;;;82;1.52;;;1;8;;;74;2.16;;;59;55;2.44
+2025;ciencias-sociais;Universidade Federal de Catalão;GO;72;Federal;78;3.75;53;23.84;;;64;2.96;;;1;8;;;15;6.88;;;60;1;6
+2025;ciencias-sociais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;73;Federal;48;13.98;82;13.4;;;64;2.96;;;1;8;;;82;1.52;;;61;78;0.92
+2025;ciencias-sociais;Universidade Estadual da Paraíba;PB;74;Estadual;48;13.98;84;12.89;;;94;0.56;;;1;8;;;93;0.64;;;62;36;3.69
+2025;ciencias-sociais;Universidade Católica de Pernambuco;PE;75;Privada;25;21.82;97;4.88;;;70;2.48;;;97;0.32;;;80;1.68;;;13;86;0.4
+2025;ciencias-sociais;Universidade Federal de Campina Grande;PB;76;Federal;48;13.98;86;12.65;;;80;1.68;;;1;8;;;68;2.64;;;63;87;0.33
+2025;ciencias-sociais;Universidade Federal de Mato Grosso do Sul;MS;77;Federal;48;13.98;87;12.55;;;85;1.28;;;78;1.84;;;21;6.4;;;64;46;3.03
+2025;ciencias-sociais;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;78;Estadual;48;13.98;88;12.48;;;48;4.24;;;1;8;;;98;0.24;;;65;;
+2025;ciencias-sociais;Universidade Estadual de Mato Grosso do Sul;MS;79;Estadual;48;13.98;89;12;;;67;2.72;;;92;0.72;;;69;2.56;;;66;1;6
+2025;ciencias-sociais;Universidade Federal da Fronteira Sul;SC;80;Federal;48;13.98;90;11.94;;;37;5.12;;;80;1.68;;;45;4.48;;;67;82;0.66
+2025;ciencias-sociais;Fundação Universidade Federal da Grande Dourados;MS;81;Federal;78;3.75;55;22.05;;;69;2.56;;;1;8;;;20;6.48;;;68;16;5.01
+2025;ciencias-sociais;Universidade Federal da Integração Latino-americana;PR;82;Federal;78;3.75;57;21.86;;;57;3.52;;;1;8;;;8;7.44;;;69;48;2.9
+2025;ciencias-sociais;Universidade Regional do Cariri;CE;83;Estadual;48;13.98;92;11.44;;;88;1.04;;;1;8;;;71;2.4;;;70;;
+2025;ciencias-sociais;Universidade Federal do Sul da Bahia;BA;84;Federal;78;3.75;59;20.08;;;92;0.72;;;1;8;;;1;8;;;71;41;3.36
+2025;ciencias-sociais;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;85;Federal;78;3.75;75;15.12;;;61;3.2;;;1;8;;;66;2.8;;;72;75;1.12
+2025;ciencias-sociais;Universidade do Oeste de Santa Catarina;SC;86;Privada;78;3.75;78;14.16;;;31;5.6;;;1;8;;;94;0.56;;;14;;
+2025;ciencias-sociais;Universidade Federal do Acre;AC;87;Federal;;;64;17.12;;;87;1.12;;;1;8;;;76;2;;;73;1;6
+2025;ciencias-sociais;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;88;Federal;;;66;16.9;;;57;3.52;;;1;8;;;75;2.08;;;74;42;3.3
+2025;ciencias-sociais;Universidade Federal do Oeste do Pará;PA;89;Federal;;;67;16.86;;;95;0.48;;;1;8;;;54;3.76;;;75;22;4.62
+2025;ciencias-sociais;Colégio Pedro II;RJ;90;Federal;;;69;15.92;;;51;4;;;1;8;;;52;3.92;;;76;;
+2025;ciencias-sociais;Fundação Universidade Federal do Pampa;RS;91;Federal;;;72;15.7;;;52;3.92;;;1;8;;;67;2.72;;;77;76;1.06
+2025;ciencias-sociais;Fundação Universidade Federal de Rondônia;RO;92;Federal;;;73;15.64;;;83;1.44;;;1;8;;;26;6;;;78;89;0.2
+2025;ciencias-sociais;Faculdade Sesi-SP de Educação;SP;93;Privada;78;3.75;93;11.27;;;70;2.48;;;1;8;;;92;0.72;;;15;91;0.07
+2025;ciencias-sociais;Faculdade de Teologia e Ciências de Votuporanga;SP;94;Privada;78;3.75;94;10.56;;;70;2.48;;;1;8;;;100;0.08;;;16;;
+2025;ciencias-sociais;Universidade Regional de Blumenau;SC;95;Municipal;;;85;12.7;;;11;7.2;;;89;0.96;;;64;2.96;;;79;68;1.58
+2025;ciencias-sociais;Universidade Federal do Norte do Tocantins;TO;96;Federal;;;91;11.79;;;89;0.96;;;1;8;;;83;1.44;;;80;71;1.39
+2025;ciencias-sociais;Escola de Sociologia e Política de São Paulo;SP;97;Privada;;;95;10.56;;;70;2.48;;;99;0.16;;;63;3.04;;;17;18;4.88
+2025;ciencias-sociais;Universidade Estadual de Roraima;RR;98;Estadual;78;3.75;100;2.88;;;95;0.48;;;85;1.28;;;87;1.12;;;81;;
+2025;ciencias-sociais;Faculdade Republicana;DF;99;Privada;;;98;4.48;;;70;2.48;;;100;0.08;;;96;0.4;;;18;69;1.52
+2025;ciencias-sociais;Centro Universitário do Distrito Federal;DF;100;Privada;;;99;3.01;;;70;2.48;;;98;0.24;;;99;0.16;;;19;90;0.13

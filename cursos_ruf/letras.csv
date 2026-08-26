@@ -1,0 +1,1436 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;letras;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.25;1;8;70;6.25;;;1;8;1;40;;;;;;;
+2019;letras;Universidade Estadual de Campinas;SP;2;Estadual;2;35.72;2;61.05;24;7.55;12;7.72;;;1;8;2;37.78;;;;;;;
+2019;letras;Universidade Federal de Minas Gerais;MG;3;Federal;6;34.58;3;60.73;8;7.86;37;7.09;;;1;8;2;37.78;;;;;;;
+2019;letras;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.72;4;59.35;14;7.75;87;5.82;;;1;8;2;37.78;;;;;;;
+2019;letras;Universidade Federal Fluminense;RJ;5;Federal;6;34.58;6;53.67;9;7.85;52;6.71;;;1;8;5;31.11;;;;;;;
+2019;letras;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;6;Estadual;2;35.72;9;50.26;4;7.94;70;6.25;;;156;4.96;5;31.11;;;;;;;
+2019;letras;Universidade do Estado do Rio de Janeiro;RJ;7;Estadual;2;35.72;10;49.94;7;7.88;95;5.62;;;137;5.33;5;31.11;;;;;;;
+2019;letras;Pontifícia Universidade Católica de São Paulo;SP;8;Privada;6;34.58;8;50.54;39;7.26;34;7.17;;;154;5;5;31.11;;;;;;;
+2019;letras;Universidade Federal do Rio Grande do Sul;RS;9;Federal;21;30.33;5;54.7;17;7.69;5;7.9;;;1;8;5;31.11;;;;;;;
+2019;letras;Universidade de Brasília;DF;10;Federal;21;30.33;7;51.75;42;7.2;102;5.44;;;1;8;5;31.11;;;;;;;
+2019;letras;Pontifícia Universidade Católica do Rio Grande do Sul;RS;11;Privada;21;30.33;11;47.39;38;7.28;66;6.35;;;251-300;2.65;5;31.11;;;;;;;
+2019;letras;Universidade Federal do Ceará;CE;12;Federal;12;32.88;12;38.98;19;7.65;10;7.77;;;1;8;12;15.56;;;;;;;
+2019;letras;Universidade Federal da Bahia;BA;13;Federal;12;32.88;13;37.48;51;7.03;45;6.89;;;1;8;12;15.56;;;;;;;
+2019;letras;Universidade Federal do Rio Grande do Norte;RN;14;Federal;21;30.33;14;37.36;53;6.99;48;6.81;;;1;8;12;15.56;;;;;;;
+2019;letras;Universidade Federal de Santa Catarina;SC;15;Federal;21;30.33;15;36.64;34;7.36;91;5.72;;;1;8;12;15.56;;;;;;;
+2019;letras;Universidade Federal de Goiás;GO;16;Federal;12;32.88;17;33.98;102;6.04;144;4.38;;;1;8;12;15.56;;;;;;;
+2019;letras;Universidade Federal de Pernambuco;PE;17;Federal;6;34.58;33;22.1;70;6.66;23;7.44;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Uberlândia;MG;18;Federal;62;18.71;16;36.33;37;7.3;101;5.47;;;1;8;12;15.56;;;;;;;
+2019;letras;Universidade Federal de São Paulo;SP;19;Federal;21;30.33;19;23.71;3;7.96;11;7.75;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de São Carlos;SP;20;Federal;21;30.33;20;23.64;12;7.79;7;7.85;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Paraná;PR;21;Federal;21;30.33;21;23.51;25;7.53;2;7.98;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Juiz de Fora;MG;22;Federal;21;30.33;22;23.35;28;7.48;6;7.87;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual de Londrina;PR;23;Estadual;21;30.33;23;23.31;21;7.61;13;7.7;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Espírito Santo;ES;24;Federal;21;30.33;29;22.69;44;7.17;20;7.52;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual de Maringá;PR;25;Estadual;21;30.33;30;22.56;40;7.24;28;7.32;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Maranhão;MA;26;Federal;21;30.33;41;21.44;87;6.33;36;7.11;;;1;8;;;;;;;;;
+2019;letras;Pontifícia Universidade Católica de Minas Gerais;MG;27;Privada;12;32.88;72;17.98;62;6.82;14;7.67;;;201-250;3.49;;;;;;;;;
+2019;letras;Universidade Presbiteriana Mackenzie;SP;28;Privada;6;34.58;91;16.23;29;7.46;80;6;;;251-300;2.77;;;;;;;;;
+2019;letras;Universidade do Vale do Rio dos Sinos;RS;29;Privada;21;30.33;51;20.18;10;7.83;33;7.19;;;146;5.16;;;;;;;;;
+2019;letras;Universidade Federal da Paraíba;PB;30;Federal;21;30.33;52;20.06;41;7.22;126;4.84;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual do Ceará;CE;31;Estadual;6;34.58;102;15.5;181;4.51;92;5.7;;;139;5.29;;;;;;;;;
+2019;letras;Universidade Federal de Alagoas;AL;32;Federal;21;30.33;58;19.17;58;6.89;148;4.28;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Mato Grosso;MT;33;Federal;21;30.33;63;18.58;143;5.24;106;5.34;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Piauí;PI;34;Federal;12;32.88;97;15.83;169;4.74;195;3.09;;;1;8;;;;;;;;;
+2019;letras;Universidade Paulista;SP;35;Privada;12;32.88;106;15.21;148;5.15;100;5.49;;;176;4.57;;;;;;;;;
+2019;letras;Universidade Federal de Sergipe;SE;36;Federal;21;30.33;77;17.12;139;5.32;167;3.8;;;1;8;;;;;;;;;
+2019;letras;Pontifícia Universidade Católica do Rio de Janeiro;RJ;37;Privada;21;30.33;82;16.91;16;7.71;15;7.65;;;301-350;1.55;;;;;;;;;
+2019;letras;Universidade do Grande Rio Professor José de Souza Herdy;RJ;38;Privada;21;30.33;92;16.05;144;5.22;94;5.65;;;145;5.18;;;;;;;;;
+2019;letras;Universidade Católica de Brasília;DF;39;Privada;21;30.33;109;15.1;76;6.54;149;4.25;;;189;4.31;;;;;;;;;
+2019;letras;Universidade Estadual do Piauí;PI;40;Estadual;12;32.88;173;12.54;301-350;2.08;201-250;2.46;;;1;8;;;;;;;;;
+2019;letras;Universidade do Estado da Bahia;BA;41;Estadual;12;32.88;177;12.38;201-250;3.85;180;3.47;;;151;5.06;;;;;;;;;
+2019;letras;Universidade Federal do Pará;PA;42;Federal;21;30.33;126;14.12;201-250;3.61;201-250;2.51;;;1;8;;;;;;;;;
+2019;letras;Universidade Potiguar;RN;43;Privada;21;30.33;133;13.93;64;6.78;194;3.11;;;201-250;4.04;;;;;;;;;
+2019;letras;Universidade Estácio de Sá;RJ;44;Privada;12;32.88;201-250;10.98;251-300;2.49;142;4.43;;;201-250;4.06;;;;;;;;;
+2019;letras;Universidade do Estado do Rio Grande do Norte;RN;45;Estadual;21;30.33;156;13.1;201-250;3.83;251-300;1.27;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Amazonas;AM;46;Federal;21;30.33;170;12.6;301-350;2.02;201-250;2.58;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Viçosa;MG;47;Federal;62;18.71;26;22.96;31;7.42;19;7.54;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Santa Maria;RS;48;Federal;62;18.71;28;22.79;27;7.5;29;7.29;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Brasília;DF;49;Privada;21;30.33;201-250;11.14;15;7.73;;;;;201-250;3.41;;;;;;;;;
+2019;letras;Universidade de Pernambuco;PE;50;Estadual;21;30.33;201-250;10.95;201-250;3.22;201-250;2.79;;;157;4.94;;;;;;;;;
+2019;letras;Centro Universitário Adventista de São Paulo;SP;51;Privada;21;30.33;201-250;10.65;200;4.14;172;3.67;;;251-300;2.84;;;;;;;;;
+2019;letras;Universidade Católica de Pernambuco;PE;52;Privada;21;30.33;201-250;10.42;198;4.18;117;5.06;;;301-350;1.18;;;;;;;;;
+2019;letras;Universidade Federal de Ouro Preto;MG;53;Federal;62;18.71;34;21.92;30;7.44;61;6.48;;;1;8;;;;;;;;;
+2019;letras;Universidade da Amazônia;PA;54;Privada;21;30.33;201-250;10.24;191;4.31;177;3.54;;;251-300;2.39;;;;;;;;;
+2019;letras;Centro Universitário Fundação Santo André;SP;55;Privada;21;30.33;201-250;10.07;141;5.28;140;4.48;;;351-400;0.31;;;;;;;;;
+2019;letras;Universidade Estadual de Goiás;GO;56;Estadual;21;30.33;201-250;9.99;351-400;0.85;251-300;1.14;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual de Ponta Grossa;PR;57;Estadual;62;18.71;42;21.32;66;6.74;57;6.58;;;1;8;;;;;;;;;
+2019;letras;Pontifícia Universidade Católica de Goiás;GO;58;Privada;21;30.33;201-250;9.64;201-250;3.67;153;4.15;;;301-350;1.82;;;;;;;;;
+2019;letras;Universidade Federal Rural do Rio de Janeiro;RJ;59;Federal;62;18.71;43;21.24;5;7.92;107;5.32;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual do Oeste do Paraná;PR;60;Estadual;62;18.71;45;21.19;69;6.68;60;6.51;;;1;8;;;;;;;;;
+2019;letras;Universidade Castelo Branco;RJ;61;Privada;21;30.33;251-300;9.25;171;4.7;179;3.49;;;351-400;1.06;;;;;;;;;
+2019;letras;Universidade Estadual de Santa Cruz;BA;62;Estadual;62;18.71;46;20.58;121;5.67;44;6.91;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Campina Grande;PB;63;Federal;62;18.71;49;20.25;129;5.52;51;6.73;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Roraima;RR;64;Federal;62;18.71;50;20.23;133;5.44;49;6.79;;;1;8;;;;;;;;;
+2019;letras;Universidade do Estado do Pará;PA;65;Estadual;21;30.33;251-300;8.07;251-300;3.15;;;;;158;4.92;;;;;;;;;
+2019;letras;Universidade Estadual do Sudoeste da Bahia;BA;66;Estadual;62;18.71;57;19.48;72;6.62;125;4.86;;;1;8;;;;;;;;;
+2019;letras;Universidade Metodista de São Paulo;SP;67;Privada;21;30.33;301-350;7.37;90;6.27;;;;;351-400;1.1;;;;;;;;;
+2019;letras;Universidade Católica de Santos;SP;68;Privada;62;18.71;61;18.84;55;6.95;56;6.61;;;140;5.28;;;;;;;;;
+2019;letras;Centro Universitário Cesmac;AL;69;Privada;21;30.33;301-350;6.73;251-300;2.85;;;;;201-250;3.88;;;;;;;;;
+2019;letras;Universidade Tiradentes;SE;70;Privada;21;30.33;301-350;6.54;194;4.25;;;;;251-300;2.29;;;;;;;;;
+2019;letras;Universidade do Vale do Taquari;RS;71;Privada;62;18.71;70;18.12;112;5.85;16;7.62;;;172;4.65;;;;;;;;;
+2019;letras;Universidade Estadual do Norte do Paraná;PR;72;Estadual;62;18.71;71;18.06;158;4.95;115;5.11;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual Vale do Acaraú;CE;73;Estadual;21;30.33;301-350;6.37;351-400;1.13;201-250;2.81;;;251-300;2.43;;;;;;;;;
+2019;letras;Universidade Estadual do Maranhão;MA;74;Estadual;21;30.33;301-350;6.24;351-400;1.07;201-250;2.23;;;251-300;2.94;;;;;;;;;
+2019;letras;Centro Universitário Geraldo Di Biase;RJ;75;Privada;62;18.71;73;17.82;80;6.47;17;7.6;;;201-250;3.75;;;;;;;;;
+2019;letras;Universidade Federal Rural de Pernambuco;PE;76;Federal;62;18.71;76;17.22;68;6.7;113;5.17;;;136;5.35;;;;;;;;;
+2019;letras;Universidade São Judas Tadeu;SP;77;Privada;62;18.71;80;16.96;57;6.91;75;6.13;;;201-250;3.92;;;;;;;;;
+2019;letras;Universidade Estadual da Paraíba;PB;78;Estadual;62;18.71;87;16.58;138;5.34;189;3.24;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual de Feira de Santana;BA;79;Estadual;62;18.71;89;16.29;174;4.64;173;3.65;;;1;8;;;;;;;;;
+2019;letras;Pontifícia Universidade Católica do Paraná;PR;80;Privada;62;18.71;95;15.91;113;5.83;32;7.22;;;251-300;2.86;;;;;;;;;
+2019;letras;Universidade de Passo Fundo;RS;81;Privada;62;18.71;96;15.85;111;5.86;62;6.46;;;201-250;3.53;;;;;;;;;
+2019;letras;Universidade Estadual do Paraná;PR;82;Estadual;62;18.71;100;15.71;201-250;3.86;165;3.85;;;1;8;;;;;;;;;
+2019;letras;Universidade do Estado de Mato Grosso;MT;83;Estadual;62;18.71;104;15.33;118;5.73;251-300;1.6;;;1;8;;;;;;;;;
+2019;letras;Universidade de Caxias do Sul;RS;84;Privada;62;18.71;113;14.96;83;6.41;43;6.94;;;301-350;1.61;;;;;;;;;
+2019;letras;Fundação Universidade Federal do Tocantins;TO;85;Federal;62;18.71;115;14.85;176;4.6;201-250;2.25;;;1;8;;;;;;;;;
+2019;letras;Universidade Salgado de Oliveira;RJ;86;Privada;21;30.33;351-400;2.77;301-350;2.1;;;;;351-400;0.67;;;;;;;;;
+2019;letras;Universidade Federal de Mato Grosso do Sul;MS;87;Federal;62;18.71;121;14.36;107;5.94;175;3.6;;;163;4.82;;;;;;;;;
+2019;letras;Universidade Nove de Julho;SP;88;Privada;62;18.71;132;14;60;6.85;201-250;2.91;;;193;4.24;;;;;;;;;
+2019;letras;Universidade Estadual de Montes Claros;MG;89;Estadual;62;18.71;139;13.68;201-250;3.3;201-250;2.38;;;1;8;;;;;;;;;
+2019;letras;Universidade do Estado do Amazonas;AM;90;Estadual;62;18.71;143;13.58;201-250;3.88;201-250;1.7;;;1;8;;;;;;;;;
+2019;letras;Universidade Católica Dom Bosco;MS;91;Privada;62;18.71;144;13.46;167;4.78;123;4.91;;;201-250;3.77;;;;;;;;;
+2019;letras;Pontifícia Universidade Católica de Campinas;SP;92;Privada;62;18.71;151;13.15;77;6.52;63;6.43;;;351-400;0.2;;;;;;;;;
+2019;letras;Universidade do Oeste Paulista;SP;93;Privada;62;18.71;165;12.8;71;6.64;162;3.92;;;251-300;2.24;;;;;;;;;
+2019;letras;Universidade de Sorocaba;SP;94;Privada;62;18.71;171;12.59;135;5.4;116;5.09;;;301-350;2.1;;;;;;;;;
+2019;letras;Centro Universitário das Faculdades Metropolitanas Unidas;SP;95;Privada;62;18.71;175;12.47;165;4.82;93;5.67;;;301-350;1.98;;;;;;;;;
+2019;letras;Universidade de Franca;SP;96;Privada;62;18.71;201-250;11.28;108;5.92;201-250;2.1;;;201-250;3.26;;;;;;;;;
+2019;letras;Universidade Regional de Blumenau;SC;97;Municipal;62;18.71;201-250;11.17;132;5.46;110;5.24;;;351-400;0.47;;;;;;;;;
+2019;letras;Universidade Federal do Estado do Rio de Janeiro;RJ;98;Federal;108;5.67;24;23.24;13;7.77;22;7.47;;;1;8;;;;;;;;;
+2019;letras;Universidade Regional do Cariri;CE;99;Estadual;62;18.71;251-300;9.48;301-350;1.3;301-350;0.18;;;1;8;;;;;;;;;
+2019;letras;Universidade Luterana do Brasil;RS;100;Privada;62;18.71;251-300;8.9;196;4.21;;;;;170;4.69;;;;;;;;;
+2019;letras;Centro Universitário Jorge Amado;BA;101;Privada;62;18.71;251-300;8.89;134;5.42;201-250;2.43;;;351-400;1.04;;;;;;;;;
+2019;letras;Universidade Federal do Triângulo Mineiro;MG;102;Federal;108;5.67;37;21.85;61;6.84;40;7.01;;;1;8;;;;;;;;;
+2019;letras;Universidade do Vale do Itajaí;SC;103;Privada;62;18.71;251-300;8.8;193;4.27;;;;;178;4.53;;;;;;;;;
+2019;letras;Universidade do Estado de Minas Gerais;MG;104;Estadual;62;18.71;251-300;8.78;251-300;2.47;201-250;2.66;;;201-250;3.65;;;;;;;;;
+2019;letras;Faculdade Frassinetti do Recife;PE;105;Privada;62;18.71;251-300;8.05;251-300;2.25;139;4.51;;;301-350;1.29;;;;;;;;;
+2019;letras;Universidade Feevale;RS;106;Privada;108;5.67;46;20.58;82;6.43;74;6.15;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual de Alagoas;AL;107;Estadual;62;18.71;301-350;7.48;301-350;2.04;251-300;0.71;;;168;4.73;;;;;;;;;
+2019;letras;Universidade Católica do Salvador;BA;108;Privada;62;18.71;301-350;6.97;251-300;2.58;174;3.62;;;351-400;0.77;;;;;;;;;
+2019;letras;Faculdade de São Bernardo do Campo - FASB I;SP;109;Privada;;;18;24.36;251-300;2.27;108;5.29;;;301-350;1.24;12;15.56;;;;;;;
+2019;letras;Universidade Federal de São João Del Rei;MG;110;Federal;;;25;23.2;20;7.63;18;7.57;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;111;Federal;;;26;22.96;52;7.01;3;7.95;;;1;8;;;;;;;;;
+2019;letras;Universidade Tecnológica Federal do Paraná;PR;112;Federal;;;31;22.46;54;6.97;21;7.49;;;1;8;;;;;;;;;
+2019;letras;Universidade Cidade de São Paulo;SP;113;Privada;108;5.67;84;16.59;11;7.81;137;4.56;;;194;4.22;;;;;;;;;
+2019;letras;Fundação Universidade Federal de Rondônia;RO;114;Federal;108;5.67;88;16.57;114;5.81;201-250;2.76;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Campos de Andrade;PR;115;Privada;;;32;22.21;45;7.15;38;7.06;;;1;8;;;;;;;;;
+2019;letras;Universidade Cândido Mendes;RJ;116;Privada;62;18.71;351-400;3.3;251-300;2.91;;;;;351-400;0.39;;;;;;;;;
+2019;letras;Universidade Federal de Pelotas;RS;117;Federal;;;35;21.87;35;7.34;59;6.53;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Lavras;MG;117;Federal;;;35;21.87;23;7.57;68;6.3;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Rio Grande;RS;119;Federal;;;38;21.81;50;7.05;50;6.76;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal da Fronteira Sul;SC;120;Federal;;;39;21.68;88;6.31;26;7.37;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Ages;BA;121;Privada;;;40;21.59;86;6.35;31;7.24;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Anhanguera de São Paulo;SP;122;Privada;62;18.71;351-400;2.65;301-350;2.14;;;;;351-400;0.51;;;;;;;;;
+2019;letras;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;123;Federal;;;44;21.2;2;7.98;111;5.22;;;1;8;;;;;;;;;
+2019;letras;Universidade Veiga de Almeida;RJ;124;Privada;108;5.67;103;15.44;75;6.56;53;6.68;;;251-300;2.2;;;;;;;;;
+2019;letras;Universidade do Extremo Sul Catarinense;SC;125;Privada;108;5.67;111;15.06;147;5.17;58;6.56;;;201-250;3.33;;;;;;;;;
+2019;letras;Fundação Universidade Federal do Pampa;RS;126;Federal;;;48;20.3;47;7.11;112;5.19;;;1;8;;;;;;;;;
+2019;letras;Universidade Estadual do Centro Oeste;PR;127;Estadual;;;53;19.89;85;6.37;99;5.52;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Sumaré;SP;128;Privada;;;54;19.81;157;4.97;47;6.84;;;1;8;;;;;;;;;
+2019;letras;Centro Federal de Educação Tecnológica de Minas Gerais;MG;129;Federal;;;55;19.76;46;7.13;134;4.63;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Facvest;SC;130;Privada;;;56;19.57;26;7.52;157;4.05;;;1;8;;;;;;;;;
+2019;letras;Universidade La Salle;RS;131;Privada;108;5.67;137;13.72;32;7.4;178;3.52;;;251-300;2.8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;132;Federal;;;59;19.16;201-250;3.34;8;7.82;;;1;8;;;;;;;;;
+2019;letras;Faculdade de Ciências Humanas de Olinda;PE;133;Privada;108;5.67;146;13.41;201-250;3.24;67;6.33;;;201-250;3.84;;;;;;;;;
+2019;letras;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;134;Federal;;;60;19.03;22;7.59;181;3.44;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;135;Federal;;;62;18.69;127;5.55;4;7.92;;;143;5.22;;;;;;;;;
+2019;letras;Faculdade Projeção de Taguatinga Norte;DF;136;Privada;;;64;18.55;97;6.14;143;4.41;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Recôncavo da Bahia;BA;137;Federal;108;5.67;162;12.87;162;4.87;;;;;1;8;;;;;;;;;
+2019;letras;Universidade Católica de Petrópolis;RJ;138;Privada;108;5.67;163;12.8;168;4.76;64;6.41;;;301-350;1.63;;;;;;;;;
+2019;letras;Universidade Metodista de Piracicaba;SP;139;Privada;108;5.67;167;12.73;99;6.1;84;5.9;;;351-400;0.73;;;;;;;;;
+2019;letras;União das Faculdades dos Grandes Lagos;SP;140;Privada;;;65;18.32;124;5.61;131;4.71;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;141;Federal;;;66;18.31;140;5.3;119;5.01;;;1;8;;;;;;;;;
+2019;letras;Fundação Universidade Federal da Grande Dourados;MS;142;Federal;;;67;18.3;18;7.67;201-250;2.63;;;1;8;;;;;;;;;
+2019;letras;Faculdade de Olinda;PE;143;Privada;;;68;18.26;182;4.49;89;5.77;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;144;Federal;;;69;18.21;105;5.98;150;4.23;;;1;8;;;;;;;;;
+2019;letras;Universidade da Região de Joinville;SC;145;Privada;;;74;17.66;128;5.53;41;6.99;;;147;5.14;;;;;;;;;
+2019;letras;Universidade de Santa Cruz do Sul;RS;146;Privada;;;75;17.48;49;7.07;46;6.86;;;201-250;3.55;;;;;;;;;
+2019;letras;Faculdade Pio Décimo;SE;147;Privada;108;5.67;190;11.59;170;4.72;201-250;1.75;;;148;5.12;;;;;;;;;
+2019;letras;Universidade Federal do Sul e Sudeste do Pará;PA;148;Federal;;;78;17.08;115;5.79;187;3.29;;;1;8;;;;;;;;;
+2019;letras;Universidade de Cuiabá;MT;149;Privada;108;5.67;200;11.35;192;4.29;122;4.94;;;301-350;2.12;;;;;;;;;
+2019;letras;Universidade Santo Amaro;SP;150;Privada;108;5.67;201-250;11.35;161;4.89;198;3.01;;;201-250;3.45;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;151;Federal;;;79;16.98;201-250;4.02;121;4.96;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário da Grande Fortaleza;CE;152;Privada;;;81;16.94;116;5.77;192;3.17;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Municipal de Franca;SP;153;Municipal;;;83;16.77;63;6.8;79;6.03;;;201-250;3.94;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;154;Federal;;;84;16.59;251-300;2.21;65;6.38;;;1;8;;;;;;;;;
+2019;letras;Universidade de Taubaté;SP;154;Municipal;;;84;16.59;201-250;4.08;30;7.27;;;142;5.24;;;;;;;;;
+2019;letras;Universidade Cruzeiro do Sul;SP;156;Privada;;;90;16.27;33;7.38;103;5.42;;;201-250;3.47;;;;;;;;;
+2019;letras;Faculdades Integradas Iesgo;GO;157;Privada;;;93;15.97;81;6.45;251-300;1.52;;;1;8;;;;;;;;;
+2019;letras;Faculdade da Região dos Lagos;RJ;158;Privada;;;94;15.95;201-250;3.2;1;8;;;167;4.75;;;;;;;;;
+2019;letras;Universidade Estadual de Mato Grosso do Sul;MS;159;Estadual;108;5.67;201-250;10.21;79;6.49;201-250;2.13;;;301-350;1.59;;;;;;;;;
+2019;letras;Centro Universitário Euro-americano;DF;160;Privada;;;98;15.82;89;6.29;130;4.73;;;164;4.8;;;;;;;;;
+2019;letras;Centro Universitário Mauá de Brasília;DF;161;Privada;;;99;15.77;92;6.23;120;4.99;;;177;4.55;;;;;;;;;
+2019;letras;Universidade Franciscana;RS;162;Privada;;;101;15.51;119;5.71;129;4.76;;;152;5.04;;;;;;;;;
+2019;letras;Universidade Federal da Integração Latino-americana;PR;163;Federal;;;105;15.32;36;7.32;;;;;1;8;;;;;;;;;
+2019;letras;Universidade do Sul de Santa Catarina;SC;164;Privada;108;5.67;201-250;9.56;149;5.13;;;;;183;4.43;;;;;;;;;
+2019;letras;Universidade Estadual do Rio Grande do Sul;RS;165;Estadual;;;107;15.18;43;7.18;;;;;1;8;;;;;;;;;
+2019;letras;Escola Superior Madre Celeste;PA;165;Privada;;;107;15.18;145;5.2;109;5.27;;;169;4.71;;;;;;;;;
+2019;letras;Centro Universitário Cenecista de Osório;RS;167;Privada;;;110;15.07;142;5.26;86;5.85;;;201-250;3.96;;;;;;;;;
+2019;letras;Centro Universitário da Vitória de Santo Antão;PE;168;Privada;;;112;14.98;137;5.36;251-300;1.62;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Belo Horizonte;MG;169;Privada;;;114;14.95;95;6.18;114;5.14;;;201-250;3.63;;;;;;;;;
+2019;letras;Universidade Federal do Oeste do Pará;PA;170;Federal;;;116;14.82;94;6.19;251-300;0.63;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Itajubá;MG;171;Privada;;;117;14.69;201-250;3.96;27;7.34;;;201-250;3.39;;;;;;;;;
+2019;letras;Faculdade Iseib de Belo Horizonte;MG;172;Privada;;;118;14.66;155;5.01;251-300;1.65;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;173;Federal;;;119;14.63;201-250;3.59;197;3.04;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário do Rio São Francisco;BA;174;Privada;;;120;14.41;251-300;2.31;155;4.1;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Mário Palmério;MG;175;Privada;;;122;14.21;195;4.23;201-250;1.98;;;1;8;;;;;;;;;
+2019;letras;Faculdade de Ciências Sociais Aplicadas de Belo Horizonte;MG;176;Privada;;;123;14.17;201-250;3.63;24;7.42;;;201-250;3.12;;;;;;;;;
+2019;letras;Universidade Federal do Amapá;AP;177;Federal;;;124;14.13;251-300;3.07;196;3.06;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Dom Pedro II;BA;178;Privada;;;125;14.12;98;6.12;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Goiatuba;GO;179;Municipal;;;127;14.1;201-250;4.1;201-250;2;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;180;Federal;;;128;14.08;100;6.08;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Gama e Souza;RJ;180;Privada;;;128;14.08;130;5.5;251-300;0.58;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Fundação de Ensino Octávio Bastos;SP;182;Privada;;;130;14.07;189;4.35;54;6.66;;;251-300;3.06;;;;;;;;;
+2019;letras;Centro Universitário Projeção;DF;183;Privada;;;131;14.02;103;6.02;;;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal de Alfenas;MG;184;Federal;;;134;13.9;109;5.9;;;;;1;8;;;;;;;;;
+2019;letras;Universidade Católica de Pelotas;RS;185;Privada;;;135;13.83;101;6.06;182;3.42;;;187;4.35;;;;;;;;;
+2019;letras;Faculdade Evangélica;DF;186;Privada;;;136;13.75;117;5.75;;;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;187;Federal;;;138;13.69;120;5.69;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade Brasileira Cristã;ES;188;Privada;;;140;13.63;123;5.63;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade Jardins;SE;189;Privada;;;141;13.61;124;5.61;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade da Escada;PE;190;Privada;;;142;13.59;201-250;4.12;251-300;1.47;;;1;8;;;;;;;;;
+2019;letras;Faculdade da Aldeia de Carapicuíba;SP;191;Privada;;;144;13.46;175;4.62;251-300;0.84;;;1;8;;;;;;;;;
+2019;letras;Universidade Federal do Acre;AC;192;Federal;;;147;13.3;251-300;2.54;105;5.37;;;134;5.39;;;;;;;;;
+2019;letras;Universidade Anhanguera;MS;193;Privada;108;5.67;251-300;7.62;251-300;2.37;201-250;2.84;;;251-300;2.41;;;;;;;;;
+2019;letras;Universidade Federal do Sul da Bahia;BA;194;Federal;;;148;13.27;6;7.9;;;;;135;5.37;;;;;;;;;
+2019;letras;Centro Universitário Sagrado Coração;SP;195;Privada;;;149;13.18;104;6;81;5.98;;;301-350;1.2;;;;;;;;;
+2019;letras;Faculdades Integradas de Taquara;RS;196;Privada;;;150;13.15;166;4.8;9;7.8;;;351-400;0.55;;;;;;;;;
+2019;letras;Centro Universitário Planalto do Distrito Federal;DF;197;Privada;;;152;13.13;149;5.13;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade Sesi-SP de Educação;SP;197;Privada;;;152;13.13;149;5.13;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Itop;TO;197;Privada;;;152;13.13;149;5.13;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade São Luís de França;SE;200;Privada;;;155;13.12;301-350;2.12;76;6.1;;;159;4.9;;;;;;;;;
+2019;letras;Faculdade Porto-Alegrense;RS;201;Privada;;;167;12.73;93;6.21;132;4.68;;;301-350;1.84;;;;;;;;;
+2019;letras;Faculdade de Pará de Minas;MG;201;Privada;;;201-250;11.11;251-300;2.56;88;5.8;;;251-300;2.75;;;;;;;;;
+2019;letras;Universidade Federal Rural da Amazônia;PA;201;Federal;;;169;12.66;173;4.66;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade Eficaz;PR;201;Privada;;;172;12.56;178;4.56;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Fluminense;RJ;201;Privada;;;201-250;10.34;301-350;1.32;83;5.92;;;251-300;3.1;;;;;;;;;
+2019;letras;Faculdade Educacional de Medianeira;PR;201;Privada;;;201-250;10.95;201-250;3.32;168;3.77;;;201-250;3.86;;;;;;;;;
+2019;letras;Faculdades Integradas de Fernandópolis;SP;201;Privada;;;198;11.38;251-300;2.74;82;5.95;;;251-300;2.69;;;;;;;;;
+2019;letras;Centro Universitário de Desenvolvimento do Centro-Oeste;GO;201;Privada;;;201-250;10.36;199;4.16;200;2.96;;;201-250;3.24;;;;;;;;;
+2019;letras;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;201;Privada;;;197;11.4;179;4.54;146;4.33;;;251-300;2.53;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;201;Federal;;;201-250;10.81;301-350;1.5;159;4;;;138;5.31;;;;;;;;;
+2019;letras;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;201;Privada;;;201-250;10.41;126;5.57;;;;;162;4.84;;;;;;;;;
+2019;letras;Faculdade de Educação Eliâ;PA;201;Privada;;;201-250;10.76;251-300;2.76;;;;;1;8;;;;;;;;;
+2019;letras;FAE Centro Universitário;PR;201;Privada;;;184;11.95;251-300;2.39;69;6.28;;;201-250;3.28;;;;;;;;;
+2019;letras;Faculdade Metropolitana;RO;201;Privada;;;186;11.8;301-350;1.9;201-250;1.9;;;1;8;;;;;;;;;
+2019;letras;Faculdade Machado de Assis;RJ;201;Privada;;;195;11.45;201-250;4.06;166;3.82;;;201-250;3.57;;;;;;;;;
+2019;letras;Faculdades Integradas Simonsen;RJ;201;Privada;;;192;11.5;65;6.76;251-300;1.54;;;201-250;3.2;;;;;;;;;
+2019;letras;Faculdade Saberes;ES;201;Privada;;;178;12.26;177;4.58;171;3.7;;;201-250;3.98;;;;;;;;;
+2019;letras;Faculdades Integradas Urubupungá;SP;201;Privada;;;188;11.77;251-300;2.45;251-300;1.32;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Votuporanga;SP;201;Privada;;;166;12.78;251-300;3.03;77;6.08;;;201-250;3.67;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;201;Federal;;;176;12.47;183;4.47;;;;;1;8;;;;;;;;;
+2019;letras;Faculdades Integradas Maria Imaculada;SP;201;Privada;;;201-250;11.28;251-300;3.01;191;3.19;;;150;5.08;;;;;;;;;
+2019;letras;Faculdade Brasileira de Tecnologia-SE;SE;201;Privada;;;159;12.99;156;4.99;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário São Miguel;PE;201;Privada;;;185;11.89;146;5.18;201-250;2.71;;;201-250;4;;;;;;;;;
+2019;letras;Faculdades Integradas de Jahu;SP;201;Privada;;;158;13.04;188;4.37;124;4.89;;;201-250;3.78;;;;;;;;;
+2019;letras;Centro Universitário Uni-ban;SP;201;Privada;;;179;12.26;184;4.45;193;3.14;;;171;4.67;;;;;;;;;
+2019;letras;Universidade Estadual do Tocantins;TO;201;Estadual;;;201-250;10.48;401-500;0.18;201-250;2.3;;;1;8;;;;;;;;;
+2019;letras;Faculdade Ages de Senhor do Bonfim;BA;201;Privada;;;201-250;10.64;251-300;2.64;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade do Baixo Parnaíba;MA;201;Privada;;;201-250;10.45;301-350;1.79;251-300;0.66;;;1;8;;;;;;;;;
+2019;letras;Instituto Superior de Educação de São Paulo;SP;201;Privada;;;157;13.08;185;4.43;35;7.14;;;301-350;1.51;;;;;;;;;
+2019;letras;Faculdade Unirb - Aracaju;SE;201;Privada;;;201-250;10.87;251-300;2.87;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade Zacarias de Góes;BA;201;Privada;;;163;12.8;251-300;2.95;201-250;1.85;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Patos de Minas;MG;201;Privada;;;189;11.62;201-250;3.69;73;6.18;;;301-350;1.75;;;;;;;;;
+2019;letras;Faculdade Uniftb;SE;201;Privada;;;201-250;10.95;201-250;3.36;176;3.57;;;201-250;4.02;;;;;;;;;
+2019;letras;Centro Universitário Unifaat;SP;201;Privada;;;181;12.08;74;6.58;158;4.03;;;301-350;1.47;;;;;;;;;
+2019;letras;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;201-250;11.03;96;6.16;201-250;2.2;;;251-300;2.67;;;;;;;;;
+2019;letras;Centro Universitário Fibra;PA;201;Privada;;;192;11.5;153;5.05;201-250;2.33;;;199;4.12;;;;;;;;;
+2019;letras;Centro Universitário Famec;BA;201;Privada;;;201-250;10.74;90;6.27;;;;;181;4.47;;;;;;;;;
+2019;letras;Instituto Superior de Educação Ivoti;RS;201;Privada;;;174;12.52;172;4.68;25;7.39;;;351-400;0.45;;;;;;;;;
+2019;letras;Centro Universitário Barão de Mauá;SP;201;Privada;;;199;11.38;251-300;2.68;96;5.6;;;251-300;3.1;;;;;;;;;
+2019;letras;Universidade Federal Rural do Semi-árido;RN;201;Federal;;;180;12.19;197;4.19;;;;;1;8;;;;;;;;;
+2019;letras;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;160;12.92;201-250;3.53;135;4.61;;;165;4.78;;;;;;;;;
+2019;letras;Centro Universitário das Américas;SP;201;Privada;;;194;11.49;78;6.51;;;;;155;4.98;;;;;;;;;
+2019;letras;Faculdade de Tecnologia Machado de Assis;PR;201;Privada;;;196;11.41;201-250;3.9;118;5.04;;;251-300;2.47;;;;;;;;;
+2019;letras;Faculdade Nova Roma Caruaru;PE;201;Privada;108;5.67;301-350;7.28;301-350;1.24;152;4.18;;;301-350;1.86;;;;;;;;;
+2019;letras;Centro Universitário São Camilo - Espírito Santo;ES;201;Privada;;;201-250;11.01;301-350;1.81;39;7.04;;;251-300;2.16;;;;;;;;;
+2019;letras;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;201;Federal;;;183;12.04;201-250;4.04;;;;;1;8;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;201;Federal;;;161;12.89;201-250;3.79;151;4.2;;;159;4.9;;;;;;;;;
+2019;letras;Faculdade São Sebastião;SP;201;Privada;;;187;11.78;106;5.96;201-250;1.72;;;200;4.1;;;;;;;;;
+2019;letras;Faculdade Assis Gurgacz;PR;201;Privada;;;181;12.08;251-300;2.6;90;5.75;;;201-250;3.73;;;;;;;;;
+2019;letras;Universidade do Estado do Amapá;AP;201;Estadual;;;191;11.55;351-400;0.56;199;2.99;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário de Várzea Grande;MT;251;Privada;;;251-300;9.46;110;5.88;251-300;0.56;;;251-300;3.02;;;;;;;;;
+2019;letras;Faculdade Unina;PR;251;Privada;;;251-300;7.99;136;5.38;;;;;251-300;2.61;;;;;;;;;
+2019;letras;Faculdades Integradas Campo-grandenses;RJ;251;Privada;;;251-300;7.99;159;4.93;201-250;2.73;;;351-400;0.33;;;;;;;;;
+2019;letras;Centro Universitário Estácio de Sergipe;SE;251;Privada;;;251-300;9.24;251-300;2.29;141;4.46;;;251-300;2.49;;;;;;;;;
+2019;letras;Centro Universitário Santa Amélia;PR;251;Privada;;;201-250;9.79;251-300;2.84;136;4.58;;;251-300;2.37;;;;;;;;;
+2019;letras;Centro Universitário do Vale do Jaguaribe;CE;251;Privada;;;201-250;9.8;301-350;1.92;138;4.53;;;201-250;3.35;;;;;;;;;
+2019;letras;Centro Universitário Sant'Anna;SP;251;Privada;;;201-250;10.2;122;5.65;301-350;0.35;;;195;4.2;;;;;;;;;
+2019;letras;Faculdade Ibra de Brasília;DF;251;Privada;;;201-250;9.94;201-250;3.26;154;4.13;;;251-300;2.55;;;;;;;;;
+2019;letras;Centro Universitário Ítalo-brasileiro;SP;251;Privada;;;201-250;9.53;84;6.39;;;;;201-250;3.14;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Sorocaba;SP;251;Privada;;;251-300;8.89;351-400;0.87;97;5.57;;;251-300;2.45;;;;;;;;;
+2019;letras;Faculdade Invest de Ciências e Tecnologia;MT;251;Privada;;;201-250;10.23;251-300;2.23;;;;;1;8;;;;;;;;;
+2019;letras;Universidade de Cruz Alta;RS;251;Privada;;;201-250;9.52;56;6.93;;;;;251-300;2.59;;;;;;;;;
+2019;letras;Abeu - Centro Universitário;RJ;251;Privada;;;251-300;9.49;67;6.72;251-300;1.06;;;301-350;1.71;;;;;;;;;
+2019;letras;Universidade do Planalto Catarinense;SC;251;Privada;;;251-300;8.28;351-400;1.2;104;5.39;;;301-350;1.69;;;;;;;;;
+2019;letras;Instituto de Educação Superior Presidente Kennedy - Centro de Formação de Profissionais de Educação;RN;251;Estadual;;;201-250;10.18;301-350;2.18;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade Unibrasília Sul;DF;251;Privada;;;201-250;10.33;251-300;2.33;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Celso Lisboa;RJ;251;Privada;;;251-300;8.18;201-250;3.92;;;;;192;4.26;;;;;;;;;
+2019;letras;Universidade Brasil;SP;251;Privada;;;251-300;8.42;201-250;3.4;;;;;153;5.02;;;;;;;;;
+2019;letras;Centro Universitário Santa Cruz de Curitiba;PR;251;Privada;;;251-300;9.26;164;4.84;185;3.34;;;351-400;1.08;;;;;;;;;
+2019;letras;Faculdade Santa Fé;MA;251;Privada;;;251-300;8.06;401-500;0.06;;;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Moura Lacerda;SP;251;Privada;;;251-300;8.98;186;4.41;156;4.08;;;351-400;0.49;;;;;;;;;
+2019;letras;Faculdade Anhanguera do Maranhão;MA;251;Privada;;;201-250;10.16;351-400;1.03;98;5.54;;;201-250;3.59;;;;;;;;;
+2019;letras;Faculdade Cultura Inglesa;SP;251;Privada;;;251-300;8.9;201-250;4;;;;;159;4.9;;;;;;;;;
+2019;letras;Centro Universitário de Patos;PB;251;Privada;;;201-250;9.71;251-300;2.7;128;4.79;;;251-300;2.22;;;;;;;;;
+2019;letras;Faculdade de Itaituba;PA;251;Privada;;;251-300;9.31;401-500;0.12;251-300;1.19;;;1;8;;;;;;;;;
+2019;letras;Faculdade Unime de Educação e Comunicação;BA;251;Privada;;;201-250;10.32;201-250;3.38;133;4.66;;;251-300;2.28;;;;;;;;;
+2019;letras;Centro Universitário Padre Anchieta;SP;251;Privada;;;251-300;8.15;201-250;3.71;186;3.32;;;351-400;1.12;;;;;;;;;
+2019;letras;Centro Universitário Ritter dos Reis;RS;251;Privada;;;251-300;9.18;59;6.87;;;;;251-300;2.31;;;;;;;;;
+2019;letras;Centro Universitário Campo Limpo Paulista;SP;251;Privada;;;201-250;9.83;160;4.91;201-250;1.92;;;251-300;3;;;;;;;;;
+2019;letras;Faculdade Anhanguera de São Bernardo;SP;251;Privada;;;201-250;9.57;251-300;2.51;42;6.96;;;401-500;0.1;;;;;;;;;
+2019;letras;Instituto Assis Gurgacz;PR;251;Privada;;;251-300;8.44;201-250;3.94;201-250;2.56;;;301-350;1.94;;;;;;;;;
+2019;letras;Centro Universitário Nossa Senhora do Patrocínio;SP;251;Privada;;;251-300;9.06;301-350;1.57;55;6.63;;;351-400;0.86;;;;;;;;;
+2019;letras;Instituto Superior de Ciências Humanas e Sociais Anísio Teixeira;RJ;251;Privada;;;251-300;9.22;131;5.48;170;3.72;;;401-500;0.02;;;;;;;;;
+2019;letras;Faculdade de Filosofia Ciências E Letras de Macaé;RJ;251;Privada;;;201-250;10.1;201-250;3.52;164;3.87;;;251-300;2.71;;;;;;;;;
+2019;letras;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;251;Federal;;;201-250;9.69;301-350;1.69;;;;;1;8;;;;;;;;;
+2019;letras;Faculdades Fatifajar;PR;251;Privada;;;251-300;8.8;351-400;0.8;;;;;1;8;;;;;;;;;
+2019;letras;Faculdade de Americana;SP;251;Privada;;;201-250;9.81;154;5.03;183;3.39;;;301-350;1.39;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Macapá;AP;251;Privada;;;251-300;8;301-350;1.46;127;4.81;;;301-350;1.73;;;;;;;;;
+2019;letras;Universidade de Gurupi;TO;251;Municipal;;;251-300;9.07;351-400;0.64;251-300;0.43;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Don Domênico;SP;251;Privada;;;251-300;8.45;187;4.39;163;3.9;;;401-500;0.16;;;;;;;;;
+2019;letras;Faculdade de Itapecerica da Serra;SP;251;Privada;;;251-300;9.21;163;4.85;251-300;1.44;;;251-300;2.92;;;;;;;;;
+2019;letras;Centro Universitário Alfredo Nasser;GO;251;Privada;;;251-300;9.18;201-250;3.55;251-300;1.22;;;184;4.41;;;;;;;;;
+2019;letras;Faculdade Lusófona do Rio de Janeiro;RJ;251;Privada;;;251-300;8.83;201-250;3.5;201-250;1.82;;;201-250;3.51;;;;;;;;;
+2019;letras;Faculdade de Ponta Porã;MS;251;Privada;;;251-300;8.26;201-250;3.98;251-300;0.99;;;201-250;3.29;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Belo Horizonte;MG;251;Privada;;;251-300;9.14;251-300;2.99;85;5.87;;;351-400;0.28;;;;;;;;;
+2019;letras;Instituto de Ensino Superior Múltiplo;MA;251;Privada;;;251-300;8.73;201-250;3.75;251-300;0.51;;;181;4.47;;;;;;;;;
+2019;letras;Faculdade de São Vicente;SP;251;Privada;;;251-300;8.16;251-300;2.45;251-300;1.42;;;190;4.29;;;;;;;;;
+2019;letras;Centro de Ensino Superior do Vale São Francisco;PE;251;Municipal;;;251-300;8.73;351-400;0.58;301-350;0.15;;;1;8;;;;;;;;;
+2019;letras;Faculdade de Filosofia Ciências e Letras Dom Bosco;RJ;251;Privada;;;201-250;9.93;301-350;1.85;72;6.2;;;301-350;1.88;;;;;;;;;
+2019;letras;Centro Universitário de Caratinga;MG;251;Privada;;;201-250;9.94;251-300;2.8;201-250;2.53;;;174;4.61;;;;;;;;;
+2019;letras;Faculdade do Sertão do Pajeú;PE;251;Municipal;;;201-250;10.12;351-400;0.45;251-300;1.67;;;1;8;;;;;;;;;
+2019;letras;Centro Universitário Castelo Branco;ES;301;Privada;;;301-350;7.1;301-350;1.98;169;3.75;;;301-350;1.37;;;;;;;;;
+2019;letras;Faculdade Pedro Ii;MG;301;Privada;;;251-300;7.53;201-250;3.73;201-250;2.03;;;301-350;1.77;;;;;;;;;
+2019;letras;Faculdade de Ribeirão Preto;SP;301;Privada;;;251-300;7.78;201-250;3.44;251-300;0.73;;;201-250;3.61;;;;;;;;;
+2019;letras;Faculdade de Presidente Venceslau;SP;301;Privada;;;301-350;5.27;301-350;1.96;;;;;201-250;3.31;;;;;;;;;
+2019;letras;Faculdade Global de Umuarama;PR;301;Privada;;;301-350;6.33;351-400;0.68;147;4.3;;;301-350;1.35;;;;;;;;;
+2019;letras;Instituto Superior de Educação do Vale do Juruena;MT;301;Privada;;;301-350;7.48;251-300;2.97;;;;;179;4.51;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Taboão da Serra;SP;301;Privada;;;301-350;5.31;251-300;2.19;201-250;2.41;;;351-400;0.71;;;;;;;;;
+2019;letras;Faculdade Fortium;DF;301;Privada;;;301-350;6.19;351-400;0.76;301-350;0.23;;;144;5.2;;;;;;;;;
+2019;letras;Centro Regional Universitário de Espírito Santo do Pinhal;SP;301;Privada;;;301-350;5.87;351-400;0.89;160;3.98;;;351-400;1;;;;;;;;;
+2019;letras;Instituto de Ensino Superior do Amapá;AP;301;Privada;;;301-350;5.53;351-400;0.33;251-300;0.61;;;175;4.59;;;;;;;;;
+2019;letras;Faculdade Cnec Alberto Torres;RJ;301;Privada;;;301-350;7.41;180;4.52;201-250;1.87;;;351-400;1.02;;;;;;;;;
+2019;letras;Faculdade de Jandira;SP;301;Privada;;;301-350;5.48;251-300;2.82;301-350;0.33;;;251-300;2.33;;;;;;;;;
+2019;letras;Faculdade Estácio de Carapicuíba;SP;301;Privada;;;301-350;6.1;301-350;1.42;201-250;1.8;;;251-300;2.88;;;;;;;;;
+2019;letras;Universidade Vale do Rio Doce;MG;301;Privada;108;5.67;401-500;1.09;351-400;0.25;;;;;351-400;0.84;;;;;;;;;
+2019;letras;Faculdade do Belo Jardim;PE;301;Municipal;;;301-350;5.65;401-500;0.19;201-250;1.77;;;201-250;3.69;;;;;;;;;
+2019;letras;Faculdades Doctum de Ipatinga;MG;301;Privada;;;301-350;6.33;301-350;1.55;;;;;165;4.78;;;;;;;;;
+2019;letras;Faculdade Madre Tereza;AP;301;Privada;;;301-350;5.38;351-400;0.84;301-350;0.05;;;180;4.49;;;;;;;;;
+2019;letras;Universidade Estadual de Roraima;RR;301;Estadual;;;301-350;6.59;301-350;1.88;301-350;0.38;;;188;4.33;;;;;;;;;
+2019;letras;Faculdade de Ciências e Letras de Bragança Paulista;SP;301;Municipal;;;301-350;7.34;351-400;1.11;78;6.05;;;351-400;0.18;;;;;;;;;
+2019;letras;Faculdade de Vargem Grande Paulista;SP;301;Privada;;;301-350;5.26;201-250;3.28;301-350;0.08;;;301-350;1.9;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Valparaíso;GO;301;Privada;;;301-350;5.14;351-400;0.78;190;3.22;;;351-400;1.14;;;;;;;;;
+2019;letras;Faculdade do Maranhão;MA;301;Privada;;;301-350;5.92;301-350;1.53;;;;;185;4.39;;;;;;;;;
+2019;letras;Centro Universitário de Rondônia;RO;301;Privada;;;301-350;5.89;301-350;1.52;;;;;186;4.37;;;;;;;;;
+2019;letras;Centro Universitário de Presidente Prudente;SP;301;Privada;;;301-350;6.97;201-250;3.81;251-300;0.53;;;251-300;2.63;;;;;;;;;
+2019;letras;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;301;Privada;;;251-300;7.94;251-300;3.05;161;3.95;;;351-400;0.94;;;;;;;;;
+2019;letras;Centro Universitário Metropolitano de São Paulo;SP;301;Privada;;;301-350;7.42;73;6.6;;;;;351-400;0.82;;;;;;;;;
+2019;letras;Faculdade Cgesp Goiânia;GO;301;Privada;;;301-350;6.24;201-250;3.48;251-300;0.68;;;301-350;2.08;;;;;;;;;
+2019;letras;Centro Universitário Assis Gurgacz;PR;301;Privada;;;301-350;6.93;201-250;3.77;;;;;201-250;3.16;;;;;;;;;
+2019;letras;Faculdade Interação Americana;SP;301;Privada;;;251-300;7.98;301-350;1.67;201-250;2.94;;;201-250;3.37;;;;;;;;;
+2019;letras;Faculdade de São Paulo;SP;301;Privada;;;301-350;6.96;301-350;1.77;251-300;1.29;;;201-250;3.9;;;;;;;;;
+2019;letras;Faculdade Fleming;SP;301;Privada;;;301-350;5.65;201-250;3.57;301-350;0.41;;;301-350;1.67;;;;;;;;;
+2019;letras;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;301;Privada;;;251-300;7.97;190;4.33;201-250;2.15;;;301-350;1.49;;;;;;;;;
+2019;letras;Instituto de Ensino Superior de Bauru;SP;301;Privada;;;301-350;6.03;301-350;2.06;251-300;1.01;;;251-300;2.96;;;;;;;;;
+2019;letras;Centro Universitário Teresa D'ávila;SP;301;Privada;;;251-300;7.62;301-350;1.86;145;4.35;;;301-350;1.41;;;;;;;;;
+2019;letras;Faculdade Luso-brasileira;PE;301;Privada;;;301-350;6.66;251-300;2.93;301-350;0.3;;;201-250;3.43;;;;;;;;;
+2019;letras;Instituto Superior de Educação Elvira Dayrell;MG;301;Privada;;;301-350;6.13;351-400;0.74;301-350;0.13;;;141;5.26;;;;;;;;;
+2019;letras;Faculdade Multivix Nova Venécia;ES;301;Privada;;;301-350;5.05;301-350;1.34;;;;;201-250;3.71;;;;;;;;;
+2019;letras;Centro Universitário Maurício de Nassau de Aracaju;SE;301;Privada;;;301-350;7.48;251-300;3.11;251-300;1.39;;;251-300;2.98;;;;;;;;;
+2019;letras;Centro Universitário São José de Itaperuna;RJ;301;Privada;;;301-350;5.93;301-350;1.73;201-250;2.28;;;301-350;1.92;;;;;;;;;
+2019;letras;Faculdade de Sertãozinho;SP;301;Privada;;;251-300;7.49;251-300;2.35;251-300;1.34;;;201-250;3.8;;;;;;;;;
+2019;letras;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;301-350;5.44;351-400;1.05;201-250;2.61;;;301-350;1.78;;;;;;;;;
+2019;letras;Faculdades Integradas do Vale do Ivaí;PR;301;Privada;;;251-300;7.85;251-300;2.52;184;3.37;;;301-350;1.96;;;;;;;;;
+2019;letras;Faculdade Kurios;CE;301;Privada;;;301-350;5.64;351-400;1.01;;;;;173;4.63;;;;;;;;;
+2019;letras;Universidade Alto Vale do Rio do Peixe;SC;301;Privada;;;251-300;7.82;251-300;2.72;;;;;149;5.1;;;;;;;;;
+2019;letras;Centro Universitário Dinâmica das Cataratas;PR;301;Privada;;;251-300;7.93;201-250;3.65;;;;;191;4.28;;;;;;;;;
+2019;letras;Faculdade de Filosofia Ciências e Letras de Alegre;ES;301;Municipal;;;301-350;5.21;351-400;0.6;251-300;1.57;;;251-300;3.04;;;;;;;;;
+2019;letras;Instituto Superior de Educação Sant´Ana;PR;301;Privada;;;301-350;6.99;251-300;2.89;;;;;200;4.1;;;;;;;;;
+2019;letras;Centro Universitário de Tecnologia e Negócios Carlos Drummond de Andrade;SP;301;Privada;;;301-350;7.31;48;7.09;;;;;351-400;0.22;;;;;;;;;
+2019;letras;Faculdade de Suzano;SP;301;Privada;;;301-350;6.28;201-250;3.46;;;;;251-300;2.82;;;;;;;;;
+2019;letras;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;351;Privada;;;301-350;4.88;201-250;3.42;251-300;0.81;;;351-400;0.65;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Cascavel;PR;351;Privada;;;351-400;2.37;351-400;1.17;301-350;0.28;;;351-400;0.92;;;;;;;;;
+2019;letras;Faculdade de Formação de Professores de Serra Talhada;PE;351;Municipal;;;351-400;4.47;301-350;1.48;251-300;0.91;;;301-350;2.08;;;;;;;;;
+2019;letras;Instituto de Ciências Sociais e Humanas;GO;351;Privada;;;351-400;4.46;401-500;0.14;251-300;0.48;;;201-250;3.84;;;;;;;;;
+2019;letras;Centro Universitário Anhangüera;SP;351;Privada;;;351-400;2.7;351-400;0.51;201-250;2.05;;;401-500;0.14;;;;;;;;;
+2019;letras;Faculdades Integradas Regionais de Avaré;SP;351;Municipal;;;351-400;3.67;351-400;0.66;201-250;2.48;;;351-400;0.53;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Anápolis;GO;351;Privada;;;301-350;4.89;301-350;1.65;201-250;2.89;;;351-400;0.35;;;;;;;;;
+2019;letras;Instituto Municipal de Ensino Superior de São Manuel;SP;351;Municipal;;;351-400;2.46;351-400;0.97;251-300;1.49;;;;;;;;;;;;;
+2019;letras;Faculdade de Presidente Epitácio;SP;351;Privada;;;351-400;3.01;301-350;1.59;301-350;0.2;;;301-350;1.22;;;;;;;;;
+2019;letras;Faculdade de Guarantã do Norte;MT;351;Privada;;;351-400;3.65;301-350;1.83;251-300;0.86;;;351-400;0.96;;;;;;;;;
+2019;letras;Faculdade Multivix Serra;ES;351;Privada;;;351-400;4.18;301-350;2;;;;;251-300;2.18;;;;;;;;;
+2019;letras;Faculdade Erich Fromm;DF;351;Privada;;;351-400;2.04;351-400;1.18;301-350;0.25;;;351-400;0.61;;;;;;;;;
+2019;letras;Faculdade Nossa Senhora de Lourdes;BA;351;Privada;;;351-400;4.76;351-400;0.62;;;;;198;4.14;;;;;;;;;
+2019;letras;Faculdades de Dracena;SP;351;Privada;;;351-400;4.73;301-350;2.16;251-300;1.04;;;301-350;1.53;;;;;;;;;
+2019;letras;Faculdade Icesp;DF;351;Privada;;;351-400;2.15;351-400;1.15;;;;;351-400;1;;;;;;;;;
+2019;letras;Universidade Nilton Lins;AM;351;Privada;;;351-400;2.24;351-400;0.72;251-300;0.89;;;351-400;0.63;;;;;;;;;
+2019;letras;Universidade Anhanguera de São Paulo;SP;351;Privada;;;351-400;4.13;301-350;1.4;;;;;251-300;2.73;;;;;;;;;
+2019;letras;Faculdade de Formação de Professores da Mata Sul;PE;351;Municipal;;;351-400;2.47;351-400;0.39;;;;;301-350;2.08;;;;;;;;;
+2019;letras;Faculdade de Ibitinga;SP;351;Privada;;;351-400;4;351-400;0.49;201-250;2.35;;;301-350;1.16;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Taguatinga;DF;351;Privada;;;351-400;4.78;351-400;0.82;188;3.27;;;351-400;0.69;;;;;;;;;
+2019;letras;Centro de Ensino Superior de Vitória;ES;351;Privada;;;351-400;2.72;251-300;2.68;;;;;401-500;0.04;;;;;;;;;
+2019;letras;Faculdade Dom Pedro II de Sergipe;SE;351;Privada;;;351-400;2.43;351-400;0.35;;;;;301-350;2.08;;;;;;;;;
+2019;letras;Faculdade Alvorada Paulista;SP;351;Privada;;;301-350;4.97;301-350;1.75;;;;;201-250;3.22;;;;;;;;;
+2019;letras;Centro Universitário do Vale do Ribeira;SP;351;Privada;;;351-400;4.59;301-350;1.61;201-250;2.86;;;401-500;0.12;;;;;;;;;
+2019;letras;Faculdade de Santo André;SP;351;Privada;;;351-400;4.11;301-350;1.44;201-250;2.08;;;351-400;0.59;;;;;;;;;
+2019;letras;Faculdade Diadema;SP;351;Privada;;;351-400;4.41;251-300;3.13;;;;;301-350;1.28;;;;;;;;;
+2019;letras;Conservatório Brasileiro de Música;RJ;351;Privada;;;351-400;3.61;201-250;3.2;;;;;351-400;0.41;;;;;;;;;
+2019;letras;Centro Universitário do Norte;AM;351;Privada;;;301-350;4.92;251-300;2.78;;;;;251-300;2.14;;;;;;;;;
+2019;letras;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;351;Municipal;;;351-400;4.29;351-400;0.93;251-300;0.79;;;251-300;2.57;;;;;;;;;
+2019;letras;Faculdade Santa Izildinha;SP;351;Privada;;;351-400;4.52;201-250;3.17;;;;;301-350;1.35;;;;;;;;;
+2019;letras;Centro de Ensino Superior de Arcoverde;PE;351;Municipal;;;351-400;2.99;351-400;0.7;251-300;0.94;;;301-350;1.35;;;;;;;;;
+2019;letras;Faculdade de Administração, Ciências, Educação e Letras;PR;351;Privada;;;351-400;4.63;251-300;3.09;251-300;1.11;;;351-400;0.43;;;;;;;;;
+2019;letras;Faculdade de Filosofia, Ciências e Letras de Duque de Caxias;RJ;351;Privada;;;351-400;3.31;251-300;2.41;;;;;351-400;0.9;;;;;;;;;
+2019;letras;Faculdade do Norte de Mato Grosso;MT;351;Privada;;;351-400;2.47;401-500;0.21;;;;;251-300;2.26;;;;;;;;;
+2019;letras;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;351;Privada;;;351-400;3.53;351-400;0.99;301-350;0.03;;;251-300;2.51;;;;;;;;;
+2019;letras;Faculdade JK - Unidade I - Gama;DF;351;Privada;;;351-400;4.67;351-400;0.95;251-300;1.37;;;251-300;2.35;;;;;;;;;
+2019;letras;Faculdade de Guararapes;SP;351;Privada;;;351-400;3.71;301-350;1.71;;;;;301-350;2;;;;;;;;;
+2019;letras;Faculdade de Educação São Luís;SP;351;Privada;;;351-400;4.52;351-400;1.09;201-250;2.68;;;351-400;0.75;;;;;;;;;
+2019;letras;Faculdade Birigui;SP;351;Privada;;;351-400;4.87;301-350;1.63;251-300;0.46;;;251-300;2.78;;;;;;;;;
+2019;letras;Faculdade de Educação Ciências e Letras de Paraíso;TO;351;Municipal;;;351-400;2.32;351-400;0.52;;;;;301-350;1.8;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Osasco;SP;351;Privada;;;351-400;3.93;301-350;1.94;251-300;1.17;;;351-400;0.82;;;;;;;;;
+2019;letras;Centro Universitário da Região da Campanha;RS;351;Privada;;;351-400;2.5;301-350;1.26;251-300;0.96;;;351-400;0.28;;;;;;;;;
+2019;letras;Faculdades Integradas Asmec;MG;351;Privada;;;351-400;4.65;351-400;0.47;;;;;196;4.18;;;;;;;;;
+2019;letras;Faculdade de Ampére;PR;351;Privada;;;351-400;4.51;351-400;0.37;251-300;1.24;;;251-300;2.9;;;;;;;;;
+2019;letras;Centro Universitário de Jales;SP;351;Privada;;;351-400;4.59;351-400;0.43;;;;;197;4.16;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Guarulhos;SP;351;Privada;;;351-400;2.41;301-350;1.28;251-300;0.76;;;351-400;0.37;;;;;;;;;
+2019;letras;Escola Superior Batista do Amazonas;AM;351;Privada;;;351-400;4.54;301-350;1.36;;;;;201-250;3.18;;;;;;;;;
+2019;letras;Faculdades Integradas de Cruzeiro;SP;351;Privada;;;351-400;3.46;251-300;2.64;;;;;351-400;0.82;;;;;;;;;
+2019;letras;Faculdade Anhanguera de Taubaté;SP;351;Privada;;;351-400;4.51;351-400;0.91;201-250;1.95;;;301-350;1.65;;;;;;;;;
+2019;letras;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;351;Municipal;;;351-400;3.4;301-350;1.22;201-250;2.18;;;;;;;;;;;;;
+2019;letras;Faculdade Aberta do Tocantins;TO;401;Privada;;;401-500;0.1;401-500;0.04;;;;;401-500;0.06;;;;;;;;;
+2019;letras;Instituto Superior de Educação de Barretos;SP;401;Privada;;;401-500;0.51;351-400;0.27;;;;;351-400;0.24;;;;;;;;;
+2019;letras;Faculdade Multivix São Mateus;ES;401;Privada;;;401-500;1.74;351-400;0.29;;;;;301-350;1.45;;;;;;;;;
+2019;letras;Faculdade CCI;DF;401;Privada;;;351-400;2;351-400;0.43;;;;;301-350;1.57;;;;;;;;;
+2019;letras;Faculdades Integradas de Diamantino;MT;401;Privada;;;401-500;1.42;401-500;0.16;;;;;301-350;1.26;;;;;;;;;
+2019;letras;Faculdades Famep Unidade Lago da Pedra - MA;MA;401;Privada;;;401-500;0.16;401-500;0.08;;;;;401-500;0.08;;;;;;;;;
+2019;letras;Faculdade de Ciências Humanas do Sertão Central;PE;401;Municipal;;;401-500;0.9;401-500;0.02;;;;;351-400;0.88;;;;;;;;;
+2019;letras;Faculdade Pan Americana;PA;401;Privada;;;401-500;0.39;401-500;0.1;;;;;351-400;0.29;;;;;;;;;
+2019;letras;Centro Universitário Arnaldo Horácio Ferreira;BA;401;Privada;;;401-500;1.74;351-400;0.31;;;;;301-350;1.43;;;;;;;;;
+2019;letras;Faculdade de Tecnologia Ipuc;RS;401;Privada;;;401-500;1.95;301-350;1.38;;;;;351-400;0.57;;;;;;;;;
+2019;letras;Faculdade de Formação de Professores de Araripina;PE;401;Municipal;;;401-500;1.32;401-500;0.23;251-300;1.09;;;;;;;;;;;;;
+2019;letras;Instituto Superior de Educação de Pesqueira;PE;401;Privada;;;401-500;0.64;351-400;0.54;301-350;0.1;;;;;;;;;;;;;
+2023;letras;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.06;24;7.47;19;7.59;;;1;8;1;40;;;;;;;
+2023;letras;Universidade Estadual de Campinas;SP;2;Estadual;2;35.8;3;62.03;53;6.79;2;7.98;;;1;8;2;39.26;;;;;;;
+2023;letras;Universidade Federal de Minas Gerais;MG;3;Federal;5;35.21;2;62.45;29;7.35;8;7.84;;;1;8;2;39.26;;;;;;;
+2023;letras;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.8;4;61.08;75;6.28;21;7.54;;;1;8;2;39.26;;;;;;;
+2023;letras;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.8;5;60;23;7.49;24;7.47;;;1;8;5;37.04;;;;;;;
+2023;letras;Universidade Federal Fluminense;RJ;6;Federal;7;34.81;7;57.42;33;7.26;30;7.34;;;1;8;8;34.82;;;;;;;
+2023;letras;Universidade de Brasília;DF;7;Federal;15;33.23;6;58.44;64;6.54;51;6.86;;;1;8;5;37.04;;;;;;;
+2023;letras;Universidade Federal de Santa Catarina;SC;8;Federal;15;33.23;8;57.32;38;7.14;29;7.36;;;1;8;8;34.82;;;;;;;
+2023;letras;Universidade Federal de Pernambuco;PE;9;Federal;7;34.81;11;55.57;106;5.57;37;7.18;;;1;8;8;34.82;;;;;;;
+2023;letras;Universidade Federal da Bahia;BA;10;Federal;15;33.23;9;56.32;96;5.8;14;7.7;;;1;8;8;34.82;;;;;;;
+2023;letras;Universidade Federal do Rio Grande do Sul;RS;11;Federal;15;33.23;10;55.9;41;7.07;185;3.79;;;1;8;5;37.04;;;;;;;
+2023;letras;Universidade Federal de Goiás;GO;12;Federal;15;33.23;12;55.22;110;5.47;48;6.93;;;1;8;8;34.82;;;;;;;
+2023;letras;Universidade do Estado do Rio de Janeiro;RJ;13;Estadual;5;35.21;15;51.05;44;7;79;6.22;;;201-250;3.01;8;34.82;;;;;;;
+2023;letras;Pontifícia Universidade Católica de São Paulo;SP;14;Privada;7;34.81;19;50.74;104;5.61;10;7.79;;;201-250;2.52;8;34.82;;;;;;;
+2023;letras;Universidade Federal do Ceará;CE;15;Federal;7;34.81;22;50.51;82;6.12;23;7.5;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal de São Carlos;SP;16;Federal;15;33.23;14;51.81;40;7.1;9;7.82;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal do Paraná;PR;17;Federal;15;33.23;16;51.02;48;6.91;35;7.22;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal do Rio Grande do Norte;RN;18;Federal;15;33.23;23;50.51;74;6.31;31;7.31;;;1;8;16;28.89;;;;;;;
+2023;letras;Pontifícia Universidade Católica do Rio Grande do Sul;RS;19;Privada;15;33.23;24;50.33;68;6.45;15;7.68;;;251-300;1.38;8;34.82;;;;;;;
+2023;letras;Universidade Estadual de Londrina;PR;20;Estadual;15;33.23;25;49.22;117;5.31;44;7.02;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal do Maranhão;MA;21;Federal;15;33.23;28;48.48;134;4.92;59;6.67;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Sergipe;SE;22;Federal;15;33.23;30;47.81;89;5.96;134;4.96;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal do Piauí;PI;23;Federal;15;33.23;32;47.15;145;4.66;106;5.6;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Estadual do Ceará;CE;24;Estadual;7;34.81;37;44.97;160;4.31;186;3.77;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Presbiteriana Mackenzie;SP;25;Privada;7;34.81;39;44.6;67;6.47;36;7.2;;;201-250;2.04;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Santa Maria;RS;26;Federal;48;26.7;13;51.94;32;7.28;11;7.77;;;1;8;16;28.89;;;;;;;
+2023;letras;Pontifícia Universidade Católica de Minas Gerais;MG;27;Privada;15;33.23;38;44.82;37;7.17;42;7.06;;;251-300;1.7;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Uberlândia;MG;28;Federal;48;26.7;17;50.83;34;7.24;58;6.7;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Ouro Preto;MG;29;Federal;48;26.7;21;50.55;27;7.4;77;6.26;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal do Pará;PA;30;Federal;15;33.23;42;43.81;147;4.61;201-250;2.31;;;1;8;16;28.89;;;;;;;
+2023;letras;Pontifícia Universidade Católica do Paraná;PR;31;Privada;15;33.23;43;43.66;105;5.59;49;6.9;;;201-250;2.28;16;28.89;;;;;;;
+2023;letras;Pontifícia Universidade Católica do Rio de Janeiro;RJ;32;Privada;15;33.23;44;43.41;88;5.98;7;7.86;;;301-350;0.68;16;28.89;;;;;;;
+2023;letras;Universidade Estadual de Maringá;PR;33;Estadual;48;26.7;26;48.81;95;5.82;84;6.1;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Estadual do Centro Oeste;PR;34;Estadual;48;26.7;27;48.67;91;5.91;94;5.87;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Mato Grosso;MT;35;Federal;48;26.7;29;47.89;121;5.22;98;5.78;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Estadual do Oeste do Paraná;PR;36;Estadual;48;26.7;31;47.33;103;5.64;141;4.8;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Luterana do Brasil;RS;37;Privada;48;26.7;33;46.3;167;4.15;121;5.26;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade do Vale do Rio dos Sinos;RS;38;Privada;48;26.7;34;45.77;54;6.77;39;7.13;;;201-250;2.98;16;28.89;;;;;;;
+2023;letras;Universidade Estadual de Feira de Santana;BA;39;Estadual;48;26.7;35;45.62;135;4.89;183;3.84;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Católica de Pernambuco;PE;40;Privada;15;33.23;52;37.83;154;4.45;196;3.54;;;251-300;0.95;16;28.89;;;;;;;
+2023;letras;Universidade de Caxias do Sul;RS;41;Privada;48;26.7;49;41.6;81;6.15;133;4.98;;;251-300;1.58;16;28.89;;;;;;;
+2023;letras;Universidade do Estado de Mato Grosso;MT;42;Estadual;48;26.7;50;41.52;201-250;2.69;251-300;1.94;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal do Triângulo Mineiro;MG;43;Federal;96;17.21;20;50.66;52;6.82;47;6.95;;;1;8;16;28.89;;;;;;;
+2023;letras;Fundação Universidade Federal de Rondônia;RO;44;Federal;96;17.21;41;43.84;150;4.55;201-250;2.4;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Pelotas;RS;45;Federal;96;17.21;45;42.93;301-350;0.39;104;5.65;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade de Santa Cruz do Sul;RS;46;Privada;96;17.21;47;42.68;94;5.84;71;6.4;;;251-300;1.55;16;28.89;;;;;;;
+2023;letras;Universidade de Passo Fundo;RS;47;Privada;96;17.21;48;42.42;122;5.19;103;5.67;;;201-250;2.67;16;28.89;;;;;;;
+2023;letras;Universidade Federal de São Paulo;SP;48;Federal;15;33.23;56;22.8;26;7.42;28;7.38;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Espírito Santo;ES;49;Federal;15;33.23;68;21.3;78;6.21;41;7.09;;;1;8;;;;;;;;;
+2023;letras;Universidade do Sul de Santa Catarina;SC;50;Privada;96;17.21;53;36.5;192;3.57;201-250;3.38;;;301-350;0.66;16;28.89;;;;;;;
+2023;letras;Faculdade de São Bernardo do Campo - FASB I;SP;51;Privada;96;17.21;54;36.21;251-300;2.13;153;4.53;;;301-350;0.66;16;28.89;;;;;;;
+2023;letras;Universidade Federal de Juiz de Fora;MG;52;Federal;15;33.23;92;18.98;49;6.89;172;4.09;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Alagoas;AL;53;Federal;15;33.23;100;18.31;80;6.17;170;4.14;;;1;8;;;;;;;;;
+2023;letras;Universidade do Estado da Bahia;BA;54;Estadual;7;34.81;139;16.05;128;5.06;201-250;2.99;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Alfenas;MG;55;Federal;;;18;50.77;60;6.63;34;7.25;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade de Pernambuco;PE;56;Estadual;15;33.23;119;17.14;148;4.59;152;4.55;;;1;8;;;;;;;;;
+2023;letras;Universidade Católica de Brasília;DF;57;Privada;48;26.7;57;22.77;1;8;55;6.77;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual do Piauí;PI;58;Estadual;15;33.23;153;15.08;201-250;2.78;163;4.3;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal Rural do Rio de Janeiro;RJ;59;Federal;48;26.7;67;21.31;46;6.96;73;6.35;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal da Paraíba;PB;60;Federal;48;26.7;72;20.55;57;6.7;95;5.85;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual de Ponta Grossa;PR;61;Estadual;48;26.7;81;19.53;113;5.4;83;6.13;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual do Sudoeste da Bahia;BA;62;Estadual;48;26.7;89;19.05;124;5.15;93;5.9;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;63;Federal;;;36;45.61;201-250;2.55;81;6.17;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Estadual de Goiás;GO;64;Estadual;15;33.23;201-250;12.26;201-250;2.23;251-300;2.03;;;1;8;;;;;;;;;
+2023;letras;Universidade do Estado do Pará;PA;65;Estadual;15;33.23;201-250;12.22;201-250;2.53;251-300;1.69;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Adventista de São Paulo;SP;66;Privada;15;33.23;201-250;12.16;165;4.2;131;5.03;;;201-250;2.93;;;;;;;;;
+2023;letras;Universidade Paulista;SP;67;Privada;7;34.81;201-250;10.57;201-250;3.25;109;5.53;;;251-300;1.79;;;;;;;;;
+2023;letras;Universidade Estácio de Sá;RJ;68;Privada;15;33.23;201-250;11.97;1;8;187;3.75;;;301-350;0.22;;;;;;;;;
+2023;letras;Pontifícia Universidade Católica de Goiás;GO;69;Privada;15;33.23;201-250;11.5;146;4.64;164;4.27;;;201-250;2.59;;;;;;;;;
+2023;letras;Universidade Católica de Santos;SP;70;Privada;48;26.7;105;17.98;92;5.89;172;4.09;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Campina Grande;PB;71;Federal;48;26.7;109;17.6;155;4.43;125;5.17;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual Vale do Acaraú;CE;72;Estadual;15;33.23;201-250;10.98;195;3.5;151;4.57;;;201-250;2.91;;;;;;;;;
+2023;letras;Universidade Tiradentes;SE;73;Privada;15;33.23;201-250;10.94;1;8;251-300;1.39;;;251-300;1.55;;;;;;;;;
+2023;letras;Universidade Federal do Acre;AC;74;Federal;;;40;44.14;201-250;3.32;179;3.93;;;1;8;16;28.89;;;;;;;
+2023;letras;Universidade Estadual do Norte do Paraná;PR;75;Estadual;48;26.7;117;17.16;158;4.36;141;4.8;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual do Paraná;PR;76;Estadual;48;26.7;124;16.79;187;3.69;128;5.1;;;1;8;;;;;;;;;
+2023;letras;Fundação Universidade Federal do Tocantins;TO;77;Federal;48;26.7;132;16.57;93;5.87;201-250;2.7;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Ritter dos Reis;RS;78;Privada;;;46;42.92;1;8;157;4.43;;;251-300;1.6;16;28.89;;;;;;;
+2023;letras;Universidade do Grande Rio Professor José de Souza Herdy;RJ;79;Privada;48;26.7;141;15.99;201-250;2.92;129;5.07;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual de Santa Cruz;BA;80;Estadual;48;26.7;156;14.96;176;3.94;201-250;3.02;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;81;Federal;;;51;41.22;201-250;2.64;251-300;1.69;;;1;8;16;28.89;;;;;;;
+2023;letras;Faculdade Pio Décimo;SE;82;Privada;48;26.7;170;14.48;179;3.87;201-250;2.61;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Estado do Rio de Janeiro;RJ;83;Federal;96;17.21;55;23.89;1;8;6;7.89;;;1;8;;;;;;;;;
+2023;letras;Universidade do Oeste de Santa Catarina;SC;84;Privada;48;26.7;173;14.09;201-250;2.71;201-250;3.38;;;1;8;;;;;;;;;
+2023;letras;Universidade Católica Dom Bosco;MS;85;Privada;48;26.7;175;13.91;168;4.13;26;7.43;;;201-250;2.35;;;;;;;;;
+2023;letras;Centro Universitário Geraldo Di Biase;RJ;86;Privada;48;26.7;176;13.84;161;4.29;38;7.15;;;201-250;2.4;;;;;;;;;
+2023;letras;Universidade Estadual da Paraíba;PB;87;Estadual;48;26.7;177;13.8;201-250;2.39;201-250;3.41;;;1;8;;;;;;;;;
+2023;letras;Universidade do Estado do Rio Grande do Norte;RN;88;Estadual;48;26.7;180;13.75;251-300;2.09;191;3.66;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Amazonas;AM;89;Federal;48;26.7;188;13.5;251-300;1.55;178;3.95;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual do Maranhão;MA;90;Estadual;15;33.23;251-300;6.94;251-300;1.58;201-250;2.33;;;201-250;3.03;;;;;;;;;
+2023;letras;Universidade Metodista de São Paulo;SP;91;Privada;15;33.23;251-300;6.91;139;4.8;251-300;1.19;;;251-300;0.92;;;;;;;;;
+2023;letras;Universidade Regional do Cariri;CE;92;Estadual;48;26.7;197;13.09;201-250;2.44;201-250;2.65;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Mato Grosso do Sul;MS;93;Federal;48;26.7;200;13.01;90;5.94;167;4.21;;;201-250;2.86;;;;;;;;;
+2023;letras;Universidade Estadual de Alagoas;AL;94;Estadual;48;26.7;201-250;13;201-250;3.01;251-300;1.99;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Patos de Minas;MG;95;Privada;96;17.21;58;22.38;68;6.45;4;7.93;;;1;8;;;;;;;;;
+2023;letras;Universidade do Oeste Paulista;SP;96;Privada;48;26.7;201-250;12.85;139;4.8;108;5.55;;;201-250;2.5;;;;;;;;;
+2023;letras;Universidade La Salle;RS;97;Privada;96;17.21;59;22.06;1;8;86;6.06;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Viçosa;MG;98;Federal;96;17.21;62;21.95;58;6.68;33;7.27;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de São João Del Rei;MG;99;Federal;96;17.21;63;21.87;77;6.24;17;7.63;;;1;8;;;;;;;;;
+2023;letras;Pontifícia Universidade Católica de Campinas;SP;100;Privada;48;26.7;201-250;12.34;118;5.29;53;6.81;;;301-350;0.24;;;;;;;;;
+2023;letras;Universidade Feevale;RS;101;Privada;96;17.21;64;21.74;55;6.75;45;6.99;;;1;8;;;;;;;;;
+2023;letras;Universidade Regional de Blumenau;SC;102;Municipal;48;26.7;201-250;12.13;161;4.29;60;6.65;;;251-300;1.19;;;;;;;;;
+2023;letras;Universidade do Extremo Sul Catarinense;SC;103;Privada;48;26.7;201-250;11.72;161;4.29;119;5.3;;;201-250;2.13;;;;;;;;;
+2023;letras;Universidade Federal da Integração Latino-americana;PR;104;Federal;96;17.21;69;21.11;36;7.19;92;5.92;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Rio Grande;RS;105;Federal;96;17.21;71;20.9;47;6.93;90;5.97;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal Rural de Pernambuco;PE;106;Federal;96;17.21;73;20.38;42;7.05;118;5.33;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Campos de Andrade;PR;107;Privada;96;17.21;75;20.22;75;6.28;91;5.94;;;1;8;;;;;;;;;
+2023;letras;Universidade Anhembi Morumbi;SP;108;Privada;48;26.7;201-250;10.72;251-300;1.53;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Fundação Santo André;SP;109;Privada;48;26.7;201-250;10.66;184;3.76;82;6.15;;;251-300;0.75;;;;;;;;;
+2023;letras;Universidade Potiguar;RN;110;Privada;48;26.7;251-300;10.24;137;4.85;166;4.23;;;251-300;1.16;;;;;;;;;
+2023;letras;Universidade Federal de Jataí;GO;111;Federal;96;17.21;80;19.72;73;6.33;115;5.39;;;1;8;;;;;;;;;
+2023;letras;Universidade Castelo Branco;RJ;112;Privada;48;26.7;251-300;10.12;201-250;2.97;67;6.49;;;301-350;0.66;;;;;;;;;
+2023;letras;Centro Universitário de Várzea Grande;MT;113;Privada;96;17.21;81;19.53;49;6.89;148;4.64;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Euro-americano;DF;114;Privada;96;17.21;83;19.52;1;8;197;3.52;;;1;8;;;;;;;;;
+2023;letras;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;115;Federal;96;17.21;87;19.37;131;4.99;72;6.38;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário das Faculdades Metropolitanas Unidas;SP;116;Privada;48;26.7;251-300;9.84;201-250;2.5;64;6.56;;;251-300;0.78;;;;;;;;;
+2023;letras;Centro Universitário Jorge Amado;BA;117;Privada;96;17.21;90;19.04;1;8;201-250;3.04;;;1;8;;;;;;;;;
+2023;letras;Faculdade Frassinetti do Recife;PE;118;Privada;48;26.7;251-300;9.18;251-300;1.93;88;6.01;;;251-300;1.24;;;;;;;;;
+2023;letras;Faculdade Anhanguera de Belo Horizonte;MG;119;Privada;96;17.21;101;18.26;1;8;251-300;2.26;;;1;8;;;;;;;;;
+2023;letras;Universidade de Sorocaba;SP;120;Privada;96;17.21;103;18.2;119;5.26;135;4.94;;;1;8;;;;;;;;;
+2023;letras;Universidade do Vale do Taquari;RS;121;Privada;96;17.21;108;17.64;55;6.75;1;8;;;201-250;2.89;;;;;;;;;
+2023;letras;Universidade Federal Rural do Semi-árido;RN;122;Federal;96;17.21;110;17.57;138;4.82;143;4.75;;;1;8;;;;;;;;;
+2023;letras;Fundação Universidade Federal do Pampa;RS;123;Federal;96;17.21;118;17.15;111;5.45;189;3.7;;;1;8;;;;;;;;;
+2023;letras;Universidade Católica do Salvador;BA;124;Privada;48;26.7;251-300;7.57;198;3.43;190;3.68;;;301-350;0.46;;;;;;;;;
+2023;letras;Universidade Federal do Sul e Sudeste do Pará;PA;125;Federal;96;17.21;120;16.99;31;7.3;251-300;1.69;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual de Roraima;RR;126;Estadual;96;17.21;122;16.89;198;3.43;112;5.46;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário do Norte;AM;127;Privada;48;26.7;251-300;7.23;201-250;2.83;251-300;2.29;;;201-250;2.11;;;;;;;;;
+2023;letras;Centro Universitário da Vitória de Santo Antão;PE;128;Privada;96;17.21;128;16.62;131;4.99;192;3.63;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Roraima;RR;129;Federal;96;17.21;131;16.6;123;5.17;201-250;3.43;;;1;8;;;;;;;;;
+2023;letras;Universidade do Estado de Minas Gerais;MG;130;Estadual;96;17.21;135;16.25;201-250;3.04;123;5.21;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Belo Horizonte;MG;131;Privada;96;17.21;140;16;156;4.41;194;3.59;;;1;8;;;;;;;;;
+2023;letras;Universidade da Amazônia;PA;132;Privada;48;26.7;301-350;6.48;201-250;3.06;251-300;1.6;;;251-300;1.82;;;;;;;;;
+2023;letras;Universidade de Franca;SP;133;Privada;96;17.21;144;15.8;61;6.61;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Castelo Branco;ES;134;Privada;96;17.21;147;15.46;115;5.36;251-300;2.1;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Planalto do Distrito Federal;DF;135;Privada;96;17.21;149;15.43;251-300;1.99;113;5.44;;;1;8;;;;;;;;;
+2023;letras;Universidade Veiga de Almeida;RJ;136;Privada;96;17.21;150;15.4;83;6.1;43;7.04;;;201-250;2.26;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;137;Federal;96;17.21;153;15.08;156;4.41;201-250;2.67;;;1;8;;;;;;;;;
+2023;letras;Faculdade Unime de Educação e Comunicação;BA;138;Privada;96;17.21;161;14.79;83;6.1;61;6.63;;;201-250;2.06;;;;;;;;;
+2023;letras;Universidade Federal do Recôncavo da Bahia;BA;139;Federal;96;17.21;164;14.66;180;3.85;201-250;2.81;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Dom Pedro II;BA;140;Privada;96;17.21;165;14.59;68;6.45;301-350;0.14;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual de Montes Claros;MG;141;Estadual;96;17.21;168;14.54;191;3.59;201-250;2.95;;;1;8;;;;;;;;;
+2023;letras;Universidade Anhanguera;MS;142;Privada;96;17.21;169;14.51;83;6.1;87;6.03;;;201-250;2.38;;;;;;;;;
+2023;letras;Universidade São Judas Tadeu;SP;143;Privada;96;17.21;171;14.45;119;5.26;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;144;Privada;96;17.21;182;13.71;149;4.57;57;6.72;;;201-250;2.42;;;;;;;;;
+2023;letras;Universidade Franciscana;RS;145;Privada;96;17.21;185;13.56;129;5.03;102;5.69;;;201-250;2.84;;;;;;;;;
+2023;letras;Faculdade Anhanguera do Maranhão;MA;146;Privada;96;17.21;189;13.49;68;6.45;146;4.69;;;201-250;2.35;;;;;;;;;
+2023;letras;Centro Universitário Sagrado Coração;SP;147;Privada;96;17.21;190;13.47;136;4.87;18;7.61;;;251-300;0.99;;;;;;;;;
+2023;letras;Universidade da Região de Joinville;SC;148;Privada;96;17.21;195;13.11;198;3.43;20;7.57;;;201-250;2.11;;;;;;;;;
+2023;letras;Universidade do Estado do Amazonas;AM;148;Estadual;96;17.21;195;13.11;201-250;2.25;201-250;2.86;;;1;8;;;;;;;;;
+2023;letras;Universidade Cidade de São Paulo;SP;150;Privada;96;17.21;199;13.06;83;6.1;124;5.19;;;251-300;1.77;;;;;;;;;
+2023;letras;Universidade Estadual da Região Tocantina do Maranhão;MA;151;Estadual;96;17.21;201-250;12.94;251-300;1.79;201-250;3.15;;;1;8;;;;;;;;;
+2023;letras;Universidade do Vale do Itajaí;SC;152;Privada;96;17.21;201-250;12.92;201-250;3.27;13;7.73;;;251-300;1.92;;;;;;;;;
+2023;letras;Faculdade de Olinda;PE;153;Privada;96;17.21;201-250;12.86;251-300;1.93;201-250;2.93;;;1;8;;;;;;;;;
+2023;letras;Escola Superior Madre Celeste;PA;154;Privada;48;26.7;301-350;3.25;251-300;1.65;251-300;1.6;;;;;;;;;;;;;
+2023;letras;Universidade Cruzeiro do Sul;SP;155;Privada;96;17.21;201-250;12.29;1;8;201-250;3.2;;;251-300;1.09;;;;;;;;;
+2023;letras;Universidade Santo Amaro;SP;156;Privada;96;17.21;201-250;12.02;144;4.68;154;4.5;;;201-250;2.84;;;;;;;;;
+2023;letras;Universidade de Taubaté;SP;157;Municipal;96;17.21;201-250;11.9;201-250;2.85;74;6.33;;;201-250;2.72;;;;;;;;;
+2023;letras;Centro Universitário Barão de Mauá;SP;158;Privada;96;17.21;201-250;11.8;201-250;2.81;32;7.29;;;251-300;1.7;;;;;;;;;
+2023;letras;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;159;Privada;96;17.21;201-250;11.73;139;4.8;157;4.43;;;201-250;2.5;;;;;;;;;
+2023;letras;Centro Universitário Padre Anchieta;SP;160;Privada;96;17.21;201-250;11.41;165;4.2;76;6.29;;;251-300;0.92;;;;;;;;;
+2023;letras;Centro Universitário Moura Lacerda;SP;161;Privada;96;17.21;201-250;11.33;201-250;2.92;12;7.75;;;301-350;0.66;;;;;;;;;
+2023;letras;Faculdade de Ciências Humanas de Olinda;PE;162;Privada;96;17.21;201-250;10.53;164;4.22;195;3.57;;;201-250;2.74;;;;;;;;;
+2023;letras;Faculdade de Itaituba;PA;163;Privada;96;17.21;201-250;10.37;301-350;0.77;251-300;1.6;;;1;8;;;;;;;;;
+2023;letras;Universidade Alto Vale do Rio do Peixe;SC;164;Privada;96;17.21;251-300;10.11;108;5.52;201-250;3.38;;;251-300;1.21;;;;;;;;;
+2023;letras;Centro Universitário Estácio de São Paulo;SP;165;Privada;96;17.21;251-300;9.85;1;8;251-300;1.19;;;301-350;0.66;;;;;;;;;
+2023;letras;Instituto Superior de Ciências Humanas e Sociais Anísio Teixeira;RJ;166;Privada;96;17.21;251-300;9.68;201-250;2.92;56;6.74;;;301-350;0.02;;;;;;;;;
+2023;letras;Faculdade Anhanguera de São Bernardo;SP;167;Privada;96;17.21;251-300;9.19;;;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual de Mato Grosso do Sul;MS;168;Estadual;96;17.21;251-300;9.18;112;5.43;201-250;2.63;;;251-300;1.12;;;;;;;;;
+2023;letras;Faculdade do Belo Jardim;PE;169;Municipal;96;17.21;251-300;9.04;301-350;0.77;301-350;0.27;;;1;8;;;;;;;;;
+2023;letras;Universidade Católica de Petrópolis;RJ;170;Privada;96;17.21;251-300;8.82;201-250;2.76;105;5.62;;;301-350;0.44;;;;;;;;;
+2023;letras;Centro Universitário São José de Itaperuna;RJ;171;Privada;96;17.21;251-300;8.63;251-300;2.06;139;4.85;;;251-300;1.72;;;;;;;;;
+2023;letras;Centro de Ensino Superior do Vale São Francisco;PE;172;Municipal;96;17.21;251-300;8.53;301-350;0.28;301-350;0.25;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Filosofia Ciências e Letras Dom Bosco;RJ;173;Privada;96;17.21;251-300;8.23;301-350;0.77;65;6.54;;;251-300;0.92;;;;;;;;;
+2023;letras;Centro Universitário Fibra;PA;174;Privada;96;17.21;251-300;7.49;188;3.66;251-300;1.6;;;201-250;2.23;;;;;;;;;
+2023;letras;Centro Universitário de Rondônia;RO;175;Privada;96;17.21;301-350;6.59;251-300;1.93;201-250;3.11;;;251-300;1.55;;;;;;;;;
+2023;letras;Faculdade Lusófona do Rio de Janeiro;RJ;176;Privada;96;17.21;301-350;6.58;194;3.53;301-350;0.21;;;201-250;2.84;;;;;;;;;
+2023;letras;Faculdades Integradas Simonsen;RJ;177;Privada;96;17.21;301-350;5.37;251-300;2.18;201-250;2.49;;;301-350;0.7;;;;;;;;;
+2023;letras;Faculdades Integradas Campo-grandenses;RJ;178;Privada;96;17.21;301-350;4.8;251-300;1.65;201-250;2.88;;;301-350;0.27;;;;;;;;;
+2023;letras;Universidade Federal de Lavras;MG;179;Federal;;;60;21.99;1;8;89;5.99;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual do Rio Grande do Sul;RS;180;Estadual;;;61;21.97;68;6.45;22;7.52;;;1;8;;;;;;;;;
+2023;letras;Universidade Tecnológica Federal do Paraná;PR;181;Federal;;;65;21.64;79;6.19;25;7.45;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário São Camilo - Espírito Santo;ES;182;Privada;96;17.21;301-350;4.2;301-350;0.79;201-250;2.97;;;301-350;0.44;;;;;;;;;
+2023;letras;Centro Universitário das Américas;SP;183;Privada;;;66;21.4;35;7.21;80;6.19;;;1;8;;;;;;;;;
+2023;letras;Universidade Nilton Lins;AM;184;Privada;96;17.21;301-350;4.07;301-350;0.63;251-300;1.6;;;251-300;1.84;;;;;;;;;
+2023;letras;Universidade Metodista de Piracicaba;SP;185;Privada;96;17.21;301-350;3.95;251-300;1.53;201-250;2.42;;;;;;;;;;;;;
+2023;letras;Universidade Federal de Catalão;GO;186;Federal;;;70;20.91;30;7.33;107;5.58;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Agreste de Pernambuco;PE;187;Federal;;;74;20.23;65;6.52;101;5.71;;;1;8;;;;;;;;;
+2023;letras;Fundação Universidade Federal da Grande Dourados;MS;188;Federal;;;76;20.17;49;6.89;120;5.28;;;1;8;;;;;;;;;
+2023;letras;Faculdade Uniftb;SE;189;Privada;96;17.21;301-350;2.92;251-300;1.53;251-300;1.39;;;;;;;;;;;;;
+2023;letras;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;190;Federal;;;77;19.97;109;5.5;68;6.47;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Ciências e Letras de Bragança Paulista;SP;191;Municipal;96;17.21;301-350;2.67;301-350;0.09;201-250;2.58;;;;;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;192;Federal;;;78;19.83;114;5.38;69;6.45;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal da Fronteira Sul;SC;193;Federal;;;79;19.8;59;6.66;126;5.14;;;1;8;;;;;;;;;
+2023;letras;Faculdade Erich Fromm;DF;194;Privada;;;83;19.52;1;8;197;3.52;;;1;8;;;;;;;;;
+2023;letras;Faculdade Cultura Inglesa;SP;195;Privada;;;85;19.49;151;4.52;46;6.97;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Itajubá;MG;196;Privada;;;86;19.45;159;4.34;40;7.11;;;1;8;;;;;;;;;
+2023;letras;Universidade de Gurupi;TO;197;Municipal;96;17.21;301-350;2.09;301-350;0.65;251-300;1.44;;;;;;;;;;;;;
+2023;letras;Centro Universitário Projeção;DF;198;Privada;;;88;19.07;61;6.61;156;4.46;;;1;8;;;;;;;;;
+2023;letras;Universidade Comunitária da Região de Chapecó;SC;199;Privada;;;91;19;201-250;3.34;16;7.66;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal de Rondonópolis;MT;200;Federal;;;93;18.89;125;5.13;99;5.76;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Tecnologia e Negócios Carlos Drummond de Andrade;SP;201;Privada;;;111;17.38;98;5.75;192;3.63;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;201;Federal;;;178;13.79;301-350;0.56;122;5.23;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Estácio de Sergipe;SE;201;Privada;;;151;15.14;98;5.75;251-300;1.39;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;201;Federal;;;103;18.2;116;5.33;138;4.87;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Sant'Anna;SP;201;Privada;;;155;14.99;28;7.37;147;4.66;;;201-250;2.96;;;;;;;;;
+2023;letras;Faculdade Anhanguera de Valparaíso;GO;201;Privada;;;107;17.83;1;8;251-300;1.83;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;201;Federal;;;114;17.19;130;5.01;168;4.18;;;1;8;;;;;;;;;
+2023;letras;Faculdade de São Vicente;SP;201;Privada;;;157;14.94;98;5.75;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Ciências Humanas do Sertão Central;PE;201;Municipal;96;17.21;301-350;0.67;301-350;0.33;301-350;0.34;;;;;;;;;;;;;
+2023;letras;Faculdades Fatifajar;PR;201;Privada;96;17.21;301-350;0.86;301-350;0.09;301-350;0.62;;;301-350;0.15;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;201;Federal;;;113;17.29;196;3.48;97;5.81;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas Maria Imaculada;SP;201;Privada;;;158;14.89;184;3.76;201-250;3.13;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;201;Federal;;;99;18.41;178;3.9;66;6.51;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Santa Cruz de Curitiba;PR;201;Privada;;;112;17.33;61;6.61;201-250;2.72;;;1;8;;;;;;;;;
+2023;letras;Escola Superior Batista do Amazonas;AM;201;Privada;;;152;15.12;201-250;2.64;155;4.48;;;1;8;;;;;;;;;
+2023;letras;Faculdade Ages de Senhor do Bonfim;BA;201;Privada;;;136;16.14;1;8;301-350;0.14;;;1;8;;;;;;;;;
+2023;letras;Universidade do Contestado;SC;201;Privada;;;159;14.84;197;3.46;201-250;3.38;;;1;8;;;;;;;;;
+2023;letras;Instituto Superior de Educação de São Paulo;SP;201;Privada;;;97;18.55;201-250;2.64;5;7.91;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;201;Federal;;;163;14.76;201-250;2.67;172;4.09;;;1;8;;;;;;;;;
+2023;letras;Faculdade Sesi-SP de Educação;SP;201;Privada;;;133;16.55;251-300;1.67;50;6.88;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Amapá;AP;201;Federal;;;146;15.6;201-250;2.48;127;5.12;;;1;8;;;;;;;;;
+2023;letras;Faculdade Anhanguera de Macapá;AP;201;Privada;;;123;16.83;45;6.98;251-300;1.85;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Santa Amélia;PR;201;Privada;;;129;16.62;1;8;301-350;0.62;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal Rural da Amazônia;PA;201;Federal;;;148;15.44;98;5.75;251-300;1.69;;;1;8;;;;;;;;;
+2023;letras;Faculdade Metropolitana;RO;201;Privada;;;142;15.91;139;4.8;201-250;3.11;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Filosofia Ciências e Letras de Alegre;ES;201;Municipal;;;136;16.14;251-300;1.53;62;6.61;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;201;Federal;;;145;15.79;175;3.97;184;3.82;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Fundação de Ensino Octávio Bastos;SP;201;Privada;;;114;17.19;1;8;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;201;Federal;;;98;18.44;181;3.83;62;6.61;;;1;8;;;;;;;;;
+2023;letras;Centro Federal de Educação Tecnológica de Minas Gerais;MG;201;Federal;;;96;18.61;65;6.52;172;4.09;;;1;8;;;;;;;;;
+2023;letras;Faculdade Sant'Ana;PR;201;Privada;;;129;16.62;1;8;301-350;0.62;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;201;Privada;;;126;16.7;43;7.03;52;6.83;;;201-250;2.84;;;;;;;;;
+2023;letras;Universidade do Vale do Sapucaí;MG;201;Privada;;;166;14.58;168;4.13;3;7.95;;;201-250;2.5;;;;;;;;;
+2023;letras;Centro Universitário Carlos Drummond de Andrade;SP;201;Privada;;;172;14.29;126;5.1;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;201;Federal;;;143;15.85;184;3.76;172;4.09;;;1;8;;;;;;;;;
+2023;letras;Faculdade JK - Unidade I - Gama;DF;201;Privada;;;121;16.94;251-300;1.53;27;7.41;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;201;Federal;;;95;18.71;177;3.92;54;6.79;;;1;8;;;;;;;;;
+2023;letras;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;201;Federal;;;106;17.86;39;7.12;201-250;2.74;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Ages;BA;201;Privada;;;127;16.64;1;8;301-350;0.64;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Una;MG;201;Privada;;;101;18.26;1;8;251-300;2.26;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Ideau;RS;201;Privada;;;138;16.07;189;3.64;157;4.43;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Sul da Bahia;BA;201;Federal;;;134;16.35;107;5.54;201-250;2.81;;;1;8;;;;;;;;;
+2023;letras;União das Faculdades dos Grandes Lagos;SP;201;Privada;;;166;14.58;168;4.13;201-250;2.45;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Desenvolvimento do Centro-Oeste;GO;201;Privada;;;174;13.96;168;4.13;251-300;1.83;;;1;8;;;;;;;;;
+2023;letras;Faculdade Estácio de Carapicuíba;SP;201;Privada;;;114;17.19;1;8;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Guarantã do Norte;MT;201;Privada;;;160;14.8;251-300;2.16;148;4.64;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Facvest;SC;201;Privada;;;94;18.82;25;7.44;201-250;3.38;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Oeste do Pará;PA;201;Federal;;;125;16.71;139;4.8;180;3.91;;;1;8;;;;;;;;;
+2023;letras;Faculdade Santa Fé;MA;201;Privada;96;17.21;301-350;1.09;;;301-350;0.43;;;301-350;0.66;;;;;;;;;
+2023;letras;Faculdade Iseib de Belo Horizonte;MG;201;Privada;;;162;14.78;151;4.52;251-300;2.26;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas de Taquara;RS;251;Privada;;;251-300;9.17;151;4.52;157;4.43;;;301-350;0.22;;;;;;;;;
+2023;letras;Faculdade Internacional da Paraíba;PB;251;Privada;;;193;13.24;126;5.1;301-350;0.14;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;251;Privada;;;201-250;10.83;1;8;201-250;2.83;;;;;;;;;;;;;
+2023;letras;Centro Universitário de Caratinga;MG;251;Privada;;;251-300;10.11;201-250;2.37;130;5.05;;;201-250;2.69;;;;;;;;;
+2023;letras;Centro Universitário do Vale do Jaguaribe;CE;251;Privada;;;191;13.36;301-350;0.63;144;4.73;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas Iesgo;GO;251;Privada;;;201-250;11.36;251-300;1.53;251-300;1.83;;;1;8;;;;;;;;;
+2023;letras;Faculdades Doctum de Ipatinga;MG;251;Privada;;;201-250;11.79;251-300;1.53;251-300;2.26;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Alfredo Nasser;GO;251;Privada;;;201-250;12.24;201-250;2.41;251-300;1.83;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Augusto Motta;RJ;251;Privada;;;251-300;9.74;251-300;1.53;301-350;0.21;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Municipal de Franca;SP;251;Municipal;;;201-250;10.56;98;5.75;201-250;2.58;;;201-250;2.23;;;;;;;;;
+2023;letras;FAE Centro Universitário;PR;251;Privada;;;201-250;11.3;201-250;3.29;78;6.24;;;251-300;1.77;;;;;;;;;
+2023;letras;Instituto de Educação Superior Presidente Kennedy - Centro de Formação de Profissionais de Educação;RN;251;Estadual;;;186;13.52;251-300;1.79;188;3.73;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas Potencial;SP;251;Privada;;;251-300;9.11;251-300;1.99;137;4.89;;;201-250;2.23;;;;;;;;;
+2023;letras;Faculdade Unina;PR;251;Privada;;;251-300;10.15;251-300;1.53;301-350;0.62;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;251;Federal;;;184;13.68;251-300;1.79;181;3.89;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Santa Maria da Glória;PR;251;Privada;;;201-250;12.43;201-250;2.37;251-300;2.06;;;1;8;;;;;;;;;
+2023;letras;Universidade Estadual do Tocantins;TO;251;Estadual;;;201-250;10.74;251-300;1.53;251-300;1.21;;;1;8;;;;;;;;;
+2023;letras;Faculdade do Maranhão;MA;251;Privada;;;201-250;11;301-350;0.53;201-250;2.47;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;251-300;8.84;251-300;1.6;96;5.83;;;251-300;1.41;;;;;;;;;
+2023;letras;Universidade do Planalto Catarinense;SC;251;Privada;;;251-300;8.99;201-250;2.97;201-250;3.38;;;201-250;2.64;;;;;;;;;
+2023;letras;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;251;Privada;;;251-300;9.8;182;3.8;171;4.11;;;251-300;1.89;;;;;;;;;
+2023;letras;Instituto de Ensino Superior do Amapá;AP;251;Privada;;;251-300;10.08;301-350;0.37;251-300;1.71;;;1;8;;;;;;;;;
+2023;letras;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;251;Federal;;;179;13.77;301-350;0.95;140;4.82;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas de Jahu;SP;251;Privada;;;201-250;10.8;131;4.99;111;5.49;;;301-350;0.32;;;;;;;;;
+2023;letras;Faculdade de Educação e Tecnologia do Pará;PA;251;Privada;;;201-250;11.13;251-300;1.53;251-300;1.6;;;1;8;;;;;;;;;
+2023;letras;Faculdades Integradas Urubupungá;SP;251;Privada;;;201-250;10.88;251-300;1.69;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Universidade do Estado do Amapá;AP;251;Estadual;;;201-250;12.99;301-350;0.81;168;4.18;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Votuporanga;SP;251;Privada;;;251-300;9.27;201-250;2.46;70;6.42;;;301-350;0.39;;;;;;;;;
+2023;letras;Faculdade São Luís de França;SE;251;Privada;;;201-250;12.61;201-250;3.22;251-300;1.39;;;1;8;;;;;;;;;
+2023;letras;Faculdade Saberes;ES;251;Privada;;;201-250;10.58;201-250;3.22;117;5.35;;;201-250;2.01;;;;;;;;;
+2023;letras;Centro Universitário Dinâmica das Cataratas;PR;251;Privada;;;197;13.09;201-250;3.22;251-300;1.87;;;1;8;;;;;;;;;
+2023;letras;Faculdade Ibra de Brasília;DF;251;Privada;;;201-250;11.75;301-350;0.23;197;3.52;;;1;8;;;;;;;;;
+2023;letras;Faculdade Jardins;SE;251;Privada;;;201-250;12.61;201-250;3.22;251-300;1.39;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Jales;SP;251;Privada;;;251-300;9.42;301-350;0.23;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Teresa D'ávila;SP;251;Privada;;;201-250;10.54;192;3.57;75;6.31;;;301-350;0.66;;;;;;;;;
+2023;letras;Faculdade da Escada;PE;251;Privada;;;201-250;12.65;301-350;0.67;177;3.98;;;1;8;;;;;;;;;
+2023;letras;Universidade Federal do Cariri;CE;251;Federal;;;201-250;12.94;251-300;2.13;201-250;2.81;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário de Goiatuba;GO;251;Municipal;;;181;13.74;201-250;3.36;201-250;2.38;;;1;8;;;;;;;;;
+2023;letras;Faculdade Madre Tereza;AP;251;Privada;;;194;13.23;201-250;3.22;251-300;2.01;;;1;8;;;;;;;;;
+2023;letras;Instituto de Ensino Superior Múltiplo;MA;251;Privada;;;251-300;9.96;251-300;1.53;301-350;0.43;;;1;8;;;;;;;;;
+2023;letras;Faculdade do Sertão do Pajeú;PE;251;Municipal;;;251-300;8.82;301-350;0.16;301-350;0.66;;;1;8;;;;;;;;;
+2023;letras;Faculdade do Baixo Parnaíba;MA;251;Privada;;;201-250;10.29;251-300;1.86;301-350;0.43;;;1;8;;;;;;;;;
+2023;letras;Instituto de Ensino Superior de Bauru;SP;251;Privada;;;201-250;11.56;201-250;2.37;251-300;1.19;;;1;8;;;;;;;;;
+2023;letras;Instituto de Ciências Sociais e Humanas;GO;251;Privada;;;251-300;10.02;301-350;0.19;251-300;1.83;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário do Rio São Francisco;BA;251;Privada;;;251-300;9.67;251-300;1.53;301-350;0.14;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Assis Gurgacz;PR;251;Privada;;;251-300;9.59;251-300;1.53;110;5.51;;;201-250;2.55;;;;;;;;;
+2023;letras;Centro Universitário Celso Lisboa;RJ;251;Privada;;;183;13.7;182;3.8;251-300;1.9;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário Gama e Souza;RJ;251;Privada;;;201-250;12.34;168;4.13;301-350;0.21;;;1;8;;;;;;;;;
+2023;letras;Faculdade Unirb - Aracaju;SE;251;Privada;;;186;13.52;168;4.13;251-300;1.39;;;1;8;;;;;;;;;
+2023;letras;Centro Universitário São Miguel;PE;251;Privada;;;192;13.26;251-300;2.2;201-250;3.06;;;1;8;;;;;;;;;
+2023;letras;Faculdade Invest de Ciências e Tecnologia;MT;301;Privada;;;251-300;7.35;251-300;1.79;148;4.64;;;251-300;0.92;;;;;;;;;
+2023;letras;Faculdades Integradas Regionais de Avaré;SP;301;Municipal;;;301-350;4.11;251-300;1.53;201-250;2.58;;;;;;;;;;;;;
+2023;letras;Instituto Municipal de Ensino Superior de São Manuel;SP;301;Municipal;;;301-350;3.44;301-350;0.86;201-250;2.58;;;;;;;;;;;;;
+2023;letras;Faculdade de Ciências Humanas;SP;301;Privada;;;301-350;4.27;251-300;1.53;251-300;1.19;;;251-300;1.55;;;;;;;;;
+2023;letras;Centro Universitário Mário Palmério;MG;301;Privada;;;251-300;6.94;251-300;2.04;251-300;2.26;;;201-250;2.64;;;;;;;;;
+2023;letras;Faculdades Famep Unidade Lago da Pedra - MA;MA;301;Privada;;;251-300;8.69;301-350;0.26;301-350;0.43;;;1;8;;;;;;;;;
+2023;letras;Faculdade de Formação de Professores de Serra Talhada;PE;301;Municipal;;;301-350;3.71;301-350;0.63;301-350;0.73;;;201-250;2.35;;;;;;;;;
+2023;letras;Centro Universitário Sumaré;SP;301;Privada;;;301-350;5.27;251-300;1.83;201-250;2.35;;;251-300;1.09;;;;;;;;;
+2023;letras;Instituto Superior de Educação Elvira Dayrell;MG;301;Privada;;;301-350;4.02;301-350;0.14;251-300;2.26;;;251-300;1.62;;;;;;;;;
+2023;letras;Centro Universitário do Distrito Federal;DF;301;Privada;;;251-300;8.47;189;3.64;197;3.52;;;251-300;1.31;;;;;;;;;
+2023;letras;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;301;Privada;;;251-300;6.95;251-300;1.53;114;5.42;;;;;;;;;;;;;
+2023;letras;Centro Universitário Fieo;SP;301;Privada;;;301-350;2.81;301-350;0.53;251-300;1.19;;;251-300;1.09;;;;;;;;;
+2023;letras;Centro Universitário Unifaat;SP;301;Privada;;;251-300;8.51;97;5.77;251-300;1.19;;;251-300;1.55;;;;;;;;;
+2023;letras;Centro Universitário de Patos;PB;301;Privada;;;301-350;1.19;301-350;0.88;301-350;0.14;;;301-350;0.17;;;;;;;;;
+2023;letras;Centro Universitário Cenecista de Osório;RS;301;Privada;;;301-350;5.96;251-300;1.53;157;4.43;;;;;;;;;;;;;
+2023;letras;Faculdade Pedro Ii;MG;301;Privada;;;301-350;5.48;201-250;3.22;251-300;2.26;;;;;;;;;;;;;
+2023;letras;Faculdade de Educação Ciências e Letras de Paraíso;TO;301;Municipal;;;301-350;3.47;301-350;0.02;251-300;1.44;;;201-250;2.01;;;;;;;;;
+2023;letras;Faculdade Educacional de Medianeira;PR;301;Privada;;;301-350;3.92;251-300;1.99;301-350;0.62;;;251-300;1.31;;;;;;;;;
+2023;letras;Centro Universitário Nossa Senhora do Patrocínio;SP;301;Privada;;;251-300;8.21;83;6.1;251-300;1.19;;;251-300;0.92;;;;;;;;;
+2023;letras;Faculdade de Educação Superior de Pernambuco - FAESPE;PE;301;Privada;;;301-350;2.86;301-350;0.53;301-350;0.32;;;201-250;2.01;;;;;;;;;
+2023;letras;Faculdade Eficaz;PR;301;Privada;;;301-350;4.74;201-250;2.76;301-350;0.62;;;251-300;1.36;;;;;;;;;
+2023;letras;Instituto Superior de Educação Ivoti;RS;301;Privada;;;251-300;7.76;201-250;2.99;157;4.43;;;301-350;0.34;;;;;;;;;
+2023;letras;Faculdade de Americana;SP;301;Privada;;;251-300;7.99;251-300;1.53;116;5.37;;;251-300;1.09;;;;;;;;;
+2023;letras;Faculdade Assis Gurgacz;PR;301;Privada;;;301-350;4.23;201-250;2.64;301-350;0.62;;;251-300;0.97;;;;;;;;;
+2023;letras;Centro Universitário Don Domênico;SP;301;Privada;;;301-350;5.64;168;4.13;251-300;1.19;;;301-350;0.32;;;;;;;;;
+2023;letras;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;301;Municipal;;;301-350;5.46;251-300;1.53;251-300;1.92;;;201-250;2.01;;;;;;;;;
+2023;letras;Centro Universitário Fluminense;RJ;301;Privada;;;301-350;4.21;301-350;0.93;301-350;0.69;;;201-250;2.59;;;;;;;;;
+2023;letras;Centro Universitário da Grande Fortaleza;CE;301;Privada;;;251-300;7.81;251-300;1.53;144;4.73;;;251-300;1.55;;;;;;;;;
+2023;letras;Centro Universitário Campo Limpo Paulista;SP;301;Privada;;;251-300;7.8;251-300;1.53;136;4.91;;;251-300;1.36;;;;;;;;;
+2023;letras;Faculdade Brasileira de Tecnologia-SE;SE;301;Privada;;;301-350;1.39;;;251-300;1.39;;;;;;;;;;;;;
+2023;letras;Centro de Ensino Superior de Vitória;ES;301;Privada;;;301-350;3.75;251-300;1.53;251-300;2.1;;;301-350;0.12;;;;;;;;;
+2023;letras;Faculdade de Formação de Professores da Mata Sul;PE;301;Municipal;;;301-350;0.51;301-350;0.05;301-350;0.46;;;;;;;;;;;;;
+2023;letras;Faculdade Cgesp Goiânia;GO;301;Privada;;;251-300;7.47;201-250;3.22;165;4.25;;;;;;;;;;;;;
+2023;letras;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;301-350;4.63;301-350;0.7;182;3.86;;;301-350;0.07;;;;;;;;;
+2023;letras;Centro Universitário Arnaldo Horácio Ferreira;BA;301;Privada;;;301-350;0.8;301-350;0.3;301-350;0.14;;;301-350;0.36;;;;;;;;;
+2023;letras;Faculdade Luso-brasileira;PE;301;Privada;;;301-350;3.85;201-250;2.27;301-350;0.32;;;251-300;1.26;;;;;;;;;
+2023;letras;Centro Regional Universitário de Espírito Santo do Pinhal;SP;301;Privada;;;301-350;6.74;301-350;0.9;100;5.74;;;301-350;0.1;;;;;;;;;
+2023;letras;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;301;Privada;;;301-350;4.91;251-300;1.53;201-250;3.38;;;;;;;;;;;;;
+2023;letras;Faculdade Brasileira Cristã;ES;301;Privada;;;251-300;6.94;251-300;1.53;201-250;3.18;;;201-250;2.23;;;;;;;;;
+2023;letras;Centro Universitário do Vale do Ribeira;SP;301;Privada;;;301-350;4.42;301-350;0.86;201-250;2.9;;;301-350;0.66;;;;;;;;;
+2023;letras;Faculdade de Formação de Professores de Araripina;PE;301;Municipal;;;301-350;0.37;301-350;0.12;301-350;0.25;;;;;;;;;;;;;
+2023;letras;Faculdade Aberta do Tocantins;TO;301;Privada;;;301-350;1.6;;;251-300;1.6;;;;;;;;;;;;;
+2023;letras;Faculdade de Ampére;PR;301;Privada;;;301-350;4.3;301-350;0.44;251-300;1.97;;;251-300;1.89;;;;;;;;;
+2023;letras;Centro Universitário de Brusque;SC;301;Privada;;;301-350;6.54;251-300;2.02;201-250;3.38;;;251-300;1.14;;;;;;;;;
+2023;letras;Faculdade de Pará de Minas;MG;301;Privada;;;251-300;8.3;201-250;2.37;132;5.01;;;251-300;0.92;;;;;;;;;
+2023;letras;Instituto Superior de Educação Orígenes Lessa;SP;301;Privada;;;301-350;1.66;301-350;0.42;251-300;1.19;;;301-350;0.05;;;;;;;;;
+2023;letras;Faculdade de Educação São Luís;SP;301;Privada;;;251-300;7.34;301-350;0.53;85;6.08;;;301-350;0.73;;;;;;;;;
+2023;letras;Universidade Brasil;SP;301;Privada;;;301-350;4.67;251-300;1.83;251-300;1.19;;;251-300;1.65;;;;;;;;;
+2023;letras;Centro de Ensino Superior de Arcoverde;PE;301;Municipal;;;301-350;1.06;301-350;0.35;301-350;0.71;;;;;;;;;;;;;
+2023;letras;Faculdade Dom Pedro II de Sergipe;SE;301;Privada;;;301-350;1.39;;;251-300;1.39;;;;;;;;;;;;;
+2024;letras;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.42;;;20;7.56;;;1;8;;;7;7.86;1;40;;;
+2024;letras;Universidade Estadual de Campinas;SP;2;Estadual;2;35.8;3;62.66;;;2;7.98;;;1;8;;;28;7.36;2;39.32;;;
+2024;letras;Universidade Federal de Minas Gerais;MG;3;Federal;5;35.21;2;62.95;;;8;7.84;;;1;8;;;10;7.79;2;39.32;;;
+2024;letras;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;4;Estadual;2;35.8;4;60.63;;;24;7.46;;;1;8;;;6;7.88;5;37.29;;;
+2024;letras;Universidade Federal do Rio de Janeiro;RJ;5;Federal;2;35.8;5;60.01;;;21;7.53;;;1;8;;;64;6.51;4;37.97;;;
+2024;letras;Universidade Federal Fluminense;RJ;6;Federal;5;35.21;6;58.94;;;30;7.32;;;1;8;;;14;7.69;7;35.93;;;
+2024;letras;Universidade Federal de Santa Catarina;SC;7;Federal;11;34.03;7;58.93;;;29;7.35;;;1;8;;;16;7.65;7;35.93;;;
+2024;letras;Universidade Federal da Bahia;BA;8;Federal;11;34.03;8;58.02;;;15;7.67;;;1;8;;;68;6.42;7;35.93;;;
+2024;letras;Universidade do Estado do Rio de Janeiro;RJ;9;Estadual;5;35.21;13;53.49;;;78;6.2;;;173;3.88;;;23;7.48;7;35.93;;;
+2024;letras;Universidade Federal de Pernambuco;PE;10;Federal;5;35.21;15;52.87;;;37;7.16;;;1;8;;;92;5.85;13;31.86;;;
+2024;letras;Universidade de Brasília;DF;11;Federal;30;30.3;9;57.54;;;52;6.81;;;1;8;;;52;6.8;7;35.93;;;
+2024;letras;Universidade Federal do Ceará;CE;12;Federal;11;34.03;12;53.72;;;23;7.49;;;1;8;;;70;6.37;13;31.86;;;
+2024;letras;Pontifícia Universidade Católica de São Paulo;SP;13;Privada;11;34.03;14;53.14;;;10;7.79;;;196;3.33;;;82;6.09;7;35.93;;;
+2024;letras;Universidade Federal do Rio Grande do Sul;RS;14;Federal;30;30.3;10;56.6;;;184;3.73;;;1;8;;;19;7.58;5;37.29;;;
+2024;letras;Universidade Estadual de Londrina;PR;15;Estadual;11;34.03;16;52.78;;;44;7;;;1;8;;;89;5.92;13;31.86;;;
+2024;letras;Universidade Federal de Goiás;GO;16;Federal;11;34.03;17;52.47;;;48;6.9;;;1;8;;;98;5.71;13;31.86;;;
+2024;letras;Universidade Federal de Santa Maria;RS;17;Federal;30;30.3;11;55.35;;;11;7.77;;;1;8;;;13;7.72;13;31.86;;;
+2024;letras;Universidade Federal do Paraná;PR;18;Federal;11;34.03;18;50.39;;;35;7.21;;;163;4.12;;;35;7.2;13;31.86;;;
+2024;letras;Universidade Federal de Mato Grosso;MT;19;Federal;30;30.3;20;50.25;;;97;5.76;;;1;8;;;144;4.63;13;31.86;;;
+2024;letras;Pontifícia Universidade Católica do Paraná;PR;20;Privada;11;34.03;25;46.06;;;49;6.88;;;251-300;1.84;;;108;5.48;13;31.86;;;
+2024;letras;Universidade Federal de São Paulo;SP;21;Federal;11;34.03;26;45.58;;;28;7.37;;;1;8;;;8;7.84;27;22.37;;;
+2024;letras;Pontifícia Universidade Católica do Rio de Janeiro;RJ;22;Privada;30;30.3;21;48.24;;;7;7.86;;;251-300;1.58;;;46;6.94;13;31.86;;;
+2024;letras;Pontifícia Universidade Católica do Rio Grande do Sul;RS;23;Privada;30;30.3;22;48.1;;;16;7.65;;;251-300;1.89;;;56;6.7;13;31.86;;;
+2024;letras;Pontifícia Universidade Católica de Minas Gerais;MG;24;Privada;30;30.3;23;47.31;;;42;7.04;;;251-300;1.87;;;63;6.54;13;31.86;;;
+2024;letras;Universidade Federal do Pará;PA;25;Federal;30;30.3;24;46.45;;;201-250;2.29;;;1;8;;;158;4.3;13;31.86;;;
+2024;letras;Universidade Federal de Sergipe;SE;26;Federal;11;34.03;38;41.47;;;133;4.92;;;1;8;;;78;6.18;27;22.37;;;
+2024;letras;Universidade Federal de Alagoas;AL;27;Federal;11;34.03;39;40.76;;;168;4.11;;;1;8;;;74;6.28;27;22.37;;;
+2024;letras;Universidade Federal de Uberlândia;MG;28;Federal;30;30.3;29;44.48;;;59;6.65;;;1;8;;;24;7.46;27;22.37;;;
+2024;letras;Universidade Federal do Rio Grande do Norte;RN;29;Federal;30;30.3;32;44.07;;;31;7.3;;;1;8;;;69;6.4;27;22.37;;;
+2024;letras;Universidade Federal do Espírito Santo;ES;30;Federal;30;30.3;33;44.05;;;41;7.07;;;1;8;;;60;6.61;27;22.37;;;
+2024;letras;Universidade Federal da Paraíba;PB;31;Federal;30;30.3;34;43.33;;;94;5.83;;;1;8;;;38;7.13;27;22.37;;;
+2024;letras;Universidade Estadual de Maringá;PR;32;Estadual;30;30.3;35;42.6;;;83;6.09;;;1;8;;;80;6.14;27;22.37;;;
+2024;letras;Universidade Presbiteriana Mackenzie;SP;33;Privada;11;34.03;45;38.81;;;36;7.18;;;201-250;2.37;;;48;6.89;27;22.37;;;
+2024;letras;Universidade Estadual do Ceará;CE;34;Estadual;11;34.03;46;38.75;;;185;3.71;;;1;8;;;142;4.67;27;22.37;;;
+2024;letras;Universidade do Vale do Rio dos Sinos;RS;35;Privada;70;22.43;19;50.26;;;39;7.11;;;172;3.9;;;27;7.39;13;31.86;;;
+2024;letras;Universidade Federal de Juiz de Fora;MG;36;Federal;30;30.3;37;41.75;;;171;4.04;;;1;8;;;29;7.34;27;22.37;;;
+2024;letras;Universidade Estadual do Piauí;PI;37;Estadual;11;34.03;48;37.83;;;156;4.39;;;1;8;;;201-250;3.07;27;22.37;;;
+2024;letras;Universidade Federal de Campina Grande;PB;38;Federal;30;30.3;40;40.55;;;124;5.13;;;1;8;;;126;5.05;27;22.37;;;
+2024;letras;Universidade do Estado de Mato Grosso;MT;39;Estadual;70;22.43;27;44.84;;;251-300;1.96;;;1;8;;;201-250;3.02;13;31.86;;;
+2024;letras;Universidade Federal do Triângulo Mineiro;MG;40;Federal;70;22.43;28;44.57;;;47;6.93;;;1;8;;;32;7.27;27;22.37;;;
+2024;letras;Universidade Federal de Ouro Preto;MG;41;Federal;70;22.43;30;44.38;;;76;6.25;;;1;8;;;11;7.76;27;22.37;;;
+2024;letras;Universidade Estadual de Feira de Santana;BA;42;Estadual;11;34.03;56;32.61;;;182;3.78;;;161;4.17;;;201-250;2.29;27;22.37;;;
+2024;letras;Universidade Estadual do Centro Oeste;PR;43;Estadual;70;22.43;36;41.8;;;92;5.88;;;1;8;;;105;5.55;27;22.37;;;
+2024;letras;Universidade Federal de Pelotas;RS;44;Federal;70;22.43;41;40.14;;;103;5.62;;;1;8;;;164;4.15;27;22.37;;;
+2024;letras;Universidade Estadual do Paraná;PR;45;Estadual;70;22.43;43;39.42;;;127;5.06;;;1;8;;;171;3.99;27;22.37;;;
+2024;letras;Fundação Universidade Federal do Tocantins;TO;46;Federal;70;22.43;44;39;;;201-250;2.66;;;1;8;;;87;5.97;27;22.37;;;
+2024;letras;Universidade Católica de Pernambuco;PE;47;Privada;30;30.3;58;30.94;;;195;3.48;;;301-350;0.7;;;154;4.39;27;22.37;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;48;Federal;70;22.43;47;38.23;;;201-250;2.64;;;1;8;;;119;5.22;27;22.37;;;
+2024;letras;Fundação Universidade Federal de Rondônia;RO;49;Federal;70;22.43;49;37.75;;;201-250;2.38;;;1;8;;;128;5;27;22.37;;;
+2024;letras;Universidade de Passo Fundo;RS;50;Privada;70;22.43;51;35.81;;;102;5.64;;;201-250;2.61;;;120;5.19;27;22.37;;;
+2024;letras;Universidade Luterana do Brasil;RS;51;Privada;70;22.43;52;35.5;;;120;5.22;;;181;3.69;;;161;4.22;27;22.37;;;
+2024;letras;Universidade de Caxias do Sul;RS;52;Privada;70;22.43;54;34.59;;;132;4.95;;;251-300;1.65;;;102;5.62;27;22.37;;;
+2024;letras;Universidade Estadual de Mato Grosso do Sul;MS;53;Estadual;70;22.43;57;31.7;;;201-250;2.59;;;251-300;1.29;;;109;5.45;27;22.37;;;
+2024;letras;Universidade Federal de São Carlos;SP;54;Federal;30;30.3;61;23.34;;;9;7.81;;;1;8;;;21;7.53;;;;;
+2024;letras;Universidade Federal do Maranhão;MA;55;Federal;11;34.03;84;19.53;;;60;6.62;;;1;8;;;132;4.91;;;;;
+2024;letras;Universidade Federal de Viçosa;MG;56;Federal;30;30.3;68;21.41;;;33;7.25;;;1;8;;;79;6.16;;;;;
+2024;letras;Universidade do Estado da Bahia;BA;57;Estadual;5;35.21;128;15.73;;;201-250;2.96;;;1;8;;;138;4.77;;;;;
+2024;letras;Universidade Católica de Brasília;DF;58;Privada;30;30.3;82;19.68;;;56;6.72;;;1;8;;;130;4.96;;;;;
+2024;letras;Universidade Estadual do Sudoeste da Bahia;BA;59;Estadual;30;30.3;86;19.21;;;93;5.85;;;1;8;;;113;5.36;;;;;
+2024;letras;Universidade Estadual do Oeste do Paraná;PR;60;Estadual;30;30.3;90;18.82;;;139;4.78;;;1;8;;;84;6.04;;;;;
+2024;letras;Universidade Federal do Piauí;PI;61;Federal;30;30.3;94;18.25;;;107;5.53;;;1;8;;;140;4.72;;;;;
+2024;letras;Universidade de Pernambuco;PE;62;Estadual;30;30.3;104;17.39;;;151;4.5;;;1;8;;;133;4.89;;;;;
+2024;letras;Universidade do Grande Rio Professor José de Souza Herdy;RJ;63;Privada;30;30.3;117;16.65;;;128;5.04;;;1;8;;;187;3.61;;;;;
+2024;letras;Universidade Paulista;SP;64;Privada;5;35.21;201-250;11.39;;;104;5.6;;;201-250;2.25;;;190;3.54;;;;;
+2024;letras;Universidade Federal do Estado do Rio de Janeiro;RJ;65;Federal;70;22.43;60;23.88;;;6;7.88;;;1;8;;;1;8;;;;;
+2024;letras;Centro Universitário Planalto do Distrito Federal;DF;66;Privada;30;30.3;127;15.75;;;112;5.41;;;1;8;;;201-250;2.34;;;;;
+2024;letras;Pontifícia Universidade Católica de Goiás;GO;67;Privada;11;34.03;201-250;11.2;;;163;4.22;;;201-250;2.78;;;162;4.2;;;;;
+2024;letras;Universidade Estadual Vale do Acaraú;CE;68;Estadual;11;34.03;201-250;11.16;;;150;4.53;;;198;3.28;;;198;3.35;;;;;
+2024;letras;Faculdade Pio Décimo;SE;69;Privada;30;30.3;148;14.46;;;201-250;2.57;;;1;8;;;175;3.89;;;;;
+2024;letras;Universidade do Oeste Paulista;SP;70;Privada;30;30.3;150;14.35;;;108;5.5;;;201-250;2.9;;;88;5.95;;;;;
+2024;letras;Universidade do Estado do Rio Grande do Norte;RN;71;Estadual;30;30.3;156;14.23;;;190;3.59;;;1;8;;;201-250;2.64;;;;;
+2024;letras;Universidade Federal de Alfenas;MG;72;Federal;;;31;44.33;;;34;7.23;;;1;8;;;55;6.73;27;22.37;;;
+2024;letras;Universidade Federal Rural do Rio de Janeiro;RJ;73;Federal;70;22.43;67;21.63;;;72;6.34;;;1;8;;;31;7.29;;;;;
+2024;letras;Universidade Federal do Amazonas;AM;74;Federal;30;30.3;171;13.69;;;177;3.9;;;1;8;;;251-300;1.79;;;;;
+2024;letras;Universidade Federal da Integração Latino-americana;PR;75;Federal;70;22.43;69;21.4;;;91;5.9;;;1;8;;;22;7.5;;;;;
+2024;letras;Universidade do Estado do Amazonas;AM;76;Estadual;30;30.3;175;13.47;;;201-250;2.85;;;1;8;;;201-250;2.62;;;;;
+2024;letras;Universidade Federal do Rio Grande;RS;77;Federal;70;22.43;70;21.2;;;89;5.95;;;1;8;;;33;7.25;;;;;
+2024;letras;Fundação Universidade Federal da Grande Dourados;MS;78;Federal;70;22.43;71;20.92;;;119;5.25;;;1;8;;;15;7.67;;;;;
+2024;letras;Pontifícia Universidade Católica de Campinas;SP;79;Privada;30;30.3;185;13;;;54;6.76;;;301-350;0.46;;;95;5.78;;;;;
+2024;letras;Universidade Regional do Cariri;CE;80;Estadual;30;30.3;191;12.88;;;201-250;2.61;;;1;8;;;201-250;2.27;;;;;
+2024;letras;Universidade Federal Rural de Pernambuco;PE;81;Federal;70;22.43;73;20.61;;;117;5.29;;;1;8;;;30;7.32;;;;;
+2024;letras;Centro Universitário Campos de Andrade;PR;82;Privada;70;22.43;75;20.5;;;90;5.92;;;1;8;;;61;6.58;;;;;
+2024;letras;Universidade Estadual de Ponta Grossa;PR;83;Estadual;70;22.43;76;20.43;;;82;6.11;;;1;8;;;72;6.32;;;;;
+2024;letras;Universidade Estadual de Goiás;GO;84;Estadual;30;30.3;199;12.17;;;251-300;2.05;;;1;8;;;201-250;2.12;;;;;
+2024;letras;Centro Universitário Projeção;DF;85;Privada;70;22.43;79;19.82;;;155;4.41;;;1;8;;;26;7.41;;;;;
+2024;letras;Universidade Federal de Jataí;GO;86;Federal;70;22.43;81;19.71;;;114;5.36;;;1;8;;;71;6.35;;;;;
+2024;letras;Universidade Estadual do Maranhão;MA;87;Estadual;11;34.03;251-300;7.7;;;201-250;2.31;;;167;4.02;;;251-300;1.37;;;;;
+2024;letras;Universidade Estácio de Sá;RJ;88;Privada;30;30.3;201-250;11.35;;;186;3.69;;;301-350;0.65;;;43;7.01;;;;;
+2024;letras;Centro Universitário Adventista de São Paulo;SP;89;Privada;30;30.3;201-250;11.21;;;130;4.99;;;201-250;2.75;;;193;3.47;;;;;
+2024;letras;Universidade Federal de Rondonópolis;MT;90;Federal;70;22.43;88;19.07;;;98;5.74;;;1;8;;;114;5.33;;;;;
+2024;letras;Universidade Potiguar;RN;91;Privada;30;30.3;201-250;11.1;;;165;4.18;;;201-250;2.11;;;136;4.81;;;;;
+2024;letras;Universidade do Vale do Taquari;RS;92;Privada;70;22.43;93;18.34;;;1;8;;;188;3.52;;;51;6.82;;;;;
+2024;letras;Universidade Católica de Santos;SP;93;Privada;70;22.43;94;18.25;;;171;4.04;;;1;8;;;77;6.21;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;94;Federal;70;22.43;96;18.21;;;137;4.83;;;1;8;;;112;5.38;;;;;
+2024;letras;Fundação Universidade Federal do Pampa;RS;95;Federal;70;22.43;97;17.94;;;188;3.64;;;1;8;;;73;6.3;;;;;
+2024;letras;Universidade La Salle;RS;96;Privada;70;22.43;98;17.85;;;85;6.04;;;168;4;;;9;7.81;;;;;
+2024;letras;Centro Universitário de Patos de Minas;MG;97;Privada;70;22.43;100;17.82;;;4;7.93;;;183;3.64;;;75;6.25;;;;;
+2024;letras;Universidade Tiradentes;SE;98;Privada;30;30.3;201-250;9.84;;;251-300;1.42;;;201-250;2.66;;;96;5.76;;;;;
+2024;letras;Centro Universitário Jorge Amado;BA;99;Privada;70;22.43;102;17.48;;;201-250;3.01;;;1;8;;;66;6.47;;;;;
+2024;letras;Universidade Federal Rural do Semi-árido;RN;100;Federal;70;22.43;103;17.44;;;141;4.74;;;1;8;;;141;4.7;;;;;
+2024;letras;Universidade Estadual do Norte do Paraná;PR;101;Estadual;70;22.43;105;17.31;;;139;4.78;;;1;8;;;148;4.53;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;102;Federal;;;42;39.69;;;80;6.16;;;1;8;;;201-250;3.16;27;22.37;;;
+2024;letras;Centro Universitário Facvest;SC;103;Privada;70;22.43;108;17.15;;;201-250;3.34;;;1;8;;;94;5.81;;;;;
+2024;letras;Faculdade Sesi-SP de Educação;SP;104;Privada;70;22.43;111;16.88;;;51;6.83;;;1;8;;;251-300;2.05;;;;;
+2024;letras;Universidade Federal de Roraima;RR;104;Federal;70;22.43;112;16.88;;;199;3.38;;;1;8;;;107;5.5;;;;;
+2024;letras;Centro Universitário de Belo Horizonte;MG;106;Privada;70;22.43;113;16.76;;;193;3.52;;;1;8;;;118;5.24;;;;;
+2024;letras;Universidade do Estado do Pará;PA;107;Estadual;30;30.3;251-300;8.88;;;251-300;1.7;;;162;4.14;;;201-250;3.04;;;;;
+2024;letras;Faculdade Unime de Educação e Comunicação;BA;108;Privada;70;22.43;114;16.74;;;62;6.58;;;201-250;2.99;;;36;7.17;;;;;
+2024;letras;Centro Universitário da Vitória de Santo Antão;PE;109;Privada;70;22.43;119;16.43;;;191;3.57;;;1;8;;;134;4.86;;;;;
+2024;letras;Universidade do Estado de Minas Gerais;MG;110;Estadual;70;22.43;121;16.3;;;122;5.18;;;1;8;;;201-250;3.12;;;;;
+2024;letras;Universidade Estadual de Santa Cruz;BA;111;Estadual;70;22.43;125;15.83;;;201-250;2.99;;;1;8;;;135;4.84;;;;;
+2024;letras;Centro Universitário Ideau;RS;112;Privada;70;22.43;129;15.66;;;157;4.36;;;1;8;;;200;3.3;;;;;
+2024;letras;Universidade Católica Dom Bosco;MS;113;Privada;70;22.43;130;15.56;;;26;7.42;;;195;3.35;;;137;4.79;;;;;
+2024;letras;Universidade Anhanguera;MS;114;Privada;70;22.43;135;15.18;;;86;6.02;;;201-250;3.09;;;83;6.07;;;;;
+2024;letras;Universidade Federal do Acre;AC;115;Federal;70;22.43;137;15.1;;;178;3.87;;;1;8;;;201-250;3.23;;;;;
+2024;letras;Universidade Veiga de Almeida;RJ;116;Privada;70;22.43;138;15.01;;;43;7.02;;;201-250;2.59;;;111;5.4;;;;;
+2024;letras;Centro Universitário de Várzea Grande;MT;117;Privada;70;22.43;141;14.87;;;147;4.6;;;189;3.5;;;53;6.77;;;;;
+2024;letras;Centro Universitário Dom Pedro II;BA;118;Privada;70;22.43;142;14.8;;;301-350;0.12;;;1;8;;;57;6.68;;;;;
+2024;letras;Centro Universitário Geraldo Di Biase;RJ;119;Privada;70;22.43;143;14.79;;;38;7.14;;;201-250;3.21;;;152;4.44;;;;;
+2024;letras;Universidade Estadual de Montes Claros;MG;120;Estadual;70;22.43;146;14.51;;;201-250;2.92;;;1;8;;;188;3.59;;;;;
+2024;letras;Faculdade de Olinda;PE;121;Privada;70;22.43;151;14.34;;;201-250;2.89;;;1;8;;;194;3.45;;;;;
+2024;letras;Universidade do Vale do Itajaí;SC;122;Privada;70;22.43;152;14.3;;;14;7.7;;;201-250;2.54;;;168;4.06;;;;;
+2024;letras;Faculdade Anhanguera do Maranhão;MA;123;Privada;70;22.43;153;14.29;;;145;4.64;;;201-250;3.02;;;59;6.63;;;;;
+2024;letras;Universidade Federal de Mato Grosso do Sul;MS;124;Federal;70;22.43;154;14.28;;;169;4.08;;;180;3.71;;;65;6.49;;;;;
+2024;letras;Universidade da Região de Joinville;SC;125;Privada;70;22.43;156;14.23;;;13;7.72;;;201-250;2.71;;;179;3.8;;;;;
+2024;letras;Universidade Franciscana;RS;126;Privada;70;22.43;158;14.21;;;101;5.67;;;190;3.47;;;125;5.07;;;;;
+2024;letras;Centro Universitário Ritter dos Reis;RS;127;Privada;;;50;36.54;;;157;4.36;;;201-250;2.64;;;36;7.17;27;22.37;;;
+2024;letras;Universidade Cidade de São Paulo;SP;128;Privada;70;22.43;161;14.07;;;123;5.16;;;201-250;2.8;;;81;6.11;;;;;
+2024;letras;Centro Universitário Sagrado Coração;SP;129;Privada;70;22.43;162;14.04;;;19;7.58;;;251-300;1.34;;;123;5.12;;;;;
+2024;letras;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;130;Privada;70;22.43;164;13.96;;;58;6.67;;;201-250;2.83;;;151;4.46;;;;;
+2024;letras;Universidade da Amazônia;PA;131;Privada;30;30.3;251-300;6.03;;;251-300;1.61;;;251-300;1.49;;;201-250;2.93;;;;;
+2024;letras;Faculdade Anhanguera de Belo Horizonte;MG;132;Privada;70;22.43;168;13.79;;;201-250;2.24;;;171;3.93;;;17;7.62;;;;;
+2024;letras;Faculdade Unirb - Aracaju;SE;133;Privada;70;22.43;172;13.67;;;251-300;1.42;;;1;8;;;160;4.25;;;;;
+2024;letras;Universidade Federal do Recôncavo da Bahia;BA;134;Federal;70;22.43;173;13.66;;;201-250;2.78;;;1;8;;;201-250;2.88;;;;;
+2024;letras;Universidade de Santa Cruz do Sul;RS;135;Privada;70;22.43;176;13.43;;;70;6.39;;;251-300;1.61;;;110;5.43;;;;;
+2024;letras;Universidade Estadual da Paraíba;PB;136;Estadual;70;22.43;178;13.32;;;200;3.36;;;1;8;;;251-300;1.96;;;;;
+2024;letras;Universidade Estadual de Alagoas;AL;137;Estadual;70;22.43;179;13.27;;;251-300;2.01;;;1;8;;;201-250;3.26;;;;;
+2024;letras;Universidade Federal do Sul e Sudeste do Pará;PA;138;Federal;70;22.43;181;13.23;;;251-300;1.7;;;164;4.1;;;25;7.43;;;;;
+2024;letras;Universidade de Taubaté;SP;139;Municipal;70;22.43;183;13.2;;;73;6.32;;;182;3.67;;;201-250;3.21;;;;;
+2024;letras;Universidade Santo Amaro;SP;140;Privada;70;22.43;186;12.99;;;153;4.46;;;187;3.55;;;129;4.98;;;;;
+2024;letras;Universidade Estadual de Roraima;RR;140;Estadual;70;22.43;187;12.99;;;111;5.43;;;175;3.83;;;182;3.73;;;;;
+2024;letras;Universidade Regional de Blumenau;SC;142;Municipal;70;22.43;196;12.45;;;61;6.6;;;251-300;1.27;;;146;4.58;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;143;Federal;;;53;34.81;;;251-300;1.7;;;1;8;;;201-250;2.74;27;22.37;;;
+2024;letras;Universidade Estadual da Região Tocantina do Maranhão;MA;144;Estadual;70;22.43;200;12.16;;;201-250;3.1;;;1;8;;;251-300;1.06;;;;;
+2024;letras;Centro Universitário Assis Gurgacz;PR;145;Privada;70;22.43;201-250;11.89;;;109;5.48;;;179;3.74;;;201-250;2.67;;;;;
+2024;letras;Centro Universitário Fundação Santo André;SP;146;Privada;70;22.43;201-250;11.86;;;81;6.13;;;251-300;1.13;;;145;4.6;;;;;
+2024;letras;Universidade de Sorocaba;SP;147;Privada;70;22.43;201-250;11.83;;;134;4.9;;;251-300;1.41;;;106;5.52;;;;;
+2024;letras;Universidade do Extremo Sul Catarinense;SC;148;Privada;70;22.43;201-250;11.27;;;118;5.27;;;251-300;1.96;;;169;4.04;;;;;
+2024;letras;Universidade São Judas Tadeu;SP;149;Privada;70;22.43;201-250;11.21;;;251-300;1.21;;;169;3.98;;;85;6.02;;;;;
+2024;letras;Centro Universitário Moura Lacerda;SP;150;Privada;70;22.43;201-250;11.13;;;12;7.74;;;301-350;0.79;;;201-250;2.6;;;;;
+2024;letras;Universidade Cruzeiro do Sul;SP;151;Privada;70;22.43;201-250;11.02;;;201-250;3.15;;;201-250;2.04;;;93;5.83;;;;;
+2024;letras;Universidade de Franca;SP;152;Privada;70;22.43;201-250;10.91;;;251-300;1.21;;;199;3.26;;;67;6.44;;;;;
+2024;letras;Centro Universitário Unifaat;SP;153;Privada;70;22.43;201-250;10.9;;;251-300;1.21;;;201-250;2.59;;;39;7.1;;;;;
+2024;letras;Universidade Nilton Lins;AM;154;Privada;30;30.3;301-350;2.95;;;251-300;1.61;;;251-300;1.2;;;301-350;0.14;;;;;
+2024;letras;Universidade Estadual do Tocantins;TO;155;Estadual;;;55;33.03;;;251-300;1.24;;;1;8;;;251-300;1.42;27;22.37;;;
+2024;letras;Faculdade de Ciências Humanas de Olinda;PE;156;Privada;70;22.43;201-250;10.56;;;194;3.5;;;197;3.31;;;181;3.75;;;;;
+2024;letras;Universidade de Gurupi;TO;157;Municipal;70;22.43;201-250;10.21;;;251-300;1.45;;;1;8;;;301-350;0.76;;;;;
+2024;letras;Centro Universitário das Faculdades Metropolitanas Unidas;SP;158;Privada;70;22.43;201-250;10.18;;;64;6.53;;;251-300;0.86;;;201-250;2.79;;;;;
+2024;letras;Centro Universitário Padre Anchieta;SP;159;Privada;70;22.43;201-250;10.13;;;75;6.27;;;301-350;0.53;;;199;3.33;;;;;
+2024;letras;Universidade do Sul de Santa Catarina;SC;160;Privada;70;22.43;201-250;9.84;;;201-250;3.34;;;201-250;2.23;;;159;4.27;;;;;
+2024;letras;Universidade Castelo Branco;RJ;161;Privada;70;22.43;201-250;9.79;;;66;6.48;;;301-350;0.48;;;201-250;2.83;;;;;
+2024;letras;Instituto Superior de Ciências Humanas e Sociais Anísio Teixeira;RJ;162;Privada;70;22.43;201-250;9.31;;;57;6.69;;;301-350;0.05;;;201-250;2.57;;;;;
+2024;letras;Faculdade Frassinetti do Recife;PE;163;Privada;70;22.43;201-250;9.2;;;87;5.99;;;251-300;1.51;;;251-300;1.7;;;;;
+2024;letras;Universidade Católica de Petrópolis;RJ;163;Privada;70;22.43;201-250;9.2;;;105;5.57;;;301-350;0.77;;;201-250;2.86;;;;;
+2024;letras;Centro Universitário Fibra;PA;165;Privada;70;22.43;251-300;8.7;;;251-300;1.61;;;194;3.38;;;183;3.71;;;;;
+2024;letras;Universidade do Planalto Catarinense;SC;166;Privada;70;22.43;251-300;8.64;;;201-250;3.34;;;201-250;2.35;;;201-250;2.95;;;;;
+2024;letras;Centro de Ensino Superior do Vale São Francisco;PE;167;Municipal;70;22.43;251-300;8.59;;;301-350;0.28;;;1;8;;;301-350;0.31;;;;;
+2024;letras;Universidade do Oeste de Santa Catarina;SC;168;Privada;70;22.43;251-300;8.58;;;201-250;3.34;;;201-250;3.04;;;201-250;2.2;;;;;
+2024;letras;Centro Universitário São José de Itaperuna;RJ;169;Privada;70;22.43;251-300;8.48;;;138;4.81;;;201-250;2.06;;;251-300;1.61;;;;;
+2024;letras;Faculdade de Filosofia Ciências e Letras Dom Bosco;RJ;170;Privada;70;22.43;251-300;8.1;;;50;6.86;;;301-350;0.74;;;301-350;0.5;;;;;
+2024;letras;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;171;Privada;70;22.43;251-300;8.06;;;170;4.06;;;251-300;1.03;;;201-250;2.97;;;;;
+2024;letras;Universidade Metodista de São Paulo;SP;172;Privada;70;22.43;251-300;7.34;;;251-300;1.21;;;251-300;1.1;;;127;5.03;;;;;
+2024;letras;Escola Superior Madre Celeste;PA;173;Privada;70;22.43;251-300;7.24;;;251-300;1.61;;;201-250;2.73;;;201-250;2.9;;;;;
+2024;letras;Centro Universitário de Rondônia;RO;174;Privada;70;22.43;251-300;6.85;;;201-250;3.06;;;201-250;2.3;;;251-300;1.49;;;;;
+2024;letras;Centro Universitário Estácio de São Paulo;SP;175;Privada;70;22.43;251-300;6.84;;;251-300;1.21;;;301-350;0.34;;;116;5.29;;;;;
+2024;letras;Faculdade de São Bernardo do Campo - FASB I;SP;176;Privada;;;59;29.2;;;152;4.48;;;301-350;0.41;;;251-300;1.94;27;22.37;;;
+2024;letras;Centro Universitário do Norte;AM;177;Privada;70;22.43;251-300;6.37;;;201-250;2.26;;;251-300;1.73;;;201-250;2.38;;;;;
+2024;letras;Universidade Católica do Salvador;BA;178;Privada;70;22.43;251-300;6.2;;;189;3.62;;;301-350;0.5;;;251-300;2.08;;;;;
+2024;letras;Faculdade Lusófona do Rio de Janeiro;RJ;179;Privada;70;22.43;301-350;5.38;;;301-350;0.19;;;251-300;1.63;;;189;3.56;;;;;
+2024;letras;Faculdades Integradas Campo-grandenses;RJ;180;Privada;70;22.43;301-350;5.35;;;201-250;2.82;;;301-350;0.31;;;201-250;2.22;;;;;
+2024;letras;Universidade Metodista de Piracicaba;SP;181;Privada;70;22.43;301-350;5.22;;;201-250;2.4;;;301-350;0.29;;;201-250;2.53;;;;;
+2024;letras;Centro Universitário Fluminense;RJ;182;Privada;70;22.43;301-350;4.74;;;301-350;0.68;;;201-250;3.07;;;251-300;0.99;;;;;
+2024;letras;Universidade Anhembi Morumbi;SP;183;Privada;70;22.43;301-350;4.16;;;251-300;1.21;;;251-300;1.39;;;251-300;1.56;;;;;
+2024;letras;Faculdade do Belo Jardim;PE;184;Municipal;70;22.43;301-350;4.08;;;301-350;0.3;;;201-250;3.19;;;301-350;0.59;;;;;
+2024;letras;Faculdade Uniftb;SE;185;Privada;70;22.43;301-350;2.6;;;251-300;1.42;;;;;;;251-300;1.18;;;;;
+2024;letras;Faculdade Santa Fé;MA;186;Privada;70;22.43;301-350;2.14;;;301-350;0.44;;;251-300;1.7;;;;;;;;;
+2024;letras;Faculdades Fatifajar;PR;187;Privada;70;22.43;301-350;1.59;;;301-350;0.61;;;251-300;0.96;;;301-350;0.02;;;;;
+2024;letras;Faculdade Anhanguera de São Bernardo;SP;188;Privada;70;22.43;301-350;1.21;;;251-300;1.21;;;;;;;;;;;;;
+2024;letras;Centro Universitário Metropolitano de São Paulo;SP;188;Privada;70;22.43;301-350;1.21;;;251-300;1.21;;;;;;;;;;;;;
+2024;letras;Universidade Estadual do Rio Grande do Sul;RS;190;Estadual;;;62;22.61;;;22;7.51;;;1;8;;;39;7.1;;;;;
+2024;letras;Universidade Feevale;RS;191;Privada;;;63;22.57;;;45;6.97;;;1;8;;;18;7.6;;;;;
+2024;letras;Universidade Federal de São João Del Rei;MG;192;Federal;;;64;22.44;;;18;7.6;;;1;8;;;50;6.84;;;;;
+2024;letras;Universidade Tecnológica Federal do Paraná;PR;193;Federal;;;65;22.1;;;25;7.44;;;1;8;;;58;6.66;;;;;
+2024;letras;Universidade Federal de Lavras;MG;194;Federal;;;66;21.97;;;88;5.97;;;1;8;;;1;8;;;;;
+2024;letras;Universidade Federal de Catalão;GO;195;Federal;;;72;20.77;;;106;5.55;;;1;8;;;34;7.22;;;;;
+2024;letras;Universidade Federal do Agreste de Pernambuco;PE;196;Federal;;;74;20.56;;;100;5.69;;;1;8;;;49;6.87;;;;;
+2024;letras;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;197;Federal;;;77;20.36;;;67;6.46;;;1;8;;;90;5.9;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;198;Federal;;;78;20.1;;;68;6.44;;;1;8;;;100;5.66;;;;;
+2024;letras;Centro Universitário de Itajubá;MG;199;Privada;;;80;19.74;;;40;7.09;;;1;8;;;143;4.65;;;;;
+2024;letras;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;200;Federal;;;83;19.54;;;71;6.37;;;1;8;;;121;5.17;;;;;
+2024;letras;Universidade Federal do Amapá;AP;201;Federal;;;134;15.19;;;126;5.09;;;1;8;;;251-300;2.1;;;;;
+2024;letras;Faculdade Cgesp Goiânia;GO;201;Privada;;;131;15.48;;;164;4.2;;;1;8;;;201-250;3.28;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;201;Federal;;;87;19.11;;;55;6.74;;;1;8;;;155;4.37;;;;;
+2024;letras;Faculdade Anhanguera de Macapá;AP;201;Privada;;;119;16.43;;;251-300;1.87;;;1;8;;;62;6.56;;;;;
+2024;letras;Escola Superior Batista do Amazonas;AM;201;Privada;;;166;13.85;;;154;4.43;;;1;8;;;251-300;1.42;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;201;Federal;;;193;12.66;;;180;3.83;;;1;8;;;301-350;0.83;;;;;
+2024;letras;Faculdade Madre Tereza;AP;201;Privada;;;194;12.58;;;251-300;2.03;;;1;8;;;201-250;2.55;;;;;
+2024;letras;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;201;Privada;;;106;17.22;;;53;6.79;;;193;3.4;;;42;7.03;;;;;
+2024;letras;Centro Federal de Educação Tecnológica de Minas Gerais;MG;201;Federal;;;89;18.95;;;171;4.04;;;1;8;;;47;6.91;;;;;
+2024;letras;Faculdade Anhanguera de Valparaíso;GO;201;Privada;;;99;17.84;;;251-300;1.84;;;1;8;;;1;8;;;;;
+2024;letras;Instituto de Educação Superior Presidente Kennedy - Centro de Formação de Profissionais de Educação;RN;201;Estadual;;;174;13.55;;;187;3.66;;;1;8;;;251-300;1.89;;;;;
+2024;letras;Universidade do Contestado;SC;201;Privada;;;159;14.15;;;201-250;3.34;;;1;8;;;201-250;2.81;;;;;
+2024;letras;Faculdades Integradas Iesgo;GO;201;Privada;;;167;13.81;;;251-300;1.84;;;1;8;;;172;3.97;;;;;
+2024;letras;Centro Universitário de Desenvolvimento do Centro-Oeste;GO;201;Privada;;;190;12.93;;;251-300;1.84;;;1;8;;;201-250;3.09;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;201;Federal;;;169;13.74;;;121;5.2;;;1;8;;;301-350;0.54;;;;;
+2024;letras;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;184;13.08;;;251-300;1.89;;;1;8;;;201-250;3.19;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;201;Federal;;;126;15.82;;;171;4.04;;;1;8;;;180;3.78;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;201;Federal;;;115;16.71;;;166;4.15;;;1;8;;;147;4.56;;;;;
+2024;letras;Centro Universitário Ages;BA;201;Privada;;;140;14.9;;;301-350;0.65;;;1;8;;;75;6.25;;;;;
+2024;letras;Centro Universitário de Goiatuba;GO;201;Municipal;;;169;13.74;;;201-250;2.36;;;1;8;;;197;3.38;;;;;
+2024;letras;Centro Universitário Fundação de Ensino Octávio Bastos;SP;201;Privada;;;147;14.5;;;251-300;1.21;;;1;8;;;116;5.29;;;;;
+2024;letras;Centro Universitário das Américas;SP;201;Privada;;;160;14.11;;;79;6.18;;;251-300;1.94;;;86;5.99;;;;;
+2024;letras;Faculdade Jardins;SE;201;Privada;;;189;12.94;;;251-300;1.42;;;1;8;;;191;3.52;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;201;Federal;;;135;15.18;;;171;4.04;;;1;8;;;201-250;3.14;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;201;Federal;;;91;18.62;;;65;6.51;;;1;8;;;166;4.11;;;;;
+2024;letras;Centro Universitário Ítalo-brasileiro;SP;201;Privada;;;107;17.21;;;251-300;1.21;;;1;8;;;1;8;;;;;
+2024;letras;Faculdades Doctum de Ipatinga;MG;201;Privada;;;188;12.95;;;201-250;2.24;;;1;8;;;201-250;2.71;;;;;
+2024;letras;Universidade Federal da Fronteira Sul;SC;201;Federal;;;124;15.85;;;125;5.11;;;177;3.78;;;45;6.96;;;;;
+2024;letras;Centro Universitário de Tecnologia e Negócios Carlos Drummond de Andrade;SP;201;Privada;;;109;17.14;;;191;3.57;;;1;8;;;104;5.57;;;;;
+2024;letras;Faculdade Erich Fromm;DF;201;Privada;;;85;19.45;;;196;3.45;;;1;8;;;1;8;;;;;
+2024;letras;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;201;Privada;;;139;14.95;;;113;5.39;;;1;8;;;251-300;1.56;;;;;
+2024;letras;Universidade Federal do Oeste do Pará;PA;201;Federal;;;110;17;;;179;3.85;;;1;8;;;122;5.15;;;;;
+2024;letras;Universidade Federal do Sul da Bahia;BA;201;Federal;;;116;16.66;;;201-250;2.78;;;1;8;;;91;5.88;;;;;
+2024;letras;Universidade Federal Rural da Amazônia;PA;201;Federal;;;132;15.34;;;251-300;1.7;;;1;8;;;101;5.64;;;;;
+2024;letras;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;145;14.6;;;17;7.63;;;186;3.57;;;196;3.4;;;;;
+2024;letras;Universidade do Vale do Sapucaí;MG;201;Privada;;;133;15.26;;;3;7.95;;;201-250;2.9;;;153;4.41;;;;;
+2024;letras;Centro Universitário Celso Lisboa;RJ;201;Privada;;;165;13.92;;;251-300;1.91;;;1;8;;;170;4.01;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;201;Federal;;;144;14.73;;;63;6.55;;;166;4.05;;;165;4.13;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;201;Federal;;;179;13.27;;;96;5.78;;;174;3.86;;;186;3.63;;;;;
+2024;letras;União das Faculdades dos Grandes Lagos;SP;201;Privada;;;154;14.28;;;201-250;2.43;;;1;8;;;177;3.85;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;201;Federal;;;163;14.01;;;142;4.71;;;1;8;;;251-300;1.3;;;;;
+2024;letras;Faculdade da Escada;PE;201;Privada;;;194;12.58;;;176;3.92;;;1;8;;;301-350;0.66;;;;;
+2024;letras;Faculdade Brasileira de Tecnologia-SE;SE;201;Privada;;;149;14.38;;;251-300;1.42;;;1;8;;;130;4.96;;;;;
+2024;letras;Universidade do Estado do Amapá;AP;201;Estadual;;;192;12.83;;;166;4.15;;;1;8;;;301-350;0.68;;;;;
+2024;letras;Centro Universitário do Vale do Jaguaribe;CE;201;Privada;;;177;13.33;;;143;4.69;;;1;8;;;301-350;0.64;;;;;
+2024;letras;Faculdade Cultura Inglesa;SP;201;Privada;;;182;13.21;;;46;6.95;;;251-300;1.75;;;149;4.51;;;;;
+2024;letras;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;201;Federal;;;92;18.45;;;201-250;2.71;;;1;8;;;12;7.74;;;;;
+2024;letras;Centro Universitário Sant'Anna;SP;201;Privada;;;122;16.15;;;146;4.62;;;169;3.98;;;20;7.55;;;;;
+2024;letras;Centro Universitário Santa Cruz de Curitiba;PR;201;Privada;;;101;17.74;;;201-250;2.68;;;1;8;;;41;7.06;;;;;
+2024;letras;Faculdade JK - Unidade I - Gama;DF;201;Privada;;;118;16.57;;;27;7.39;;;1;8;;;251-300;1.18;;;;;
+2024;letras;Centro Universitário Una;MG;201;Privada;;;123;15.98;;;201-250;2.24;;;1;8;;;97;5.74;;;;;
+2024;letras;Faculdade do Baixo Parnaíba;MA;251;Privada;;;201-250;10.16;;;301-350;0.44;;;1;8;;;251-300;1.72;;;;;
+2024;letras;Faculdade Unina;PR;251;Privada;;;197;12.43;;;301-350;0.61;;;1;8;;;178;3.82;;;;;
+2024;letras;Centro Universitário Alfredo Nasser;GO;251;Privada;;;201-250;11.85;;;251-300;1.84;;;1;8;;;251-300;2.01;;;;;
+2024;letras;Centro Universitário de Brusque;SC;251;Privada;;;251-300;7.4;;;201-250;3.34;;;251-300;1.37;;;201-250;2.69;;;;;
+2024;letras;Faculdade de Educação São Luís;SP;251;Privada;;;251-300;7.78;;;84;6.06;;;251-300;1.08;;;301-350;0.64;;;;;
+2024;letras;Faculdade de São Vicente;SP;251;Privada;;;251-300;8.1;;;251-300;1.21;;;201-250;2.97;;;174;3.92;;;;;
+2024;letras;Centro Universitário Nossa Senhora do Patrocínio;SP;251;Privada;;;251-300;7.71;;;251-300;1.21;;;201-250;2.16;;;156;4.34;;;;;
+2024;letras;Centro Universitário de Jales;SP;251;Privada;;;201-250;9.73;;;251-300;1.21;;;1;8;;;301-350;0.52;;;;;
+2024;letras;Faculdade de Educação e Tecnologia do Pará;PA;251;Privada;;;201-250;10.79;;;251-300;1.61;;;1;8;;;251-300;1.18;;;;;
+2024;letras;Centro Universitário Teresa D'ávila;SP;251;Privada;;;201-250;10.7;;;74;6.3;;;301-350;0.72;;;184;3.68;;;;;
+2024;letras;Centro Universitário São Miguel;PE;251;Privada;;;251-300;7.96;;;201-250;3.03;;;201-250;2.52;;;201-250;2.41;;;;;
+2024;letras;Centro Universitário Gama e Souza;RJ;251;Privada;;;198;12.27;;;301-350;0.19;;;1;8;;;167;4.08;;;;;
+2024;letras;Centro Universitário Santa Maria da Glória;PR;251;Privada;;;251-300;7.63;;;251-300;2.08;;;201-250;3.19;;;201-250;2.36;;;;;
+2024;letras;Faculdade Sant'Ana;PR;251;Privada;;;201-250;9.58;;;301-350;0.61;;;201-250;2.2;;;53;6.77;;;;;
+2024;letras;Faculdade de Americana;SP;251;Privada;;;251-300;8.12;;;115;5.34;;;251-300;1.32;;;251-300;1.46;;;;;
+2024;letras;Faculdade Invest de Ciências e Tecnologia;MT;251;Privada;;;251-300;6.78;;;147;4.6;;;301-350;0.67;;;251-300;1.51;;;;;
+2024;letras;Centro Universitário do Distrito Federal;DF;251;Privada;;;201-250;10.49;;;196;3.45;;;201-250;2.3;;;139;4.74;;;;;
+2024;letras;Centro Universitário da Grande Fortaleza;CE;251;Privada;;;251-300;8.87;;;143;4.69;;;251-300;2.01;;;201-250;2.17;;;;;
+2024;letras;Centro Universitário Estácio de Sergipe;SE;251;Privada;;;201-250;9.48;;;251-300;1.42;;;201-250;2.47;;;103;5.59;;;;;
+2024;letras;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;201-250;10.23;;;95;5.81;;;201-250;2.18;;;201-250;2.24;;;;;
+2024;letras;Faculdade Saberes;ES;251;Privada;;;201-250;9.79;;;116;5.32;;;251-300;0.98;;;192;3.49;;;;;
+2024;letras;Instituto Superior de Educação de São Paulo;SP;251;Privada;;;201-250;10.9;;;5;7.91;;;251-300;0.84;;;201-250;2.15;;;;;
+2024;letras;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;251;Privada;;;201-250;9.96;;;201-250;2.8;;;301-350;0.17;;;44;6.99;;;;;
+2024;letras;Faculdade Estácio de Carapicuíba;SP;251;Privada;;;251-300;8.01;;;251-300;1.21;;;251-300;1.7;;;124;5.1;;;;;
+2024;letras;Centro Universitário Barão de Mauá;SP;251;Privada;;;201-250;11.5;;;32;7.28;;;251-300;1.46;;;201-250;2.76;;;;;
+2024;letras;Centro Universitário de Votuporanga;SP;251;Privada;;;251-300;8.82;;;69;6.41;;;301-350;0.55;;;251-300;1.86;;;;;
+2024;letras;Faculdade de Itaituba;PA;251;Privada;;;201-250;10.48;;;251-300;1.61;;;1;8;;;301-350;0.87;;;;;
+2024;letras;Faculdade do Sertão do Pajeú;PE;251;Municipal;;;251-300;8.82;;;301-350;0.65;;;1;8;;;301-350;0.17;;;;;
+2024;letras;Instituto Superior de Educação Ivoti;RS;251;Privada;;;251-300;7.72;;;157;4.36;;;301-350;0.36;;;201-250;3;;;;;
+2024;letras;Faculdade de Guarantã do Norte;MT;251;Privada;;;201-250;9.48;;;147;4.6;;;201-250;2.97;;;251-300;1.91;;;;;
+2024;letras;Faculdades Integradas Potencial;SP;251;Privada;;;251-300;7.99;;;136;4.85;;;251-300;1.82;;;251-300;1.32;;;;;
+2024;letras;Centro Universitário Municipal de Franca;SP;251;Municipal;;;201-250;9.75;;;251-300;1.21;;;201-250;2.85;;;99;5.69;;;;;
+2024;letras;Faculdades Integradas de Taquara;RS;251;Privada;;;251-300;9.06;;;157;4.36;;;301-350;0.19;;;149;4.51;;;;;
+2024;letras;Centro Universitário Campo Limpo Paulista;SP;251;Privada;;;251-300;7.68;;;135;4.88;;;251-300;1.17;;;251-300;1.63;;;;;
+2024;letras;Universidade Federal do Cariri;CE;251;Federal;;;201-250;12.01;;;201-250;2.78;;;1;8;;;251-300;1.23;;;;;
+2024;letras;FAE Centro Universitário;PR;251;Privada;;;201-250;12.02;;;77;6.23;;;251-300;1.92;;;176;3.87;;;;;
+2024;letras;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;251;Privada;;;251-300;8.98;;;157;4.36;;;201-250;2.97;;;251-300;1.65;;;;;
+2024;letras;Faculdades Integradas Maria Imaculada;SP;251;Privada;;;201-250;10.61;;;201-250;3.08;;;185;3.59;;;173;3.94;;;;;
+2024;letras;Centro Universitário de Caratinga;MG;251;Privada;;;201-250;11.14;;;129;5.02;;;176;3.81;;;201-250;2.31;;;;;
+2024;letras;Faculdade Brasileira Cristã;ES;251;Privada;;;251-300;7.94;;;201-250;3.13;;;200;3.23;;;251-300;1.58;;;;;
+2024;letras;Faculdades Integradas Urubupungá;SP;251;Privada;;;201-250;10.89;;;251-300;1.21;;;1;8;;;251-300;1.68;;;;;
+2024;letras;Faculdades Integradas de Jahu;SP;251;Privada;;;201-250;11.08;;;110;5.46;;;251-300;1.44;;;163;4.18;;;;;
+2024;letras;Centro Universitário Mário Palmério;MG;251;Privada;;;251-300;6.78;;;201-250;2.24;;;201-250;2.49;;;251-300;2.05;;;;;
+2024;letras;Universidade Alto Vale do Rio do Peixe;SC;251;Privada;;;201-250;10.42;;;201-250;3.34;;;251-300;1.77;;;115;5.31;;;;;
+2024;letras;Instituto de Ensino Superior Múltiplo;MA;251;Privada;;;201-250;9.69;;;301-350;0.44;;;1;8;;;251-300;1.25;;;;;
+2024;letras;Faculdade de Pará de Minas;MG;251;Privada;;;251-300;8.35;;;131;4.97;;;251-300;1.56;;;251-300;1.82;;;;;
+2024;letras;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;251;Federal;;;201-250;12.15;;;183;3.76;;;165;4.07;;;157;4.32;;;;;
+2024;letras;Centro Universitário Uni-ban;SP;251;Privada;;;201-250;10.39;;;251-300;1.21;;;1;8;;;251-300;1.18;;;;;
+2024;letras;Centro Regional Universitário de Espírito Santo do Pinhal;SP;251;Privada;;;251-300;6.79;;;99;5.71;;;301-350;0.14;;;251-300;0.94;;;;;
+2024;letras;Centro Universitário Cenecista de Osório;RS;301;Privada;;;251-300;5.54;;;157;4.36;;;;;;;251-300;1.18;;;;;
+2024;letras;Instituto Superior de Educação Elvira Dayrell;MG;301;Privada;;;301-350;4.76;;;201-250;2.24;;;201-250;2.4;;;301-350;0.12;;;;;
+2024;letras;Centro Universitário Fieo;SP;301;Privada;;;301-350;2.04;;;251-300;1.21;;;301-350;0.43;;;301-350;0.4;;;;;
+2024;letras;Faculdade de Formação de Professores de Araripina;PE;301;Municipal;;;301-350;0.37;;;301-350;0.28;;;;;;;301-350;0.09;;;;;
+2024;letras;Centro Universitário do Vale do Ribeira;SP;301;Privada;;;301-350;4.66;;;201-250;2.87;;;251-300;0.89;;;301-350;0.9;;;;;
+2024;letras;Centro de Ensino Superior de Arcoverde;PE;301;Municipal;;;301-350;0.96;;;301-350;0.7;;;;;;;301-350;0.26;;;;;
+2024;letras;Faculdade de Ciências Humanas do Sertão Central;PE;301;Municipal;;;301-350;0.61;;;301-350;0.35;;;301-350;0.02;;;301-350;0.24;;;;;
+2024;letras;Faculdades Integradas Regionais de Avaré;SP;301;Municipal;;;301-350;3.66;;;201-250;2.54;;;301-350;0.1;;;251-300;1.02;;;;;
+2024;letras;Faculdades Famep Unidade Lago da Pedra - MA;MA;301;Privada;;;301-350;2.88;;;301-350;0.44;;;201-250;2.16;;;301-350;0.28;;;;;
+2024;letras;Faculdade Nova Roma Caruaru;PE;301;Privada;;;301-350;1.94;;;301-350;0.28;;;301-350;0.81;;;301-350;0.85;;;;;
+2024;letras;Centro Universitário Castelo Branco;ES;301;Privada;;;251-300;6.11;;;251-300;2.12;;;251-300;1.56;;;201-250;2.43;;;;;
+2024;letras;Faculdade de Formação de Professores de Serra Talhada;PE;301;Municipal;;;301-350;4.62;;;301-350;0.72;;;191;3.45;;;301-350;0.45;;;;;
+2024;letras;Centro de Ensino Superior de Vitória;ES;301;Privada;;;301-350;4.13;;;251-300;2.12;;;301-350;0.24;;;251-300;1.77;;;;;
+2024;letras;Universidade Brasil;SP;301;Privada;;;301-350;3.56;;;251-300;1.21;;;251-300;1.15;;;251-300;1.2;;;;;
+2024;letras;Faculdade de Ampére;PR;301;Privada;;;251-300;5.5;;;251-300;1.98;;;201-250;3.19;;;301-350;0.33;;;;;
+2024;letras;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;301;Privada;;;251-300;5.6;;;201-250;3.34;;;251-300;1.22;;;251-300;1.04;;;;;
+2024;letras;Centro Universitário Don Domênico;SP;301;Privada;;;301-350;4.95;;;251-300;1.21;;;301-350;0.29;;;194;3.45;;;;;
+2024;letras;Centro Universitário de Patos;PB;301;Privada;;;301-350;1.14;;;301-350;0.12;;;301-350;0.22;;;301-350;0.8;;;;;
+2024;letras;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;301-350;4.49;;;181;3.8;;;301-350;0.12;;;301-350;0.57;;;;;
+2024;letras;Faculdade de Ciências Humanas;SP;301;Privada;;;301-350;3.14;;;251-300;1.21;;;251-300;1.01;;;301-350;0.92;;;;;
+2024;letras;Faculdades Integradas Simonsen;RJ;301;Privada;;;301-350;4.69;;;201-250;2.47;;;301-350;0.38;;;251-300;1.84;;;;;
+2024;letras;Faculdade de Educação Superior de Pernambuco - FAESPE;PE;301;Privada;;;301-350;1.42;;;301-350;0.28;;;251-300;0.93;;;301-350;0.21;;;;;
+2024;letras;Faculdade Assis Gurgacz;PR;301;Privada;;;301-350;3.68;;;301-350;0.61;;;251-300;1.8;;;251-300;1.27;;;;;
+2024;letras;Centro Universitário São Camilo - Espírito Santo;ES;301;Privada;;;301-350;4.63;;;201-250;2.94;;;251-300;0.91;;;301-350;0.78;;;;;
+2024;letras;Faculdade de Formação de Professores da Mata Sul;PE;301;Municipal;;;301-350;0.52;;;301-350;0.47;;;;;;;301-350;0.05;;;;;
+2024;letras;Centro Universitário Augusto Motta;RJ;301;Privada;;;251-300;6.17;;;301-350;0.19;;;191;3.45;;;201-250;2.53;;;;;
+2024;letras;Faculdade Eficaz;PR;301;Privada;;;301-350;4.44;;;301-350;0.61;;;201-250;2.08;;;251-300;1.75;;;;;
+2024;letras;Faculdade de Ciências e Letras de Bragança Paulista;SP;301;Municipal;;;301-350;2.68;;;201-250;2.54;;;301-350;0.07;;;301-350;0.07;;;;;
+2024;letras;Instituto de Ciências Sociais e Humanas;GO;301;Privada;;;301-350;2.63;;;251-300;1.84;;;301-350;0.6;;;301-350;0.19;;;;;
+2024;letras;Faculdade São Luís de França;SE;301;Privada;;;251-300;6.07;;;251-300;1.42;;;201-250;3.19;;;251-300;1.46;;;;;
+2024;letras;Faculdade Ages de Senhor do Bonfim;BA;301;Privada;;;251-300;6.1;;;301-350;0.12;;;201-250;2.32;;;185;3.66;;;;;
+2024;letras;Centro Universitário Sumaré;SP;301;Privada;;;251-300;6.15;;;201-250;2.33;;;201-250;2.47;;;251-300;1.35;;;;;
+2024;letras;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;301;Municipal;;;251-300;5.38;;;251-300;1.94;;;201-250;2.47;;;251-300;0.97;;;;;
+2024;letras;Faculdade Dom Pedro II de Sergipe;SE;301;Privada;;;301-350;2.45;;;251-300;1.42;;;301-350;0.6;;;301-350;0.43;;;;;
+2024;letras;Instituto Municipal de Ensino Superior de São Manuel;SP;301;Municipal;;;301-350;3.27;;;201-250;2.54;;;;;;;301-350;0.73;;;;;
+2024;letras;Centro Universitário Arnaldo Horácio Ferreira;BA;301;Privada;;;301-350;1.48;;;301-350;0.12;;;301-350;0.65;;;301-350;0.71;;;;;
+2024;letras;Faculdade Internacional da Paraíba;PB;301;Privada;;;301-350;4.59;;;301-350;0.12;;;251-300;1.99;;;201-250;2.48;;;;;
+2024;letras;Instituto de Ensino Superior do Amapá;AP;301;Privada;;;251-300;5.84;;;251-300;1.73;;;178;3.76;;;301-350;0.35;;;;;
+2024;letras;Faculdade Educacional de Medianeira;PR;301;Privada;;;301-350;3.84;;;301-350;0.61;;;251-300;1.25;;;251-300;1.98;;;;;
+2024;letras;Faculdade Ibra de Brasília;DF;301;Privada;;;301-350;5;;;196;3.45;;;251-300;1.08;;;301-350;0.47;;;;;
+2024;letras;Faculdade Luso-brasileira;PE;301;Privada;;;251-300;5.46;;;301-350;0.33;;;201-250;2.68;;;201-250;2.45;;;;;
+2024;letras;Centro Universitário Itop;TO;301;Privada;;;301-350;1.61;;;251-300;1.61;;;;;;;;;;;;;
+2024;letras;Faculdade do Maranhão;MA;301;Privada;;;251-300;6.47;;;201-250;2.45;;;183;3.64;;;301-350;0.38;;;;;
+2025;letras;Universidade de São Paulo;SP;1;Estadual;1;30;1;69.4;;;21;7.52;;;1;8;;;6;7.88;1;40;1;1;6
+2025;letras;Universidade Federal de Minas Gerais;MG;2;Federal;2;29.81;2;66.13;;;8;7.83;;;1;8;;;10;7.78;2;39.31;2;128;3.21
+2025;letras;Universidade Estadual de Campinas;SP;3;Estadual;2;29.81;3;65.65;;;2;7.98;;;1;8;;;34;7.19;2;39.31;3;130;3.17
+2025;letras;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;4;Estadual;2;29.81;4;65.57;;;25;7.42;;;1;8;;;5;7.9;5;37.24;4;46;5.01
+2025;letras;Universidade Federal do Rio de Janeiro;RJ;5;Federal;2;29.81;5;64.55;;;22;7.49;;;1;8;;;60;6.56;4;37.93;5;66;4.57
+2025;letras;Universidade Federal de Santa Catarina;SC;6;Federal;8;28.65;6;62.51;;;29;7.32;;;1;8;;;21;7.51;7;35.86;6;100;3.82
+2025;letras;Universidade Federal da Bahia;BA;7;Federal;8;28.65;8;60.59;;;16;7.64;;;1;8;;;95;5.7;7;35.86;7;120;3.39
+2025;letras;Universidade Federal Fluminense;RJ;8;Federal;8;28.65;9;60.09;;;30;7.3;;;1;8;;;16;7.63;7;35.86;8;201-250;1.3
+2025;letras;Universidade Federal de Goiás;GO;9;Federal;8;28.65;11;59.34;;;48;6.86;;;1;8;;;97;5.65;7;35.86;9;139;2.97
+2025;letras;Universidade de Brasília;DF;10;Federal;25;25.39;7;61.13;;;51;6.79;;;1;8;;;49;6.83;7;35.86;10;108;3.65
+2025;letras;Universidade do Estado do Rio de Janeiro;RJ;11;Estadual;2;29.81;15;56.34;;;75;6.21;;;184;3.35;;;37;7.12;7;35.86;11;101;3.8
+2025;letras;Universidade Federal do Rio Grande do Sul;RS;12;Federal;25;25.39;10;59.81;;;178;3.71;;;1;8;;;20;7.54;5;37.24;12;123;3.32
+2025;letras;Universidade Federal do Ceará;CE;13;Federal;8;28.65;13;56.45;;;24;7.44;;;1;8;;;64;6.46;14;31.03;13;114;3.52
+2025;letras;Universidade Estadual de Londrina;PR;14;Estadual;8;28.65;16;56.14;;;44;6.96;;;1;8;;;73;6.24;14;31.03;14;96;3.91
+2025;letras;Pontifícia Universidade Católica de São Paulo;SP;15;Privada;8;28.65;17;56.01;;;10;7.78;;;188;3.25;;;70;6.31;7;35.86;1;146;2.81
+2025;letras;Universidade Federal de Pernambuco;PE;16;Federal;8;28.65;18;55.74;;;37;7.13;;;1;8;;;88;5.87;14;31.03;15;105;3.71
+2025;letras;Universidade Federal do Paraná;PR;17;Federal;25;25.39;12;58.54;;;35;7.18;;;1;8;;;38;7.1;14;31.03;16;36;5.23
+2025;letras;Universidade Federal de Santa Maria;RS;18;Federal;25;25.39;14;56.38;;;11;7.76;;;1;8;;;17;7.61;14;31.03;17;184;1.98
+2025;letras;Universidade Presbiteriana Mackenzie;SP;19;Privada;8;28.65;20;52.37;;;36;7.15;;;201-250;2.82;;;44;6.95;14;31.03;2;73;4.42
+2025;letras;Universidade Federal de São Paulo;SP;20;Federal;8;28.65;21;51.97;;;28;7.35;;;1;8;;;8;7.83;25;23.45;18;31;5.34
+2025;letras;Pontifícia Universidade Católica de Minas Gerais;MG;21;Privada;8;28.65;24;50.97;;;42;7.01;;;201-250;1.93;;;51;6.78;14;31.03;3;82;4.22
+2025;letras;Pontifícia Universidade Católica do Paraná;PR;22;Privada;8;28.65;25;50.58;;;49;6.84;;;201-250;2.87;;;90;5.82;14;31.03;4;91;4.02
+2025;letras;Universidade do Vale do Rio dos Sinos;RS;23;Privada;25;25.39;19;53.45;;;38;7.1;;;164;3.86;;;42;7;14;31.03;5;71;4.46
+2025;letras;Pontifícia Universidade Católica do Rio de Janeiro;RJ;24;Privada;25;25.39;22;51.54;;;7;7.86;;;251-300;1.5;;;61;6.53;14;31.03;6;64;4.62
+2025;letras;Pontifícia Universidade Católica do Rio Grande do Sul;RS;25;Privada;25;25.39;23;51.5;;;17;7.61;;;201-250;2.39;;;53;6.73;14;31.03;7;104;3.74
+2025;letras;Universidade Federal da Paraíba;PB;26;Federal;25;25.39;26;49.97;;;91;5.82;;;1;8;;;54;6.7;25;23.45;19;1;6
+2025;letras;Universidade Federal de São Carlos;SP;27;Federal;25;25.39;28;49.23;;;9;7.81;;;1;8;;;23;7.46;25;23.45;20;160;2.51
+2025;letras;Universidade Federal do Espírito Santo;ES;28;Federal;25;25.39;29;49.09;;;41;7.03;;;1;8;;;58;6.61;25;23.45;21;92;4
+2025;letras;Universidade Estadual do Ceará;CE;29;Estadual;8;28.65;38;45.64;;;179;3.69;;;1;8;;;118;5.14;25;23.45;22;30;5.36
+2025;letras;Universidade Federal de Juiz de Fora;MG;30;Federal;25;25.39;32;47.89;;;164;4.05;;;1;8;;;39;7.07;25;23.45;23;32;5.32
+2025;letras;Universidade Federal do Rio Grande do Norte;RN;31;Federal;25;25.39;33;47.52;;;31;7.27;;;1;8;;;74;6.21;25;23.45;24;156;2.59
+2025;letras;Universidade Federal de Mato Grosso;MT;32;Federal;25;25.39;34;46.86;;;94;5.75;;;1;8;;;119;5.11;25;23.45;25;67;4.55
+2025;letras;Universidade Federal de Alagoas;AL;33;Federal;25;25.39;36;46.6;;;161;4.12;;;1;8;;;67;6.39;25;23.45;26;63;4.64
+2025;letras;Universidade Federal do Pará;PA;34;Federal;8;28.65;44;43.15;;;201-250;2.09;;;1;8;;;143;4.53;25;23.45;27;43;5.08
+2025;letras;Universidade Federal de Sergipe;SE;35;Federal;25;25.39;37;46.08;;;130;4.87;;;1;8;;;79;6.09;25;23.45;28;107;3.67
+2025;letras;Universidade Estadual de Feira de Santana;BA;36;Estadual;25;25.39;41;43.97;;;175;3.78;;;1;8;;;129;4.87;25;23.45;29;98;3.87
+2025;letras;Universidade Federal de Campina Grande;PB;37;Federal;25;25.39;45;43.07;;;122;5.07;;;1;8;;;117;5.16;25;23.45;30;201-250;1.39
+2025;letras;Universidade Estadual do Piauí;PI;38;Estadual;25;25.39;47;42.87;;;156;4.24;;;1;8;;;201-250;3.03;25;23.45;31;85;4.15
+2025;letras;Universidade Federal de Uberlândia;MG;39;Federal;65;17.69;27;49.57;;;58;6.62;;;1;8;;;29;7.32;25;23.45;32;84;4.18
+2025;letras;Universidade Estadual de Maringá;PR;40;Estadual;65;17.69;30;48.63;;;80;6.09;;;1;8;;;75;6.19;25;23.45;33;51;4.9
+2025;letras;Universidade Federal do Triângulo Mineiro;MG;41;Federal;65;17.69;35;46.74;;;47;6.89;;;1;8;;;28;7.34;25;23.45;34;201-250;1.06
+2025;letras;Universidade Estadual do Centro Oeste;PR;42;Estadual;65;17.69;40;44.36;;;89;5.87;;;1;8;;;96;5.68;25;23.45;35;201-250;1.36
+2025;letras;Universidade Estadual do Paraná;PR;43;Estadual;65;17.69;42;43.89;;;125;4.99;;;1;8;;;135;4.72;25;23.45;36;150;2.73
+2025;letras;Universidade Federal de Pelotas;RS;44;Federal;65;17.69;46;42.93;;;100;5.6;;;1;8;;;155;4.23;25;23.45;37;199;1.65
+2025;letras;Universidade Católica de Pernambuco;PE;45;Privada;25;25.39;57;34.05;;;194;3.32;;;251-300;1.19;;;142;4.55;25;23.45;8;201-250;1.54
+2025;letras;Universidade de Passo Fundo;RS;46;Privada;65;17.69;49;40.35;;;99;5.62;;;199;2.97;;;98;5.63;25;23.45;9;152;2.68
+2025;letras;Universidade de Caxias do Sul;RS;47;Privada;65;17.69;50;40.31;;;129;4.9;;;201-250;1.91;;;89;5.85;25;23.45;10;83;4.2
+2025;letras;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;48;Estadual;65;17.69;53;39.3;;;251-300;1.89;;;1;8;;;176;3.72;25;23.45;38;172;2.24
+2025;letras;Universidade Luterana do Brasil;RS;49;Privada;65;17.69;54;39.04;;;116;5.21;;;166;3.81;;;161;4.09;25;23.45;11;161;2.48
+2025;letras;Universidade Estadual de Mato Grosso do Sul;MS;50;Estadual;65;17.69;55;38.08;;;201-250;2.45;;;251-300;1.32;;;100;5.58;25;23.45;39;34;5.28
+2025;letras;Universidade Federal de Viçosa;MG;51;Federal;25;25.39;60;26.61;;;33;7.22;;;1;8;;;59;6.58;;;40;55;4.81
+2025;letras;Universidade Federal do Estado do Rio de Janeiro;RJ;52;Federal;25;25.39;61;26.17;;;6;7.88;;;1;8;;;1;8;;;41;170;2.29
+2025;letras;Universidade Federal do Maranhão;MA;53;Federal;25;25.39;73;23.89;;;59;6.59;;;1;8;;;122;5.04;;;42;80;4.26
+2025;letras;Universidade do Estado da Bahia;BA;54;Estadual;2;29.81;112;18.89;;;201-250;2.81;;;1;8;;;114;5.24;;;43;145;2.84
+2025;letras;Universidade Federal de Alfenas;MG;55;Federal;;;31;48.32;;;34;7.2;;;1;8;;;55;6.68;25;23.45;44;138;2.99
+2025;letras;Universidade Federal do Piauí;PI;56;Federal;25;25.39;78;22.71;;;104;5.5;;;1;8;;;130;4.84;;;45;75;4.37
+2025;letras;Universidade Estadual do Sudoeste da Bahia;BA;57;Estadual;25;25.39;85;21.81;;;90;5.84;;;1;8;;;110;5.33;;;46;154;2.64
+2025;letras;Universidade Feevale;RS;58;Privada;;;39;45.43;;;45;6.93;;;1;8;;;40;7.05;25;23.45;12;;
+2025;letras;Centro Universitário Campos de Andrade;PR;59;Privada;65;17.69;59;26.89;;;87;5.92;;;1;8;;;43;6.97;;;13;1;6
+2025;letras;Universidade Regional do Cariri;CE;60;Estadual;25;25.39;116;18.72;;;201-250;2.47;;;1;8;;;201-250;2.25;;;47;1;6
+2025;letras;Universidade Federal de Mato Grosso do Sul;MS;61;Federal;25;25.39;123;18.33;;;162;4.1;;;159;3.99;;;47;6.88;;;48;121;3.36
+2025;letras;Pontifícia Universidade Católica de Goiás;GO;62;Privada;8;28.65;183;14.92;;;155;4.27;;;201-250;2.9;;;165;3.99;;;14;103;3.76
+2025;letras;Fundação Universidade Federal do Tocantins;TO;63;Federal;;;43;43.54;;;201-250;2.3;;;1;8;;;120;5.09;25;23.45;49;60;4.7
+2025;letras;Universidade Federal do Amazonas;AM;64;Federal;25;25.39;130;18.04;;;170;3.9;;;1;8;;;251-300;1.74;;;50;74;4.4
+2025;letras;Universidade Federal de Ouro Preto;MG;65;Federal;65;17.69;66;25.53;;;73;6.26;;;1;8;;;12;7.73;;;51;113;3.54
+2025;letras;Universidade Estadual de Ponta Grossa;PR;66;Estadual;65;17.69;67;24.94;;;79;6.11;;;1;8;;;83;5.99;;;52;54;4.84
+2025;letras;Pontifícia Universidade Católica de Campinas;SP;67;Privada;25;25.39;139;17.15;;;53;6.74;;;251-300;0.76;;;91;5.8;;;15;99;3.85
+2025;letras;Universidade do Estado do Rio Grande do Norte;RN;68;Estadual;25;25.39;142;17;;;183;3.59;;;1;8;;;201-250;2.62;;;53;147;2.79
+2025;letras;Universidade Estadual Vale do Acaraú;CE;69;Estadual;25;25.39;146;16.81;;;144;4.53;;;176;3.56;;;171;3.84;;;54;52;4.88
+2025;letras;Fundação Universidade Federal de Rondônia;RO;70;Federal;;;48;42.05;;;201-250;2.23;;;1;8;;;111;5.31;25;23.45;55;135;3.06
+2025;letras;Universidade Federal de Lavras;MG;71;Federal;65;17.69;68;24.25;;;85;5.96;;;1;8;;;7;7.85;;;56;163;2.44
+2025;letras;Universidade Federal de Rondonópolis;MT;72;Federal;65;17.69;69;24.23;;;95;5.72;;;1;8;;;115;5.21;;;57;33;5.3
+2025;letras;Universidade Estadual do Oeste do Paraná;PR;73;Estadual;65;17.69;71;23.97;;;135;4.75;;;1;8;;;78;6.12;;;58;42;5.1
+2025;letras;Universidade Federal Rural do Rio de Janeiro;RJ;74;Federal;65;17.69;74;23.79;;;69;6.35;;;1;8;;;32;7.24;;;59;174;2.2
+2025;letras;Centro Universitário de Patos de Minas;MG;75;Privada;65;17.69;76;23.61;;;4;7.93;;;1;8;;;14;7.68;;;16;;
+2025;letras;Universidade Estadual do Maranhão;MA;76;Estadual;8;28.65;201-250;12.2;;;201-250;2.16;;;153;4.14;;;251-300;1.57;;;60;77;4.33
+2025;letras;Universidade do Estado do Amazonas;AM;77;Estadual;25;25.39;175;15.29;;;201-250;2.69;;;1;8;;;201-250;2.86;;;61;195;1.74
+2025;letras;Universidade de Pernambuco;PE;78;Estadual;25;25.39;177;15.22;;;145;4.51;;;169;3.73;;;137;4.67;;;62;169;2.31
+2025;letras;Universidade Estácio de Sá;RJ;79;Privada;25;25.39;184;14.91;;;177;3.73;;;251-300;0.56;;;1;8;;;17;155;2.62
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;80;Federal;;;51;40.26;;;77;6.16;;;1;8;;;201-250;2.45;25;23.45;63;251-300;0.2
+2025;letras;Universidade Paulista;SP;81;Privada;8;28.65;201-250;11.41;;;101;5.58;;;201-250;2.06;;;192;3.33;;;18;251-300;0.44
+2025;letras;Universidade Federal do Rio Grande;RS;82;Federal;65;17.69;81;22.26;;;86;5.94;;;1;8;;;48;6.85;;;64;201-250;1.47
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;83;Federal;;;52;39.87;;;201-250;2.5;;;1;8;;;105;5.46;25;23.45;65;251-300;0.46
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;84;Federal;65;17.69;82;21.94;;;134;4.78;;;1;8;;;93;5.75;;;66;119;3.41
+2025;letras;Universidade Estadual do Norte do Paraná;PR;85;Estadual;65;17.69;83;21.9;;;135;4.75;;;1;8;;;150;4.36;;;67;56;4.79
+2025;letras;Universidade Federal de Jataí;GO;86;Federal;65;17.69;89;21.21;;;111;5.33;;;1;8;;;65;6.43;;;68;201-250;1.45
+2025;letras;Centro Universitário Facvest;SC;87;Privada;65;17.69;90;21.19;;;200;3.18;;;1;8;;;131;4.82;;;19;38;5.19
+2025;letras;Universidade Estadual de Goiás;GO;88;Estadual;25;25.39;201-250;13.18;;;201-250;1.99;;;1;8;;;201-250;2.35;;;69;201-250;0.84
+2025;letras;Universidade do Vale do Taquari;RS;89;Privada;65;17.69;96;20.61;;;1;8;;;190;3.2;;;62;6.51;;;20;142;2.9
+2025;letras;Centro Universitário Projeção;DF;90;Privada;65;17.69;97;20.55;;;149;4.41;;;1;8;;;33;7.22;;;21;201-250;0.92
+2025;letras;Universidade do Oeste Paulista;SP;91;Privada;65;17.69;98;20.33;;;105;5.48;;;173;3.63;;;68;6.36;;;22;53;4.86
+2025;letras;Faculdade Pio Décimo;SE;92;Privada;65;17.69;99;20.31;;;201-250;2.42;;;1;8;;;169;3.89;;;23;1;6
+2025;letras;Fundação Universidade Federal da Grande Dourados;MS;93;Federal;65;17.69;100;20.26;;;115;5.24;;;1;8;;;41;7.02;;;70;;
+2025;letras;Universidade Federal Rural do Semi-árido;RN;94;Federal;65;17.69;102;19.75;;;137;4.7;;;1;8;;;138;4.65;;;71;165;2.4
+2025;letras;Universidade Tiradentes;SE;95;Privada;25;25.39;201-250;11.97;;;251-300;1.29;;;192;3.15;;;56;6.65;;;24;201-250;0.88
+2025;letras;Universidade Veiga de Almeida;RJ;96;Privada;65;17.69;108;19.38;;;43;6.98;;;201-250;2.92;;;116;5.19;;;25;79;4.29
+2025;letras;Universidade Católica Dom Bosco;MS;97;Privada;65;17.69;110;19.28;;;27;7.37;;;196;3.05;;;134;4.75;;;26;87;4.11
+2025;letras;Universidade do Estado do Pará;PA;98;Estadual;25;25.39;201-250;11.04;;;251-300;1.55;;;149;4.24;;;198;3.18;;;72;180;2.07
+2025;letras;Centro Universitário da Vitória de Santo Antão;PE;99;Privada;65;17.69;115;18.73;;;184;3.56;;;1;8;;;123;5.02;;;27;176;2.15
+2025;letras;Universidade do Estado de Minas Gerais;MG;100;Estadual;65;17.69;118;18.7;;;120;5.12;;;1;8;;;201-250;3.01;;;73;157;2.57
+2025;letras;Universidade Federal do Acre;AC;101;Federal;65;17.69;119;18.69;;;171;3.88;;;1;8;;;196;3.23;;;74;111;3.58
+2025;letras;Universidade do Grande Rio Professor José de Souza Herdy;RJ;102;Privada;65;17.69;121;18.67;;;126;4.97;;;1;8;;;182;3.57;;;28;177;2.13
+2025;letras;Universidade Estadual de Montes Claros;MG;103;Estadual;65;17.69;122;18.38;;;201-250;2.76;;;1;8;;;190;3.38;;;75;81;4.24
+2025;letras;Universidade Estadual do Tocantins;TO;104;Estadual;;;56;36.03;;;251-300;1.14;;;1;8;;;251-300;1.44;25;23.45;76;183;2
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;105;Federal;65;17.69;125;18.2;;;159;4.17;;;1;8;;;128;4.89;;;77;201-250;1.14
+2025;letras;Universidade Estadual de Alagoas;AL;106;Estadual;65;17.69;129;18.12;;;251-300;1.94;;;1;8;;;187;3.45;;;78;59;4.73
+2025;letras;Universidade Católica de Brasília;DF;107;Privada;25;25.39;251-300;10.16;;;55;6.69;;;251-300;1.24;;;201-250;2.23;;;29;;
+2025;letras;Faculdades Integradas Iesgo;GO;108;Privada;65;17.69;133;17.73;;;251-300;1.65;;;1;8;;;201-250;2.08;;;30;1;6
+2025;letras;Faculdade Sesi-SP de Educação;SP;109;Privada;65;17.69;137;17.31;;;50;6.81;;;1;8;;;201-250;1.93;;;31;201-250;0.57
+2025;letras;Universidade Estadual de Santa Cruz;BA;110;Estadual;65;17.69;140;17.11;;;201-250;2.84;;;1;8;;;124;4.99;;;79;201-250;1.28
+2025;letras;Universidade Potiguar;RN;111;Privada;25;25.39;251-300;9.31;;;158;4.19;;;251-300;1.27;;;197;3.21;;;32;201-250;0.64
+2025;letras;Centro Universitário Fundação Santo André;SP;112;Privada;65;17.69;143;16.95;;;78;6.13;;;201-250;2.34;;;102;5.53;;;33;140;2.95
+2025;letras;Universidade Estadual da Paraíba;PB;113;Estadual;65;17.69;144;16.93;;;199;3.2;;;1;8;;;251-300;1.84;;;80;97;3.89
+2025;letras;Universidade Anhanguera;MS;114;Privada;65;17.69;145;16.91;;;83;6.01;;;179;3.48;;;30;7.29;;;34;251-300;0.13
+2025;letras;Centro Universitário Sagrado Coração;SP;115;Privada;65;17.69;148;16.65;;;20;7.54;;;251-300;1.52;;;104;5.48;;;35;178;2.11
+2025;letras;Universidade Federal do Cariri;CE;116;Federal;65;17.69;150;16.54;;;201-250;2.62;;;1;8;;;251-300;1.39;;;81;68;4.53
+2025;letras;Universidade da Amazônia;PA;117;Privada;25;25.39;251-300;8.68;;;251-300;1.43;;;201-250;2.01;;;201-250;2.89;;;36;167;2.35
+2025;letras;Centro Universitário de Várzea Grande;MT;118;Privada;65;17.69;152;16.28;;;141;4.61;;;187;3.28;;;84;5.97;;;37;164;2.42
+2025;letras;Centro Universitário Planalto do Distrito Federal;DF;119;Privada;65;17.69;154;16.18;;;109;5.38;;;1;8;;;201-250;2.4;;;38;251-300;0.4
+2025;letras;Universidade da Região de Joinville;SC;120;Privada;65;17.69;156;16.09;;;13;7.71;;;198;3;;;172;3.82;;;39;201-250;1.56
+2025;letras;Centro Universitário Padre Anchieta;SP;121;Privada;65;17.69;160;15.96;;;72;6.28;;;251-300;0.81;;;156;4.21;;;40;62;4.66
+2025;letras;Faculdade Anhanguera do Maranhão;MA;122;Privada;65;17.69;161;15.89;;;139;4.66;;;175;3.58;;;19;7.56;;;41;251-300;0.09
+2025;letras;Centro Universitário Adventista de São Paulo;SP;123;Privada;65;17.69;165;15.75;;;128;4.92;;;201-250;2.74;;;185;3.5;;;42;65;4.59
+2025;letras;Escola Superior Batista do Amazonas;AM;124;Privada;65;17.69;167;15.67;;;148;4.44;;;1;8;;;201-250;2.99;;;43;251-300;0.24
+2025;letras;Centro Universitário Ideau;RS;125;Privada;65;17.69;168;15.64;;;150;4.39;;;1;8;;;195;3.25;;;44;;
+2025;letras;Universidade de Taubaté;SP;126;Municipal;65;17.69;171;15.56;;;70;6.33;;;158;4.01;;;191;3.35;;;82;189;1.87
+2025;letras;Universidade Estadual da Região Tocantina do Maranhão;MA;127;Estadual;65;17.69;172;15.41;;;201-250;2.93;;;1;8;;;251-300;1.05;;;83;118;3.43
+2025;letras;Universidade Metodista de São Paulo;SP;128;Privada;65;17.69;178;15.2;;;251-300;1.12;;;201-250;2.13;;;85;5.95;;;45;1;6
+2025;letras;Universidade do Vale do Itajaí;SC;129;Privada;65;17.69;179;15.15;;;15;7.66;;;201-250;2.59;;;170;3.87;;;46;201-250;1.03
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;130;Federal;;;58;32.54;;;251-300;1.55;;;154;4.11;;;201-250;3.06;25;23.45;84;251-300;0.37
+2025;letras;Universidade do Extremo Sul Catarinense;SC;131;Privada;65;17.69;192;14.47;;;114;5.26;;;201-250;2.72;;;152;4.31;;;47;175;2.18
+2025;letras;Universidade Regional de Blumenau;SC;132;Municipal;65;17.69;193;14.4;;;60;6.57;;;251-300;1.22;;;126;4.94;;;85;198;1.67
+2025;letras;Faculdade Frassinetti do Recife;PE;133;Privada;65;17.69;194;14.2;;;84;5.99;;;201-250;2.08;;;201-250;2.15;;;48;93;3.98
+2025;letras;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;134;Privada;65;17.69;197;14;;;57;6.64;;;201-250;2.84;;;154;4.26;;;49;251-300;0.26
+2025;letras;Centro Universitário Fibra;PA;135;Privada;65;17.69;200;13.85;;;251-300;1.43;;;181;3.43;;;166;3.96;;;50;45;5.03
+2025;letras;Universidade do Oeste de Santa Catarina;SC;136;Privada;65;17.69;201-250;13.74;;;200;3.18;;;174;3.61;;;201-250;2.64;;;51;78;4.31
+2025;letras;Centro Universitário Teresa D'ávila;SP;137;Privada;65;17.69;201-250;13.58;;;71;6.3;;;251-300;0.48;;;201-250;2.84;;;52;94;3.96
+2025;letras;Centro Universitário Castelo Branco;ES;138;Privada;65;17.69;201-250;13.49;;;201-250;2.06;;;182;3.4;;;184;3.52;;;53;69;4.51
+2025;letras;Faculdade de Ciências Humanas de Olinda;PE;139;Privada;65;17.69;201-250;13.45;;;193;3.35;;;201-250;2.03;;;140;4.6;;;54;116;3.47
+2025;letras;Universidade Nilton Lins;AM;140;Privada;25;25.39;251-300;5.45;;;251-300;1.46;;;201-250;1.98;;;301-350;0.25;;;55;194;1.76
+2025;letras;Centro Universitário Jorge Amado;BA;141;Privada;65;17.69;201-250;12.65;;;201-250;2.86;;;189;3.23;;;101;5.55;;;56;201-250;1.01
+2025;letras;Centro Universitário Assis Gurgacz;PR;142;Privada;65;17.69;201-250;11.88;;;106;5.46;;;165;3.84;;;251-300;1.81;;;57;201-250;0.77
+2025;letras;Centro Universitário do Norte;AM;143;Privada;65;17.69;201-250;11.38;;;201-250;2.11;;;201-250;2.16;;;251-300;1.86;;;58;35;5.25
+2025;letras;Centro Universitário Moura Lacerda;SP;144;Privada;65;17.69;201-250;11.36;;;12;7.73;;;251-300;0.79;;;201-250;2.42;;;59;251-300;0.42
+2025;letras;Universidade Cruzeiro do Sul;SP;145;Privada;65;17.69;201-250;11.14;;;201-250;2.98;;;201-250;1.75;;;103;5.51;;;60;201-250;0.9
+2025;letras;Centro Universitário Ritter dos Reis;RS;146;Privada;65;17.69;201-250;11.04;;;150;4.39;;;251-300;1.55;;;145;4.48;;;61;201-250;0.62
+2025;letras;Universidade Anhembi Morumbi;SP;147;Privada;65;17.69;201-250;10.76;;;251-300;1.12;;;201-250;1.85;;;251-300;1.79;;;62;1;6
+2025;letras;Faculdade Souza Marques;RJ;148;Privada;65;17.69;201-250;10.58;;;163;4.07;;;251-300;1.37;;;201-250;2.37;;;63;148;2.77
+2025;letras;Universidade do Sul de Santa Catarina;SC;149;Privada;65;17.69;251-300;10.51;;;200;3.18;;;251-300;1.4;;;201-250;2.74;;;64;129;3.19
+2025;letras;Universidade de Franca;SP;150;Privada;65;17.69;251-300;10.49;;;251-300;1.12;;;185;3.33;;;81;6.04;;;65;;
+2025;letras;Centro Universitário Campo Limpo Paulista;SP;151;Privada;65;17.69;251-300;10.33;;;132;4.82;;;251-300;1.6;;;251-300;1.03;;;66;143;2.88
+2025;letras;Centro Universitário das Faculdades Metropolitanas Unidas;SP;152;Privada;65;17.69;251-300;10.17;;;62;6.52;;;251-300;0.97;;;201-250;2.13;;;67;201-250;0.55
+2025;letras;Universidade do Planalto Catarinense;SC;153;Privada;65;17.69;251-300;10.03;;;200;3.18;;;201-250;2.69;;;201-250;3.08;;;68;201-250;1.08
+2025;letras;Escola Superior Madre Celeste;PA;154;Privada;65;17.69;251-300;9.84;;;251-300;1.43;;;251-300;0.99;;;201-250;2.91;;;69;69;4.51
+2025;letras;Centro Universitário Estácio de São Paulo;SP;155;Privada;65;17.69;251-300;9.81;;;251-300;1.12;;;251-300;0.69;;;1;8;;;70;;
+2025;letras;Centro Universitário de Belo Horizonte;MG;156;Privada;65;17.69;251-300;9.6;;;186;3.52;;;201-250;2.31;;;201-250;3.11;;;71;201-250;0.66
+2025;letras;Centro Universitário Una;MG;157;Privada;65;17.69;251-300;9.32;;;186;3.52;;;201-250;2.11;;;177;3.69;;;72;;
+2025;letras;Universidade Federal Rural de Pernambuco;PE;158;Federal;;;62;25.99;;;113;5.29;;;1;8;;;22;7.49;;;86;37;5.21
+2025;letras;Universidade Federal de São João Del Rei;MG;159;Federal;;;63;25.8;;;19;7.56;;;1;8;;;36;7.14;;;87;133;3.1
+2025;letras;Universidade Federal da Integração Latino-americana;PR;160;Federal;;;64;25.6;;;88;5.89;;;1;8;;;18;7.58;;;88;86;4.13
+2025;letras;Universidade Federal do Agreste de Pernambuco;PE;161;Federal;;;65;25.56;;;97;5.67;;;1;8;;;52;6.75;;;89;40;5.14
+2025;letras;Universidade Católica do Salvador;BA;162;Privada;65;17.69;251-300;7.66;;;182;3.61;;;251-300;0.58;;;201-250;2.3;;;73;201-250;1.17
+2025;letras;Centro Universitário Católico Ítalo Brasileiro;SP;163;Privada;65;17.69;251-300;7;;;251-300;1.12;;;201-250;1.7;;;157;4.18;;;74;;
+2025;letras;Universidade Federal de Catalão;GO;164;Federal;;;70;24.1;;;103;5.53;;;1;8;;;31;7.27;;;90;124;3.3
+2025;letras;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;165;Federal;;;72;23.93;;;64;6.47;;;1;8;;;92;5.77;;;91;106;3.69
+2025;letras;Universidade Estadual do Rio Grande do Sul;RS;166;Estadual;;;75;23.68;;;23;7.47;;;1;8;;;14;7.68;;;92;201-250;0.53
+2025;letras;Centro Universitário Augusto Motta;RJ;167;Privada;65;17.69;251-300;5.95;;;301-350;0.32;;;180;3.45;;;201-250;2.18;;;75;;
+2025;letras;Universidade Tecnológica Federal do Paraná;PR;168;Federal;;;77;23.56;;;26;7.39;;;1;8;;;63;6.48;;;93;197;1.69
+2025;letras;Universidade de Gurupi;TO;169;Municipal;65;17.69;251-300;5.59;;;251-300;1.43;;;251-300;1.47;;;251-300;0.91;;;94;193;1.78
+2025;letras;Centro Universitário Fluminense;RJ;170;Privada;65;17.69;301-350;5.09;;;301-350;0.58;;;178;3.51;;;251-300;1;;;76;;
+2025;letras;Universidade Federal do Norte do Tocantins;TO;171;Federal;;;79;22.63;;;201-250;2.4;;;1;8;;;35;7.17;;;95;44;5.06
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;172;Federal;;;80;22.5;;;54;6.72;;;1;8;;;127;4.92;;;96;144;2.86
+2025;letras;Centro Universitário Sant'Anna;SP;173;Privada;;;84;21.85;;;140;4.63;;;167;3.78;;;24;7.44;;;77;1;6
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;174;Federal;;;86;21.76;;;65;6.45;;;1;8;;;94;5.73;;;97;201-250;1.58
+2025;letras;Universidade Comunitária da Região de Chapecó;SC;175;Privada;;;87;21.26;;;18;7.59;;;1;8;;;151;4.33;;;78;201-250;1.34
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;175;Federal;;;88;21.26;;;63;6.5;;;1;8;;;144;4.5;;;98;171;2.26
+2025;letras;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;177;Federal;;;91;21.11;;;68;6.38;;;1;8;;;107;5.41;;;99;201-250;1.32
+2025;letras;Centro Federal de Educação Tecnológica de Minas Gerais;MG;178;Federal;;;92;21.04;;;164;4.05;;;1;8;;;46;6.9;;;100;179;2.09
+2025;letras;Universidade Federal do Oeste do Pará;PA;179;Federal;;;93;20.92;;;172;3.86;;;1;8;;;125;4.97;;;101;88;4.09
+2025;letras;Universidade Federal de Roraima;RR;180;Federal;;;94;20.89;;;198;3.22;;;1;8;;;99;5.6;;;102;89;4.07
+2025;letras;Universidade Federal Rural da Amazônia;PA;181;Federal;;;95;20.76;;;251-300;1.55;;;1;8;;;72;6.26;;;103;49;4.95
+2025;letras;Universidade Católica de Santos;SP;182;Privada;;;101;20.04;;;164;4.05;;;1;8;;;76;6.17;;;79;191;1.82
+2025;letras;Centro Universitário de Goiatuba;GO;183;Municipal;;;103;19.68;;;201-250;2.21;;;1;8;;;186;3.47;;;104;1;6
+2025;letras;Universidade Santo Amaro;SP;184;Privada;;;104;19.63;;;147;4.46;;;154;4.11;;;121;5.06;;;80;1;6
+2025;letras;Instituto de Educação Superior Presidente Kennedy - Centro de Formação de Profissionais de Educação;RN;185;Estadual;;;105;19.62;;;180;3.66;;;1;8;;;201-250;1.96;;;105;1;6
+2025;letras;Universidade do Vale do Sapucaí;MG;186;Privada;;;106;19.46;;;3;7.95;;;182;3.4;;;133;4.77;;;81;122;3.34
+2025;letras;Faculdade Anhanguera de Belo Horizonte;MG;187;Privada;;;107;19.39;;;186;3.52;;;1;8;;;9;7.8;;;82;251-300;0.07
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;188;Federal;;;109;19.32;;;61;6.55;;;1;8;;;178;3.67;;;106;201-250;1.1
+2025;letras;Universidade Federal do Sul e Sudeste do Pará;PA;189;Federal;;;111;18.9;;;251-300;1.55;;;1;8;;;26;7.39;;;107;185;1.96
+2025;letras;Centro Universitário Metropolitano de São Paulo;SP;190;Privada;65;17.69;301-350;1.12;;;251-300;1.12;;;;;;;;;;;83;;
+2025;letras;Centro Universitário São Judas Tadeu;SP;190;Privada;65;17.69;301-350;1.12;;;251-300;1.12;;;;;;;;;;;83;;
+2025;letras;Centro Universitário Santa Cruz de Curitiba;PR;192;Privada;;;113;18.74;;;201-250;2.52;;;1;8;;;25;7.41;;;85;201-250;0.81
+2025;letras;Fundação Universidade Federal do Pampa;RS;193;Federal;;;114;18.73;;;181;3.64;;;1;8;;;66;6.41;;;108;201-250;0.68
+2025;letras;Faculdade Jardins;SE;194;Privada;;;116;18.72;;;251-300;1.29;;;1;8;;;188;3.43;;;86;1;6
+2025;letras;Centro Universitário Geraldo Di Biase;RJ;195;Privada;;;120;18.67;;;39;7.08;;;191;3.18;;;162;4.06;;;87;76;4.35
+2025;letras;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;196;Privada;;;124;18.29;;;52;6.76;;;170;3.71;;;13;7.71;;;88;251-300;0.11
+2025;letras;Universidade Federal do Amapá;AP;197;Federal;;;126;18.19;;;124;5.02;;;1;8;;;201-250;2.03;;;109;131;3.14
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;198;Federal;;;127;18.18;;;164;4.05;;;1;8;;;168;3.91;;;110;173;2.22
+2025;letras;Universidade Federal da Fronteira Sul;SC;199;Federal;;;128;18.15;;;123;5.04;;;161;3.94;;;50;6.8;;;111;166;2.37
+2025;letras;Universidade La Salle;RS;200;Privada;;;131;17.97;;;82;6.04;;;152;4.17;;;11;7.76;;;89;;
+2025;letras;Faculdade do Sertão do Pajeú;PE;201;Municipal;;;201-250;12.72;;;301-350;0.56;;;1;8;;;301-350;0.2;;;124;94;3.96
+2025;letras;Universidade de Sorocaba;SP;201;Privada;;;176;15.28;;;131;4.85;;;201-250;2.21;;;71;6.29;;;104;186;1.93
+2025;letras;Instituto Superior de Ciências Humanas e Sociais Anísio Teixeira;RJ;201;Privada;;;201-250;13.42;;;56;6.67;;;301-350;0.03;;;201-250;2.28;;;120;72;4.44
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;201;Federal;;;195;14.18;;;93;5.77;;;156;4.06;;;179;3.65;;;122;201-250;0.7
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;201;Federal;;;138;17.24;;;164;4.05;;;1;8;;;193;3.3;;;114;188;1.89
+2025;letras;Faculdades Integradas Potencial;SP;201;Privada;;;174;15.3;;;133;4.8;;;192;3.15;;;251-300;1.35;;;103;1;6
+2025;letras;Centro Universitário Celso Lisboa;RJ;201;Privada;;;201-250;13.54;;;251-300;1.84;;;1;8;;;183;3.55;;;118;251-300;0.15
+2025;letras;Faculdade Anhanguera de Macapá;AP;201;Privada;;;149;16.63;;;251-300;1.67;;;1;8;;;45;6.92;;;92;251-300;0.04
+2025;letras;Centro Universitário da Grande Fortaleza;CE;201;Privada;;;168;15.64;;;118;5.16;;;201-250;2.77;;;201-250;2.59;;;101;41;5.12
+2025;letras;Faculdade São Luís de França;SE;201;Privada;;;170;15.56;;;251-300;1.29;;;1;8;;;201-250;2.99;;;102;125;3.28
+2025;letras;Universidade do Estado do Amapá;AP;201;Estadual;;;164;15.78;;;159;4.17;;;1;8;;;301-350;0.49;;;118;132;3.12
+2025;letras;Universidade Cidade de São Paulo;SP;201;Privada;;;198;13.91;;;121;5.09;;;201-250;2.29;;;112;5.28;;;114;201-250;1.25
+2025;letras;FAE Centro Universitário;PR;201;Privada;;;185;14.87;;;74;6.23;;;201-250;2.36;;;180;3.62;;;107;153;2.66
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;201;Federal;;;134;17.54;;;176;3.76;;;151;4.19;;;139;4.62;;;113;48;4.97
+2025;letras;Centro Universitário de Tecnologia e Negócios Carlos Drummond de Andrade;SP;201;Privada;;;135;17.48;;;184;3.56;;;1;8;;;86;5.92;;;90;;
+2025;letras;Faculdades Integradas Urubupungá;SP;201;Privada;;;201-250;12.53;;;251-300;1.12;;;1;8;;;201-250;1.91;;;126;201-250;1.5
+2025;letras;Centro Universitário de Itajubá;MG;201;Privada;;;158;15.99;;;40;7.06;;;177;3.53;;;146;4.45;;;97;201-250;0.95
+2025;letras;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;155;16.12;;;251-300;1.82;;;1;8;;;181;3.6;;;95;151;2.7
+2025;letras;Faculdade Cultura Inglesa;SP;201;Privada;;;166;15.67;;;46;6.91;;;251-300;0.91;;;148;4.4;;;100;117;3.45
+2025;letras;Instituto de Ensino Superior Múltiplo;MA;201;Privada;;;190;14.49;;;301-350;0.49;;;1;8;;;251-300;1.3;;;111;60;4.7
+2025;letras;Universidade Federal do Sul da Bahia;BA;201;Federal;;;147;16.76;;;201-250;2.62;;;1;8;;;77;6.14;;;116;;
+2025;letras;Centro Universitário Municipal de Franca;SP;201;Municipal;;;162;15.85;;;251-300;1.12;;;186;3.3;;;106;5.43;;;117;1;6
+2025;letras;Centro Universitário de Caratinga;MG;201;Privada;;;201-250;13.57;;;127;4.95;;;160;3.96;;;201-250;2.81;;;117;190;1.85
+2025;letras;Faculdade do Maranhão;MA;201;Privada;;;158;15.99;;;201-250;2.28;;;1;8;;;301-350;0.54;;;97;39;5.17
+2025;letras;Centro Universitário Alfredo Nasser;GO;201;Privada;;;201-250;13.43;;;251-300;1.65;;;1;8;;;201-250;2.57;;;119;201-250;1.21
+2025;letras;Universidade Católica de Petrópolis;RJ;201;Privada;;;199;13.9;;;102;5.55;;;251-300;0.86;;;201-250;2.5;;;115;47;4.99
+2025;letras;Universidade Castelo Branco;RJ;201;Privada;;;201-250;12.99;;;14;7.69;;;251-300;1.02;;;153;4.28;;;123;;
+2025;letras;Centro Universitário Dom Pedro II;BA;201;Privada;;;187;14.79;;;301-350;0.12;;;1;8;;;56;6.65;;;109;251-300;0.02
+2025;letras;Centro Universitário Barão de Mauá;SP;201;Privada;;;136;17.37;;;32;7.25;;;201-250;2.41;;;201-250;2.79;;;91;50;4.92
+2025;letras;Universidade Franciscana;RS;201;Privada;;;181;15.04;;;98;5.65;;;167;3.78;;;112;5.28;;;106;251-300;0.33
+2025;letras;Faculdade Unina;PR;201;Privada;;;196;14;;;251-300;1.82;;;1;8;;;157;4.18;;;113;;
+2025;letras;Centro Universitário Estácio de Sergipe;SE;201;Privada;;;153;16.2;;;251-300;1.29;;;1;8;;;86;5.92;;;94;201-250;0.99
+2025;letras;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;201;Federal;;;141;17.05;;;201-250;2.55;;;150;4.22;;;27;7.36;;;115;141;2.92
+2025;letras;Faculdade Invest de Ciências e Tecnologia;MT;201;Privada;;;189;14.58;;;141;4.61;;;201-250;1.96;;;201-250;2.01;;;110;1;6
+2025;letras;Faculdade de São Vicente;SP;201;Privada;;;201-250;13.16;;;251-300;1.12;;;1;8;;;163;4.04;;;122;;
+2025;letras;Instituto Superior de Educação Ivoti;RS;201;Privada;;;201-250;12.8;;;150;4.39;;;251-300;0.51;;;200;3.13;;;124;57;4.77
+2025;letras;Instituto Superior de Educação de São Paulo;SP;201;Privada;;;201-250;13.22;;;5;7.9;;;251-300;0.89;;;201-250;2.72;;;121;196;1.71
+2025;letras;Faculdade de Guarantã do Norte;MT;201;Privada;;;191;14.49;;;141;4.61;;;1;8;;;251-300;1.88;;;111;;
+2025;letras;União das Faculdades dos Grandes Lagos;SP;201;Privada;;;180;15.09;;;201-250;2.26;;;1;8;;;163;4.04;;;105;201-250;0.79
+2025;letras;Faculdade Iseib de Belo Horizonte;MG;201;Privada;;;151;16.39;;;186;3.52;;;1;8;;;159;4.14;;;93;201-250;0.73
+2025;letras;Centro Universitário das Américas;SP;201;Privada;;;201-250;12.76;;;76;6.18;;;251-300;0.84;;;160;4.11;;;125;200;1.63
+2025;letras;Universidade Estadual de Roraima;RR;201;Estadual;;;172;15.41;;;108;5.41;;;157;4.04;;;167;3.94;;;119;182;2.02
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;201;Federal;;;201-250;13.3;;;173;3.83;;;1;8;;;251-300;1.47;;;123;;
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;201;Federal;;;132;17.8;;;138;4.68;;;1;8;;;251-300;1.52;;;112;110;3.6
+2025;letras;Universidade Federal do Recôncavo da Bahia;BA;201;Federal;;;182;15.01;;;201-250;2.62;;;1;8;;;199;3.16;;;120;201-250;1.23
+2025;letras;Universidade de Santa Cruz do Sul;RS;201;Privada;;;157;16.04;;;67;6.4;;;201-250;1.73;;;108;5.38;;;96;159;2.53
+2025;letras;Faculdade Sant'Ana;PR;201;Privada;;;186;14.83;;;251-300;1.82;;;251-300;1.65;;;109;5.36;;;108;1;6
+2025;letras;Centro Universitário de Votuporanga;SP;201;Privada;;;163;15.79;;;66;6.42;;;201-250;1.78;;;251-300;1.59;;;99;1;6
+2025;letras;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;201;Federal;;;188;14.66;;;117;5.19;;;1;8;;;301-350;0.61;;;121;201-250;0.86
+2025;letras;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;201;Privada;;;201-250;13.59;;;110;5.36;;;251-300;0.69;;;251-300;1.54;;;116;1;6
+2025;letras;Faculdade Luso-brasileira;PE;251;Privada;;;251-300;7.96;;;301-350;0.36;;;251-300;1.09;;;201-250;2.47;;;164;90;4.04
+2025;letras;Faculdade de Ciências Humanas;SP;251;Privada;;;201-250;11.37;;;251-300;1.12;;;200;2.95;;;251-300;1.3;;;134;1;6
+2025;letras;Instituto Superior de Educação Elvira Dayrell;MG;251;Privada;;;251-300;9.84;;;186;3.52;;;301-350;0.2;;;301-350;0.12;;;153;1;6
+2025;letras;Faculdade Erich Fromm;DF;251;Privada;;;201-250;10.79;;;195;3.3;;;251-300;1.47;;;82;6.02;;;143;;
+2025;letras;Faculdade Madre Tereza;AP;251;Privada;;;201-250;11.2;;;201-250;1.96;;;162;3.91;;;201-250;2.1;;;137;127;3.23
+2025;letras;Centro Universitário Santa Maria da Glória;PR;251;Privada;;;251-300;10.41;;;201-250;2.01;;;201-250;2.67;;;189;3.4;;;149;168;2.33
+2025;letras;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;251;Privada;;;201-250;11.02;;;201-250;2.64;;;301-350;0.38;;;1;8;;;140;;
+2025;letras;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;251-300;9.67;;;92;5.79;;;201-250;2.24;;;251-300;1.64;;;154;;
+2025;letras;Universidade Brasil;SP;251;Privada;;;251-300;9.28;;;251-300;1.12;;;251-300;1.35;;;251-300;0.81;;;156;1;6
+2025;letras;Faculdade de São Bernardo do Campo FASB;SP;251;Privada;;;201-250;10.55;;;146;4.49;;;251-300;0.61;;;201-250;2.2;;;145;126;3.25
+2025;letras;Centro Universitário do Vale do Ribeira;SP;251;Privada;;;251-300;6.83;;;201-250;2.72;;;201-250;1.8;;;251-300;0.88;;;170;201-250;1.43
+2025;letras;Faculdades Famep Unidade Lago da Pedra - MA;MA;251;Privada;;;251-300;8.71;;;301-350;0.49;;;1;8;;;301-350;0.22;;;159;;
+2025;letras;Faculdade da Escada;PE;251;Privada;;;201-250;12.49;;;169;3.93;;;1;8;;;301-350;0.56;;;127;;
+2025;letras;Faculdades Integradas de Jahu;SP;251;Privada;;;201-250;11;;;107;5.43;;;251-300;1.14;;;147;4.43;;;141;;
+2025;letras;Centro de Ensino Superior do Vale São Francisco;PE;251;Municipal;;;251-300;8.41;;;301-350;0.24;;;1;8;;;301-350;0.17;;;126;;
+2025;letras;Faculdade Eficaz;PR;251;Privada;;;201-250;11.11;;;251-300;1.82;;;251-300;1.63;;;251-300;1.66;;;138;1;6
+2025;letras;Faculdade de Educação São Luís;SP;251;Privada;;;251-300;7.64;;;81;6.06;;;251-300;0.64;;;251-300;0.76;;;165;251-300;0.18
+2025;letras;Centro Universitário Nossa Senhora do Patrocínio;SP;251;Privada;;;251-300;8.55;;;251-300;1.12;;;251-300;1.07;;;68;6.36;;;161;;
+2025;letras;Faculdade de Itaituba;PA;251;Privada;;;251-300;10.29;;;251-300;1.43;;;1;8;;;251-300;0.86;;;151;;
+2025;letras;Faculdade Lusófona do Rio de Janeiro;RJ;251;Privada;;;251-300;6.45;;;301-350;0.32;;;201-250;1.88;;;175;3.74;;;171;251-300;0.51
+2025;letras;Universidade São Judas Tadeu;SP;251;Privada;;;251-300;9.26;;;251-300;1.12;;;201-250;2.57;;;149;4.38;;;158;201-250;1.19
+2025;letras;Universidade do Contestado;SC;251;Privada;;;251-300;8.61;;;200;3.18;;;201-250;2.44;;;201-250;2.99;;;160;;
+2025;letras;Faculdade de Americana;SP;251;Privada;;;201-250;11.04;;;112;5.31;;;201-250;1.68;;;251-300;1.3;;;139;149;2.75
+2025;letras;Faculdades Integradas Maria Imaculada;SP;251;Privada;;;251-300;10.36;;;201-250;2.91;;;171;3.68;;;174;3.77;;;150;;
+2025;letras;Faculdades Integradas de Taquara;RS;251;Privada;;;201-250;11.25;;;150;4.39;;;301-350;0.15;;;132;4.8;;;135;187;1.91
+2025;letras;Centro Universitário Una de Contagem;MG;251;Privada;;;251-300;5.93;;;186;3.52;;;251-300;0.43;;;201-250;1.98;;;173;;
+2025;letras;Faculdade do Baixo Parnaíba;MA;251;Privada;;;251-300;10.25;;;301-350;0.49;;;1;8;;;251-300;1.76;;;152;;
+2025;letras;Centro Universitário São Miguel;PE;251;Privada;;;251-300;8;;;201-250;2.89;;;201-250;2.79;;;201-250;2.32;;;163;;
+2025;letras;Centro Universitário de Jales;SP;251;Privada;;;251-300;9.46;;;251-300;1.12;;;1;8;;;301-350;0.34;;;155;;
+2025;letras;Faculdade Brasileira Cristã;ES;251;Privada;;;251-300;9.28;;;201-250;2.96;;;172;3.66;;;251-300;1.69;;;156;201-250;0.97
+2025;letras;Universidade Alto Vale do Rio do Peixe;SC;251;Privada;;;201-250;11.71;;;200;3.18;;;201-250;2.46;;;80;6.07;;;132;;
+2025;letras;Faculdade Cgesp Goiânia;GO;251;Privada;;;201-250;10.85;;;157;4.22;;;301-350;0.38;;;201-250;2.69;;;142;112;3.56
+2025;letras;Instituto de Ensino Superior do Amapá;AP;251;Privada;;;251-300;7.38;;;251-300;1.58;;;162;3.91;;;301-350;0.29;;;167;201-250;1.6
+2025;letras;Faculdades Integradas Campo-grandenses;RJ;251;Privada;;;251-300;8.2;;;201-250;2.67;;;301-350;0.28;;;251-300;1.62;;;162;109;3.63
+2025;letras;Centro Universitário do Distrito Federal;DF;251;Privada;;;201-250;10.7;;;195;3.3;;;251-300;1.58;;;136;4.7;;;144;201-250;1.12
+2025;letras;Faculdades Integradas Simonsen;RJ;251;Privada;;;251-300;7.64;;;201-250;2.18;;;251-300;0.94;;;251-300;1.49;;;165;136;3.03
+2025;letras;Centro de Ensino Superior de Vitória;ES;251;Privada;;;201-250;11.75;;;201-250;2.06;;;251-300;0.41;;;194;3.28;;;131;1;6
+2025;letras;Centro Universitário Don Domênico;SP;251;Privada;;;201-250;12.43;;;251-300;1.12;;;251-300;0.71;;;140;4.6;;;128;1;6
+2025;letras;Faculdades Integradas Regionais de Avaré;SP;251;Municipal;;;251-300;6.27;;;201-250;2.38;;;301-350;0.05;;;251-300;0.83;;;127;137;3.01
+2025;letras;Faculdade de Olinda;PE;251;Privada;;;251-300;10.54;;;201-250;2.74;;;301-350;0.38;;;251-300;1.42;;;146;1;6
+2025;letras;Centro Universitário de Brusque;SC;251;Privada;;;201-250;11.54;;;200;3.18;;;201-250;2.51;;;201-250;2.77;;;133;134;3.08
+2025;letras;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;251;Municipal;;;201-250;12.24;;;251-300;1.87;;;195;3.07;;;251-300;1.3;;;125;1;6
+2025;letras;Centro Regional Universitário de Espírito Santo do Pinhal;SP;251;Privada;;;201-250;11.92;;;96;5.7;;;301-350;0.08;;;251-300;1.37;;;130;57;4.77
+2025;letras;Centro Universitário Uni-ban;SP;251;Privada;;;251-300;10.42;;;251-300;1.12;;;1;8;;;251-300;1.3;;;148;;
+2025;letras;Faculdade Educacional de Medianeira;PR;251;Privada;;;201-250;12.32;;;251-300;1.82;;;201-250;1.83;;;201-250;2.67;;;129;1;6
+2025;letras;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;251;Privada;;;201-250;11.25;;;200;3.18;;;251-300;1.12;;;251-300;0.95;;;135;1;6
+2025;letras;Centro Universitário Ages;BA;251;Privada;;;251-300;7.19;;;301-350;0.56;;;201-250;2.49;;;173;3.79;;;169;251-300;0.35
+2025;letras;Faculdade Ibra de Brasília;DF;251;Privada;;;251-300;6.07;;;195;3.3;;;201-250;2.26;;;301-350;0.51;;;172;;
+2025;letras;Centro Universitário Multiversa do Vale do Jaguaribe;CE;251;Privada;;;251-300;10.54;;;118;5.16;;;201-250;2.67;;;251-300;1.3;;;146;201-250;1.41
+2025;letras;Centro Universitário São Camilo - Espírito Santo;ES;251;Privada;;;251-300;7.35;;;201-250;2.79;;;251-300;1.17;;;251-300;0.93;;;168;162;2.46
+2025;letras;Faculdade de Formação de Professores de Araripina;PE;301;Municipal;;;301-350;4.07;;;301-350;0.24;;;;;;;301-350;0.05;;;130;102;3.78
+2025;letras;Faculdades Integradas Vale do Rio Verde;SP;301;Privada;;;301-350;1.59;;;251-300;1.12;;;;;;;301-350;0.47;;;191;;
+2025;letras;Faculdade de Formação de Professores da Mata Sul;PE;301;Municipal;;;301-350;2.62;;;301-350;0.51;;;;;;;301-350;0.07;;;133;181;2.04
+2025;letras;Centro Universitário Cenecista de Osório;RS;301;Privada;;;251-300;5.69;;;150;4.39;;;;;;;251-300;1.3;;;174;;
+2025;letras;Centro Universitário Sumaré;SP;301;Privada;;;251-300;5.67;;;201-250;2.13;;;196;3.05;;;301-350;0.27;;;175;251-300;0.22
+2025;letras;Faculdade de Ciências Humanas do Sertão Central;PE;301;Municipal;;;301-350;2.61;;;301-350;0.39;;;;;;;301-350;0.42;;;134;192;1.8
+2025;letras;Centro Universitário Arnaldo Horácio Ferreira;BA;301;Privada;;;301-350;2.02;;;301-350;0.12;;;251-300;0.46;;;251-300;0.69;;;189;201-250;0.75
+2025;letras;Faculdade de Ciências e Letras de Bragança Paulista;SP;301;Municipal;;;301-350;2.48;;;201-250;2.38;;;;;;;301-350;0.1;;;135;;
+2025;letras;Instituto Municipal de Ensino Superior de São Manuel;SP;301;Municipal;;;301-350;3.09;;;201-250;2.38;;;;;;;251-300;0.71;;;132;;
+2025;letras;Centro Universitário Itop;TO;301;Privada;;;301-350;1.43;;;251-300;1.43;;;;;;;;;;;193;;
+2025;letras;Centro de Ensino Superior de Arcoverde;PE;301;Municipal;;;301-350;4.5;;;301-350;0.61;;;;;;;301-350;0.39;;;129;115;3.5
+2025;letras;Faculdade Santa Fé;MA;301;Privada;;;301-350;3.63;;;301-350;0.49;;;201-250;2.67;;;301-350;0.47;;;183;;
+2025;letras;Faculdade Ages de Senhor do Bonfim;BA;301;Privada;;;301-350;4.44;;;301-350;0.12;;;251-300;1.3;;;201-250;2.54;;;179;251-300;0.48
+2025;letras;Faculdade Nova Roma Caruaru;PE;301;Privada;;;301-350;1.54;;;301-350;0.24;;;;;;;251-300;1.3;;;192;;
+2025;letras;Faculdade Uniftb;SE;301;Privada;;;301-350;2.59;;;251-300;1.29;;;;;;;251-300;1.3;;;186;;
+2025;letras;Faculdade de Educação Superior de Pernambuco;PE;301;Privada;;;301-350;1.22;;;301-350;0.24;;;301-350;0.2;;;251-300;0.78;;;194;;
+2025;letras;Centro Universitário Fieo;SP;301;Privada;;;301-350;2.24;;;251-300;1.12;;;251-300;0.53;;;301-350;0.59;;;188;;
+2025;letras;Centro Universitário dos Guararapes;PE;301;Privada;;;301-350;2.43;;;301-350;0.24;;;301-350;0.13;;;201-250;2.06;;;187;;
+2025;letras;Faculdade do Belo Jardim;PE;301;Municipal;;;251-300;5.69;;;301-350;0.34;;;194;3.1;;;251-300;0.73;;;128;201-250;1.52
+2025;letras;Faculdade Assis Gurgacz;PR;301;Privada;;;301-350;4.15;;;251-300;1.82;;;251-300;1.04;;;251-300;0.98;;;181;251-300;0.31
+2025;letras;Faculdade de Formação de Professores de Serra Talhada;PE;301;Municipal;;;301-350;3.73;;;301-350;0.63;;;301-350;0.23;;;301-350;0.32;;;131;158;2.55
+2025;letras;Instituto de Ciências Sociais e Humanas;GO;301;Privada;;;301-350;3.27;;;251-300;1.65;;;251-300;1.47;;;301-350;0.15;;;184;;
+2025;letras;Faculdade Dom Pedro II de Sergipe;SE;301;Privada;;;301-350;1.69;;;251-300;1.29;;;301-350;0.38;;;301-350;0.02;;;190;;
+2025;letras;Faculdade Internacional da Paraíba;PB;301;Privada;;;301-350;3.97;;;301-350;0.12;;;251-300;0.74;;;201-250;2.52;;;182;201-250;0.59
+2025;letras;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;301-350;4.55;;;174;3.81;;;301-350;0.1;;;301-350;0.64;;;178;;
+2025;letras;Faculdade Una de Divinópolis;MG;301;Privada;;;301-350;4.87;;;186;3.52;;;;;;;251-300;1.35;;;176;;
+2025;letras;Faculdade de Ampére;PR;301;Privada;;;301-350;4.83;;;251-300;1.92;;;201-250;2.54;;;301-350;0.37;;;177;;
+2025;letras;Universidade Metodista de Piracicaba;SP;301;Privada;;;301-350;2.71;;;251-300;1.12;;;;;;;251-300;1.3;;;185;251-300;0.29
+2025;letras;Centro Universitário São José de Itaperuna;RJ;301;Privada;;;301-350;4.21;;;301-350;0.32;;;201-250;2.18;;;251-300;1.71;;;180;;
+2025;letras;Centro Universitário de Patos;PB;301;Privada;;;301-350;1.03;;;301-350;0.12;;;301-350;0.25;;;301-350;0.66;;;195;;

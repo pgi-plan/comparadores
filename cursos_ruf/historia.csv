@@ -1,0 +1,981 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;historia;Universidade Estadual de Campinas;SP;1;Estadual;2;35.68;1;61.15;32;7.04;3;7.93;;;1;8;2;38.18;;;;;;;
+2019;historia;Universidade de São Paulo;SP;2;Estadual;1;36;4;59.53;1;8;124;3.53;;;1;8;1;40;;;;;;;
+2019;historia;Universidade Federal do Rio de Janeiro;RJ;3;Federal;2;35.68;3;59.61;10;7.72;14;7.53;;;1;8;3;36.36;;;;;;;
+2019;historia;Universidade Federal de Minas Gerais;MG;4;Federal;6;34.42;2;59.88;12;7.66;5;7.86;;;1;8;3;36.36;;;;;;;
+2019;historia;Universidade Federal Fluminense;RJ;5;Federal;6;34.42;5;58.39;13;7.63;45;6.4;;;1;8;3;36.36;;;;;;;
+2019;historia;Universidade de Brasília;DF;6;Federal;10;33.16;6;54.1;20;7.41;7;7.78;;;1;8;6;30.91;;;;;;;
+2019;historia;Pontifícia Universidade Católica de São Paulo;SP;7;Privada;6;34.42;8;48.85;15;7.57;65;5.67;;;107;4.7;6;30.91;;;;;;;
+2019;historia;Universidade Federal do Rio Grande do Sul;RS;8;Federal;17;30.95;7;52.05;23;7.32;61;5.82;;;1;8;6;30.91;;;;;;;
+2019;historia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;9;Estadual;2;35.68;11;46.7;9;7.75;124;3.53;;;113;4.51;6;30.91;;;;;;;
+2019;historia;Universidade Federal de Pernambuco;PE;10;Federal;10;33.16;12;45.85;46;6.61;12;7.6;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Federal do Paraná;PR;11;Federal;17;30.95;9;47.35;7;7.82;4;7.89;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade do Estado do Rio de Janeiro;RJ;12;Estadual;2;35.68;19;42.53;17;7.51;41;6.55;;;103;4.83;10;23.64;;;;;;;
+2019;historia;Universidade do Vale do Rio dos Sinos;RS;13;Privada;17;30.95;10;46.95;6;7.85;16;7.46;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Federal da Bahia;BA;14;Federal;10;33.16;16;42.86;65;6.02;78;5.2;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Estadual de Londrina;PR;15;Estadual;17;30.95;14;44.7;40;6.8;49;6.26;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Federal de Santa Catarina;SC;16;Federal;17;30.95;15;43.91;57;6.27;56;6;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Federal de Goiás;GO;17;Federal;17;30.95;17;42.78;31;7.07;109;4.07;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Federal do Pará;PA;18;Federal;17;30.95;18;42.73;54;6.36;91;4.73;;;1;8;10;23.64;;;;;;;
+2019;historia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;19;Privada;17;30.95;21;40.32;18;7.48;58;5.93;;;153;3.27;10;23.64;;;;;;;
+2019;historia;Universidade Federal de Uberlândia;MG;20;Federal;44;22.42;13;44.71;24;7.29;62;5.78;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Estadual de Maringá;PR;21;Estadual;44;22.42;20;42.43;72;5.81;84;4.98;;;1;8;10;23.64;;;;;;;
+2019;historia;Universidade Federal do Ceará;CE;22;Federal;10;33.16;35;21.09;26;7.23;60;5.86;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal da Paraíba;PB;23;Federal;17;30.95;25;22.59;28;7.17;17;7.42;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Rio Grande do Norte;RN;24;Federal;17;30.95;35;21.09;67;5.96;25;7.13;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Espírito Santo;ES;25;Federal;17;30.95;38;20.95;22;7.35;67;5.6;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Maranhão;MA;26;Federal;17;30.95;42;19.88;79;5.59;48;6.29;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Juiz de Fora;MG;27;Federal;17;30.95;47;19.18;29;7.14;110;4.04;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Sergipe;SE;28;Federal;17;30.95;59;17.83;43;6.7;135;3.13;;;1;8;;;;;;;;;
+2019;historia;Pontifícia Universidade Católica de Minas Gerais;MG;29;Privada;10;33.16;79;15.16;102;4.88;18;7.38;;;165;2.9;;;;;;;;;
+2019;historia;Universidade Estadual do Ceará;CE;30;Estadual;6;34.42;108;13.43;93;5.16;129;3.35;;;100;4.92;;;;;;;;;
+2019;historia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;31;Privada;17;30.95;74;15.83;19;7.44;22;7.24;;;201-250;1.15;;;;;;;;;
+2019;historia;Universidade Federal do Piauí;PI;32;Federal;17;30.95;84;15.02;140;3.71;130;3.31;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de São Paulo;SP;32;Federal;44;22.42;23;23.55;4;7.91;11;7.64;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Ouro Preto;MG;34;Federal;44;22.42;26;22.57;38;6.86;9;7.71;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Viçosa;MG;35;Federal;44;22.42;27;22.53;11;7.69;33;6.84;;;1;8;;;;;;;;;
+2019;historia;Universidade do Estado da Bahia;BA;36;Estadual;10;33.16;135;11.65;116;4.45;149;2.62;;;111;4.58;;;;;;;;;
+2019;historia;Universidade Federal de Alagoas;AL;37;Federal;17;30.95;106;13.66;105;4.79;197;0.87;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Santa Maria;RS;38;Federal;44;22.42;29;22.15;27;7.2;30;6.95;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal Rural de Pernambuco;PE;39;Federal;44;22.42;30;22;34;6.98;28;7.02;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal Rural do Rio de Janeiro;RJ;40;Federal;44;22.42;31;21.49;8;7.78;64;5.71;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual de Ponta Grossa;PR;40;Estadual;44;22.42;31;21.49;21;7.38;53;6.11;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual do Piauí;PI;42;Estadual;17;30.95;121;12.63;175;2.63;166;2;;;1;8;;;;;;;;;
+2019;historia;Pontifícia Universidade Católica de Campinas;SP;43;Privada;17;30.95;124;12.37;59;6.21;79;5.16;;;201-250;1;;;;;;;;;
+2019;historia;Universidade do Grande Rio Professor José de Souza Herdy;RJ;44;Privada;17;30.95;125;12.3;94;5.13;147;2.69;;;114;4.48;;;;;;;;;
+2019;historia;Universidade Estácio de Sá;RJ;45;Privada;10;33.16;159;10;177;2.56;127;3.42;;;129;4.02;;;;;;;;;
+2019;historia;Universidade Estadual Vale do Acaraú;CE;46;Estadual;17;30.95;137;11.58;122;4.26;132;3.24;;;127;4.08;;;;;;;;;
+2019;historia;Universidade Federal do Amazonas;AM;47;Federal;44;22.42;41;19.97;42;6.73;77;5.24;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Adventista de São Paulo;SP;48;Privada;17;30.95;145;10.94;159;3.12;95;4.58;;;154;3.24;;;;;;;;;
+2019;historia;Universidade de Pernambuco;PE;49;Estadual;17;30.95;147;10.89;137;3.8;145;2.76;;;119;4.33;;;;;;;;;
+2019;historia;Universidade Estadual do Oeste do Paraná;PR;50;Estadual;44;22.42;49;19.08;45;6.64;99;4.44;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual de Goiás;GO;51;Estadual;17;30.95;155;10.4;201-250;1.42;194;0.98;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Mato Grosso;MT;52;Federal;44;22.42;55;17.87;62;6.12;118;3.75;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Campina Grande;PB;52;Federal;44;22.42;55;17.87;96;5.07;89;4.8;;;1;8;;;;;;;;;
+2019;historia;Universidade do Vale do Taquari;RS;54;Privada;44;22.42;58;17.84;66;5.99;15;7.49;;;118;4.36;;;;;;;;;
+2019;historia;Universidade Católica de Pernambuco;PE;55;Privada;17;30.95;166;9.31;128;4.08;101;4.36;;;201-250;0.87;;;;;;;;;
+2019;historia;Universidade Estadual da Paraíba;PB;56;Estadual;44;22.42;64;17.01;92;5.19;116;3.82;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual de Santa Cruz;BA;57;Estadual;44;22.42;66;16.56;77;5.65;141;2.91;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual do Sudoeste da Bahia;BA;58;Estadual;44;22.42;67;16.41;103;4.85;123;3.56;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual do Paraná;PR;59;Estadual;44;22.42;72;15.92;106;4.76;134;3.16;;;1;8;;;;;;;;;
+2019;historia;Universidade Católica de Santos;SP;60;Privada;44;22.42;73;15.88;52;6.43;93;4.66;;;104;4.79;;;;;;;;;
+2019;historia;Universidade Estadual do Norte do Paraná;PR;61;Estadual;44;22.42;75;15.6;80;5.56;165;2.04;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Roraima;RR;62;Federal;44;22.42;76;15.34;86;5.38;167;1.96;;;1;8;;;;;;;;;
+2019;historia;Universidade Tiradentes;SE;63;Privada;17;30.95;198;6.69;168;2.84;176;1.64;;;187;2.21;;;;;;;;;
+2019;historia;Universidade de Passo Fundo;RS;64;Privada;44;22.42;81;15.12;51;6.46;83;5.02;;;141;3.64;;;;;;;;;
+2019;historia;Universidade Potiguar;RN;65;Privada;44;22.42;82;15.07;69;5.9;82;5.06;;;126;4.11;;;;;;;;;
+2019;historia;Universidade Luterana do Brasil;RS;66;Privada;44;22.42;83;15.06;130;4.02;27;7.06;;;130;3.98;;;;;;;;;
+2019;historia;Universidade Regional do Cariri;CE;67;Estadual;44;22.42;86;14.79;138;3.77;138;3.02;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual de Montes Claros;MG;68;Estadual;44;22.42;87;14.78;98;5;172;1.78;;;1;8;;;;;;;;;
+2019;historia;Fundação Universidade Federal do Tocantins;TO;69;Federal;44;22.42;88;14.77;55;6.33;201-250;0.44;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Fundação Santo André;SP;70;Privada;44;22.42;90;14.48;56;6.3;13;7.56;;;201-250;0.62;;;;;;;;;
+2019;historia;Centro Universitário Geraldo Di Biase;RJ;71;Privada;44;22.42;96;14.14;161;3.06;37;6.69;;;117;4.39;;;;;;;;;
+2019;historia;Pontifícia Universidade Católica do Paraná;PR;72;Privada;44;22.42;98;14.13;85;5.41;31;6.91;;;200;1.81;;;;;;;;;
+2019;historia;Universidade Estadual do Maranhão;MA;73;Estadual;17;30.95;201-250;5.59;201-250;1.11;120;3.67;;;201-250;0.81;;;;;;;;;
+2019;historia;Universidade de Caxias do Sul;RS;74;Privada;44;22.42;103;13.71;83;5.47;39;6.62;;;201-250;1.62;;;;;;;;;
+2019;historia;Universidade Nove de Julho;SP;75;Privada;44;22.42;104;13.7;75;5.71;128;3.38;;;110;4.61;;;;;;;;;
+2019;historia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;76;Privada;44;22.42;107;13.51;145;3.55;44;6.44;;;145;3.52;;;;;;;;;
+2019;historia;Universidade Paranaense;PR;77;Privada;99;5.05;22;30.78;201-250;1.67;80;5.13;;;201-250;0.34;10;23.64;;;;;;;
+2019;historia;Universidade Estadual de Feira de Santana;BA;77;Estadual;44;22.42;109;13.41;126;4.14;186;1.27;;;1;8;;;;;;;;;
+2019;historia;Universidade do Estado do Rio Grande do Norte;RN;79;Estadual;44;22.42;110;13.28;181;2.44;143;2.84;;;1;8;;;;;;;;;
+2019;historia;Universidade Cruzeiro do Sul;SP;80;Privada;44;22.42;111;13.26;50;6.49;153;2.47;;;120;4.3;;;;;;;;;
+2019;historia;Universidade do Estado de Mato Grosso;MT;81;Estadual;44;22.42;116;12.9;139;3.74;189;1.16;;;1;8;;;;;;;;;
+2019;historia;Universidade de Sorocaba;SP;82;Privada;44;22.42;118;12.81;100;4.94;50;6.22;;;201-250;1.65;;;;;;;;;
+2019;historia;Universidade do Sul de Santa Catarina;SC;83;Privada;44;22.42;120;12.75;160;3.09;36;6.73;;;164;2.93;;;;;;;;;
+2019;historia;Universidade Federal de Mato Grosso do Sul;MS;84;Federal;44;22.42;127;12.2;95;5.1;151;2.55;;;112;4.55;;;;;;;;;
+2019;historia;Universidade do Extremo Sul Catarinense;SC;85;Privada;44;22.42;134;11.7;163;3;70;5.49;;;155;3.21;;;;;;;;;
+2019;historia;Universidade Castelo Branco;RJ;86;Privada;44;22.42;142;11.2;125;4.17;74;5.35;;;201-250;1.68;;;;;;;;;
+2019;historia;Universidade da Amazônia;PA;87;Privada;44;22.42;148;10.88;153;3.31;72;5.42;;;189;2.15;;;;;;;;;
+2019;historia;Universidade do Estado do Amazonas;AM;88;Estadual;44;22.42;153;10.48;201-250;1.82;201-250;0.66;;;1;8;;;;;;;;;
+2019;historia;Universidade Católica do Salvador;BA;89;Privada;44;22.42;171;9.08;124;4.2;156;2.36;;;177;2.52;;;;;;;;;
+2019;historia;Faculdade Nova Roma Caruaru;PE;90;Privada;44;22.42;175;8.52;201-250;1.58;90;4.76;;;188;2.18;;;;;;;;;
+2019;historia;Universidade do Vale do Itajaí;SC;91;Privada;44;22.42;179;8.48;184;2.35;180;1.49;;;109;4.64;;;;;;;;;
+2019;historia;Centro Universitário de Adamantina;SP;92;Municipal;44;22.42;186;7.79;182;2.41;157;2.33;;;160;3.05;;;;;;;;;
+2019;historia;Universidade do Estado do Pará;PA;93;Estadual;44;22.42;191;7.41;154;3.27;;;;;125;4.14;;;;;;;;;
+2019;historia;Pontifícia Universidade Católica de Goiás;GO;94;Privada;44;22.42;192;7.31;133;3.92;161;2.18;;;201-250;1.21;;;;;;;;;
+2019;historia;Universidade Estadual de Alagoas;AL;95;Estadual;44;22.42;197;6.7;201-250;1.21;200;0.76;;;106;4.73;;;;;;;;;
+2019;historia;Centro Universitário de Brasília;DF;96;Privada;44;22.42;200;6.51;134;3.89;155;2.4;;;251-300;0.22;;;;;;;;;
+2019;historia;Universidade Feevale;RS;97;Privada;99;5.05;33;21.28;68;5.93;19;7.35;;;1;8;;;;;;;;;
+2019;historia;Universidade Salgado de Oliveira;RJ;98;Privada;44;22.42;201-250;3.82;201-250;1.48;;;;;183;2.34;;;;;;;;;
+2019;historia;Centro Universitário Anhanguera de São Paulo;SP;99;Privada;44;22.42;201-250;3.56;189;2.19;201-250;0.47;;;201-250;0.9;;;;;;;;;
+2019;historia;Universidade Cândido Mendes;RJ;100;Privada;44;22.42;201-250;3.49;156;3.21;;;;;201-250;0.28;;;;;;;;;
+2019;historia;Fundação Universidade do Estado de Santa Catarina;SC;101;Estadual;99;5.05;51;19.02;33;7.01;2;7.96;;;128;4.05;;;;;;;;;
+2019;historia;Universidade Federal do Estado do Rio de Janeiro;RJ;102;Federal;;;24;23.14;3;7.94;23;7.2;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Triângulo Mineiro;MG;103;Federal;99;5.05;57;17.85;41;6.76;136;3.09;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de São João Del Rei;MG;104;Federal;;;28;22.26;14;7.6;38;6.66;;;1;8;;;;;;;;;
+2019;historia;Universidade de Santa Cruz do Sul;RS;105;Privada;99;5.05;65;16.66;39;6.83;43;6.47;;;150;3.36;;;;;;;;;
+2019;historia;Universidade Cidade de São Paulo;SP;106;Privada;99;5.05;70;16.25;49;6.52;52;6.15;;;143;3.58;;;;;;;;;
+2019;historia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;107;Federal;;;34;21.26;5;7.88;73;5.38;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Alfenas;MG;108;Federal;;;37;21;44;6.67;47;6.33;;;1;8;;;;;;;;;
+2019;historia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;109;Federal;;;39;20.02;97;5.04;29;6.98;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Sumaré;SP;110;Privada;;;40;20;107;4.73;21;7.27;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Campos de Andrade;PR;111;Privada;;;43;19.85;53;6.39;71;5.46;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal da Integração Latino-americana;PR;112;Federal;;;44;19.48;25;7.26;105;4.22;;;1;8;;;;;;;;;
+2019;historia;Fundação Universidade Federal da Grande Dourados;MS;113;Federal;;;45;19.35;35;6.95;100;4.4;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal da Fronteira Sul;SC;114;Federal;;;46;19.29;90;5.25;55;6.04;;;1;8;;;;;;;;;
+2019;historia;Universidade Estadual do Centro Oeste;PR;115;Estadual;;;48;19.09;73;5.78;75;5.31;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal de Pelotas;RS;116;Federal;;;50;19.03;30;7.1;113;3.93;;;1;8;;;;;;;;;
+2019;historia;Universidade Regional de Blumenau;SC;117;Municipal;99;5.05;99;13.97;89;5.28;1;8;;;201-250;0.69;;;;;;;;;
+2019;historia;Centro Universitário Barão de Mauá;SP;118;Privada;99;5.05;100;13.91;149;3.43;32;6.87;;;142;3.61;;;;;;;;;
+2019;historia;Universidade Federal do Sul e Sudeste do Pará;PA;119;Federal;;;52;18.9;113;4.54;46;6.36;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;120;Federal;;;53;18.7;48;6.55;107;4.15;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Ages;BA;121;Privada;;;54;18.33;61;6.15;106;4.18;;;1;8;;;;;;;;;
+2019;historia;Universidade Católica Dom Bosco;MS;122;Privada;99;5.05;119;12.78;141;3.68;76;5.27;;;135;3.83;;;;;;;;;
+2019;historia;Fundação Universidade Federal do Pampa;RS;123;Federal;;;60;17.55;84;5.44;108;4.11;;;1;8;;;;;;;;;
+2019;historia;Universidade La Salle;RS;124;Privada;;;61;17.5;16;7.54;54;6.07;;;133;3.89;;;;;;;;;
+2019;historia;Escola de Ciências Sociais FGV Cpdoc;RJ;125;Privada;;;62;17.24;37;6.89;10;7.67;;;172;2.68;;;;;;;;;
+2019;historia;Centro Universitário Facvest;SC;126;Privada;;;63;17.22;60;6.18;51;6.18;;;102;4.86;;;;;;;;;
+2019;historia;Universidade do Oeste Paulista;SP;127;Privada;99;5.05;132;11.9;81;5.53;140;2.95;;;148;3.42;;;;;;;;;
+2019;historia;Universidade Franciscana;RS;128;Privada;;;68;16.39;110;4.63;26;7.09;;;108;4.67;;;;;;;;;
+2019;historia;Universidade Federal do Rio Grande;RS;129;Federal;;;69;16.29;47;6.58;174;1.71;;;1;8;;;;;;;;;
+2019;historia;Universidade Vale do Rio Doce;MG;130;Privada;;;71;16;1;8;;;;;1;8;;;;;;;;;
+2019;historia;Universidade do Vale do Paraíba;SP;131;Privada;99;5.05;154;10.41;123;4.23;81;5.09;;;201-250;1.09;;;;;;;;;
+2019;historia;Universidade da Região de Joinville;SC;132;Privada;;;77;15.29;118;4.39;24;7.16;;;138;3.74;;;;;;;;;
+2019;historia;Fundação Universidade Federal de Rondônia;RO;133;Federal;;;78;15.22;63;6.09;190;1.13;;;1;8;;;;;;;;;
+2019;historia;Universidade Tuiuti do Paraná;PR;134;Privada;;;80;15.15;71;5.84;35;6.76;;;176;2.55;;;;;;;;;
+2019;historia;Fundação Universidade Federal do Vale do São Francisco;PE;135;Federal;;;85;14.92;36;6.92;;;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário de Belo Horizonte;MG;136;Privada;;;88;14.77;117;4.42;34;6.8;;;144;3.55;;;;;;;;;
+2019;historia;Universidade Católica de Petrópolis;RJ;137;Privada;99;5.05;162;9.67;147;3.49;87;4.87;;;201-250;1.31;;;;;;;;;
+2019;historia;Universidade Federal do Recôncavo da Bahia;BA;138;Federal;;;91;14.45;70;5.87;201-250;0.58;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Sagrado Coração;SP;139;Privada;;;92;14.44;82;5.5;6;7.82;;;201-250;1.12;;;;;;;;;
+2019;historia;Centro Universitário Estácio de Belo Horizonte;MG;140;Privada;;;93;14.28;131;3.99;69;5.53;;;105;4.76;;;;;;;;;
+2019;historia;Faculdades Integradas Maria Imaculada;SP;141;Privada;;;94;14.23;201-250;1.76;98;4.47;;;1;8;;;;;;;;;
+2019;historia;Universidade Metodista de Piracicaba;SP;142;Privada;;;95;14.21;64;6.05;8;7.75;;;201-250;0.41;;;;;;;;;
+2019;historia;Centro Universitário Inta;CE;143;Privada;;;96;14.14;87;5.34;199;0.8;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Sant'Anna;SP;144;Privada;;;101;13.77;104;4.82;195;0.95;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Projeção;DF;145;Privada;;;102;13.74;120;4.32;182;1.42;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Oeste do Pará;PA;146;Federal;;;105;13.68;76;5.68;;;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Acre;AC;147;Federal;;;112;13.2;119;4.36;198;0.84;;;1;8;;;;;;;;;
+2019;historia;Universidade do Contestado;SC;148;Privada;;;113;13.14;201-250;1.14;111;4;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Amapá;AP;149;Federal;;;114;13.12;166;2.9;160;2.22;;;1;8;;;;;;;;;
+2019;historia;Universidade Federal do Oeste da Bahia;BA;150;Federal;;;115;12.91;155;3.24;175;1.67;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Santa Maria da Glória;PR;151;Privada;;;117;12.88;164;2.97;57;5.96;;;131;3.95;;;;;;;;;
+2019;historia;Centro Universitário de Patos de Minas;MG;152;Privada;;;122;12.59;197;1.95;20;7.31;;;151;3.33;;;;;;;;;
+2019;historia;Universidade Federal do Cariri;CE;153;Federal;;;123;12.44;186;2.29;162;2.15;;;1;8;;;;;;;;;
+2019;historia;Abeu - Centro Universitário;RJ;154;Privada;;;125;12.3;121;4.29;66;5.64;;;182;2.37;;;;;;;;;
+2019;historia;Escola Superior Madre Celeste;PA;155;Privada;;;127;12.2;115;4.48;115;3.86;;;134;3.86;;;;;;;;;
+2019;historia;Centro Universitário Fibra;PA;156;Privada;;;129;12.19;91;5.22;133;3.2;;;137;3.77;;;;;;;;;
+2019;historia;Faculdade Barretos;SP;157;Privada;;;130;12.11;201-250;1.61;40;6.58;;;132;3.92;;;;;;;;;
+2019;historia;Universidade Veiga de Almeida;RJ;158;Privada;;;131;12.09;99;4.97;92;4.69;;;180;2.43;;;;;;;;;
+2019;historia;Universidade de Taubaté;SP;159;Municipal;;;133;11.88;108;4.7;146;2.73;;;115;4.45;;;;;;;;;
+2019;historia;Centro Universitário Jorge Amado;BA;160;Privada;99;5.05;196;6.76;146;3.52;179;1.53;;;201-250;1.71;;;;;;;;;
+2019;historia;Faculdade Ages de Jeremoabo;BA;161;Privada;;;135;11.65;142;3.65;;;;;1;8;;;;;;;;;
+2019;historia;Universidade do Estado de Minas Gerais;MG;162;Estadual;99;5.05;201-250;6.45;201-250;1.7;159;2.26;;;178;2.49;;;;;;;;;
+2019;historia;Centro Universitário Toledo Wyden;SP;163;Privada;;;138;11.4;114;4.51;88;4.84;;;192;2.05;;;;;;;;;
+2019;historia;Faculdade da Aldeia de Carapicuíba;SP;164;Privada;;;139;11.37;151;3.37;;;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Metropolitano de São Paulo;SP;165;Privada;;;140;11.34;152;3.34;;;;;1;8;;;;;;;;;
+2019;historia;Faculdades Integradas de Taquara;RS;166;Privada;;;141;11.24;101;4.91;59;5.89;;;201-250;0.44;;;;;;;;;
+2019;historia;Centro Universitário Celso Lisboa;RJ;167;Privada;;;143;11.15;158;3.15;;;;;1;8;;;;;;;;;
+2019;historia;Faculdade Saberes;ES;168;Privada;;;144;11.08;129;4.05;144;2.8;;;122;4.23;;;;;;;;;
+2019;historia;Faculdade Porto-Alegrense;RS;169;Privada;;;146;10.92;112;4.57;97;4.51;;;199;1.84;;;;;;;;;
+2019;historia;Centro Universitário Augusto Motta;RJ;170;Privada;99;5.05;201-250;5.79;185;2.32;154;2.44;;;201-250;1.03;;;;;;;;;
+2019;historia;Universidade Santo Amaro;SP;171;Privada;;;149;10.76;111;4.6;139;2.98;;;156;3.18;;;;;;;;;
+2019;historia;Centro Universitário La Salle do Rio de Janeiro;RJ;172;Privada;;;150;10.75;78;5.62;122;3.6;;;201-250;1.53;;;;;;;;;
+2019;historia;Faculdade de Presidente Venceslau;SP;173;Privada;;;151;10.6;176;2.6;;;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário da Vitória de Santo Antão;PE;174;Privada;;;152;10.53;178;2.53;;;;;1;8;;;;;;;;;
+2019;historia;Universidade do Vale do Sapucaí;MG;175;Privada;;;156;10.34;136;3.83;85;4.95;;;201-250;1.56;;;;;;;;;
+2019;historia;Centro Universitário Fundação de Ensino Octávio Bastos;SP;176;Privada;;;157;10.22;188;2.22;42;6.51;;;201-250;1.49;;;;;;;;;
+2019;historia;Faculdades Famep-PI;PI;177;Privada;;;158;10.04;194;2.04;;;;;1;8;;;;;;;;;
+2019;historia;Faculdade Paulista São José;SP;178;Privada;;;160;9.92;198;1.92;;;;;1;8;;;;;;;;;
+2019;historia;Faculdade Ages de Tucano;BA;178;Privada;;;160;9.92;198;1.92;;;;;1;8;;;;;;;;;
+2019;historia;Faculdades Integradas da Upis;DF;180;Privada;99;5.05;201-250;4.69;201-250;1.33;163;2.11;;;201-250;1.25;;;;;;;;;
+2019;historia;Faculdade do Sertão do Pajeú;PE;181;Municipal;;;163;9.53;201-250;0.62;196;0.91;;;1;8;;;;;;;;;
+2019;historia;Faculdade Estácio de Castanhal;PA;182;Privada;;;164;9.52;191;2.13;94;4.62;;;169;2.77;;;;;;;;;
+2019;historia;Universidade Metropolitana de Santos;SP;183;Privada;;;165;9.47;88;5.31;193;1.02;;;157;3.14;;;;;;;;;
+2019;historia;Universidade de Franca;SP;184;Privada;;;166;9.31;127;4.11;131;3.27;;;196;1.93;;;;;;;;;
+2019;historia;Faculdades Integradas Simonsen;RJ;185;Privada;;;168;9.18;74;5.75;201-250;0.69;;;170;2.74;;;;;;;;;
+2019;historia;Centro Universitário São Camilo - Espírito Santo;ES;186;Privada;;;169;9.16;201-250;1.54;63;5.75;;;198;1.87;;;;;;;;;
+2019;historia;Faculdades Ipede PI;PI;187;Privada;;;170;9.12;109;4.66;201-250;0.29;;;124;4.17;;;;;;;;;
+2019;historia;Centro Universitário Alfredo Nasser;GO;188;Privada;;;172;9.04;167;2.87;173;1.75;;;116;4.42;;;;;;;;;
+2019;historia;Faculdade de Filosofia Ciências E Letras de Macaé;RJ;189;Privada;;;173;8.88;174;2.66;104;4.26;;;195;1.96;;;;;;;;;
+2019;historia;Universidade Anhanguera de São Paulo;SP;190;Privada;;;174;8.76;162;3.03;121;3.64;;;191;2.09;;;;;;;;;
+2019;historia;Faculdades Integradas de Fernandópolis;SP;191;Privada;;;175;8.52;195;2.01;114;3.89;;;174;2.62;;;;;;;;;
+2019;historia;Centro de Ensino Superior do Vale São Francisco;PE;192;Municipal;;;177;8.51;251-300;0.25;201-250;0.26;;;1;8;;;;;;;;;
+2019;historia;Faculdades Integradas de Cassilândia;MS;193;Privada;;;178;8.49;201-250;0.49;;;;;1;8;;;;;;;;;
+2019;historia;Faculdade de Itaituba;PA;194;Privada;;;179;8.48;201-250;0.37;201-250;0.11;;;1;8;;;;;;;;;
+2019;historia;Centro Universitário Assunção;SP;195;Privada;;;181;8.4;58;6.24;183;1.38;;;201-250;0.78;;;;;;;;;
+2019;historia;Faculdade Santa Fé;MA;196;Privada;;;182;8.28;251-300;0.28;;;;;1;8;;;;;;;;;
+2019;historia;Universidade Brasil;SP;197;Privada;;;183;8.07;150;3.4;201-250;0.4;;;121;4.27;;;;;;;;;
+2019;historia;Centro Universitário Maurício de Nassau de Teresina;PI;198;Privada;;;184;7.9;190;2.16;148;2.66;;;159;3.08;;;;;;;;;
+2019;historia;Centro Universitário de Caratinga;MG;199;Privada;;;185;7.82;183;2.38;187;1.24;;;123;4.2;;;;;;;;;
+2019;historia;Centro Universitário Salesiano de São Paulo;SP;200;Privada;;;187;7.73;187;2.26;86;4.91;;;201-250;0.56;;;;;;;;;
+2019;historia;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;201-250;6.28;157;3.18;188;1.2;;;197;1.9;;;;;;;;;
+2019;historia;Centro Universitário São José de Itaperuna;RJ;201;Privada;;;194;7;201-250;1.3;112;3.96;;;201-250;1.74;;;;;;;;;
+2019;historia;Faculdades Integradas Regionais de Avaré;SP;201;Municipal;;;201-250;4.62;201-250;0.59;117;3.78;;;201-250;0.25;;;;;;;;;
+2019;historia;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;201;Privada;;;188;7.57;173;2.69;170;1.86;;;161;3.02;;;;;;;;;
+2019;historia;Centro Universitário União das Américas Descomplica;PR;201;Privada;;;201-250;6.31;201-250;1.73;168;1.93;;;173;2.65;;;;;;;;;
+2019;historia;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;201;Municipal;;;201-250;3.87;201-250;1.36;152;2.51;;;;;;;;;;;;;
+2019;historia;Faculdade do Belo Jardim;PE;201;Municipal;;;201-250;4.91;251-300;0.12;191;1.09;;;139;3.7;;;;;;;;;
+2019;historia;Instituto Superior de Educação Campo Limpo Paulista;SP;201;Privada;;;195;6.81;171;2.75;158;2.29;;;201-250;1.77;;;;;;;;;
+2019;historia;Fundação Faculdade de Filosofia, Ciências e Letras de Mandaguari;PR;201;Municipal;;;201-250;3.44;201-250;0.65;171;1.82;;;201-250;0.97;;;;;;;;;
+2019;historia;Centro Universitário Castelo Branco;ES;201;Privada;;;201-250;4.7;201-250;0.8;137;3.06;;;201-250;0.84;;;;;;;;;
+2019;historia;Faculdade de Tecnologia São Francisco;ES;201;Privada;;;201-250;4.2;201-250;0.74;;;;;147;3.46;;;;;;;;;
+2019;historia;Centro Técnico-educacional Superior do Oeste Paranaense;PR;201;Privada;;;201-250;3.98;201-250;1.02;;;;;163;2.96;;;;;;;;;
+2019;historia;Faculdade Uninabuco São Lourenço da Mata;PE;201;Privada;;;201-250;4.52;165;2.93;;;;;201-250;1.59;;;;;;;;;
+2019;historia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;201;Privada;;;201-250;5.44;201-250;1.79;126;3.46;;;251-300;0.19;;;;;;;;;
+2019;historia;Faculdade JK - Unidade I - Gama;DF;201;Privada;;;201-250;4.78;201-250;1.05;201-250;0.62;;;158;3.11;;;;;;;;;
+2019;historia;Faculdade Birigui;SP;201;Privada;;;201-250;4.28;170;2.78;201-250;0.04;;;201-250;1.46;;;;;;;;;
+2019;historia;Centro Universitário Nossa Senhora do Patrocínio;SP;201;Privada;;;190;7.43;201-250;1.51;96;4.55;;;201-250;1.37;;;;;;;;;
+2019;historia;Faculdade de Educação e Tecnologia da Região Missioneira;RS;201;Privada;;;201-250;3.26;201-250;0.4;;;;;166;2.86;;;;;;;;;
+2019;historia;Centro Universitário da Região da Campanha;RS;201;Privada;;;201-250;4.56;192;2.1;;;;;179;2.46;;;;;;;;;
+2019;historia;Faculdade de Ponta Porã;MS;201;Privada;;;201-250;4.1;201-250;1.08;201-250;0.22;;;168;2.8;;;;;;;;;
+2019;historia;Faculdade de Ciências e Letras de Bragança Paulista;SP;201;Municipal;;;199;6.56;201-250;0.87;68;5.56;;;251-300;0.13;;;;;;;;;
+2019;historia;Faculdades Integradas de Itararé;SP;201;Privada;;;201-250;2.31;201-250;0.31;184;1.35;;;201-250;0.65;;;;;;;;;
+2019;historia;Centro Universitário de Jales;SP;201;Privada;;;201-250;4.79;201-250;0.99;;;;;136;3.8;;;;;;;;;
+2019;historia;Faculdade de Formação de Professores de Serra Talhada;PE;201;Municipal;;;201-250;4.21;201-250;1.64;201-250;0.55;;;193;2.02;;;;;;;;;
+2019;historia;Centro Universitário do Rio de Janeiro;RJ;201;Privada;;;201-250;6.02;172;2.72;;;;;152;3.3;;;;;;;;;
+2019;historia;Faculdade de Formação de Professores da Mata Sul;PE;201;Municipal;;;201-250;2.24;251-300;0.22;;;;;193;2.02;;;;;;;;;
+2019;historia;Faculdade de Ribeirão Pires;SP;201;Privada;;;201-250;3.17;201-250;0.93;;;;;186;2.24;;;;;;;;;
+2019;historia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;201;Municipal;;;201-250;5.88;201-250;0.83;178;1.56;;;146;3.49;;;;;;;;;
+2019;historia;Universidade Estadual de Roraima;RR;201;Estadual;;;201-250;4.25;201-250;1.39;201-250;0.15;;;171;2.71;;;;;;;;;
+2019;historia;Instituto Superior de Educação Ivoti;RS;201;Privada;;;201-250;4.14;143;3.61;;;;;201-250;0.53;;;;;;;;;
+2019;historia;Faculdade de Filosofia, Ciências e Letras de Duque de Caxias;RJ;201;Privada;;;201-250;2.78;200;1.85;;;;;201-250;0.93;;;;;;;;;
+2019;historia;Universidade Nilton Lins;AM;201;Privada;;;201-250;2.7;201-250;1.17;192;1.06;;;201-250;0.47;;;;;;;;;
+2019;historia;Faculdades Integradas Campo-grandenses;RJ;201;Privada;;;201-250;5.69;193;2.07;142;2.87;;;201-250;0.75;;;;;;;;;
+2019;historia;Centro Universitário Unifacig;MG;201;Privada;;;201-250;4.26;201-250;1.24;;;;;161;3.02;;;;;;;;;
+2019;historia;Faculdade de Filosofia Ciências e Letras de Alegre;ES;201;Municipal;;;201-250;4.23;251-300;0.19;181;1.46;;;175;2.58;;;;;;;;;
+2019;historia;Universidade Estadual de Mato Grosso do Sul;MS;201;Estadual;;;201-250;5.27;132;3.95;201-250;0.73;;;201-250;0.59;;;;;;;;;
+2019;historia;Centro Universitário do Norte;AM;201;Privada;;;201-250;6.33;201-250;1.45;150;2.58;;;184;2.3;;;;;;;;;
+2019;historia;Faculdade Santa Marcelina Muriaé;MG;201;Privada;;;201-250;6.35;201-250;0.68;102;4.33;;;201-250;1.34;;;;;;;;;
+2019;historia;Faculdades Integradas Espírita;PR;201;Privada;;;201-250;5.72;196;1.98;119;3.71;;;251-300;0.03;;;;;;;;;
+2019;historia;Faculdade de Educação São Luís;SP;201;Privada;;;189;7.46;201-250;0.77;103;4.29;;;181;2.4;;;;;;;;;
+2019;historia;Faculdade Santa Izildinha;SP;201;Privada;;;201-250;5.67;169;2.81;;;;;166;2.86;;;;;;;;;
+2019;historia;Centro de Ensino Superior de Arcoverde;PE;201;Municipal;;;201-250;2.22;201-250;0.53;201-250;0.51;;;201-250;1.18;;;;;;;;;
+2019;historia;Faculdade Fernanda Bicchieri;RJ;201;Privada;;;200;6.51;179;2.5;169;1.89;;;190;2.12;;;;;;;;;
+2019;historia;Faculdade de Ampére;PR;201;Privada;;;201-250;2.73;201-250;0.46;;;;;185;2.27;;;;;;;;;
+2019;historia;Centro Universitário Don Domênico;SP;201;Privada;;;201-250;5.27;144;3.58;177;1.6;;;251-300;0.09;;;;;;;;;
+2019;historia;Centro Universitário Ritter dos Reis;RS;201;Privada;;;201-250;4.36;135;3.86;;;;;201-250;0.5;;;;;;;;;
+2019;historia;Faculdade Unis São Lourenço;MG;201;Privada;;;193;7.13;148;3.46;;;;;140;3.67;;;;;;;;;
+2019;historia;Faculdade de Educação Ciências e Artes Dom Bosco de Monte Aprazível;SP;201;Privada;;;201-250;3.5;201-250;1.27;164;2.07;;;251-300;0.16;;;;;;;;;
+2019;historia;Faculdade de São Paulo;SP;201;Privada;;;201-250;5.93;180;2.47;201-250;0.07;;;149;3.39;;;;;;;;;
+2019;historia;Instituto Superior de Educação Elvira Dayrell;MG;201;Privada;;;201-250;5.63;201-250;0.56;201-250;0.18;;;101;4.89;;;;;;;;;
+2019;historia;Faculdades Integradas de Cruzeiro;SP;251;Privada;;;251-300;1.68;201-250;0.96;;;;;201-250;0.72;;;;;;;;;
+2019;historia;Faculdade de Educação e Tecnologia da Amazônia;PA;251;Privada;;;251-300;2.07;201-250;0.43;201-250;0.36;;;201-250;1.28;;;;;;;;;
+2019;historia;Faculdade Nossa Senhora de Lourdes;BA;251;Privada;;;251-300;1.49;251-300;0.09;;;;;201-250;1.4;;;;;;;;;
+2019;historia;Faculdade Sul da América;GO;251;Privada;;;251-300;1.27;201-250;0.9;;;;;201-250;0.37;;;;;;;;;
+2019;historia;Universidade do Planalto Catarinense;SC;251;Privada;;;251-300;1.61;251-300;0.15;;;;;201-250;1.46;;;;;;;;;
+2019;historia;Faculdade Dom Pedro II de Sergipe;SE;251;Privada;;;251-300;1.4;201-250;0.34;;;;;201-250;1.06;;;;;;;;;
+2019;historia;Centro Universitário do Vale do Ribeira;SP;251;Privada;;;251-300;2.08;201-250;0.71;185;1.31;;;251-300;0.06;;;;;;;;;
+2019;historia;Faculdade de Ciências Humanas do Sertão Central;PE;251;Municipal;;;251-300;0.37;251-300;0.06;;;;;201-250;0.31;;;;;;;;;
+2019;historia;Faculdade de Formação de Professores de Araripina;PE;251;Municipal;;;251-300;0.36;251-300;0.03;201-250;0.33;;;;;;;;;;;;;
+2023;historia;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.43;19;7.41;31;7.02;;;1;8;1;40;;;;;;;
+2023;historia;Universidade Estadual de Campinas;SP;2;Estadual;2;35.76;2;62.02;36;6.85;1;8;;;1;8;2;39.17;;;;;;;
+2023;historia;Universidade Federal Fluminense;RJ;3;Federal;7;34.56;3;61.43;31;7.01;24;7.25;;;1;8;2;39.17;;;;;;;
+2023;historia;Universidade Federal de Minas Gerais;MG;4;Federal;5;35.04;4;60.81;21;7.34;2;7.97;;;1;8;4;37.5;;;;;;;
+2023;historia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.76;5;58.05;24;7.24;32;6.98;;;1;8;6;35.83;;;;;;;
+2023;historia;Universidade Federal do Rio de Janeiro;RJ;6;Federal;2;35.76;6;57.89;60;6.06;52;6.33;;;1;8;4;37.5;;;;;;;
+2023;historia;Universidade Federal do Rio Grande do Sul;RS;7;Federal;14;32.88;7;57.69;52;6.32;15;7.54;;;1;8;6;35.83;;;;;;;
+2023;historia;Universidade Federal do Paraná;PR;8;Federal;14;32.88;8;57.1;1;8;8;7.77;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Federal de Pernambuco;PE;9;Federal;7;34.56;12;54.6;68;5.79;17;7.48;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade de Brasília;DF;10;Federal;14;32.88;10;55.29;61;6.03;3;7.93;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Federal de Santa Catarina;SC;11;Federal;14;32.88;11;55.19;41;6.68;26;7.18;;;1;8;9;33.33;;;;;;;
+2023;historia;Pontifícia Universidade Católica de São Paulo;SP;12;Privada;7;34.56;17;51.29;32;6.98;86;5.21;;;140;3.27;6;35.83;;;;;;;
+2023;historia;Universidade Federal de Mato Grosso;MT;13;Federal;14;32.88;15;52.34;59;6.09;95;4.92;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Federal do Pará;PA;14;Federal;14;32.88;16;51.65;67;5.83;108;4.49;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Federal da Bahia;BA;15;Federal;7;34.56;19;49.21;97;4.84;12;7.64;;;136;3.4;9;33.33;;;;;;;
+2023;historia;Universidade do Estado do Rio de Janeiro;RJ;16;Estadual;5;35.04;20;48.11;55;6.22;89;5.12;;;135;3.44;9;33.33;;;;;;;
+2023;historia;Universidade do Vale do Rio dos Sinos;RS;17;Privada;14;32.88;18;50;48;6.45;36;6.85;;;137;3.37;9;33.33;;;;;;;
+2023;historia;Universidade Federal de Santa Maria;RS;18;Federal;49;24.48;9;56.28;23;7.28;11;7.67;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Federal de São Paulo;SP;19;Federal;14;32.88;21;47.07;1;8;9;7.74;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Juiz de Fora;MG;20;Federal;14;32.88;22;45.2;54;6.26;13;7.61;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Estadual de Londrina;PR;21;Estadual;14;32.88;23;44.67;53;6.29;30;7.05;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Uberlândia;MG;22;Federal;49;24.48;13;53.03;46;6.52;87;5.18;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Estadual de Maringá;PR;23;Estadual;49;24.48;14;52.89;89;5.1;48;6.46;;;1;8;9;33.33;;;;;;;
+2023;historia;Universidade Federal do Espírito Santo;ES;24;Federal;14;32.88;24;44.34;39;6.75;54;6.26;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Goiás;GO;25;Federal;14;32.88;25;43.22;83;5.3;44;6.59;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal do Rio Grande do Norte;RN;26;Federal;14;32.88;26;42.7;64;5.93;79;5.44;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Sergipe;SE;27;Federal;14;32.88;27;41.88;73;5.63;95;4.92;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal do Piauí;PI;28;Federal;14;32.88;30;41.05;113;4.31;80;5.41;;;1;8;21;23.33;;;;;;;
+2023;historia;Pontifícia Universidade Católica do Paraná;PR;29;Privada;14;32.88;34;39.42;62;5.99;16;7.51;;;160;2.59;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Alagoas;AL;30;Federal;14;32.88;35;38.82;92;5;169;2.49;;;1;8;21;23.33;;;;;;;
+2023;historia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;31;Privada;14;32.88;36;38.56;33;6.95;65;5.9;;;166;2.38;21;23.33;;;;;;;
+2023;historia;Universidade Estadual do Piauí;PI;32;Estadual;14;32.88;38;38.23;139;3.46;140;3.44;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Estácio de Sá;RJ;33;Privada;14;32.88;41;35.78;26;7.18;127;3.87;;;195;1.4;21;23.33;;;;;;;
+2023;historia;Universidade Estadual Vale do Acaraú;CE;34;Estadual;14;32.88;44;35.37;85;5.24;133;3.67;;;144;3.13;21;23.33;;;;;;;
+2023;historia;Universidade Católica de Pernambuco;PE;35;Privada;14;32.88;46;33.72;129;3.79;102;4.69;;;180;1.91;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Campina Grande;PB;36;Federal;49;24.48;31;40.5;94;4.94;116;4.23;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Estadual de Feira de Santana;BA;37;Estadual;49;24.48;32;40.26;158;2.83;59;6.1;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Regional de Blumenau;SC;38;Municipal;49;24.48;39;38.06;85;5.24;22;7.31;;;172;2.18;21;23.33;;;;;;;
+2023;historia;Universidade Federal de Mato Grosso do Sul;MS;39;Federal;49;24.48;43;35.55;71;5.7;148;3.18;;;138;3.34;21;23.33;;;;;;;
+2023;historia;Universidade Federal do Ceará;CE;40;Federal;7;34.56;60;21.24;80;5.4;6;7.84;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal da Paraíba;PB;41;Federal;14;32.88;57;21.47;40;6.72;39;6.75;;;1;8;;;;;;;;;
+2023;historia;Universidade de Passo Fundo;RS;42;Privada;97;12.96;28;41.35;126;3.89;58;6.13;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal do Rio Grande;RS;42;Federal;97;12.96;28;41.35;58;6.12;126;3.9;;;1;8;21;23.33;;;;;;;
+2023;historia;Fundação Universidade Federal de Rondônia;RO;44;Federal;97;12.96;33;40.17;91;5.04;129;3.8;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Estadual do Ceará;CE;45;Estadual;7;34.56;74;18.51;105;4.58;64;5.93;;;1;8;;;;;;;;;
+2023;historia;Universidade do Estado da Bahia;BA;46;Estadual;7;34.56;89;17.2;90;5.07;119;4.13;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Maranhão;MA;47;Federal;14;32.88;79;18.12;114;4.28;67;5.84;;;1;8;;;;;;;;;
+2023;historia;Universidade de Pernambuco;PE;48;Estadual;14;32.88;82;17.93;84;5.27;103;4.66;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual de Santa Cruz;BA;49;Estadual;14;32.88;88;17.39;130;3.75;73;5.64;;;1;8;;;;;;;;;
+2023;historia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;50;Privada;14;32.88;99;16.66;27;7.14;19;7.41;;;174;2.11;;;;;;;;;
+2023;historia;Universidade Estadual do Sudoeste da Bahia;BA;51;Estadual;14;32.88;104;16.47;137;3.52;94;4.95;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal de Pelotas;RS;52;Federal;97;12.96;40;35.99;201-250;0.59;121;4.07;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal do Recôncavo da Bahia;BA;53;Federal;97;12.96;42;35.64;138;3.49;201-250;0.82;;;1;8;21;23.33;;;;;;;
+2023;historia;Universidade Federal do Estado do Rio de Janeiro;RJ;54;Federal;49;24.48;49;23.71;1;8;10;7.71;;;1;8;;;;;;;;;
+2023;historia;Universidade do Estado de Mato Grosso;MT;55;Estadual;97;12.96;45;35.08;157;2.86;201-250;0.89;;;1;8;21;23.33;;;;;;;
+2023;historia;Pontifícia Universidade Católica de Minas Gerais;MG;56;Privada;14;32.88;113;14.92;81;5.37;18;7.44;;;174;2.11;;;;;;;;;
+2023;historia;Universidade Federal de Viçosa;MG;57;Federal;49;24.48;50;23.12;1;8;28;7.12;;;1;8;;;;;;;;;
+2023;historia;Universidade do Estado do Pará;PA;58;Estadual;14;32.88;119;14.56;181;2.07;108;4.49;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal Rural do Rio de Janeiro;RJ;59;Federal;49;24.48;55;21.73;34;6.91;37;6.82;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal de Ouro Preto;MG;60;Federal;49;24.48;59;21.31;29;7.08;55;6.23;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Amazonas;AM;61;Federal;49;24.48;61;21.05;47;6.49;45;6.56;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal Rural de Pernambuco;PE;62;Federal;49;24.48;62;20.9;82;5.33;14;7.57;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual de Goiás;GO;63;Estadual;14;32.88;145;12.4;176;2.24;179;2.16;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual de Ponta Grossa;PR;64;Estadual;49;24.48;68;19.67;37;6.82;97;4.85;;;1;8;;;;;;;;;
+2023;historia;Pontifícia Universidade Católica de Goiás;GO;65;Privada;14;32.88;165;10.42;125;3.92;134;3.64;;;152;2.86;;;;;;;;;
+2023;historia;Universidade Estadual do Paraná;PR;66;Estadual;49;24.48;73;18.64;96;4.87;69;5.77;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Adventista de São Paulo;SP;67;Privada;14;32.88;172;10.11;166;2.57;100;4.75;;;154;2.79;;;;;;;;;
+2023;historia;Universidade Estadual do Norte do Paraná;PR;68;Estadual;49;24.48;77;18.29;77;5.5;99;4.79;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual do Oeste do Paraná;PR;69;Estadual;49;24.48;78;18.28;72;5.66;104;4.62;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual do Maranhão;MA;70;Estadual;14;32.88;179;9.52;144;3.29;162;2.72;;;133;3.51;;;;;;;;;
+2023;historia;Universidade Tiradentes;SE;71;Privada;14;32.88;188;9;93;4.97;174;2.33;;;186;1.7;;;;;;;;;
+2023;historia;Centro Universitário Estácio de São Paulo;SP;72;Privada;97;12.96;47;28.82;151;3.06;193;1.71;;;201-250;0.72;21;23.33;;;;;;;
+2023;historia;Fundação Universidade Federal do Tocantins;TO;73;Federal;49;24.48;94;17.01;76;5.53;139;3.48;;;1;8;;;;;;;;;
+2023;historia;Universidade Salgado de Oliveira;RJ;74;Privada;49;24.48;98;16.72;1;8;201-250;0.72;;;1;8;;;;;;;;;
+2023;historia;Fundação Universidade do Estado de Santa Catarina;SC;75;Estadual;49;24.48;107;15.47;56;6.19;21;7.34;;;179;1.94;;;;;;;;;
+2023;historia;Centro Universitário Geraldo Di Biase;RJ;76;Privada;49;24.48;108;15.42;175;2.27;88;5.15;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual de Montes Claros;MG;77;Estadual;49;24.48;110;15.07;104;4.61;170;2.46;;;1;8;;;;;;;;;
+2023;historia;Universidade Cruzeiro do Sul;SP;78;Privada;49;24.48;114;14.9;133;3.65;146;3.25;;;1;8;;;;;;;;;
+2023;historia;Universidade Regional do Cariri;CE;79;Estadual;49;24.48;115;14.86;133;3.65;147;3.21;;;1;8;;;;;;;;;
+2023;historia;Universidade do Estado do Rio Grande do Norte;RN;80;Estadual;49;24.48;116;14.83;164;2.63;117;4.2;;;1;8;;;;;;;;;
+2023;historia;Universidade de Santa Cruz do Sul;RS;81;Privada;49;24.48;117;14.73;70;5.73;38;6.79;;;171;2.21;;;;;;;;;
+2023;historia;Universidade Federal de Roraima;RR;82;Federal;49;24.48;121;14.28;145;3.26;153;3.02;;;1;8;;;;;;;;;
+2023;historia;Universidade da Região de Joinville;SC;83;Privada;49;24.48;122;14.13;148;3.16;7;7.8;;;143;3.17;;;;;;;;;
+2023;historia;Universidade do Vale do Itajaí;SC;83;Privada;49;24.48;123;14.13;146;3.23;5;7.87;;;147;3.03;;;;;;;;;
+2023;historia;Universidade Estadual da Paraíba;PB;85;Estadual;49;24.48;125;14.05;160;2.77;145;3.28;;;1;8;;;;;;;;;
+2023;historia;Universidade do Oeste Paulista;SP;86;Privada;49;24.48;127;13.96;115;4.25;193;1.71;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Sul da Bahia;BA;87;Federal;;;37;38.34;56;6.19;201-250;0.82;;;1;8;21;23.33;;;;;;;
+2023;historia;Centro Universitário Fundação Santo André;SP;88;Privada;49;24.48;140;12.87;106;4.54;20;7.38;;;201-250;0.95;;;;;;;;;
+2023;historia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;89;Privada;49;24.48;143;12.64;127;3.85;34;6.92;;;181;1.87;;;;;;;;;
+2023;historia;Universidade Luterana do Brasil;RS;90;Privada;49;24.48;146;12.26;141;3.39;75;5.57;;;139;3.3;;;;;;;;;
+2023;historia;Universidade Estadual de Alagoas;AL;91;Estadual;49;24.48;150;11.85;201-250;1.32;168;2.53;;;1;8;;;;;;;;;
+2023;historia;Universidade de Caxias do Sul;RS;92;Privada;49;24.48;151;11.78;103;4.64;77;5.51;;;188;1.63;;;;;;;;;
+2023;historia;Pontifícia Universidade Católica de Campinas;SP;93;Privada;49;24.48;154;11.45;102;4.68;49;6.43;;;201-250;0.34;;;;;;;;;
+2023;historia;Universidade Federal de Alfenas;MG;94;Federal;97;12.96;51;22.89;1;8;35;6.89;;;1;8;;;;;;;;;
+2023;historia;Universidade do Sul de Santa Catarina;SC;95;Privada;49;24.48;155;11.36;109;4.44;90;5.08;;;182;1.84;;;;;;;;;
+2023;historia;Universidade Federal de São João Del Rei;MG;96;Federal;97;12.96;52;22.72;37;6.82;4;7.9;;;1;8;;;;;;;;;
+2023;historia;Universidade do Grande Rio Professor José de Souza Herdy;RJ;97;Privada;49;24.48;158;10.93;177;2.21;201-250;0.72;;;1;8;;;;;;;;;
+2023;historia;Universidade do Extremo Sul Catarinense;SC;98;Privada;49;24.48;161;10.75;165;2.6;66;5.87;;;169;2.28;;;;;;;;;
+2023;historia;Universidade Potiguar;RN;99;Privada;49;24.48;167;10.4;49;6.42;165;2.62;;;196;1.36;;;;;;;;;
+2023;historia;Universidade La Salle;RS;100;Privada;97;12.96;54;21.8;1;8;68;5.8;;;1;8;;;;;;;;;
+2023;historia;Universidade do Estado do Amazonas;AM;101;Estadual;49;24.48;170;10.17;192;1.71;201-250;0.46;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal da Integração Latino-americana;PR;102;Federal;97;12.96;56;21.6;35;6.88;40;6.72;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Triângulo Mineiro;MG;103;Federal;97;12.96;58;21.37;25;7.21;57;6.16;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Toledo Wyden;SP;104;Privada;49;24.48;182;9.45;115;4.25;128;3.84;;;196;1.36;;;;;;;;;
+2023;historia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;105;Federal;97;12.96;64;20.51;79;5.43;29;7.08;;;1;8;;;;;;;;;
+2023;historia;Universidade Católica de Santos;SP;106;Privada;97;12.96;67;20.36;42;6.65;71;5.71;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário de Brasília;DF;107;Privada;49;24.48;192;8.6;151;3.06;98;4.82;;;201-250;0.72;;;;;;;;;
+2023;historia;Centro Universitário Jorge Amado;BA;108;Privada;97;12.96;70;19.54;1;8;137;3.54;;;1;8;;;;;;;;;
+2023;historia;Universidade Castelo Branco;RJ;109;Privada;49;24.48;198;7.49;151;3.06;132;3.71;;;201-250;0.72;;;;;;;;;
+2023;historia;Universidade Estadual do Centro Oeste;PR;110;Estadual;97;12.96;71;18.97;51;6.35;104;4.62;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Sul e Sudeste do Pará;PA;111;Federal;97;12.96;80;18.05;75;5.56;108;4.49;;;1;8;;;;;;;;;
+2023;historia;Universidade Católica do Salvador;BA;112;Privada;49;24.48;201-250;6.21;161;2.73;167;2.56;;;201-250;0.92;;;;;;;;;
+2023;historia;Universidade Federal da Fronteira Sul;SC;113;Federal;97;12.96;96;16.75;43;6.62;42;6.66;;;134;3.47;;;;;;;;;
+2023;historia;Universidade Federal do Oeste da Bahia;BA;114;Federal;97;12.96;102;16.5;183;2.01;47;6.49;;;1;8;;;;;;;;;
+2023;historia;Fundação Universidade Federal do Pampa;RS;115;Federal;97;12.96;103;16.48;77;5.5;154;2.98;;;1;8;;;;;;;;;
+2023;historia;Universidade da Amazônia;PA;116;Privada;49;24.48;201-250;4.95;181;2.07;201-250;1.28;;;189;1.6;;;;;;;;;
+2023;historia;Universidade Federal de Jataí;GO;117;Federal;97;12.96;106;15.92;65;5.89;183;2.03;;;1;8;;;;;;;;;
+2023;historia;Universidade de Taubaté;SP;118;Municipal;97;12.96;109;15.19;148;3.16;122;4.03;;;1;8;;;;;;;;;
+2023;historia;Escola Superior Madre Celeste;PA;119;Privada;49;24.48;201-250;3.65;172;2.37;201-250;1.28;;;;;;;;;;;;;
+2023;historia;Universidade de Franca;SP;120;Privada;97;12.96;111;15.04;97;4.84;178;2.2;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário da Região da Campanha;RS;121;Privada;;;48;27.7;185;1.94;201-250;0.59;;;182;1.84;21;23.33;;;;;;;
+2023;historia;Universidade Santo Amaro;SP;122;Privada;97;12.96;120;14.48;111;4.38;181;2.1;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário União das Américas Descomplica;PR;123;Privada;97;12.96;128;13.95;151;3.06;157;2.89;;;1;8;;;;;;;;;
+2023;historia;Universidade Católica Dom Bosco;MS;124;Privada;97;12.96;130;13.7;131;3.72;33;6.95;;;147;3.03;;;;;;;;;
+2023;historia;Centro Universitário Ritter dos Reis;RS;125;Privada;97;12.96;131;13.64;44;6.58;92;5.02;;;176;2.04;;;;;;;;;
+2023;historia;Universidade Tuiuti do Paraná;PR;126;Privada;97;12.96;132;13.62;110;4.41;41;6.69;;;162;2.52;;;;;;;;;
+2023;historia;Centro Universitário da Vitória de Santo Antão;PE;127;Privada;97;12.96;133;13.52;131;3.72;190;1.8;;;1;8;;;;;;;;;
+2023;historia;Universidade Cidade de São Paulo;SP;128;Privada;97;12.96;136;13.08;49;6.42;123;4;;;158;2.66;;;;;;;;;
+2023;historia;Fundação Universidade Federal do Vale do São Francisco;PE;129;Federal;97;12.96;137;13.07;115;4.25;201-250;0.82;;;1;8;;;;;;;;;
+2023;historia;Universidade do Vale do Taquari;RS;130;Privada;97;12.96;142;12.78;44;6.58;141;3.41;;;154;2.79;;;;;;;;;
+2023;historia;Universidade Feevale;RS;131;Privada;97;12.96;144;12.5;85;5.24;113;4.33;;;150;2.93;;;;;;;;;
+2023;historia;Universidade de Sorocaba;SP;132;Privada;97;12.96;147;12.24;106;4.54;56;6.2;;;192;1.5;;;;;;;;;
+2023;historia;Centro Universitário Assunção;SP;133;Privada;97;12.96;148;12.12;115;4.25;61;6.03;;;182;1.84;;;;;;;;;
+2023;historia;Universidade Veiga de Almeida;RJ;134;Privada;97;12.96;149;11.89;95;4.91;83;5.31;;;187;1.67;;;;;;;;;
+2023;historia;Universidade Metropolitana de Santos;SP;135;Privada;97;12.96;152;11.54;106;4.54;124;3.97;;;147;3.03;;;;;;;;;
+2023;historia;Centro Universitário São José de Itaperuna;RJ;136;Privada;97;12.96;162;10.56;190;1.78;25;7.21;;;190;1.57;;;;;;;;;
+2023;historia;Faculdade Estácio de Castanhal;PA;136;Privada;97;12.96;162;10.56;201-250;1.28;201-250;1.28;;;1;8;;;;;;;;;
+2023;historia;Universidade Metodista de Piracicaba;SP;138;Privada;97;12.96;169;10.23;115;4.25;72;5.67;;;201-250;0.31;;;;;;;;;
+2023;historia;Centro Universitário Sagrado Coração;SP;139;Privada;97;12.96;171;10.16;136;3.56;74;5.61;;;201-250;0.99;;;;;;;;;
+2023;historia;Centro Universitário de Belo Horizonte;MG;140;Privada;97;12.96;175;9.98;150;3.1;106;4.56;;;168;2.32;;;;;;;;;
+2023;historia;Universidade Católica de Petrópolis;RJ;141;Privada;97;12.96;176;9.84;170;2.44;43;6.62;;;201-250;0.78;;;;;;;;;
+2023;historia;Centro Universitário Barão de Mauá;SP;142;Privada;97;12.96;178;9.6;185;1.94;78;5.48;;;172;2.18;;;;;;;;;
+2023;historia;Centro Universitário Augusto Motta;RJ;143;Privada;97;12.96;183;9.38;201-250;0.66;201-250;0.72;;;1;8;;;;;;;;;
+2023;historia;Faculdade do Belo Jardim;PE;144;Municipal;97;12.96;186;9.25;201-250;0.86;201-250;0.39;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Projeção;DF;145;Privada;;;53;21.97;1;8;63;5.97;;;1;8;;;;;;;;;
+2023;historia;Universidade do Vale do Paraíba;SP;146;Privada;97;12.96;190;8.82;141;3.39;149;3.15;;;169;2.28;;;;;;;;;
+2023;historia;Centro Universitário Fibra;PA;147;Privada;97;12.96;197;7.83;140;3.42;201-250;1.28;;;144;3.13;;;;;;;;;
+2023;historia;Universidade Federal de Catalão;GO;148;Federal;;;63;20.68;27;7.14;76;5.54;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Facvest;SC;149;Privada;;;65;20.45;20;7.37;90;5.08;;;1;8;;;;;;;;;
+2023;historia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;150;Federal;;;66;20.38;62;5.99;50;6.39;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário do Norte;AM;151;Privada;97;12.96;201-250;6.86;170;2.44;182;2.07;;;167;2.35;;;;;;;;;
+2023;historia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;152;Federal;;;69;19.66;111;4.38;23;7.28;;;1;8;;;;;;;;;
+2023;historia;Faculdade de Ciências e Letras de Bragança Paulista;SP;153;Municipal;97;12.96;201-250;6.48;193;1.68;107;4.53;;;201-250;0.27;;;;;;;;;
+2023;historia;Faculdades Integradas da Upis;DF;154;Privada;97;12.96;201-250;6.07;201-250;1.28;101;4.72;;;201-250;0.07;;;;;;;;;
+2023;historia;Centro Universitário Campos de Andrade;PR;155;Privada;;;72;18.89;1;8;157;2.89;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual de Roraima;RR;156;Estadual;97;12.96;201-250;5.53;166;2.57;201-250;0.92;;;176;2.04;;;;;;;;;
+2023;historia;Universidade Federal do Cariri;CE;157;Federal;;;75;18.43;1;8;171;2.43;;;1;8;;;;;;;;;
+2023;historia;Fundação Universidade Federal da Grande Dourados;MS;158;Federal;;;76;18.36;22;7.31;152;3.05;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Una;MG;159;Privada;;;81;18;1;8;184;2;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário de Patos de Minas;MG;160;Privada;;;83;17.82;97;4.84;93;4.98;;;1;8;;;;;;;;;
+2023;historia;Universidade São Judas Tadeu;SP;161;Privada;;;84;17.71;1;8;193;1.71;;;1;8;;;;;;;;;
+2023;historia;Faculdade de São Bernardo do Campo - FASB I;SP;161;Privada;;;84;17.71;1;8;193;1.71;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal de Rondonópolis;MT;163;Federal;;;86;17.53;74;5.6;125;3.93;;;1;8;;;;;;;;;
+2023;historia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;164;Federal;;;87;17.48;30;7.05;171;2.43;;;1;8;;;;;;;;;
+2023;historia;Colégio Pedro II;RJ;165;Federal;;;90;17.19;159;2.8;50;6.39;;;1;8;;;;;;;;;
+2023;historia;Faculdade Ages de Tucano;BA;166;Privada;;;91;17.05;1;8;201-250;1.05;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Ages;BA;166;Privada;;;91;17.05;1;8;201-250;1.05;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Dom Pedro II;BA;166;Privada;;;91;17.05;1;8;201-250;1.05;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Estácio de Belo Horizonte;MG;169;Privada;;;94;17.01;85;5.24;130;3.77;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Oeste do Pará;PA;170;Federal;;;97;16.74;115;4.25;108;4.49;;;1;8;;;;;;;;;
+2023;historia;Faculdades Integradas Campo-grandenses;RJ;171;Privada;97;12.96;201-250;3.71;201-250;1.28;177;2.23;;;201-250;0.2;;;;;;;;;
+2023;historia;Faculdades Integradas Maria Imaculada;SP;172;Privada;;;100;16.57;146;3.23;82;5.34;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Castelo Branco;ES;173;Privada;;;101;16.51;115;4.25;115;4.26;;;1;8;;;;;;;;;
+2023;historia;Universidade do Estado de Minas Gerais;MG;174;Estadual;;;105;16.05;184;1.98;60;6.07;;;1;8;;;;;;;;;
+2023;historia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;175;Privada;97;12.96;201-250;2.99;201-250;1.28;193;1.71;;;;;;;;;;;;;
+2023;historia;Centro Universitário Celso Lisboa;RJ;176;Privada;;;111;15.04;115;4.25;160;2.79;;;1;8;;;;;;;;;
+2023;historia;Universidade Franciscana;RS;177;Privada;;;118;14.6;115;4.25;27;7.15;;;142;3.2;;;;;;;;;
+2023;historia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;178;Federal;;;124;14.07;196;1.58;108;4.49;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Acre;AC;179;Federal;;;126;13.99;143;3.33;164;2.66;;;1;8;;;;;;;;;
+2023;historia;Universidade Federal do Amapá;AP;180;Federal;;;129;13.72;135;3.59;180;2.13;;;1;8;;;;;;;;;
+2023;historia;Universidade Estadual da Região Tocantina do Maranhão;MA;181;Estadual;;;133;13.52;166;2.57;155;2.95;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Planalto do Distrito Federal;DF;182;Privada;;;135;13.25;193;1.68;136;3.57;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Alfredo Nasser;GO;183;Privada;;;138;13.06;201-250;1.42;134;3.64;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário La Salle do Rio de Janeiro;RJ;184;Privada;;;139;13.05;1;8;114;4.3;;;201-250;0.75;;;;;;;;;
+2023;historia;Faculdade Uninabuco São Lourenço da Mata;PE;185;Privada;;;141;12.86;151;3.06;190;1.8;;;1;8;;;;;;;;;
+2023;historia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;186;Municipal;;;152;11.54;201-250;1.28;176;2.26;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Ideau;RS;187;Privada;;;156;11.32;161;2.73;201-250;0.59;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Inta;CE;188;Privada;;;157;11.29;151;3.06;201-250;0.23;;;1;8;;;;;;;;;
+2023;historia;Faculdade do Sertão do Pajeú;PE;189;Municipal;;;159;10.85;201-250;0.26;166;2.59;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Santa Maria da Glória;PR;190;Privada;;;160;10.79;97;4.84;157;2.89;;;146;3.06;;;;;;;;;
+2023;historia;Centro Universitário de Jales;SP;191;Privada;;;164;10.53;201-250;0.82;193;1.71;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Sant'Anna;SP;192;Privada;;;166;10.4;69;5.76;193;1.71;;;150;2.93;;;;;;;;;
+2023;historia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;193;Federal;;;168;10.32;115;4.25;85;5.25;;;201-250;0.82;;;;;;;;;
+2023;historia;Faculdade Mozarteum de São Paulo;SP;194;Privada;;;172;10.11;201-250;1.28;62;6;;;153;2.83;;;;;;;;;
+2023;historia;Faculdade de Educação e Tecnologia da Amazônia;PA;195;Privada;;;174;10.1;201-250;0.82;201-250;1.28;;;1;8;;;;;;;;;
+2023;historia;Centro Universitário Nossa Senhora do Patrocínio;SP;196;Privada;;;177;9.69;97;4.84;173;2.36;;;163;2.49;;;;;;;;;
+2023;historia;Faculdades Famep-PI;PI;197;Privada;;;180;9.51;201-250;1.28;201-250;0.23;;;1;8;;;;;;;;;
+2023;historia;Centro de Ensino Superior do Vale São Francisco;PE;198;Municipal;;;181;9.48;201-250;0.4;201-250;1.08;;;1;8;;;;;;;;;
+2023;historia;Faculdade JK - Unidade I - Gama;DF;199;Privada;;;184;9.35;201-250;1.28;201-250;0.07;;;1;8;;;;;;;;;
+2023;historia;Faculdade de Ponta Porã;MS;200;Privada;;;185;9.29;201-250;0.96;201-250;0.33;;;1;8;;;;;;;;;
+2023;historia;Instituto Superior de Educação Ivoti;RS;201;Privada;;;201-250;3.2;178;2.17;201-250;0.59;;;201-250;0.44;;;;;;;;;
+2023;historia;Faculdade de Formação de Professores da Mata Sul;PE;201;Municipal;;;201-250;1.05;201-250;0.2;201-250;0.85;;;;;;;;;;;;;
+2023;historia;Faculdade Saberes;ES;201;Privada;;;195;7.97;161;2.73;161;2.75;;;163;2.49;;;;;;;;;
+2023;historia;Centro Universitário Salesiano de São Paulo;SP;201;Privada;;;189;8.89;198;1.51;46;6.53;;;201-250;0.85;;;;;;;;;
+2023;historia;Centro Universitário Maurício de Nassau de Teresina;PI;201;Privada;;;191;8.66;188;1.84;118;4.16;;;158;2.66;;;;;;;;;
+2023;historia;Faculdade Dom Pedro II de Sergipe;SE;201;Privada;;;201-250;2.33;;;174;2.33;;;;;;;;;;;;;
+2023;historia;Faculdade de Filosofia Ciências e Letras de Alegre;ES;201;Municipal;;;201-250;7.22;201-250;0.2;53;6.3;;;201-250;0.72;;;;;;;;;
+2023;historia;Centro Universitário de Adamantina;SP;201;Municipal;;;201-250;6.58;179;2.14;142;3.38;;;201-250;1.06;;;;;;;;;
+2023;historia;Faculdade de Formação de Professores de Serra Talhada;PE;201;Municipal;;;201-250;7.07;201-250;0.72;150;3.12;;;141;3.23;;;;;;;;;
+2023;historia;Faculdade Unis São Lourenço;MG;201;Privada;;;201-250;6.6;172;2.37;138;3.51;;;201-250;0.72;;;;;;;;;
+2023;historia;Centro de Ensino Superior de Arcoverde;PE;201;Municipal;;;201-250;0.79;201-250;0.36;201-250;0.43;;;;;;;;;;;;;
+2023;historia;Centro Regional Universitário de Espírito Santo do Pinhal;SP;201;Privada;;;201-250;2.81;201-250;0.96;193;1.71;;;201-250;0.14;;;;;;;;;
+2023;historia;Universidade Nilton Lins;AM;201;Privada;;;201-250;4.69;201-250;0.72;201-250;1.28;;;157;2.69;;;;;;;;;
+2023;historia;Faculdades Ipede PI;PI;201;Privada;;;201-250;1.62;201-250;0.03;201-250;0.23;;;196;1.36;;;;;;;;;
+2023;historia;Faculdades Integradas Simonsen;RJ;201;Privada;;;199;7.3;188;1.84;120;4.1;;;196;1.36;;;;;;;;;
+2023;historia;Faculdades Integradas Regionais de Avaré;SP;201;Municipal;;;201-250;3.97;201-250;0.56;142;3.38;;;201-250;0.03;;;;;;;;;
+2023;historia;Faculdade Maranhense;MA;201;Privada;;;193;8.49;201-250;0.26;201-250;0.23;;;1;8;;;;;;;;;
+2023;historia;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;201;Privada;;;201-250;3.85;179;2.14;193;1.71;;;;;;;;;;;;;
+2023;historia;Centro Universitário Vale do Cricaré;ES;201;Privada;;;201-250;3.93;166;2.57;201-250;0.3;;;201-250;1.06;;;;;;;;;
+2023;historia;Faculdades Integradas de Fernandópolis;SP;201;Privada;;;201-250;4.85;196;1.58;189;1.84;;;194;1.43;;;;;;;;;
+2023;historia;Faculdades Integradas de Taquara;RS;201;Privada;;;201-250;4.78;128;3.82;201-250;0.59;;;201-250;0.37;;;;;;;;;
+2023;historia;Faculdade Nossa Senhora de Lourdes;BA;201;Privada;;;201-250;2.96;201-250;0.07;201-250;1.05;;;182;1.84;;;;;;;;;
+2023;historia;Faculdade de Educação São Luís;SP;201;Privada;;;201-250;2.51;201-250;0.56;193;1.71;;;201-250;0.24;;;;;;;;;
+2023;historia;Faculdade Santa Fé;MA;201;Privada;;;201-250;2.87;201-250;1.28;201-250;0.23;;;196;1.36;;;;;;;;;
+2023;historia;Faculdade de Formação de Professores de Araripina;PE;201;Municipal;;;201-250;0.49;201-250;0.1;201-250;0.39;;;;;;;;;;;;;
+2023;historia;Faculdade de Teologia e Ciências de Votuporanga;SP;201;Privada;;;201-250;5.95;200;1.45;193;1.71;;;154;2.79;;;;;;;;;
+2023;historia;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;201;Municipal;;;201-250;4.34;201-250;0.96;142;3.38;;;;;;;;;;;;;
+2023;historia;Faculdade Brasileira Cristã;ES;201;Privada;;;196;7.84;172;2.37;156;2.92;;;161;2.55;;;;;;;;;
+2023;historia;Faculdade Santa Marcelina Muriaé;MG;201;Privada;;;201-250;2.7;201-250;0.56;184;2;;;201-250;0.14;;;;;;;;;
+2023;historia;Faculdade de Ampére;PR;201;Privada;;;201-250;4.79;201-250;0.33;131;3.74;;;201-250;0.72;;;;;;;;;
+2023;historia;Centro Universitário Brasileiro;PE;201;Privada;;;201-250;3.69;199;1.48;190;1.8;;;201-250;0.41;;;;;;;;;
+2023;historia;Universidade Estadual de Mato Grosso do Sul;MS;201;Estadual;;;200;7.24;65;5.89;201-250;0.26;;;201-250;1.09;;;;;;;;;
+2023;historia;Centro Universitário do Distrito Federal;DF;201;Privada;;;201-250;1.75;201-250;0.56;201-250;0.07;;;201-250;1.12;;;;;;;;;
+2023;historia;Fasul Educacional Ead;MG;201;Privada;;;201-250;2.8;201-250;0.63;184;2;;;201-250;0.17;;;;;;;;;
+2023;historia;Centro Universitário de Caratinga;MG;201;Privada;;;201-250;5.87;201-250;1.38;184;2;;;163;2.49;;;;;;;;;
+2023;historia;Faculdade de Educação Ciências e Artes Dom Bosco de Monte Aprazível;SP;201;Privada;;;201-250;6.56;201-250;0.56;84;5.28;;;201-250;0.72;;;;;;;;;
+2023;historia;Centro Universitário Tabosa de Almeida;PE;201;Privada;;;194;8.19;201-250;1.35;81;5.38;;;193;1.46;;;;;;;;;
+2023;historia;Centro Universitário Campo Limpo Paulista;SP;201;Privada;;;201-250;5.92;193;1.68;151;3.08;;;201-250;1.16;;;;;;;;;
+2023;historia;Instituto Superior de Educação Elvira Dayrell;MG;201;Privada;;;201-250;4.17;201-250;0.2;184;2;;;178;1.97;;;;;;;;;
+2023;historia;Centro Universitário Fieo;SP;201;Privada;;;201-250;3.39;201-250;0.76;193;1.71;;;201-250;0.92;;;;;;;;;
+2023;historia;Faculdade Fernanda Bicchieri;RJ;201;Privada;;;201-250;2.41;201-250;0.33;201-250;0.72;;;196;1.36;;;;;;;;;
+2023;historia;Centro Universitário São Camilo - Espírito Santo;ES;201;Privada;;;187;9.09;190;1.78;70;5.74;;;190;1.57;;;;;;;;;
+2023;historia;Centro Universitário Maurício de Nassau;PE;201;Privada;;;201-250;3.97;201-250;1.28;163;2.69;;;;;;;;;;;;;
+2023;historia;Centro Universitário Sumaré;SP;201;Privada;;;201-250;4.37;185;1.94;193;1.71;;;201-250;0.72;;;;;;;;;
+2024;historia;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.73;;;31;7;;;1;8;;;9;7.73;1;40;;;
+2024;historia;Universidade Estadual de Campinas;SP;2;Estadual;2;35.76;2;62.32;;;1;8;;;1;8;;;29;7.07;2;39.25;;;
+2024;historia;Universidade Federal Fluminense;RJ;3;Federal;6;34.78;3;61.86;;;24;7.24;;;1;8;;;20;7.37;2;39.25;;;
+2024;historia;Universidade Federal de Minas Gerais;MG;4;Federal;6;34.78;4;61.38;;;2;7.97;;;1;8;;;11;7.67;4;37.74;;;
+2024;historia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.76;5;58.8;;;32;6.97;;;1;8;;;13;7.6;6;36.23;;;
+2024;historia;Universidade Federal do Rio de Janeiro;RJ;6;Federal;2;35.76;6;58.71;;;50;6.37;;;1;8;;;43;6.6;4;37.74;;;
+2024;historia;Universidade Federal de São Paulo;SP;7;Federal;12;33.32;8;57.46;;;9;7.73;;;1;8;;;8;7.77;9;33.96;;;
+2024;historia;Universidade Federal de Pernambuco;PE;8;Federal;12;33.32;10;55.5;;;17;7.47;;;1;8;;;59;6.07;9;33.96;;;
+2024;historia;Universidade Federal do Rio Grande do Sul;RS;9;Federal;31;28.7;7;58.7;;;15;7.54;;;1;8;;;33;6.93;6;36.23;;;
+2024;historia;Pontifícia Universidade Católica de São Paulo;SP;10;Privada;6;34.78;11;52.52;;;86;5.18;;;124;3.81;;;22;7.3;6;36.23;;;
+2024;historia;Universidade Federal da Bahia;BA;11;Federal;6;34.78;15;51.72;;;12;7.64;;;110;4.29;;;66;5.83;9;33.96;;;
+2024;historia;Universidade do Estado do Rio de Janeiro;RJ;12;Estadual;2;35.76;21;50;;;89;5.08;;;113;4.19;;;38;6.77;9;33.96;;;
+2024;historia;Universidade Federal do Paraná;PR;13;Federal;12;33.32;13;52.02;;;8;7.77;;;1;8;;;14;7.57;16;28.68;;;
+2024;historia;Universidade de Brasília;DF;14;Federal;31;28.7;9;56.26;;;3;7.93;;;1;8;;;50;6.37;9;33.96;;;
+2024;historia;Universidade Federal do Ceará;CE;15;Federal;6;34.78;20;50.04;;;6;7.83;;;1;8;;;75;5.53;16;28.68;;;
+2024;historia;Universidade Federal de Juiz de Fora;MG;16;Federal;12;33.32;16;51.15;;;13;7.6;;;1;8;;;35;6.87;16;28.68;;;
+2024;historia;Universidade Federal de Santa Catarina;SC;17;Federal;12;33.32;17;50.52;;;26;7.17;;;1;8;;;41;6.67;16;28.68;;;
+2024;historia;Universidade Estadual de Londrina;PR;18;Estadual;12;33.32;19;50.12;;;30;7.04;;;1;8;;;49;6.4;16;28.68;;;
+2024;historia;Universidade Federal de Goiás;GO;19;Federal;12;33.32;24;49.68;;;44;6.57;;;1;8;;;48;6.43;16;28.68;;;
+2024;historia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;20;Privada;12;33.32;25;49.29;;;65;5.88;;;170;2.25;;;25;7.2;9;33.96;;;
+2024;historia;Universidade Federal do Estado do Rio de Janeiro;RJ;21;Federal;31;28.7;12;52.38;;;10;7.7;;;1;8;;;1;8;16;28.68;;;
+2024;historia;Universidade Federal do Rio Grande do Norte;RN;22;Federal;12;33.32;29;47.72;;;79;5.41;;;1;8;;;72;5.63;16;28.68;;;
+2024;historia;Universidade Federal de Santa Maria;RS;23;Federal;31;28.7;14;51.88;;;11;7.67;;;1;8;;;15;7.53;16;28.68;;;
+2024;historia;Universidade Federal do Piauí;PI;24;Federal;12;33.32;34;46.16;;;80;5.38;;;1;8;;;118;4.1;16;28.68;;;
+2024;historia;Universidade Federal de Ouro Preto;MG;25;Federal;31;28.7;18;50.16;;;55;6.21;;;1;8;;;23;7.27;16;28.68;;;
+2024;historia;Universidade Federal do Espírito Santo;ES;26;Federal;31;28.7;22;49.95;;;54;6.24;;;1;8;;;30;7.03;16;28.68;;;
+2024;historia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;27;Privada;31;28.7;23;49.69;;;19;7.4;;;183;1.8;;;45;6.53;9;33.96;;;
+2024;historia;Universidade Federal de Alagoas;AL;28;Federal;12;33.32;40;44.13;;;169;2.42;;;1;8;;;90;5.03;16;28.68;;;
+2024;historia;Universidade Federal de Uberlândia;MG;29;Federal;31;28.7;26;48.56;;;87;5.15;;;1;8;;;39;6.73;16;28.68;;;
+2024;historia;Universidade Federal de Mato Grosso;MT;30;Federal;31;28.7;27;48.53;;;95;4.88;;;1;8;;;32;6.97;16;28.68;;;
+2024;historia;Pontifícia Universidade Católica do Paraná;PR;31;Privada;12;33.32;44;43.59;;;16;7.5;;;182;1.84;;;74;5.57;16;28.68;;;
+2024;historia;Universidade Estadual de Maringá;PR;32;Estadual;31;28.7;28;48.05;;;48;6.44;;;1;8;;;93;4.93;16;28.68;;;
+2024;historia;Universidade Federal do Pará;PA;33;Federal;31;28.7;30;47.3;;;108;4.45;;;1;8;;;56;6.17;16;28.68;;;
+2024;historia;Universidade Federal de Sergipe;SE;34;Federal;31;28.7;31;47.29;;;95;4.88;;;1;8;;;69;5.73;16;28.68;;;
+2024;historia;Universidade do Vale do Rio dos Sinos;RS;35;Privada;31;28.7;33;46.74;;;36;6.84;;;112;4.22;;;31;7;16;28.68;;;
+2024;historia;Universidade Federal de Campina Grande;PB;36;Federal;31;28.7;35;45.69;;;116;4.18;;;1;8;;;96;4.83;16;28.68;;;
+2024;historia;Universidade Estadual Vale do Acaraú;CE;37;Estadual;12;33.32;49;40.63;;;133;3.62;;;141;3.23;;;88;5.1;16;28.68;;;
+2024;historia;Fundação Universidade do Estado de Santa Catarina;SC;38;Estadual;31;28.7;39;44.38;;;21;7.34;;;157;2.69;;;71;5.67;16;28.68;;;
+2024;historia;Universidade Regional de Blumenau;SC;39;Municipal;31;28.7;43;43.66;;;22;7.3;;;169;2.28;;;79;5.4;16;28.68;;;
+2024;historia;Universidade Estadual do Maranhão;MA;40;Estadual;12;33.32;52;38.87;;;162;2.66;;;111;4.26;;;143;3.27;16;28.68;;;
+2024;historia;Universidade de Caxias do Sul;RS;41;Privada;31;28.7;50;40.56;;;77;5.48;;;184;1.77;;;102;4.63;16;28.68;;;
+2024;historia;Universidade Federal do Rio Grande;RS;42;Federal;78;17.27;32;46.83;;;126;3.85;;;1;8;;;52;6.3;16;28.68;;;
+2024;historia;Fundação Universidade Federal do Pampa;RS;43;Federal;78;17.27;36;45.5;;;153;2.95;;;1;8;;;65;5.87;16;28.68;;;
+2024;historia;Fundação Universidade Federal de Rondônia;RO;44;Federal;78;17.27;37;45.33;;;128;3.78;;;1;8;;;95;4.87;16;28.68;;;
+2024;historia;Universidade Federal de Pelotas;RS;45;Federal;78;17.27;41;44.13;;;120;4.05;;;1;8;;;139;3.4;16;28.68;;;
+2024;historia;Universidade Federal de Roraima;RR;46;Federal;78;17.27;42;43.74;;;152;2.99;;;1;8;;;119;4.07;16;28.68;;;
+2024;historia;Universidade Federal de Mato Grosso do Sul;MS;47;Federal;78;17.27;46;42.22;;;147;3.15;;;115;4.12;;;53;6.27;16;28.68;;;
+2024;historia;Universidade de Passo Fundo;RS;48;Privada;78;17.27;48;41.88;;;58;6.11;;;159;2.62;;;107;4.47;16;28.68;;;
+2024;historia;Universidade do Estado de Mato Grosso;MT;49;Estadual;78;17.27;51;40.18;;;201-250;0.9;;;1;8;;;163;2.6;16;28.68;;;
+2024;historia;Universidade Estadual do Ceará;CE;50;Estadual;12;33.32;74;18.48;;;64;5.91;;;1;8;;;104;4.57;;;;;
+2024;historia;Universidade Federal do Maranhão;MA;51;Federal;12;33.32;79;18.14;;;67;5.81;;;1;8;;;111;4.33;;;;;
+2024;historia;Universidade Federal de Viçosa;MG;52;Federal;31;28.7;56;22.73;;;28;7.1;;;1;8;;;12;7.63;;;;;
+2024;historia;Universidade do Estado da Bahia;BA;53;Estadual;6;34.78;92;16.35;;;119;4.08;;;1;8;;;113;4.27;;;;;
+2024;historia;Universidade Federal Rural do Rio de Janeiro;RJ;54;Federal;31;28.7;58;21.98;;;37;6.81;;;1;8;;;26;7.17;;;;;
+2024;historia;Universidade Federal da Paraíba;PB;55;Federal;31;28.7;63;21.24;;;39;6.74;;;1;8;;;46;6.5;;;;;
+2024;historia;Universidade Federal do Amazonas;AM;56;Federal;31;28.7;64;21.11;;;45;6.54;;;1;8;;;44;6.57;;;;;
+2024;historia;Universidade Estadual do Piauí;PI;57;Estadual;12;33.32;107;14.76;;;140;3.39;;;1;8;;;140;3.37;;;;;
+2024;historia;Universidade Estadual do Oeste do Paraná;PR;58;Estadual;31;28.7;69;19.28;;;104;4.58;;;1;8;;;40;6.7;;;;;
+2024;historia;Universidade Estadual de Santa Cruz;BA;59;Estadual;31;28.7;75;18.38;;;73;5.61;;;1;8;;;98;4.77;;;;;
+2024;historia;Universidade Estadual do Sudoeste da Bahia;BA;60;Estadual;31;28.7;89;16.71;;;94;4.91;;;1;8;;;127;3.8;;;;;
+2024;historia;Universidade Federal do Sul da Bahia;BA;61;Federal;;;38;44.74;;;201-250;0.83;;;1;8;;;24;7.23;16;28.68;;;
+2024;historia;Pontifícia Universidade Católica de Goiás;GO;62;Privada;12;33.32;152;11.08;;;134;3.59;;;151;2.89;;;103;4.6;;;;;
+2024;historia;Universidade Estadual de Feira de Santana;BA;63;Estadual;31;28.7;95;15.68;;;59;6.08;;;1;8;;;193;1.6;;;;;
+2024;historia;Universidade Regional do Cariri;CE;64;Estadual;31;28.7;102;15.02;;;146;3.19;;;1;8;;;126;3.83;;;;;
+2024;historia;Universidade do Estado do Rio Grande do Norte;RN;65;Estadual;31;28.7;103;14.98;;;117;4.15;;;1;8;;;156;2.83;;;;;
+2024;historia;Universidade do Estado do Pará;PA;66;Estadual;31;28.7;105;14.88;;;108;4.45;;;1;8;;;168;2.43;;;;;
+2024;historia;Universidade Estácio de Sá;RJ;67;Privada;12;33.32;167;9.87;;;127;3.82;;;201-250;0.82;;;84;5.23;;;;;
+2024;historia;Universidade do Oeste Paulista;SP;68;Privada;31;28.7;110;14.46;;;190;1.73;;;1;8;;;99;4.73;;;;;
+2024;historia;Centro Universitário Fundação Santo André;SP;69;Privada;31;28.7;116;13.96;;;20;7.37;;;201-250;0.89;;;70;5.7;;;;;
+2024;historia;Universidade de Pernambuco;PE;70;Estadual;31;28.7;117;13.9;;;103;4.61;;;116;4.09;;;85;5.2;;;;;
+2024;historia;Universidade Federal do Recôncavo da Bahia;BA;71;Federal;;;45;42.31;;;201-250;0.83;;;1;8;;;97;4.8;16;28.68;;;
+2024;historia;Universidade Federal do Amapá;AP;72;Federal;;;47;42.07;;;179;2.09;;;1;8;;;142;3.3;16;28.68;;;
+2024;historia;Pontifícia Universidade Católica de Minas Gerais;MG;73;Privada;31;28.7;123;13.25;;;18;7.44;;;176;2.04;;;128;3.77;;;;;
+2024;historia;Universidade do Vale do Itajaí;SC;74;Privada;31;28.7;124;13.19;;;5;7.87;;;162;2.52;;;157;2.8;;;;;
+2024;historia;Universidade Cruzeiro do Sul;SP;75;Privada;31;28.7;133;12.47;;;145;3.22;;;120;3.95;;;82;5.3;;;;;
+2024;historia;Universidade Estadual de Goiás;GO;76;Estadual;31;28.7;134;12.45;;;178;2.12;;;1;8;;;171;2.33;;;;;
+2024;historia;Universidade Luterana do Brasil;RS;77;Privada;31;28.7;138;11.83;;;75;5.54;;;146;3.06;;;144;3.23;;;;;
+2024;historia;Pontifícia Universidade Católica de Campinas;SP;78;Privada;31;28.7;139;11.82;;;49;6.41;;;201-250;0.41;;;91;5;;;;;
+2024;historia;Universidade Federal de São João Del Rei;MG;79;Federal;78;17.27;54;23;;;4;7.9;;;1;8;;;28;7.1;;;;;
+2024;historia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;80;Privada;31;28.7;144;11.47;;;34;6.91;;;193;1.46;;;148;3.1;;;;;
+2024;historia;Universidade Federal de Alfenas;MG;81;Federal;78;17.27;55;22.87;;;35;6.87;;;1;8;;;1;8;;;;;
+2024;historia;Centro Universitário Adventista de São Paulo;SP;82;Privada;31;28.7;149;11.21;;;100;4.71;;;143;3.17;;;141;3.33;;;;;
+2024;historia;Universidade do Estado do Amazonas;AM;83;Estadual;31;28.7;159;10.76;;;201-250;0.53;;;1;8;;;174;2.23;;;;;
+2024;historia;Universidade Potiguar;RN;84;Privada;31;28.7;160;10.75;;;165;2.56;;;160;2.59;;;73;5.6;;;;;
+2024;historia;Universidade Federal da Integração Latino-americana;PR;85;Federal;78;17.27;57;22.11;;;40;6.71;;;1;8;;;19;7.4;;;;;
+2024;historia;Centro Universitário Projeção;DF;86;Privada;78;17.27;59;21.94;;;63;5.94;;;1;8;;;1;8;;;;;
+2024;historia;Universidade Federal do Triângulo Mineiro;MG;87;Federal;78;17.27;60;21.84;;;57;6.14;;;1;8;;;10;7.7;;;;;
+2024;historia;Universidade La Salle;RS;88;Privada;78;17.27;61;21.78;;;68;5.78;;;1;8;;;1;8;;;;;
+2024;historia;Universidade Federal Rural de Pernambuco;PE;89;Federal;78;17.27;62;21.77;;;14;7.57;;;1;8;;;55;6.2;;;;;
+2024;historia;Universidade Tiradentes;SE;90;Privada;31;28.7;164;10.22;;;174;2.26;;;163;2.49;;;77;5.47;;;;;
+2024;historia;Universidade Católica de Pernambuco;PE;91;Privada;31;28.7;170;9.55;;;102;4.65;;;197;1.33;;;134;3.57;;;;;
+2024;historia;Universidade Católica de Santos;SP;92;Privada;78;17.27;67;20.48;;;71;5.68;;;1;8;;;37;6.8;;;;;
+2024;historia;Universidade Estadual de Ponta Grossa;PR;93;Estadual;78;17.27;70;19.28;;;97;4.81;;;1;8;;;47;6.47;;;;;
+2024;historia;Universidade Estadual do Centro Oeste;PR;94;Estadual;78;17.27;72;18.91;;;104;4.58;;;1;8;;;51;6.33;;;;;
+2024;historia;Fundação Universidade Federal da Grande Dourados;MS;95;Federal;78;17.27;73;18.52;;;151;3.02;;;1;8;;;16;7.5;;;;;
+2024;historia;Universidade Estadual do Paraná;PR;96;Estadual;78;17.27;78;18.17;;;69;5.74;;;1;8;;;108;4.43;;;;;
+2024;historia;Universidade Estadual do Norte do Paraná;PR;97;Estadual;78;17.27;81;17.82;;;99;4.75;;;1;8;;;89;5.07;;;;;
+2024;historia;Universidade do Grande Rio Professor José de Souza Herdy;RJ;98;Privada;31;28.7;199;6.21;;;201-250;0.73;;;164;2.45;;;150;3.03;;;;;
+2024;historia;Centro Universitário Facvest;SC;99;Privada;78;17.27;86;17.05;;;90;5.05;;;1;8;;;121;4;;;;;
+2024;historia;Universidade Católica do Salvador;BA;100;Privada;31;28.7;201-250;5.51;;;167;2.49;;;201-250;0.95;;;179;2.07;;;;;
+2024;historia;Universidade Federal do Oeste da Bahia;BA;101;Federal;78;17.27;88;16.74;;;47;6.47;;;1;8;;;173;2.27;;;;;
+2024;historia;Fundação Universidade Federal do Tocantins;TO;102;Federal;78;17.27;90;16.69;;;139;3.42;;;1;8;;;83;5.27;;;;;
+2024;historia;Universidade Federal de Rondonópolis;MT;103;Federal;78;17.27;91;16.58;;;125;3.88;;;1;8;;;100;4.7;;;;;
+2024;historia;Universidade do Estado de Minas Gerais;MG;104;Estadual;78;17.27;93;16.01;;;60;6.04;;;1;8;;;182;1.97;;;;;
+2024;historia;Universidade da Amazônia;PA;105;Privada;31;28.7;201-250;4.48;;;201-250;1.26;;;201-250;1.09;;;177;2.13;;;;;
+2024;historia;Universidade Federal de Jataí;GO;106;Federal;78;17.27;94;15.89;;;182;1.99;;;1;8;;;64;5.9;;;;;
+2024;historia;Centro Universitário Geraldo Di Biase;RJ;107;Privada;78;17.27;97;15.28;;;88;5.11;;;1;8;;;176;2.17;;;;;
+2024;historia;Centro Universitário da Região da Campanha;RS;108;Privada;;;53;32.5;;;201-250;0.66;;;198;1.29;;;185;1.87;16;28.68;;;
+2024;historia;Centro Universitário União das Américas Descomplica;PR;109;Privada;78;17.27;99;15.09;;;156;2.86;;;1;8;;;114;4.23;;;;;
+2024;historia;Centro Universitário Assis Gurgacz;PR;109;Privada;78;17.27;99;15.09;;;156;2.86;;;1;8;;;114;4.23;;;;;
+2024;historia;Universidade Estadual de Montes Claros;MG;111;Estadual;78;17.27;101;15.06;;;170;2.39;;;1;8;;;101;4.67;;;;;
+2024;historia;Universidade Nilton Lins;AM;112;Privada;31;28.7;201-250;3.36;;;201-250;1.26;;;178;1.97;;;201-250;0.13;;;;;
+2024;historia;Universidade Federal do Sul e Sudeste do Pará;PA;113;Federal;78;17.27;108;14.63;;;108;4.45;;;114;4.15;;;60;6.03;;;;;
+2024;historia;Universidade Católica Dom Bosco;MS;114;Privada;78;17.27;109;14.51;;;33;6.94;;;142;3.2;;;110;4.37;;;;;
+2024;historia;Fundação Universidade Federal do Vale do São Francisco;PE;115;Federal;78;17.27;112;14.2;;;201-250;0.83;;;1;8;;;80;5.37;;;;;
+2024;historia;Universidade do Vale do Taquari;RS;116;Privada;78;17.27;113;14.16;;;141;3.35;;;128;3.68;;;27;7.13;;;;;
+2024;historia;Universidade Tuiuti do Paraná;PR;117;Privada;78;17.27;114;14.13;;;41;6.67;;;150;2.93;;;105;4.53;;;;;
+2024;historia;Universidade da Região de Joinville;SC;118;Privada;78;17.27;115;14.11;;;7;7.8;;;132;3.54;;;158;2.77;;;;;
+2024;historia;Universidade Estadual da Paraíba;PB;119;Estadual;78;17.27;118;13.88;;;144;3.25;;;1;8;;;162;2.63;;;;;
+2024;historia;Universidade de Santa Cruz do Sul;RS;120;Privada;78;17.27;120;13.53;;;38;6.77;;;188;1.63;;;87;5.13;;;;;
+2024;historia;Universidade Federal do Acre;AC;121;Federal;78;17.27;121;13.49;;;164;2.59;;;1;8;;;154;2.9;;;;;
+2024;historia;Centro Universitário Ritter dos Reis;RS;122;Privada;78;17.27;122;13.33;;;92;4.98;;;161;2.55;;;67;5.8;;;;;
+2024;historia;Centro Universitário Jorge Amado;BA;123;Privada;78;17.27;125;13.19;;;137;3.49;;;131;3.57;;;57;6.13;;;;;
+2024;historia;Centro Universitário da Vitória de Santo Antão;PE;124;Privada;78;17.27;128;12.93;;;189;1.76;;;1;8;;;146;3.17;;;;;
+2024;historia;Centro Universitário Toledo Wyden;SP;125;Privada;78;17.27;129;12.83;;;129;3.75;;;164;2.45;;;42;6.63;;;;;
+2024;historia;Universidade Cidade de São Paulo;SP;126;Privada;78;17.27;140;11.75;;;123;3.95;;;139;3.3;;;106;4.5;;;;;
+2024;historia;Universidade Metropolitana de Santos;SP;127;Privada;78;17.27;141;11.73;;;124;3.92;;;133;3.51;;;112;4.3;;;;;
+2024;historia;Universidade do Sul de Santa Catarina;SC;128;Privada;78;17.27;142;11.58;;;90;5.05;;;153;2.83;;;130;3.7;;;;;
+2024;historia;Universidade Estadual de Alagoas;AL;129;Estadual;78;17.27;143;11.49;;;168;2.46;;;1;8;;;201-250;1.03;;;;;
+2024;historia;Universidade de Sorocaba;SP;130;Privada;78;17.27;146;11.35;;;56;6.17;;;201-250;0.78;;;109;4.4;;;;;
+2024;historia;Universidade de Taubaté;SP;131;Municipal;78;17.27;147;11.33;;;122;3.98;;;122;3.88;;;137;3.47;;;;;
+2024;historia;Universidade Veiga de Almeida;RJ;132;Privada;78;17.27;148;11.32;;;83;5.28;;;181;1.87;;;116;4.17;;;;;
+2024;historia;Universidade Santo Amaro;SP;133;Privada;78;17.27;154;11.01;;;180;2.06;;;117;4.05;;;94;4.9;;;;;
+2024;historia;Centro Universitário São José de Itaperuna;RJ;134;Privada;78;17.27;157;10.81;;;25;7.2;;;185;1.74;;;185;1.87;;;;;
+2024;historia;Universidade do Extremo Sul Catarinense;SC;135;Privada;78;17.27;161;10.59;;;66;5.84;;;175;2.08;;;161;2.67;;;;;
+2024;historia;Universidade Católica de Petrópolis;RJ;136;Privada;78;17.27;162;10.53;;;43;6.61;;;201-250;0.92;;;151;3;;;;;
+2024;historia;Centro Universitário Sagrado Coração;SP;137;Privada;78;17.27;163;10.3;;;74;5.58;;;201-250;1.19;;;135;3.53;;;;;
+2024;historia;Centro Universitário Barão de Mauá;SP;138;Privada;78;17.27;173;9.18;;;78;5.44;;;177;2.01;;;189;1.73;;;;;
+2024;historia;Universidade de Franca;SP;139;Privada;78;17.27;176;8.65;;;177;2.16;;;152;2.86;;;132;3.63;;;;;
+2024;historia;Centro Universitário Fibra;PA;140;Privada;78;17.27;177;8.54;;;201-250;1.26;;;126;3.75;;;135;3.53;;;;;
+2024;historia;Centro Universitário de Brasília;DF;141;Privada;78;17.27;179;8.38;;;98;4.78;;;190;1.57;;;180;2.03;;;;;
+2024;historia;Centro Universitário Planalto do Distrito Federal;DF;142;Privada;78;17.27;181;8.32;;;136;3.52;;;139;3.3;;;196;1.5;;;;;
+2024;historia;Escola Superior Madre Celeste;PA;143;Privada;78;17.27;187;7.4;;;201-250;1.26;;;135;3.44;;;160;2.7;;;;;
+2024;historia;Universidade Castelo Branco;RJ;144;Privada;78;17.27;188;7.29;;;132;3.65;;;201-250;0.51;;;147;3.13;;;;;
+2024;historia;Faculdade de Ciências e Letras de Bragança Paulista;SP;145;Municipal;78;17.27;196;6.55;;;107;4.48;;;201-250;0.17;;;184;1.9;;;;;
+2024;historia;Faculdades Integradas da Upis;DF;146;Privada;78;17.27;201-250;5.42;;;101;4.68;;;201-250;0.07;;;201-250;0.67;;;;;
+2024;historia;Centro Universitário do Norte;AM;147;Privada;78;17.27;201-250;5.3;;;181;2.03;;;192;1.5;;;188;1.77;;;;;
+2024;historia;Faculdade Estácio de Castanhal;PA;148;Privada;78;17.27;201-250;5.29;;;201-250;1.26;;;155;2.76;;;201-250;1.27;;;;;
+2024;historia;Universidade Estadual de Roraima;RR;149;Estadual;78;17.27;201-250;4.96;;;201-250;0.93;;;191;1.53;;;166;2.5;;;;;
+2024;historia;Faculdade do Belo Jardim;PE;150;Municipal;78;17.27;201-250;4.07;;;201-250;0.47;;;147;3.03;;;201-250;0.57;;;;;
+2024;historia;Universidade Federal de Catalão;GO;151;Federal;;;65;20.94;;;76;5.51;;;1;8;;;18;7.43;;;;;
+2024;historia;Faculdades Integradas Campo-grandenses;RJ;152;Privada;78;17.27;201-250;3.59;;;176;2.19;;;201-250;0.1;;;201-250;1.3;;;;;
+2024;historia;Centro Universitário Maurício de Nassau;PE;153;Privada;78;17.27;201-250;3.52;;;163;2.62;;;;;;;201-250;0.9;;;;;
+2024;historia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;154;Federal;;;66;20.7;;;23;7.27;;;1;8;;;78;5.43;;;;;
+2024;historia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;155;Federal;;;68;19.87;;;50;6.37;;;1;8;;;76;5.5;;;;;
+2024;historia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;156;Federal;;;71;18.97;;;29;7.07;;;1;8;;;124;3.9;;;;;
+2024;historia;Universidade Federal do Cariri;CE;157;Federal;;;76;18.36;;;171;2.36;;;1;8;;;1;8;;;;;
+2024;historia;Centro Universitário Campos de Andrade;PR;158;Privada;;;77;18.19;;;156;2.86;;;1;8;;;21;7.33;;;;;
+2024;historia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;159;Federal;;;80;17.83;;;171;2.36;;;1;8;;;17;7.47;;;;;
+2024;historia;Universidade Federal do Oeste do Pará;PA;160;Federal;;;81;17.82;;;108;4.45;;;1;8;;;80;5.37;;;;;
+2024;historia;Faculdade de São Bernardo do Campo - FASB I;SP;161;Privada;;;83;17.73;;;190;1.73;;;1;8;;;1;8;;;;;
+2024;historia;Colégio Pedro II;RJ;162;Federal;;;84;17.34;;;50;6.37;;;1;8;;;152;2.97;;;;;
+2024;historia;Universidade Federal da Fronteira Sul;SC;163;Federal;;;85;17.08;;;42;6.64;;;130;3.61;;;36;6.83;;;;;
+2024;historia;Centro Universitário Dom Pedro II;BA;164;Privada;;;87;17.03;;;201-250;1.03;;;1;8;;;1;8;;;;;
+2024;historia;Universidade São Judas Tadeu;SP;165;Privada;;;96;15.66;;;190;1.73;;;1;8;;;63;5.93;;;;;
+2024;historia;Universidade Franciscana;RS;166;Privada;;;98;15.12;;;27;7.14;;;123;3.85;;;117;4.13;;;;;
+2024;historia;Centro Universitário Una;MG;167;Privada;;;104;14.93;;;183;1.96;;;1;8;;;92;4.97;;;;;
+2024;historia;Centro Universitário Ages;BA;168;Privada;;;106;14.8;;;201-250;1.03;;;1;8;;;68;5.77;;;;;
+2024;historia;Centro Universitário Celso Lisboa;RJ;169;Privada;;;111;14.32;;;160;2.72;;;1;8;;;133;3.6;;;;;
+2024;historia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;170;Federal;;;119;13.55;;;108;4.45;;;1;8;;;201-250;1.1;;;;;
+2024;historia;Universidade Metodista de Piracicaba;SP;171;Privada;;;126;13.13;;;72;5.64;;;199;1.26;;;54;6.23;;;;;
+2024;historia;Universidade Feevale;RS;172;Privada;;;127;12.94;;;113;4.28;;;158;2.66;;;61;6;;;;;
+2024;historia;Centro Universitário Alfredo Nasser;GO;173;Privada;;;130;12.66;;;134;3.59;;;1;8;;;201-250;1.07;;;;;
+2024;historia;Universidade Estadual da Região Tocantina do Maranhão;MA;174;Estadual;;;131;12.59;;;154;2.92;;;1;8;;;191;1.67;;;;;
+2024;historia;Faculdades Integradas Maria Imaculada;SP;175;Privada;;;132;12.49;;;82;5.31;;;119;3.98;;;145;3.2;;;;;
+2024;historia;Centro Universitário Estácio de Belo Horizonte;MG;176;Privada;;;135;12.3;;;130;3.72;;;164;2.45;;;57;6.13;;;;;
+2024;historia;Centro Universitário de Belo Horizonte;MG;177;Privada;;;136;12.03;;;106;4.52;;;129;3.64;;;125;3.87;;;;;
+2024;historia;Centro Universitário La Salle do Rio de Janeiro;RJ;178;Privada;;;137;11.9;;;114;4.25;;;201-250;0.75;;;34;6.9;;;;;
+2024;historia;Centro Universitário Assunção;SP;179;Privada;;;145;11.44;;;61;6.01;;;195;1.4;;;120;4.03;;;;;
+2024;historia;Centro Universitário Sant'Anna;SP;180;Privada;;;150;11.17;;;190;1.73;;;134;3.47;;;62;5.97;;;;;
+2024;historia;Centro Universitário Inta;CE;181;Privada;;;151;11.1;;;201-250;0.23;;;1;8;;;155;2.87;;;;;
+2024;historia;Centro Universitário Ideau;RS;182;Privada;;;153;11.06;;;201-250;0.66;;;1;8;;;169;2.4;;;;;
+2024;historia;Centro Universitário de Patos de Minas;MG;183;Privada;;;155;10.88;;;93;4.95;;;148;3;;;153;2.93;;;;;
+2024;historia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;184;Federal;;;156;10.85;;;85;5.21;;;187;1.67;;;122;3.97;;;;;
+2024;historia;Faculdade do Sertão do Pajeú;PE;185;Municipal;;;158;10.79;;;166;2.52;;;1;8;;;201-250;0.27;;;;;
+2024;historia;Faculdade de Educação e Tecnologia da Amazônia;PA;186;Privada;;;165;9.96;;;201-250;1.26;;;1;8;;;201-250;0.7;;;;;
+2024;historia;Centro Universitário Santa Maria da Glória;PR;187;Privada;;;166;9.9;;;156;2.86;;;137;3.37;;;131;3.67;;;;;
+2024;historia;Faculdade Mozarteum de São Paulo;SP;188;Privada;;;168;9.83;;;62;5.98;;;156;2.72;;;201-250;1.13;;;;;
+2024;historia;Centro Universitário São Camilo - Espírito Santo;ES;189;Privada;;;169;9.62;;;70;5.71;;;171;2.21;;;190;1.7;;;;;
+2024;historia;Centro de Ensino Superior do Vale São Francisco;PE;190;Municipal;;;171;9.53;;;201-250;1.06;;;1;8;;;201-250;0.47;;;;;
+2024;historia;Centro Universitário Maurício de Nassau de Teresina;PI;191;Privada;;;172;9.48;;;118;4.12;;;154;2.79;;;164;2.57;;;;;
+2024;historia;Faculdades Famep-PI;PI;192;Privada;;;174;9.13;;;201-250;0.23;;;1;8;;;201-250;0.9;;;;;
+2024;historia;Faculdade JK - Unidade I - Gama;DF;193;Privada;;;175;8.97;;;201-250;0.07;;;1;8;;;201-250;0.9;;;;;
+2024;historia;Centro Universitário Salesiano de São Paulo;SP;194;Privada;;;178;8.5;;;46;6.51;;;201-250;0.72;;;201-250;1.27;;;;;
+2024;historia;Faculdade Ages de Tucano;BA;195;Privada;;;180;8.33;;;201-250;1.03;;;137;3.37;;;123;3.93;;;;;
+2024;historia;Faculdade Brasileira Cristã;ES;196;Privada;;;181;8.32;;;155;2.89;;;144;3.13;;;172;2.3;;;;;
+2024;historia;Universidade do Vale do Paraíba;SP;197;Privada;;;183;8.15;;;148;3.12;;;189;1.6;;;138;3.43;;;;;
+2024;historia;Centro Universitário Castelo Branco;ES;198;Privada;;;184;7.94;;;115;4.22;;;173;2.15;;;194;1.57;;;;;
+2024;historia;Faculdade de Formação de Professores de Serra Talhada;PE;199;Municipal;;;185;7.61;;;149;3.09;;;118;4.02;;;201-250;0.5;;;;;
+2024;historia;Centro Universitário Tabosa de Almeida;PE;200;Privada;;;186;7.53;;;81;5.34;;;201-250;1.02;;;201-250;1.17;;;;;
+2024;historia;Centro Universitário Campo Limpo Paulista;SP;201;Privada;;;201-250;5.34;;;150;3.05;;;201-250;1.09;;;201-250;1.2;;;;;
+2024;historia;Faculdade de Educação São Luís;SP;201;Privada;;;201-250;2.24;;;190;1.73;;;201-250;0.14;;;201-250;0.37;;;;;
+2024;historia;Faculdades Integradas Simonsen;RJ;201;Privada;;;195;6.67;;;120;4.05;;;201-250;0.99;;;192;1.63;;;;;
+2024;historia;Instituto Superior de Educação Ivoti;RS;201;Privada;;;201-250;3.24;;;201-250;0.66;;;201-250;0.48;;;178;2.1;;;;;
+2024;historia;Centro Universitário Augusto Motta;RJ;201;Privada;;;201-250;4.46;;;201-250;0.73;;;148;3;;;201-250;0.73;;;;;
+2024;historia;Faculdade Santa Marcelina Muriaé;MG;201;Privada;;;201-250;2.53;;;183;1.96;;;201-250;0.24;;;201-250;0.33;;;;;
+2024;historia;Centro Regional Universitário de Espírito Santo do Pinhal;SP;201;Privada;;;201-250;3.54;;;190;1.73;;;201-250;0.34;;;197;1.47;;;;;
+2024;historia;Faculdade Nova Roma Caruaru;PE;201;Privada;;;201-250;1.37;;;201-250;0.47;;;;;;;201-250;0.9;;;;;
+2024;historia;Centro Universitário Metropolitano de São Paulo;SP;201;Privada;;;201-250;1.73;;;190;1.73;;;;;;;;;;;;;
+2024;historia;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;201;Municipal;;;201-250;4.22;;;142;3.32;;;;;;;201-250;0.9;;;;;
+2024;historia;Faculdade de Formação de Professores da Mata Sul;PE;201;Municipal;;;201-250;0.96;;;201-250;0.86;;;;;;;201-250;0.1;;;;;
+2024;historia;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;201;Privada;;;201-250;4.91;;;190;1.73;;;201-250;0.65;;;165;2.53;;;;;
+2024;historia;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;201-250;5.34;;;190;1.73;;;185;1.74;;;185;1.87;;;;;
+2024;historia;Faculdade de Filosofia Ciências e Letras de Alegre;ES;201;Municipal;;;192;6.88;;;53;6.27;;;201-250;0.44;;;201-250;0.17;;;;;
+2024;historia;Centro Universitário de Jales;SP;201;Privada;;;197;6.41;;;190;1.73;;;127;3.71;;;201-250;0.97;;;;;
+2024;historia;Fasul Educacional Ead;MG;201;Privada;;;201-250;2.76;;;183;1.96;;;201-250;0.2;;;201-250;0.6;;;;;
+2024;historia;Faculdade Unis São Lourenço;MG;201;Privada;;;198;6.4;;;138;3.45;;;201-250;0.58;;;170;2.37;;;;;
+2024;historia;Faculdade Santa Fé;MA;201;Privada;;;201-250;3.31;;;201-250;0.23;;;164;2.45;;;201-250;0.63;;;;;
+2024;historia;Faculdades Ipede PI;PI;201;Privada;;;201-250;1.42;;;201-250;0.23;;;201-250;1.16;;;201-250;0.03;;;;;
+2024;historia;Faculdade Uninabuco São Lourenço da Mata;PE;201;Privada;;;191;6.98;;;201-250;0.47;;;125;3.78;;;159;2.73;;;;;
+2024;historia;Centro Universitário do Distrito Federal;DF;201;Privada;;;201-250;2.19;;;201-250;0.07;;;201-250;1.12;;;201-250;1;;;;;
+2024;historia;Centro Universitário Fieo;SP;201;Privada;;;201-250;2.71;;;190;1.73;;;201-250;0.55;;;201-250;0.43;;;;;
+2024;historia;Centro Universitário Nossa Senhora do Patrocínio;SP;201;Privada;;;200;6.12;;;173;2.29;;;196;1.36;;;167;2.47;;;;;
+2024;historia;Centro de Ensino Superior de Arcoverde;PE;201;Municipal;;;201-250;0.8;;;201-250;0.5;;;;;;;201-250;0.3;;;;;
+2024;historia;Faculdades Integradas Regionais de Avaré;SP;201;Municipal;;;201-250;3.88;;;142;3.32;;;201-250;0.03;;;201-250;0.53;;;;;
+2024;historia;Centro Universitário Brasileiro;PE;201;Privada;;;201-250;1.71;;;201-250;0.47;;;201-250;0.31;;;201-250;0.93;;;;;
+2024;historia;Faculdade Maranhense;MA;201;Privada;;;201-250;2.91;;;201-250;0.23;;;164;2.45;;;201-250;0.23;;;;;
+2024;historia;Faculdade Saberes;ES;201;Privada;;;190;7.02;;;161;2.69;;;199;1.26;;;149;3.07;;;;;
+2024;historia;Faculdades Integradas de Fernandópolis;SP;201;Privada;;;201-250;5.9;;;188;1.79;;;172;2.18;;;183;1.93;;;;;
+2024;historia;Faculdade de Ampére;PR;201;Privada;;;201-250;5.32;;;131;3.69;;;194;1.43;;;201-250;0.2;;;;;
+2024;historia;Centro Universitário de Caratinga;MG;201;Privada;;;194;6.69;;;183;1.96;;;136;3.4;;;201-250;1.33;;;;;
+2024;historia;Faculdade de Ponta Porã;MS;201;Privada;;;201-250;3.74;;;201-250;0.33;;;179;1.94;;;197;1.47;;;;;
+2024;historia;Faculdades Integradas de Taquara;RS;201;Privada;;;201-250;4.66;;;201-250;0.66;;;201-250;0.27;;;129;3.73;;;;;
+2024;historia;Centro Universitário de Adamantina;SP;201;Municipal;;;201-250;3.95;;;190;1.73;;;201-250;0.85;;;200;1.37;;;;;
+2024;historia;Centro Universitário Vale do Cricaré;ES;201;Privada;;;201-250;4.45;;;201-250;0.3;;;173;2.15;;;181;2;;;;;
+2024;historia;Faculdade de Educação Ciências e Artes Dom Bosco de Monte Aprazível;SP;201;Privada;;;201-250;6.02;;;84;5.25;;;201-250;0.37;;;201-250;0.4;;;;;
+2024;historia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;201;Municipal;;;193;6.82;;;175;2.22;;;144;3.13;;;197;1.47;;;;;
+2024;historia;Instituto Superior de Educação Elvira Dayrell;MG;201;Privada;;;201-250;3.94;;;183;1.96;;;180;1.91;;;201-250;0.07;;;;;
+2024;historia;Universidade Estadual de Mato Grosso do Sul;MS;201;Estadual;;;201-250;6.12;;;201-250;0.27;;;201-250;0.68;;;86;5.17;;;;;
+2024;historia;Faculdade de Teologia e Ciências de Votuporanga;SP;201;Privada;;;189;7.18;;;190;1.73;;;121;3.92;;;195;1.53;;;;;
+2024;historia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;201;Privada;;;201-250;4.58;;;190;1.73;;;201-250;0.65;;;175;2.2;;;;;
+2025;historia;Universidade de São Paulo;SP;1;Estadual;1;30;1;67.91;;;31;6.98;;;1;8;;;8;7.76;1;40;1;28;5.17
+2025;historia;Universidade Estadual de Campinas;SP;2;Estadual;2;29.77;2;67.09;;;1;8;;;1;8;;;27;7.12;2;39.2;2;41;4.77
+2025;historia;Universidade Federal de Minas Gerais;MG;3;Federal;2;29.77;3;64.98;;;2;7.97;;;1;8;;;11;7.66;4;37.6;3;74;3.75
+2025;historia;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;29.77;4;63.62;;;50;6.34;;;1;8;;;42;6.6;4;37.6;4;31;5.08
+2025;historia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;29.77;5;63.19;;;32;6.95;;;1;8;;;13;7.59;6;36;5;45;4.65
+2025;historia;Universidade Federal Fluminense;RJ;6;Federal;9;28.15;6;63.1;;;24;7.22;;;1;8;;;22;7.29;2;39.2;6;151;1.39
+2025;historia;Universidade Federal de Pernambuco;PE;7;Federal;9;28.15;8;60.84;;;17;7.46;;;1;8;;;59;6.03;6;36;7;87;3.35
+2025;historia;Universidade Federal de São Paulo;SP;8;Federal;9;28.15;10;59.78;;;9;7.73;;;1;8;;;7;7.8;11;32;8;58;4.25
+2025;historia;Universidade Federal do Rio Grande do Sul;RS;9;Federal;27;24;7;61.6;;;15;7.53;;;1;8;;;28;7.08;6;36;9;99;2.99
+2025;historia;Universidade Federal de Goiás;GO;10;Federal;9;28.15;13;56.89;;;44;6.54;;;1;8;;;53;6.23;11;32;10;62;4.12
+2025;historia;Pontifícia Universidade Católica de São Paulo;SP;11;Privada;2;29.77;17;54.85;;;85;5.15;;;121;3.86;;;23;7.25;6;36;1;112;2.59
+2025;historia;Universidade Federal de Santa Catarina;SC;12;Federal;27;24;9;59.96;;;26;7.15;;;1;8;;;36;6.81;11;32;11;1;6
+2025;historia;Universidade Federal da Bahia;BA;13;Federal;9;28.15;15;55.48;;;12;7.63;;;109;4.28;;;86;5.11;6;36;12;116;2.46
+2025;historia;Universidade de Brasília;DF;14;Federal;27;24;11;58.95;;;3;7.93;;;1;8;;;48;6.4;11;32;13;46;4.62
+2025;historia;Universidade Federal de Santa Maria;RS;15;Federal;27;24;12;57.48;;;11;7.66;;;1;8;;;19;7.39;11;32;14;117;2.43
+2025;historia;Universidade do Estado do Rio de Janeiro;RJ;16;Estadual;2;29.77;21;50.42;;;88;5.05;;;130;3.55;;;38;6.74;11;32;15;96;3.08
+2025;historia;Universidade Federal de Ouro Preto;MG;17;Federal;27;24;14;56.15;;;55;6.17;;;1;8;;;26;7.15;11;32;16;104;2.83
+2025;historia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;18;Privada;9;28.15;19;51.38;;;65;5.83;;;150;2.86;;;35;6.84;11;32;2;71;3.85
+2025;historia;Universidade Federal de Sergipe;SE;19;Federal;27;24;16;55.18;;;94;4.85;;;1;8;;;71;5.62;11;32;17;43;4.71
+2025;historia;Universidade Federal do Ceará;CE;20;Federal;9;28.15;23;49.25;;;6;7.83;;;1;8;;;65;5.82;22;23.2;18;53;4.4
+2025;historia;Universidade Federal do Paraná;PR;21;Federal;9;28.15;24;48.85;;;8;7.76;;;1;8;;;15;7.52;22;23.2;19;119;2.37
+2025;historia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;22;Privada;27;24;18;52.35;;;19;7.39;;;173;2.07;;;40;6.67;11;32;3;59;4.22
+2025;historia;Fundação Universidade do Estado de Santa Catarina;SC;23;Estadual;27;24;20;51.24;;;21;7.32;;;147;2.97;;;30;7.01;11;32;20;133;1.94
+2025;historia;Universidade Federal do Pará;PA;24;Federal;9;28.15;29;46.3;;;107;4.41;;;1;8;;;64;5.86;22;23.2;21;39;4.83
+2025;historia;Universidade Federal do Estado do Rio de Janeiro;RJ;25;Federal;27;24;22;50.01;;;10;7.7;;;1;8;;;1;8;22;23.2;22;95;3.11
+2025;historia;Universidade Federal do Espírito Santo;ES;26;Federal;27;24;25;48.24;;;54;6.2;;;1;8;;;29;7.05;22;23.2;23;73;3.79
+2025;historia;Universidade Federal de Alagoas;AL;27;Federal;9;28.15;34;43.63;;;167;2.37;;;1;8;;;84;5.17;22;23.2;24;37;4.89
+2025;historia;Universidade Estadual de Maringá;PR;28;Estadual;27;24;27;47.66;;;48;6.41;;;1;8;;;80;5.31;22;23.2;25;42;4.74
+2025;historia;Universidade Federal do Piauí;PI;29;Federal;27;24;30;45.6;;;79;5.36;;;1;8;;;118;4.02;22;23.2;26;33;5.02
+2025;historia;Universidade do Vale do Rio dos Sinos;RS;30;Privada;27;24;31;45.06;;;36;6.81;;;114;4.1;;;41;6.64;22;23.2;4;56;4.31
+2025;historia;Universidade Federal de Mato Grosso;MT;31;Federal;27;24;32;44.7;;;94;4.85;;;1;8;;;49;6.37;22;23.2;27;122;2.28
+2025;historia;Universidade Federal do Rio Grande do Norte;RN;32;Federal;27;24;35;43.55;;;78;5.39;;;1;8;;;66;5.79;22;23.2;28;158;1.17
+2025;historia;Universidade Federal de Uberlândia;MG;33;Federal;27;24;36;43.23;;;86;5.12;;;1;8;;;33;6.91;22;23.2;29;;
+2025;historia;Universidade Federal de Campina Grande;PB;34;Federal;27;24;38;42.33;;;115;4.14;;;1;8;;;76;5.45;22;23.2;30;146;1.54
+2025;historia;Universidade Estadual do Maranhão;MA;35;Estadual;9;28.15;50;37.91;;;158;2.68;;;110;4.24;;;113;4.19;22;23.2;31;79;3.6
+2025;historia;Universidade Regional de Blumenau;SC;36;Municipal;27;24;45;39.67;;;22;7.29;;;163;2.41;;;69;5.69;22;23.2;32;161;1.08
+2025;historia;Universidade Estadual Vale do Acaraú;CE;37;Estadual;27;24;46;39.6;;;135;3.46;;;129;3.59;;;79;5.35;22;23.2;33;66;4
+2025;historia;Universidade Estadual de Ponta Grossa;PR;38;Estadual;73;13.39;26;48.11;;;96;4.78;;;1;8;;;56;6.13;22;23.2;34;1;6
+2025;historia;Universidade Federal do Triângulo Mineiro;MG;39;Federal;73;13.39;28;46.59;;;57;6.1;;;1;8;;;12;7.63;22;23.2;35;142;1.66
+2025;historia;Universidade Federal do Rio Grande;RS;40;Federal;73;13.39;33;43.81;;;126;3.76;;;1;8;;;54;6.2;22;23.2;36;110;2.65
+2025;historia;Universidade Estadual de Londrina;PR;41;Estadual;9;28.15;54;26.99;;;30;7.02;;;1;8;;;37;6.77;;;37;27;5.2
+2025;historia;Universidade Federal de Pelotas;RS;42;Federal;73;13.39;39;40.81;;;119;4;;;1;8;;;140;3.27;22;23.2;38;120;2.34
+2025;historia;Universidade de Caxias do Sul;RS;43;Privada;73;13.39;40;40.64;;;76;5.46;;;166;2.31;;;93;4.87;22;23.2;5;40;4.8
+2025;historia;Universidade Federal de Mato Grosso do Sul;MS;44;Federal;73;13.39;43;40.36;;;148;3.02;;;111;4.21;;;44;6.54;22;23.2;39;86;3.39
+2025;historia;Universidade Federal do Sul da Bahia;BA;45;Federal;73;13.39;47;39.02;;;201-250;0.64;;;1;8;;;25;7.18;22;23.2;40;;
+2025;historia;Universidade Federal de Juiz de Fora;MG;46;Federal;27;24;51;28.09;;;13;7.59;;;1;8;;;45;6.5;;;41;1;6
+2025;historia;Universidade de Passo Fundo;RS;47;Privada;73;13.39;49;38.69;;;58;6.07;;;149;2.9;;;95;4.8;22;23.2;6;140;1.72
+2025;historia;Universidade Estadual do Ceará;CE;48;Estadual;9;28.15;64;23.81;;;64;5.86;;;1;8;;;99;4.66;;;42;24;5.29
+2025;historia;Universidade Federal de Viçosa;MG;49;Federal;27;24;52;27.77;;;28;7.09;;;1;8;;;9;7.73;;;43;35;4.95
+2025;historia;Universidade Federal da Paraíba;PB;50;Federal;27;24;53;27.18;;;39;6.71;;;1;8;;;46;6.47;;;44;1;6
+2025;historia;Universidade do Estado da Bahia;BA;51;Estadual;2;29.77;84;19.78;;;118;4.03;;;1;8;;;94;4.83;;;45;101;2.92
+2025;historia;Pontifícia Universidade Católica do Paraná;PR;52;Privada;9;28.15;76;21.1;;;16;7.49;;;141;3.17;;;62;5.92;;;7;49;4.52
+2025;historia;Universidade Federal Rural do Rio de Janeiro;RJ;53;Federal;27;24;61;24.52;;;37;6.78;;;1;8;;;24;7.22;;;46;114;2.52
+2025;historia;Universidade Federal do Amazonas;AM;54;Federal;27;24;62;24.5;;;45;6.51;;;1;8;;;70;5.65;;;47;55;4.34
+2025;historia;Universidade Federal do Maranhão;MA;55;Federal;27;24;65;23.67;;;67;5.76;;;1;8;;;96;4.77;;;48;29;5.14
+2025;historia;Pontifícia Universidade Católica de Minas Gerais;MG;56;Privada;9;28.15;91;18.19;;;18;7.42;;;158;2.59;;;115;4.12;;;8;64;4.06
+2025;historia;Fundação Universidade Federal da Grande Dourados;MS;57;Federal;27;24;68;22.2;;;152;2.88;;;1;8;;;20;7.35;;;49;67;3.97
+2025;historia;Universidade Estadual de Feira de Santana;BA;58;Estadual;27;24;72;21.6;;;59;6.03;;;1;8;;;126;3.75;;;50;72;3.82
+2025;historia;Universidade Regional do Cariri;CE;59;Estadual;27;24;75;21.31;;;147;3.05;;;1;8;;;111;4.26;;;51;1;6
+2025;historia;Universidade Federal de Rondonópolis;MT;60;Federal;27;24;77;21.08;;;125;3.8;;;1;8;;;101;4.6;;;52;44;4.68
+2025;historia;Universidade Estadual do Piauí;PI;61;Estadual;27;24;86;19.11;;;141;3.25;;;1;8;;;137;3.37;;;53;50;4.49
+2025;historia;Universidade Estadual do Sudoeste da Bahia;BA;62;Estadual;27;24;88;18.88;;;93;4.88;;;1;8;;;124;3.81;;;54;125;2.19
+2025;historia;Fundação Universidade Federal de Rondônia;RO;63;Federal;;;37;42.65;;;127;3.73;;;1;8;;;68;5.72;22;23.2;55;131;2
+2025;historia;Universidade Federal de Jataí;GO;64;Federal;27;24;93;18.14;;;179;1.97;;;1;8;;;81;5.28;;;56;102;2.89
+2025;historia;Universidade Estácio de Sá;RJ;65;Privada;9;28.15;142;13.74;;;122;3.9;;;192;1.41;;;77;5.41;;;9;98;3.02
+2025;historia;Universidade do Estado do Rio Grande do Norte;RN;66;Estadual;27;24;95;17.85;;;116;4.1;;;1;8;;;162;2.52;;;57;91;3.23
+2025;historia;Universidade Cruzeiro do Sul;SP;67;Privada;27;24;97;17.64;;;146;3.09;;;1;8;;;51;6.3;;;10;188;0.25
+2025;historia;Pontifícia Universidade Católica de Goiás;GO;68;Privada;9;28.15;148;13.23;;;136;3.42;;;146;3;;;120;3.95;;;11;103;2.86
+2025;historia;Universidade Federal de Roraima;RR;69;Federal;;;41;40.53;;;153;2.85;;;1;8;;;100;4.63;22;23.2;58;136;1.85
+2025;historia;Pontifícia Universidade Católica de Campinas;SP;69;Privada;27;24;106;16.53;;;49;6.37;;;201-250;0.72;;;87;5.07;;;12;54;4.37
+2025;historia;Fundação Universidade Federal do Pampa;RS;71;Federal;;;42;40.43;;;154;2.81;;;1;8;;;60;5.99;22;23.2;59;182;0.43
+2025;historia;Universidade Federal Rural de Pernambuco;PE;72;Federal;73;13.39;55;26.91;;;14;7.56;;;1;8;;;57;6.09;;;60;25;5.26
+2025;historia;Centro Universitário Adventista de São Paulo;SP;73;Privada;27;24;115;15.9;;;99;4.68;;;124;3.76;;;119;3.98;;;13;83;3.48
+2025;historia;Universidade Católica de Pernambuco;PE;74;Privada;9;28.15;164;11.69;;;101;4.61;;;174;2.03;;;123;3.85;;;14;157;1.2
+2025;historia;Universidade do Estado do Pará;PA;75;Estadual;27;24;117;15.79;;;107;4.41;;;1;8;;;173;2.15;;;61;156;1.23
+2025;historia;Universidade Federal do Amapá;AP;75;Federal;;;44;39.79;;;176;2.07;;;1;8;;;134;3.47;22;23.2;61;97;3.05
+2025;historia;Universidade Federal de São João Del Rei;MG;77;Federal;73;13.39;56;26.02;;;4;7.9;;;1;8;;;21;7.32;;;63;105;2.8
+2025;historia;Universidade do Estado do Amazonas;AM;78;Estadual;27;24;127;15.34;;;201-250;0.37;;;1;8;;;166;2.38;;;64;47;4.59
+2025;historia;Universidade de Pernambuco;PE;79;Estadual;27;24;131;14.99;;;102;4.58;;;113;4.14;;;78;5.38;;;65;167;0.89
+2025;historia;Universidade Federal do Recôncavo da Bahia;BA;80;Federal;;;48;38.92;;;201-250;0.64;;;1;8;;;105;4.46;22;23.2;66;111;2.62
+2025;historia;Universidade Tuiuti do Paraná;PR;81;Privada;27;24;134;14.77;;;41;6.64;;;157;2.62;;;112;4.22;;;15;154;1.29
+2025;historia;Universidade Estadual do Oeste do Paraná;PR;82;Estadual;73;13.39;63;24.48;;;103;4.54;;;1;8;;;32;6.95;;;67;34;4.99
+2025;historia;Universidade Tiradentes;SE;83;Privada;27;24;146;13.33;;;171;2.24;;;144;3.07;;;50;6.33;;;16;141;1.69
+2025;historia;Universidade Estadual de Goiás;GO;84;Estadual;27;24;149;13.18;;;175;2.1;;;1;8;;;159;2.62;;;68;181;0.46
+2025;historia;Universidade Estadual do Paraná;PR;85;Estadual;73;13.39;66;23.03;;;69;5.7;;;1;8;;;92;4.9;;;69;52;4.43
+2025;historia;Centro Universitário Projeção;DF;86;Privada;73;13.39;69;22.18;;;63;5.9;;;1;8;;;1;8;;;17;187;0.28
+2025;historia;Centro Universitário Facvest;SC;87;Privada;73;13.39;78;21.06;;;89;5.02;;;1;8;;;150;2.93;;;18;30;5.11
+2025;historia;Universidade Estadual de Santa Cruz;BA;88;Estadual;73;13.39;82;19.96;;;72;5.59;;;1;8;;;104;4.49;;;70;135;1.88
+2025;historia;Fundação Universidade Federal do Tocantins;TO;89;Federal;73;13.39;83;19.82;;;165;2.44;;;1;8;;;67;5.75;;;71;78;3.63
+2025;historia;Universidade Estadual de Montes Claros;MG;90;Estadual;73;13.39;87;18.98;;;168;2.34;;;1;8;;;98;4.7;;;72;68;3.94
+2025;historia;Universidade do Estado de Minas Gerais;MG;91;Estadual;73;13.39;91;18.19;;;60;6;;;1;8;;;179;1.94;;;73;123;2.25
+2025;historia;Universidade Potiguar;RN;92;Privada;27;24;201-250;7.01;;;161;2.58;;;193;1.38;;;153;2.83;;;19;189;0.22
+2025;historia;Universidade Católica Dom Bosco;MS;93;Privada;73;13.39;101;17.22;;;33;6.92;;;142;3.14;;;88;5.04;;;20;127;2.12
+2025;historia;Universidade Católica do Salvador;BA;94;Privada;27;24;201-250;6.43;;;163;2.51;;;194;1.35;;;185;1.74;;;21;169;0.83
+2025;historia;Universidade Veiga de Almeida;RJ;95;Privada;73;13.39;103;17.02;;;82;5.25;;;164;2.38;;;103;4.53;;;22;38;4.86
+2025;historia;Universidade da Amazônia;PA;96;Privada;27;24;201-250;6.01;;;201-250;1.09;;;186;1.62;;;169;2.28;;;23;163;1.02
+2025;historia;Universidade Estadual da Paraíba;PB;97;Estadual;73;13.39;105;16.6;;;145;3.12;;;1;8;;;178;1.97;;;74;82;3.51
+2025;historia;Universidade de Taubaté;SP;98;Municipal;73;13.39;108;16.29;;;121;3.93;;;1;8;;;127;3.71;;;75;175;0.65
+2025;historia;Universidade do Oeste Paulista;SP;99;Privada;73;13.39;110;16.2;;;189;1.63;;;1;8;;;43;6.57;;;24;;
+2025;historia;Universidade Federal do Acre;AC;100;Federal;73;13.39;111;16.15;;;160;2.61;;;1;8;;;152;2.86;;;76;109;2.68
+2025;historia;Universidade Estadual de Alagoas;AL;101;Estadual;73;13.39;112;16.05;;;164;2.48;;;1;8;;;201-250;1.02;;;77;48;4.55
+2025;historia;Universidade Nilton Lins;AM;102;Privada;27;24;201-250;5.36;;;201-250;1.09;;;167;2.28;;;201-250;0.2;;;25;138;1.79
+2025;historia;Centro Universitário Fundação Santo André;SP;103;Privada;73;13.39;118;15.79;;;20;7.36;;;201-250;0.97;;;73;5.55;;;26;134;1.91
+2025;historia;Centro Universitário da Vitória de Santo Antão;PE;104;Privada;73;13.39;119;15.72;;;188;1.66;;;1;8;;;131;3.57;;;27;115;2.49
+2025;historia;Centro Universitário Toledo Wyden;SP;105;Privada;73;13.39;120;15.68;;;128;3.7;;;151;2.83;;;63;5.89;;;28;90;3.26
+2025;historia;Universidade do Vale do Itajaí;SC;106;Privada;73;13.39;122;15.61;;;5;7.86;;;148;2.93;;;138;3.34;;;29;148;1.48
+2025;historia;Universidade do Vale do Taquari;RS;107;Privada;73;13.39;124;15.45;;;142;3.22;;;117;4;;;16;7.49;;;30;172;0.74
+2025;historia;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;108;Estadual;73;13.39;135;14.74;;;201-250;0.71;;;1;8;;;151;2.89;;;78;94;3.14
+2025;historia;Centro Universitário Assis Gurgacz;PR;109;Privada;73;13.39;137;14.42;;;130;3.63;;;1;8;;;154;2.79;;;31;;
+2025;historia;Universidade da Região de Joinville;SC;110;Privada;73;13.39;138;14.38;;;7;7.8;;;131;3.52;;;156;2.72;;;32;185;0.34
+2025;historia;Centro Universitário Fibra;PA;111;Privada;73;13.39;141;14.03;;;201-250;1.09;;;119;3.93;;;116;4.09;;;33;36;4.92
+2025;historia;Universidade do Extremo Sul Catarinense;SC;112;Privada;73;13.39;142;13.74;;;66;5.8;;;145;3.03;;;136;3.4;;;34;147;1.51
+2025;historia;Universidade Luterana do Brasil;RS;113;Privada;73;13.39;150;13.16;;;74;5.53;;;138;3.28;;;139;3.3;;;35;162;1.05
+2025;historia;Fundação Universidade Federal do Vale do São Francisco;PE;114;Federal;73;13.39;151;13.07;;;201-250;0.64;;;1;8;;;106;4.43;;;79;;
+2025;historia;Centro Universitário Castelo Branco;ES;115;Privada;73;13.39;153;13.05;;;114;4.17;;;136;3.35;;;182;1.84;;;36;76;3.69
+2025;historia;Centro Universitário Sagrado Coração;SP;116;Privada;73;13.39;154;12.93;;;73;5.56;;;180;1.83;;;133;3.51;;;37;130;2.03
+2025;historia;Centro Universitário Planalto do Distrito Federal;DF;117;Privada;73;13.39;157;12.88;;;137;3.39;;;1;8;;;194;1.43;;;38;194;0.06
+2025;historia;Universidade Federal de Alfenas;MG;118;Federal;;;57;25.83;;;35;6.85;;;1;8;;;14;7.56;;;80;85;3.42
+2025;historia;Universidade do Vale do Paraíba;SP;119;Privada;73;13.39;161;12.27;;;149;2.98;;;185;1.66;;;132;3.54;;;39;63;4.09
+2025;historia;Centro Universitário Campos de Andrade;PR;120;Privada;;;58;25.63;;;130;3.63;;;1;8;;;1;8;;;40;1;6
+2025;historia;Universidade do Sul de Santa Catarina;SC;121;Privada;73;13.39;163;11.75;;;89;5.02;;;154;2.72;;;130;3.61;;;41;183;0.4
+2025;historia;Centro Universitário do Norte;AM;122;Privada;73;13.39;165;11.63;;;178;2;;;170;2.17;;;193;1.46;;;42;1;6
+2025;historia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;123;Privada;73;13.39;168;11.34;;;34;6.88;;;197;1.24;;;165;2.42;;;43;170;0.8
+2025;historia;Universidade Federal da Integração Latino-americana;PR;124;Federal;;;59;24.69;;;40;6.68;;;1;8;;;17;7.46;;;81;113;2.55
+2025;historia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;125;Federal;;;60;24.52;;;23;7.25;;;1;8;;;82;5.24;;;82;65;4.03
+2025;historia;Centro Universitário Ritter dos Reis;RS;126;Privada;73;13.39;172;10.8;;;91;4.95;;;182;1.76;;;143;3.17;;;44;166;0.92
+2025;historia;Centro Universitário Salesiano de São Paulo;SP;127;Privada;73;13.39;180;10.36;;;46;6.48;;;178;1.9;;;201-250;0.99;;;45;164;0.99
+2025;historia;Centro Universitário Augusto Motta;RJ;128;Privada;73;13.39;182;10.14;;;201-250;0.54;;;126;3.69;;;201-250;0.68;;;46;26;5.23
+2025;historia;Universidade Federal de Catalão;GO;129;Federal;;;67;22.78;;;75;5.49;;;1;8;;;10;7.69;;;83;144;1.6
+2025;historia;Universidade São Judas Tadeu;SP;130;Privada;73;13.39;186;9.03;;;189;1.63;;;132;3.48;;;121;3.92;;;47;;
+2025;historia;Centro Universitário de Belo Horizonte;MG;130;Privada;73;13.39;187;9.03;;;105;4.48;;;179;1.86;;;168;2.32;;;47;184;0.37
+2025;historia;Universidade Castelo Branco;RJ;132;Privada;73;13.39;188;9.02;;;134;3.49;;;201-250;1.1;;;106;4.43;;;49;;
+2025;historia;Centro Universitário Campo Limpo Paulista;SP;133;Privada;73;13.39;189;9;;;151;2.92;;;177;1.93;;;201-250;0.95;;;50;92;3.2
+2025;historia;Centro Universitário de Brasília;DF;134;Privada;73;13.39;190;8.77;;;97;4.75;;;151;2.83;;;201-250;1.19;;;51;;
+2025;historia;Universidade Estadual do Norte do Paraná;PR;135;Estadual;;;70;22.07;;;98;4.71;;;1;8;;;83;5.21;;;84;61;4.15
+2025;historia;Universidade Católica de Santos;SP;136;Privada;;;71;21.62;;;71;5.63;;;1;8;;;34;6.88;;;52;160;1.11
+2025;historia;Universidade Federal do Oeste do Pará;PA;137;Federal;;;73;21.47;;;107;4.41;;;1;8;;;74;5.52;;;85;81;3.54
+2025;historia;Universidade Estadual do Centro Oeste;PR;138;Estadual;;;74;21.41;;;103;4.54;;;1;8;;;55;6.16;;;86;108;2.71
+2025;historia;Faculdade de Ciências e Letras de Bragança Paulista;SP;139;Municipal;73;13.39;200;7.2;;;106;4.44;;;201-250;0.07;;;157;2.69;;;87;;
+2025;historia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;140;Federal;;;79;20.5;;;169;2.31;;;1;8;;;18;7.42;;;88;106;2.77
+2025;historia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;141;Federal;;;80;20.47;;;29;7.05;;;1;8;;;102;4.56;;;89;168;0.86
+2025;historia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;142;Federal;;;81;20.3;;;50;6.34;;;1;8;;;61;5.96;;;90;;
+2025;historia;Universidade de Franca;SP;143;Privada;73;13.39;201-250;6.37;;;174;2.14;;;176;1.97;;;174;2.11;;;53;191;0.15
+2025;historia;Centro Universitário Geraldo Di Biase;RJ;144;Privada;;;85;19.5;;;87;5.09;;;1;8;;;196;1.36;;;54;32;5.05
+2025;historia;Escola Superior Madre Celeste;PA;145;Privada;73;13.39;201-250;5.88;;;201-250;1.09;;;196;1.28;;;149;2.96;;;55;178;0.55
+2025;historia;Centro Universitário Estácio de São Paulo;SP;146;Privada;73;13.39;201-250;5.52;;;189;1.63;;;201-250;0.83;;;146;3.06;;;56;;
+2025;historia;Universidade Federal da Fronteira Sul;SC;147;Federal;;;89;18.78;;;42;6.61;;;122;3.83;;;39;6.71;;;91;143;1.63
+2025;historia;Universidade Federal do Norte do Tocantins;TO;148;Federal;;;90;18.76;;;165;2.44;;;1;8;;;72;5.58;;;92;107;2.74
+2025;historia;Centro Universitário Maurício de Nassau;PE;149;Privada;73;13.39;201-250;5.17;;;159;2.64;;;201-250;0.83;;;186;1.7;;;57;;
+2025;historia;Centro Universitário de Patos de Minas;MG;150;Privada;;;94;17.87;;;92;4.92;;;125;3.72;;;141;3.23;;;58;1;6
+2025;historia;Universidade Federal do Oeste da Bahia;BA;151;Federal;;;96;17.71;;;47;6.44;;;1;8;;;160;2.59;;;93;174;0.68
+2025;historia;Centro Universitário Metropolitano de São Paulo;SP;152;Privada;;;98;17.63;;;189;1.63;;;1;8;;;1;8;;;59;;
+2025;historia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;153;Federal;;;99;17.61;;;84;5.19;;;172;2.1;;;109;4.32;;;94;1;6
+2025;historia;Colégio Pedro II;RJ;154;Federal;;;100;17.44;;;50;6.34;;;1;8;;;145;3.1;;;95;;
+2025;historia;Universidade Santo Amaro;SP;155;Privada;;;101;17.22;;;177;2.03;;;1;8;;;90;4.97;;;60;124;2.22
+2025;historia;Centro Universitário Dom Pedro II;BA;156;Privada;;;104;16.88;;;201-250;0.85;;;1;8;;;1;8;;;61;195;0.03
+2025;historia;Centro Universitário Brasileiro;PE;157;Privada;73;13.39;201-250;3.46;;;201-250;0.31;;;201-250;1.07;;;175;2.08;;;62;;
+2025;historia;Universidade Federal do Sul e Sudeste do Pará;PA;158;Federal;;;107;16.46;;;107;4.41;;;112;4.17;;;58;6.06;;;96;137;1.82
+2025;historia;Centro Universitário São José de Itaperuna;RJ;159;Privada;;;109;16.24;;;25;7.19;;;183;1.72;;;197;1.33;;;63;1;6
+2025;historia;Faculdade Mozarteum de São Paulo;SP;160;Privada;;;113;15.99;;;62;5.93;;;140;3.21;;;201-250;0.85;;;64;1;6
+2025;historia;Centro Universitário Celso Lisboa;RJ;161;Privada;;;114;15.94;;;157;2.71;;;1;8;;;125;3.78;;;65;149;1.45
+2025;historia;Centro Universitário Estácio de Belo Horizonte;MG;162;Privada;;;116;15.8;;;129;3.66;;;169;2.21;;;31;6.98;;;66;100;2.95
+2025;historia;Universidade La Salle;RS;163;Privada;;;121;15.66;;;68;5.73;;;132;3.48;;;52;6.26;;;67;190;0.19
+2025;historia;Centro Universitário Sant'Anna;SP;164;Privada;;;123;15.46;;;189;1.63;;;155;2.69;;;85;5.14;;;68;1;6
+2025;historia;Faculdade Barretos;SP;165;Privada;;;125;15.4;;;189;1.63;;;1;8;;;89;5;;;69;171;0.77
+2025;historia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;166;Federal;;;126;15.36;;;107;4.41;;;1;8;;;189;1.6;;;97;152;1.35
+2025;historia;Faculdade do Sertão do Pajeú;PE;167;Municipal;;;128;15.31;;;162;2.54;;;1;8;;;201-250;0.31;;;98;51;4.46
+2025;historia;Centro Universitário Assunção;SP;168;Privada;;;129;15.22;;;61;5.97;;;190;1.48;;;117;4.05;;;70;75;3.72
+2025;historia;Universidade Católica de Petrópolis;RJ;169;Privada;;;130;15.07;;;43;6.58;;;199;1.17;;;144;3.13;;;71;60;4.19
+2025;historia;Universidade Feevale;RS;170;Privada;;;132;14.97;;;112;4.24;;;115;4.07;;;74;5.52;;;72;159;1.14
+2025;historia;Universidade de Santa Cruz do Sul;RS;171;Privada;;;133;14.79;;;38;6.75;;;175;2;;;110;4.29;;;73;139;1.75
+2025;historia;Universidade Franciscana;RS;172;Privada;;;136;14.58;;;27;7.12;;;127;3.66;;;128;3.68;;;74;192;0.12
+2025;historia;Faculdade Maranhense;MA;173;Privada;;;139;14.28;;;201-250;0.14;;;1;8;;;201-250;0.14;;;75;1;6
+2025;historia;Universidade de Sorocaba;SP;174;Privada;;;140;14.07;;;56;6.14;;;200;1.14;;;97;4.73;;;76;129;2.06
+2025;historia;Centro Universitário Barão de Mauá;SP;175;Privada;;;144;13.43;;;77;5.42;;;159;2.55;;;183;1.8;;;77;77;3.66
+2025;historia;Centro Universitário La Salle do Rio de Janeiro;RJ;176;Privada;;;145;13.41;;;113;4.2;;;198;1.21;;;47;6.43;;;78;145;1.57
+2025;historia;Centro Universitário Santa Maria da Glória;PR;177;Privada;;;147;13.26;;;130;3.63;;;160;2.52;;;142;3.2;;;79;69;3.91
+2025;historia;Universidade Metropolitana de Santos;SP;178;Privada;;;152;13.06;;;124;3.83;;;128;3.62;;;129;3.64;;;80;132;1.97
+2025;historia;Faculdade de Teologia e Ciências de Votuporanga;SP;179;Privada;;;155;12.89;;;189;1.63;;;117;4;;;199;1.26;;;81;1;6
+2025;historia;Faculdade de Filosofia Ciências e Letras de Alegre;ES;179;Municipal;;;155;12.89;;;53;6.24;;;201-250;0.31;;;201-250;0.34;;;99;1;6
+2025;historia;Universidade Estadual da Região Tocantina do Maranhão;MA;181;Estadual;;;158;12.86;;;155;2.78;;;1;8;;;184;1.77;;;100;186;0.31
+2025;historia;Faculdades Integradas Maria Imaculada;SP;182;Privada;;;159;12.36;;;81;5.29;;;115;4.07;;;148;3;;;82;;
+2025;historia;Faculdade de Educação Ciências e Artes Dom Bosco de Monte Aprazível;SP;183;Privada;;;160;12.32;;;83;5.22;;;201-250;0.66;;;201-250;0.44;;;83;1;6
+2025;historia;Universidade Estadual de Mato Grosso do Sul;MS;184;Estadual;;;162;11.97;;;201-250;0.17;;;201-250;0.86;;;91;4.94;;;101;1;6
+2025;historia;Faculdade de Ampére;PR;185;Privada;;;166;11.39;;;130;3.63;;;187;1.59;;;201-250;0.17;;;84;1;6
+2025;historia;Centro Universitário Tabosa de Almeida;PE;185;Privada;;;166;11.39;;;80;5.32;;;189;1.52;;;200;1.23;;;84;88;3.32
+2025;historia;Universidade Cidade de São Paulo;SP;187;Privada;;;169;11.02;;;123;3.86;;;143;3.1;;;135;3.44;;;86;176;0.62
+2025;historia;Centro Universitário Ideau;RS;188;Privada;;;170;10.86;;;201-250;0.51;;;1;8;;;167;2.35;;;87;;
+2025;historia;Centro Universitário Inta;CE;189;Privada;;;171;10.8;;;201-250;0.14;;;1;8;;;158;2.66;;;88;;
+2025;historia;Faculdade de Educação e Tecnologia da Amazônia;PA;190;Privada;;;173;10.79;;;201-250;1.09;;;1;8;;;186;1.7;;;89;;
+2025;historia;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;191;Privada;;;174;10.77;;;189;1.63;;;201-250;0.59;;;161;2.55;;;90;1;6
+2025;historia;Universidade Estadual de Roraima;RR;192;Estadual;;;175;10.74;;;201-250;0.75;;;156;2.66;;;122;3.88;;;102;84;3.45
+2025;historia;Faculdade Estácio de Castanhal;PA;193;Privada;;;176;10.53;;;201-250;1.09;;;1;8;;;201-250;0.85;;;91;177;0.59
+2025;historia;Faculdade Brasileira Cristã;ES;194;Privada;;;177;10.49;;;156;2.75;;;120;3.9;;;163;2.49;;;92;152;1.35
+2025;historia;Centro Universitário São Camilo - Espírito Santo;ES;195;Privada;;;178;10.48;;;70;5.66;;;161;2.48;;;188;1.63;;;93;173;0.71
+2025;historia;Faculdade de São Bernardo do Campo FASB;SP;196;Privada;;;179;10.46;;;189;1.63;;;201-250;0.83;;;1;8;;;94;;
+2025;historia;Centro Universitário Jorge Amado;BA;197;Privada;;;181;10.16;;;139;3.32;;;151;2.83;;;146;3.06;;;95;165;0.95
+2025;historia;Centro Regional Universitário de Espírito Santo do Pinhal;SP;198;Privada;;;183;9.61;;;189;1.63;;;201-250;0.41;;;190;1.57;;;96;1;6
+2025;historia;Fasul Educacional Ead;MG;199;Privada;;;184;9.24;;;180;1.93;;;201-250;0.9;;;201-250;0.41;;;97;1;6
+2025;historia;Centro de Ensino Superior do Vale São Francisco;PE;200;Municipal;;;185;9.15;;;201-250;0.88;;;1;8;;;201-250;0.27;;;103;;
+2025;historia;Centro de Ensino Superior de Arcoverde;PE;201;Municipal;;;201-250;2;;;201-250;0.34;;;;;;;201-250;0.24;;;111;150;1.42
+2025;historia;Faculdade Unis São Lourenço;MG;201;Privada;;;201-250;6.06;;;140;3.29;;;201-250;0.59;;;172;2.18;;;112;;
+2025;historia;Faculdades Integradas Campo-grandenses;RJ;201;Privada;;;198;7.52;;;173;2.17;;;201-250;0.38;;;195;1.4;;;103;80;3.57
+2025;historia;Faculdade Santa Fé;MA;201;Privada;;;201-250;4.23;;;201-250;0.14;;;139;3.24;;;201-250;0.85;;;117;;
+2025;historia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;201;Privada;;;196;7.65;;;189;1.63;;;187;1.59;;;106;4.43;;;101;;
+2025;historia;Centro Universitário de Jales;SP;201;Privada;;;201-250;6.31;;;189;1.63;;;123;3.79;;;201-250;0.89;;;109;;
+2025;historia;Faculdade Ages de Tucano;BA;201;Privada;;;201-250;4.6;;;201-250;0.85;;;191;1.45;;;171;2.21;;;116;193;0.09
+2025;historia;Instituto Superior de Educação Elvira Dayrell;MG;201;Privada;;;193;8.24;;;180;1.93;;;201-250;0.24;;;201-250;0.07;;;100;1;6
+2025;historia;Faculdades Integradas Vale do Rio Verde;SP;201;Privada;;;201-250;1.63;;;189;1.63;;;;;;;;;;;124;;
+2025;historia;Centro Universitário dos Guararapes;PE;201;Privada;;;201-250;1.68;;;201-250;0.31;;;201-250;0.28;;;201-250;1.09;;;123;;
+2025;historia;Centro Universitário de Caratinga;MG;201;Privada;;;201-250;6.6;;;180;1.93;;;135;3.38;;;198;1.29;;;108;;
+2025;historia;Centro Universitário de Adamantina;SP;201;Municipal;;;201-250;5.36;;;189;1.63;;;184;1.69;;;176;2.04;;;108;;
+2025;historia;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;201;Municipal;;;194;7.78;;;143;3.19;;;201-250;0.03;;;201-250;0.65;;;104;69;3.91
+2025;historia;Centro Universitário da Região da Campanha;RS;201;Privada;;;201-250;4.9;;;201-250;0.51;;;171;2.14;;;170;2.25;;;115;;
+2025;historia;Centro Universitário Ages;BA;201;Privada;;;199;7.35;;;201-250;0.85;;;162;2.45;;;154;2.79;;;104;155;1.26
+2025;historia;Faculdades Integradas de Fernandópolis;SP;201;Privada;;;201-250;5.44;;;187;1.7;;;168;2.24;;;192;1.5;;;114;;
+2025;historia;Faculdade de Formação de Professores de Serra Talhada;PE;201;Municipal;;;201-250;6.38;;;150;2.95;;;201-250;0.45;;;201-250;0.58;;;106;118;2.4
+2025;historia;Faculdade Una de Pouso Alegre;MG;201;Privada;;;201-250;2.88;;;180;1.93;;;201-250;0.1;;;201-250;0.85;;;120;;
+2025;historia;Centro Universitário Nossa Senhora do Patrocínio;SP;201;Privada;;;201-250;5.63;;;170;2.27;;;201-250;0.93;;;180;1.91;;;113;179;0.52
+2025;historia;Centro Universitário Una;MG;201;Privada;;;201-250;6.73;;;180;1.93;;;165;2.35;;;164;2.45;;;107;;
+2025;historia;Faculdade de Educação São Luís;SP;201;Privada;;;201-250;2.59;;;189;1.63;;;201-250;0.48;;;201-250;0.48;;;121;;
+2025;historia;Centro Universitário Fieo;SP;201;Privada;;;201-250;3.24;;;189;1.63;;;201-250;0.69;;;201-250;0.92;;;119;;
+2025;historia;Faculdades Integradas de Taquara;RS;201;Privada;;;191;8.3;;;201-250;0.51;;;201-250;0.35;;;114;4.15;;;98;89;3.29
+2025;historia;Faculdades Integradas Regionais de Avaré;SP;201;Municipal;;;201-250;6.02;;;143;3.19;;;201-250;0.17;;;201-250;0.51;;;107;126;2.15
+2025;historia;Centro Universitário Maurício de Nassau de Teresina;PI;201;Privada;;;201-250;6.91;;;117;4.07;;;195;1.31;;;191;1.53;;;106;;
+2025;historia;Faculdades Integradas da Upis;DF;201;Privada;;;197;7.64;;;100;4.64;;;201-250;0.14;;;201-250;0.55;;;102;121;2.31
+2025;historia;Faculdade de Formação de Professores da Mata Sul;PE;201;Municipal;;;201-250;5.06;;;201-250;0.68;;;;;;;201-250;0.1;;;109;57;4.28
+2025;historia;Faculdades Integradas Simonsen;RJ;201;Privada;;;192;8.28;;;119;4;;;201-250;1.03;;;201-250;1.16;;;99;128;2.09
+2025;historia;Instituto Superior de Educação Ivoti;RS;201;Privada;;;201-250;6.17;;;201-250;0.51;;;201-250;0.62;;;181;1.87;;;111;93;3.17
+2025;historia;Faculdades Ipede PI;PI;201;Privada;;;200;7.2;;;201-250;0.14;;;201-250;1.03;;;201-250;0.03;;;105;1;6
+2025;historia;Faculdade Nova Roma Caruaru;PE;201;Privada;;;201-250;1.16;;;201-250;0.31;;;;;;;201-250;0.85;;;125;;
+2025;historia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;201;Municipal;;;195;7.69;;;172;2.2;;;132;3.48;;;177;2.01;;;105;;
+2025;historia;Faculdade Santa Marcelina Muriaé;MG;201;Privada;;;201-250;2.51;;;180;1.93;;;201-250;0.21;;;201-250;0.37;;;122;;
+2025;historia;Centro Universitário do Distrito Federal;DF;201;Privada;;;201-250;6.3;;;137;3.39;;;181;1.79;;;201-250;1.12;;;110;;
+2025;historia;Centro Universitário Una de Contagem;MG;201;Privada;;;201-250;3.54;;;180;1.93;;;201-250;0.52;;;201-250;1.09;;;118;;
+2025;historia;Faculdade do Belo Jardim;PE;201;Municipal;;;201-250;4.72;;;201-250;0.31;;;137;3.31;;;201-250;0.61;;;110;180;0.49

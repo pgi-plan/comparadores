@@ -1,0 +1,116 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC
+2019;turismo;Universidade de São Paulo;SP;1;Estadual;1;36;1;60.72;1;8;40;4.72;;;1;8;1;40
+2019;turismo;Universidade Anhembi Morumbi;SP;2;Privada;1;36;4;53.93;17;6.88;28;5.73;;;74;2.92;2;38.4
+2019;turismo;Universidade Federal de Pernambuco;PE;3;Federal;4;33.23;5;53.7;23;6.46;10;7.24;;;1;8;6;32
+2019;turismo;Universidade Federal de Minas Gerais;MG;4;Federal;9;28.62;2;55.38;5;7.72;5;7.66;;;1;8;6;32
+2019;turismo;Universidade Federal do Paraná;PR;5;Federal;9;28.62;3;54.53;10;7.37;11;7.16;;;1;8;6;32
+2019;turismo;Universidade do Vale do Itajaí;SC;6;Privada;4;33.23;10;45.76;73;2.95;56;3.37;;;55;4.24;4;35.2
+2019;turismo;Pontifícia Universidade Católica de São Paulo;SP;7;Privada;9;28.62;6;49.67;4;7.79;34;5.22;;;49;4.66;6;32
+2019;turismo;Universidade de Brasília;DF;8;Federal;9;28.62;7;48.86;8;7.51;4;7.75;;;1;8;10;25.6
+2019;turismo;Universidade Federal Fluminense;RJ;9;Federal;9;28.62;8;46.6;9;7.44;30;5.56;;;1;8;10;25.6
+2019;turismo;Centro Universitário Senac;SP;10;Privada;4;33.23;14;41.82;91;1.68;;;;;91;1.74;2;38.4
+2019;turismo;Universidade Paulista;SP;11;Privada;4;33.23;16;37.57;64;3.58;36;5.05;;;68;3.34;10;25.6
+2019;turismo;Universidade Nove de Julho;SP;12;Privada;9;28.62;15;38.42;20;6.67;71;2.11;;;58;4.04;10;25.6
+2019;turismo;Universidade de Caxias do Sul;RS;13;Privada;19;19.39;9;45.92;33;5.75;66;2.53;;;81;2.44;4;35.2
+2019;turismo;Universidade Federal do Rio Grande do Norte;RN;14;Federal;19;19.39;13;43.23;21;6.6;60;3.03;;;1;8;10;25.6
+2019;turismo;Universidade Federal da Paraíba;PB;15;Federal;19;19.39;20;34.04;32;5.83;8;7.41;;;1;8;18;12.8
+2019;turismo;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;16;Estadual;19;19.39;22;29.62;13;7.16;40;4.72;;;45;4.94;18;12.8
+2019;turismo;Castelli Escola Superior de Hotelaria;RS;17;Privada;19;19.39;23;29.04;68;3.3;;;;;114;0.14;10;25.6
+2019;turismo;Universidade Estácio de Sá;RJ;18;Privada;1;36;58;12.34;76;2.74;20;6.4;;;70;3.2;;
+2019;turismo;Universidade Federal do Pará;PA;19;Federal;9;28.62;33;18.27;30;5.97;45;4.3;;;1;8;;
+2019;turismo;Universidade do Estado da Bahia;BA;20;Estadual;9;28.62;36;17.01;55;4.21;39;4.8;;;1;8;;
+2019;turismo;Universidade do Estado do Rio de Janeiro;RJ;21;Estadual;;;11;44.67;2;7.93;24;6.06;;;43;5.08;10;25.6
+2019;turismo;Universidade Veiga de Almeida;RJ;22;Privada;4;33.23;69;11.15;27;6.18;70;2.19;;;76;2.78;;
+2019;turismo;Universidade Federal do Maranhão;MA;23;Federal;;;12;43.46;44;4.98;38;4.88;;;1;8;10;25.6
+2019;turismo;Universidade Federal do Estado do Rio de Janeiro;RJ;24;Federal;19;19.39;25;22.88;11;7.3;6;7.58;;;1;8;;
+2019;turismo;Universidade Regional de Blumenau;SC;25;Municipal;9;28.62;66;11.6;37;5.47;29;5.64;;;109;0.49;;
+2019;turismo;Pontifícia Universidade Católica de Campinas;SP;26;Privada;19;19.39;27;20.43;46;4.84;67;2.44;;;111;0.35;18;12.8
+2019;turismo;Universidade do Estado do Amazonas;AM;27;Estadual;19;19.39;32;18.48;58;4;19;6.48;;;1;8;;
+2019;turismo;Centro Universitário Maurício de Nassau;PE;28;Privada;9;28.62;77;9.24;66;3.44;47;4.13;;;92;1.67;;
+2019;turismo;Universidade Federal de São Carlos;SP;29;Federal;;;17;35.99;3;7.86;9;7.33;;;1;8;18;12.8
+2019;turismo;Universidade Federal Rural do Rio de Janeiro;RJ;30;Federal;;;18;35.36;6;7.65;14;6.91;;;1;8;18;12.8
+2019;turismo;Universidade Feevale;RS;31;Privada;19;19.39;38;15.81;39;5.33;31;5.47;;;44;5.01;;
+2019;turismo;Faculdade Estácio de Florianópolis;SC;32;Privada;19;19.39;40;15.75;54;4.28;7;7.5;;;59;3.97;;
+2019;turismo;Universidade Federal de Pelotas;RS;33;Federal;;;19;34.68;12;7.23;17;6.65;;;1;8;18;12.8
+2019;turismo;Universidade São Judas Tadeu;SP;34;Privada;19;19.39;42;14.85;14;7.09;27;5.81;;;88;1.95;;
+2019;turismo;Universidade Estadual do Oeste do Paraná;PR;35;Estadual;19;19.39;44;14.71;77;2.67;48;4.04;;;1;8;;
+2019;turismo;Universidade Federal de Ouro Preto;MG;36;Federal;;;21;33.98;16;6.95;22;6.23;;;1;8;18;12.8
+2019;turismo;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;37;Federal;19;19.39;62;11.79;61;3.79;;;;;1;8;;
+2019;turismo;Faculdades Integradas Hélio Alonso;RJ;38;Privada;19;19.39;75;9.75;42;5.12;55;3.45;;;99;1.18;;
+2019;turismo;Centro Universitário do Norte;AM;39;Privada;19;19.39;82;8.31;60;3.86;82;1.18;;;69;3.27;;
+2019;turismo;Centro Universitário do Instituto de Educação Superior de Brasília;DF;40;Privada;19;19.39;83;8.14;113;0.14;;;;;1;8;;
+2019;turismo;Centro Universitário Dinâmica das Cataratas;PR;41;Privada;19;19.39;88;7.71;69;3.23;85;0.93;;;65;3.55;;
+2019;turismo;Faculdades Integradas da Upis;DF;42;Privada;19;19.39;92;7.34;110;0.35;37;4.97;;;87;2.02;;
+2019;turismo;Pontifícia Universidade Católica do Paraná;PR;43;Privada;;;24;25.79;22;6.53;49;3.96;;;80;2.5;18;12.8
+2019;turismo;Centro Universitário FBV Wyden;PE;44;Privada;19;19.39;103;4.59;111;0.28;;;;;54;4.31;;
+2019;turismo;Centro Universitário Anhanguera de São Paulo;SP;45;Privada;19;19.39;104;4.08;109;0.42;79;1.43;;;84;2.23;;
+2019;turismo;Universidade Potiguar;RN;46;Privada;19;19.39;112;2.51;99;1.12;;;;;96;1.39;;
+2019;turismo;Universidade Estadual de Ponta Grossa;PR;47;Estadual;;;26;20.72;19;6.74;25;5.98;;;1;8;;
+2019;turismo;Universidade Federal de Juiz de Fora;MG;48;Federal;;;28;20.4;26;6.25;23;6.15;;;1;8;;
+2019;turismo;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;49;Federal;;;29;19.85;59;3.93;2;7.92;;;1;8;;
+2019;turismo;Universidade Estadual do Centro Oeste;PR;50;Estadual;;;30;19.43;29;6.04;32;5.39;;;1;8;;
+2019;turismo;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;51;Federal;;;31;19.27;18;6.81;43;4.46;;;1;8;;
+2019;turismo;Universidade Federal do Rio Grande;RS;52;Federal;;;34;18.04;56;4.14;26;5.9;;;1;8;;
+2019;turismo;Universidade Federal de Sergipe;SE;53;Federal;;;35;17.84;48;4.7;35;5.14;;;1;8;;
+2019;turismo;Universidade Federal de Alagoas;AL;54;Federal;;;37;16.05;47;4.77;57;3.28;;;1;8;;
+2019;turismo;Centro Universitário Gama e Souza;RJ;55;Privada;;;38;15.81;36;5.54;69;2.27;;;1;8;;
+2019;turismo;Centro Universitário Joaquim Nabuco de Recife;PE;56;Privada;;;41;15.32;50;4.56;12;7.07;;;63;3.69;;
+2019;turismo;Centro Universitário São José;RJ;57;Privada;;;43;14.72;15;7.02;50;3.87;;;61;3.83;;
+2019;turismo;Universidade La Salle;RS;58;Privada;;;45;14.42;7;7.58;52;3.71;;;71;3.13;;
+2019;turismo;Universidade Estadual do Piauí;PI;59;Estadual;;;46;14.21;89;1.83;44;4.38;;;1;8;;
+2019;turismo;Universidade do Estado do Rio Grande do Norte;RN;60;Estadual;;;47;14.09;51;4.49;77;1.6;;;1;8;;
+2019;turismo;Centro Universitário Ceuni;AM;61;Privada;;;48;13.86;24;6.39;61;2.95;;;51;4.52;;
+2019;turismo;Universidade de Santa Cruz do Sul;RS;62;Privada;;;49;13.78;34;5.68;18;6.57;;;94;1.53;;
+2019;turismo;Universidade Estadual de Roraima;RR;63;Estadual;;;50;13.69;35;5.61;95;0.08;;;1;8;;
+2019;turismo;Faculdade Santa Helena;PE;64;Privada;;;51;13.66;80;2.46;15;6.82;;;53;4.38;;
+2019;turismo;Centro Universitário - Uniesp;PB;65;Privada;;;52;13.39;38;5.4;54;3.54;;;52;4.45;;
+2019;turismo;Universidade Federal do Piauí;PI;65;Federal;;;52;13.39;79;2.53;62;2.86;;;1;8;;
+2019;turismo;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;67;Federal;;;54;13.19;41;5.19;;;;;1;8;;
+2019;turismo;Centro Universitário Metodista;RS;68;Privada;;;55;13.11;45;4.91;16;6.74;;;95;1.46;;
+2019;turismo;União das Faculdades dos Grandes Lagos;SP;69;Privada;;;56;12.59;94;1.47;59;3.12;;;1;8;;
+2019;turismo;Universidade do Estado de Mato Grosso;MT;70;Estadual;;;57;12.47;67;3.37;83;1.1;;;1;8;;
+2019;turismo;Centro Universitário Fanor Wyden;CE;71;Privada;;;59;12.32;53;4.35;46;4.21;;;62;3.76;;
+2019;turismo;Centro Universitário Facol;PE;72;Privada;;;60;12.16;75;2.81;80;1.35;;;1;8;;
+2019;turismo;Faculdade Associada Brasil;SP;73;Privada;;;61;11.8;43;5.05;72;2.02;;;48;4.73;;
+2019;turismo;Faculdade Paulista São José;SP;74;Privada;;;63;11.72;62;3.72;;;;;1;8;;
+2019;turismo;Universidade Estadual do Paraná;PR;75;Estadual;;;64;11.72;86;2.04;76;1.68;;;1;8;;
+2019;turismo;Faculdade Lusófona do Rio de Janeiro;RJ;76;Privada;;;65;11.67;31;5.9;63;2.78;;;73;2.99;;
+2019;turismo;Centro Universitário Nossa Senhora do Patrocínio;SP;77;Privada;;;67;11.36;81;2.39;1;8;;;102;0.97;;
+2019;turismo;Centro Universitário das Américas;SP;78;Privada;;;68;11.19;25;6.32;;;;;46;4.87;;
+2019;turismo;Universidade Federal de Mato Grosso do Sul;MS;79;Federal;;;70;10.8;28;6.11;89;0.59;;;57;4.1;;
+2019;turismo;Faculdade Estácio de Sá de Vitória;ES;80;Privada;;;71;10.69;101;0.98;3;7.83;;;89;1.88;;
+2019;turismo;Centro Universitário Estácio do Ceará;CE;81;Privada;;;72;10.57;57;4.07;51;3.79;;;77;2.71;;
+2019;turismo;Faculdade do Maranhão;MA;82;Privada;;;73;10.47;90;1.75;33;5.31;;;67;3.41;;
+2019;turismo;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;83;Federal;;;74;10.11;85;2.11;;;;;1;8;;
+2019;turismo;Instituto de Ensino Superior de Fortaleza;CE;84;Privada;;;76;9.73;104;0.77;21;6.32;;;78;2.64;;
+2019;turismo;Universidade do Estado de Minas Gerais;MG;85;Estadual;;;78;9.19;98;1.19;;;;;1;8;;
+2019;turismo;Faculdade Estácio do Rio Grande do Sul;RS;86;Privada;;;79;8.94;100;1.05;13;6.99;;;103;0.9;;
+2019;turismo;Centro Universitário Internacional;PR;87;Privada;;;80;8.59;52;4.42;;;;;56;4.17;;
+2019;turismo;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;88;Privada;;;81;8.44;78;2.6;73;1.94;;;60;3.9;;
+2019;turismo;Instituto Cuiabá de Ensino e Cultura;MT;89;Privada;;;84;8;;;;;;;1;8;;
+2019;turismo;Faculdade Pan Amazônica;PA;90;Privada;;;85;7.89;72;3.02;;;;;46;4.87;;
+2019;turismo;Instituto Superior do Litoral do Paraná;PR;91;Privada;;;86;7.84;40;5.26;91;0.42;;;85;2.16;;
+2019;turismo;Universidade Estadual de Mato Grosso do Sul;MS;92;Estadual;;;87;7.8;49;4.63;74;1.85;;;97;1.32;;
+2019;turismo;Faculdade Machado de Assis;RJ;93;Privada;;;89;7.58;82;2.32;88;0.67;;;50;4.59;;
+2019;turismo;Centro Universitário Augusto Motta;RJ;94;Privada;;;90;7.57;88;1.9;65;2.61;;;72;3.06;;
+2019;turismo;Universidade Universus Veritas Guarulhos;SP;95;Privada;;;91;7.4;70;3.16;58;3.2;;;101;1.04;;
+2019;turismo;Centro Universitário Estácio de Belo Horizonte;MG;96;Privada;;;93;7.18;97;1.26;53;3.62;;;83;2.3;;
+2019;turismo;Faculdade Cuiabá;MT;97;Privada;;;94;6;84;2.18;92;0.34;;;66;3.48;;
+2019;turismo;Centro Universitário Estácio de Sergipe;SE;98;Privada;;;95;5.88;74;2.88;86;0.84;;;85;2.16;;
+2019;turismo;Faculdade de São Paulo;SP;99;Privada;;;96;5.83;87;1.97;94;0.17;;;63;3.69;;
+2019;turismo;Faculdade Latino Americana de Educação;CE;100;Privada;;;97;5.35;113;0.14;68;2.36;;;75;2.85;;
+2019;turismo;Universidade Anhanguera de São Paulo;SP;101;Privada;;;98;5.11;83;2.25;81;1.26;;;93;1.6;;
+2019;turismo;Centro Universitário do Vale do Jaguaribe;CE;102;Privada;;;99;4.94;92;1.61;78;1.52;;;90;1.81;;
+2019;turismo;Centro Universitário Uninovo;PE;103;Privada;;;100;4.87;65;3.51;93;0.25;;;100;1.11;;
+2019;turismo;Faculdade de Filosofia, Ciências e Letras de Ibitinga;SP;104;Municipal;;;101;4.83;112;0.21;42;4.55;;;115;0.07;;
+2019;turismo;Centro Universitário Cearense;CE;105;Privada;;;102;4.73;96;1.33;64;2.7;;;106;0.7;;
+2019;turismo;Centro Universitário Cnec de Bento Gonçalves;RS;106;Privada;;;105;3.93;63;3.65;;;;;112;0.28;;
+2019;turismo;Faculdade Anhanguera de São Bernardo;SP;107;Privada;;;106;3.52;93;1.54;75;1.77;;;113;0.21;;
+2019;turismo;Faculdades Integradas de Taquara;RS;108;Privada;;;107;3.51;71;3.09;;;;;110;0.42;;
+2019;turismo;Centro Universitário do Triângulo;MG;109;Privada;;;108;3.2;106;0.63;;;;;79;2.57;;
+2019;turismo;Centro Universitário Ibmr;RJ;110;Privada;;;109;2.86;108;0.49;;;;;82;2.37;;
+2019;turismo;Universidade Nilton Lins;AM;111;Privada;;;110;2.62;103;0.84;84;1.01;;;105;0.77;;
+2019;turismo;Faculdade Anhanguera de Guarulhos;SP;112;Privada;;;111;2.57;107;0.56;87;0.76;;;98;1.25;;
+2019;turismo;Faculdades Integradas de Jacarepaguá;RJ;113;Privada;;;113;2.03;95;1.4;;;;;107;0.63;;
+2019;turismo;Faculdade Metropolitana da Grande Recife;PE;114;Privada;;;114;1.98;102;0.91;90;0.51;;;108;0.56;;
+2019;turismo;Faculdade de Olímpia;SP;115;Privada;;;115;1.6;105;0.7;;;;;103;0.9;;

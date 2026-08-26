@@ -1,0 +1,584 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;fisica;Universidade de São Paulo;SP;1;Estadual;1;36;1;61.21;4;7.83;42;5.38;;;1;8;1;40;;;;;;;
+2019;fisica;Universidade Estadual de Campinas;SP;2;Estadual;2;35.51;2;59.72;15;7.22;19;6.85;;;1;8;2;37.65;;;;;;;
+2019;fisica;Universidade Federal do Rio de Janeiro;RJ;3;Federal;2;35.51;3;57.24;8;7.61;27;6.34;;;1;8;3;35.29;;;;;;;
+2019;fisica;Universidade Federal de Minas Gerais;MG;4;Federal;5;34.03;5;55.8;9;7.56;12;7.3;;;1;8;4;32.94;;;;;;;
+2019;fisica;Universidade Federal do Rio Grande do Sul;RS;5;Federal;14;29.59;4;55.85;16;7.17;5;7.74;;;1;8;4;32.94;;;;;;;
+2019;fisica;Universidade Federal de São Carlos;SP;6;Federal;8;32.55;6;49.2;13;7.33;38;5.63;;;1;8;6;28.24;;;;;;;
+2019;fisica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;7;Estadual;2;35.51;11;42.63;6;7.72;42;5.38;;;121;1.29;6;28.24;;;;;;;
+2019;fisica;Universidade Federal do Ceará;CE;8;Federal;8;32.55;8;45.43;10;7.5;26;6.4;;;1;8;8;23.53;;;;;;;
+2019;fisica;Universidade Federal de Pernambuco;PE;9;Federal;8;32.55;10;42.86;62;4.61;21;6.72;;;1;8;8;23.53;;;;;;;
+2019;fisica;Universidade Federal de Santa Catarina;SC;10;Federal;14;29.59;9;44;30;6.39;31;6.08;;;1;8;8;23.53;;;;;;;
+2019;fisica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;11;Privada;14;29.59;12;41.04;1;8;1;8;;;117;1.51;8;23.53;;;;;;;
+2019;fisica;Universidade Federal do Paraná;PR;12;Federal;8;32.55;15;32.87;29;6.44;22;6.66;;;1;8;13;11.77;;;;;;;
+2019;fisica;Universidade de Brasília;DF;13;Federal;14;29.59;14;33.3;19;7;24;6.53;;;1;8;13;11.77;;;;;;;
+2019;fisica;Fundação Universidade Federal do ABC;SP;14;Federal;61;6.41;7;47.4;1;8;3;7.87;;;1;8;8;23.53;;;;;;;
+2019;fisica;Universidade Federal Fluminense;RJ;15;Federal;5;34.03;28;19.32;23;6.78;55;4.54;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Viçosa;MG;16;Federal;36;18.74;13;33.98;17;7.11;15;7.1;;;1;8;13;11.77;;;;;;;
+2019;fisica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;17;Privada;14;29.59;18;22.14;45;5.56;63;4.03;;;130;0.78;13;11.77;;;;;;;
+2019;fisica;Universidade do Vale do Rio dos Sinos;RS;18;Privada;14;29.59;20;21.84;26;6.61;13;7.23;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Santa Maria;RS;19;Federal;36;18.74;16;32.53;18;7.06;37;5.7;;;1;8;13;11.77;;;;;;;
+2019;fisica;Universidade Federal da Bahia;BA;20;Federal;8;32.55;49;16.47;57;4.89;70;3.58;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual de Londrina;PR;21;Estadual;14;29.59;32;18.93;38;5.94;48;4.99;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Espírito Santo;ES;22;Federal;14;29.59;37;18.29;37;6;59;4.29;;;1;8;;;;;;;;;
+2019;fisica;Pontifícia Universidade Católica de São Paulo;SP;23;Privada;8;32.55;62;15.28;14;7.28;;;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Goiás;GO;24;Federal;14;29.59;38;17.7;50;5.28;57;4.42;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Rio Grande do Norte;RN;25;Federal;14;29.59;39;17.47;31;6.33;77;3.14;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Alagoas;AL;26;Federal;14;29.59;48;16.49;44;5.61;81;2.88;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal da Paraíba;PB;27;Federal;14;29.59;54;15.9;35;6.11;98;1.79;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Sergipe;SE;28;Federal;14;29.59;63;15.28;36;6.06;107;1.22;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Pará;PA;29;Federal;14;29.59;67;14.76;66;4.39;89;2.37;;;1;8;;;;;;;;;
+2019;fisica;Universidade do Estado do Rio de Janeiro;RJ;30;Estadual;5;34.03;110;10.2;24;6.72;104;1.41;;;107;2.07;;;;;;;;;
+2019;fisica;Universidade Estadual do Ceará;CE;31;Estadual;14;29.59;77;13.97;79;3.67;90;2.3;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Piauí;PI;32;Federal;14;29.59;80;13.75;75;3.89;97;1.86;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Maranhão;MA;33;Federal;14;29.59;89;12.98;68;4.28;115;0.7;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual do Piauí;PI;34;Estadual;14;29.59;92;12.7;96;2.72;95;1.98;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Juiz de Fora;MG;35;Federal;36;18.74;17;22.31;28;6.5;4;7.81;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal Rural do Rio de Janeiro;RJ;36;Federal;36;18.74;19;22;22;6.83;14;7.17;;;1;8;;;;;;;;;
+2019;fisica;Pontifícia Universidade Católica de Minas Gerais;MG;37;Privada;14;29.59;109;10.52;89;3.11;25;6.46;;;127;0.95;;;;;;;;;
+2019;fisica;Universidade Estadual de Ponta Grossa;PR;38;Estadual;36;18.74;26;19.57;7;7.67;65;3.9;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Uberlândia;MG;39;Federal;36;18.74;33;18.91;20;6.94;64;3.97;;;1;8;;;;;;;;;
+2019;fisica;Universidade Católica de Pernambuco;PE;40;Privada;14;29.59;121;7.91;93;2.89;51;4.8;;;140;0.22;;;;;;;;;
+2019;fisica;Universidade Estadual Vale do Acaraú;CE;41;Estadual;14;29.59;124;7.19;58;4.83;112;0.9;;;118;1.46;;;;;;;;;
+2019;fisica;Universidade Estadual de Santa Cruz;BA;42;Estadual;36;18.74;50;16.21;48;5.39;82;2.82;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Campina Grande;PB;43;Federal;36;18.74;55;15.9;72;4.06;66;3.84;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Ouro Preto;MG;44;Federal;36;18.74;56;15.89;49;5.33;86;2.56;;;1;8;;;;;;;;;
+2019;fisica;Universidade do Estado do Rio Grande do Norte;RN;45;Estadual;36;18.74;57;15.85;43;5.67;92;2.18;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual de Maringá;PR;46;Estadual;36;18.74;59;15.76;64;4.5;75;3.26;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Amazonas;AM;47;Federal;36;18.74;65;14.95;74;3.94;79;3.01;;;1;8;;;;;;;;;
+2019;fisica;Universidade Regional do Cariri;CE;48;Estadual;36;18.74;66;14.82;51;5.22;101;1.6;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual da Paraíba;PB;49;Estadual;36;18.74;69;14.62;73;4;85;2.62;;;1;8;;;;;;;;;
+2019;fisica;Fundação Universidade Federal do Tocantins;TO;50;Federal;36;18.74;71;14.46;46;5.5;111;0.96;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Mato Grosso;MT;51;Federal;36;18.74;79;13.76;61;4.67;109;1.09;;;1;8;;;;;;;;;
+2019;fisica;Universidade do Estado da Bahia;BA;52;Estadual;36;18.74;81;13.72;42;5.72;;;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Mato Grosso do Sul;MS;53;Federal;36;18.74;97;12.31;47;5.44;44;5.25;;;115;1.62;;;;;;;;;
+2019;fisica;Universidade Estadual do Maranhão;MA;54;Estadual;14;29.59;142;1.44;140;0.28;114;0.77;;;137;0.39;;;;;;;;;
+2019;fisica;Universidade Estadual de Montes Claros;MG;55;Estadual;36;18.74;101;11.78;77;3.78;;;;;1;8;;;;;;;;;
+2019;fisica;Universidade Luterana do Brasil;RS;56;Privada;36;18.74;102;11.67;103;2.33;2;7.94;;;119;1.4;;;;;;;;;
+2019;fisica;Pontifícia Universidade Católica do Paraná;PR;57;Privada;36;18.74;103;11.55;85;3.33;9;7.49;;;131;0.73;;;;;;;;;
+2019;fisica;Universidade do Estado do Amazonas;AM;58;Estadual;36;18.74;105;11.5;120;1.39;93;2.11;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual de Feira de Santana;BA;59;Estadual;36;18.74;106;11.44;83;3.44;;;;;1;8;;;;;;;;;
+2019;fisica;Pontifícia Universidade Católica de Goiás;GO;60;Privada;36;18.74;114;8.89;86;3.28;41;5.44;;;141;0.17;;;;;;;;;
+2019;fisica;Universidade Católica de Brasília;DF;61;Privada;36;18.74;116;8.7;56;4.94;83;2.75;;;126;1.01;;;;;;;;;
+2019;fisica;Universidade Estadual de Goiás;GO;62;Estadual;61;6.41;43;17.15;106;2.17;17;6.98;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;63;Estadual;;;21;21.82;1;8;35;5.82;;;1;8;;;;;;;;;
+2019;fisica;Universidade Tecnológica Federal do Paraná;PR;64;Federal;;;22;21.77;33;6.22;8;7.55;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Lavras;MG;65;Federal;;;23;21.32;32;6.28;16;7.04;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de São João Del Rei;MG;66;Federal;;;24;20.13;27;6.56;39;5.57;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual do Sudoeste da Bahia;BA;67;Estadual;61;6.41;84;13.63;84;3.39;91;2.24;;;1;8;;;;;;;;;
+2019;fisica;Fundação Universidade Federal de Rondônia;RO;68;Federal;61;6.41;85;13.39;71;4.11;106;1.28;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;69;Federal;61;6.41;86;13.24;113;1.78;72;3.46;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Rio Grande;RS;70;Federal;;;25;19.59;40;5.83;36;5.76;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Oeste do Pará;PA;71;Federal;;;27;19.49;12;7.39;62;4.1;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal Rural de Pernambuco;PE;72;Federal;61;6.41;91;12.91;52;5.17;34;5.89;;;111;1.85;;;;;;;;;
+2019;fisica;Universidade Federal de Pelotas;RS;73;Federal;;;29;19.28;25;6.67;54;4.61;;;1;8;;;;;;;;;
+2019;fisica;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;74;Federal;;;30;19.03;80;3.61;10;7.42;;;1;8;;;;;;;;;
+2019;fisica;Fundação Universidade Federal da Grande Dourados;MS;74;Federal;;;30;19.03;34;6.17;50;4.86;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Triângulo Mineiro;MG;76;Federal;;;34;18.71;65;4.44;28;6.27;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Alfenas;MG;77;Federal;;;35;18.56;54;5.06;40;5.5;;;1;8;;;;;;;;;
+2019;fisica;Universidade Estadual do Centro Oeste;PR;78;Estadual;;;36;18.42;76;3.83;23;6.59;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;79;Federal;;;40;17.38;88;3.17;29;6.21;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;80;Federal;;;41;17.26;67;4.33;49;4.93;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;81;Federal;;;42;17.2;90;3.06;30;6.14;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal da Fronteira Sul;SC;82;Federal;;;44;16.96;69;4.22;52;4.74;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;83;Federal;;;45;16.9;122;1.28;7;7.62;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;84;Federal;;;46;16.89;107;2.11;20;6.78;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Oeste da Bahia;BA;85;Federal;;;47;16.51;99;2.56;33;5.95;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;86;Federal;;;51;16.13;123;1.22;18;6.91;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;87;Federal;;;52;16.08;108;2.06;32;6.02;;;1;8;;;;;;;;;
+2019;fisica;Fundação Universidade Federal do Pampa;RS;88;Federal;;;53;15.98;59;4.78;76;3.2;;;1;8;;;;;;;;;
+2019;fisica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;89;Federal;;;58;15.78;5;7.78;;;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal de Itajubá;MG;90;Federal;;;60;15.61;53;5.11;87;2.5;;;1;8;;;;;;;;;
+2019;fisica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;91;Federal;;;61;15.44;11;7.44;;;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;92;Federal;;;64;15.12;109;2;46;5.12;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;93;Federal;;;68;14.72;100;2.5;60;4.22;;;1;8;;;;;;;;;
+2019;fisica;Centro Universitário Campos de Andrade;PR;94;Privada;;;70;14.6;101;2.44;61;4.16;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;95;Federal;;;72;14.29;125;1.11;45;5.18;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;96;Federal;;;73;14.19;97;2.67;71;3.52;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;97;Federal;;;74;14.11;119;1.44;53;4.67;;;1;8;;;;;;;;;
+2019;fisica;Centro Universitário Ages;BA;98;Privada;;;75;14.1;41;5.78;121;0.32;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Sul e Sudeste do Pará;PA;99;Federal;;;76;14.06;60;4.72;105;1.34;;;1;8;;;;;;;;;
+2019;fisica;Universidade de Passo Fundo;RS;100;Privada;61;6.41;123;7.57;98;2.61;67;3.78;;;123;1.18;;;;;;;;;
+2019;fisica;Universidade Federal de Roraima;RR;101;Federal;;;78;13.95;39;5.89;125;0.06;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Acre;AC;102;Federal;;;82;13.67;104;2.28;73;3.39;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;103;Federal;;;83;13.65;124;1.17;56;4.48;;;1;8;;;;;;;;;
+2019;fisica;Fundação Universidade do Estado de Santa Catarina;SC;104;Estadual;;;87;13.14;63;4.56;6;7.68;;;128;0.9;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;105;Federal;;;88;13.03;81;3.56;103;1.47;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;106;Federal;;;90;12.96;111;1.89;78;3.07;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Recôncavo da Bahia;BA;107;Federal;;;93;12.67;92;2.94;99;1.73;;;1;8;;;;;;;;;
+2019;fisica;Universidade Franciscana;RS;108;Privada;;;94;12.55;78;3.72;113;0.83;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;109;Federal;;;95;12.54;130;0.83;68;3.71;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;110;Federal;;;96;12.32;133;0.67;69;3.65;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;111;Federal;61;6.41;125;5.81;121;1.33;84;2.69;;;112;1.79;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;112;Federal;61;6.41;126;5.79;132;0.72;80;2.94;;;106;2.13;;;;;;;;;
+2019;fisica;Universidade de Santa Cruz do Sul;RS;113;Privada;;;98;12.09;70;4.17;11;7.36;;;134;0.56;;;;;;;;;
+2019;fisica;Universidade de Sorocaba;SP;114;Privada;61;6.41;127;5.61;105;2.22;74;3.33;;;143;0.06;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;115;Federal;;;99;11.93;95;2.78;108;1.15;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;116;Federal;;;100;11.79;55;5;47;5.06;;;113;1.73;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;117;Federal;;;103;11.55;118;1.5;94;2.05;;;1;8;;;;;;;;;
+2019;fisica;Universidade Federal do Amapá;AP;118;Federal;;;107;10.69;115;1.67;110;1.02;;;1;8;;;;;;;;;
+2019;fisica;Universidade do Estado de Minas Gerais;MG;119;Estadual;;;108;10.54;143;0.11;88;2.43;;;1;8;;;;;;;;;
+2019;fisica;Universidade de Caxias do Sul;RS;120;Privada;61;6.41;131;4;82;3.5;;;;;135;0.5;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;121;Federal;;;111;9.99;116;1.61;120;0.38;;;1;8;;;;;;;;;
+2019;fisica;Universidade do Extremo Sul Catarinense;SC;122;Privada;61;6.41;134;3.45;94;2.83;;;;;133;0.62;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;123;Federal;;;112;9.06;126;1.06;;;;;1;8;;;;;;;;;
+2019;fisica;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;124;Privada;;;113;9;127;1;;;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;125;Federal;;;114;8.89;129;0.89;;;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;126;Federal;;;117;8.61;134;0.61;;;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;127;Federal;;;118;8.48;141;0.22;122;0.26;;;1;8;;;;;;;;;
+2019;fisica;Universidade do Sul de Santa Catarina;SC;128;Privada;61;6.41;139;2.06;114;1.72;;;;;138;0.34;;;;;;;;;
+2019;fisica;Universidade do Oeste Paulista;SP;129;Privada;;;119;8.46;21;6.89;;;;;116;1.57;;;;;;;;;
+2019;fisica;Centro de Ensino Superior do Vale São Francisco;PE;130;Municipal;;;120;8.06;144;0.06;;;;;1;8;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;131;Federal;;;122;7.81;117;1.56;58;4.35;;;110;1.9;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;132;Federal;;;128;5.44;110;1.94;102;1.54;;;109;1.96;;;;;;;;;
+2019;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;133;Federal;;;129;4.37;137;0.44;96;1.92;;;108;2.01;;;;;;;;;
+2019;fisica;Universidade de Taubaté;SP;134;Municipal;;;130;4.13;102;2.39;118;0.51;;;122;1.23;;;;;;;;;
+2019;fisica;Universidade Estadual de Mato Grosso do Sul;MS;135;Estadual;;;132;3.86;87;3.22;123;0.19;;;136;0.45;;;;;;;;;
+2019;fisica;Centro Universitário da Fundação Educacional de Barretos;SP;136;Privada;;;133;3.69;91;3;117;0.58;;;142;0.11;;;;;;;;;
+2019;fisica;Centro Universitário Faema;RO;137;Privada;;;135;3.28;136;0.5;100;1.66;;;124;1.12;;;;;;;;;
+2019;fisica;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;138;Privada;;;136;2.63;112;1.83;124;0.13;;;132;0.67;;;;;;;;;
+2019;fisica;Centro Universitário Maurício de Nassau de Cacoal;RO;139;Privada;;;137;2.52;138;0.39;119;0.45;;;114;1.68;;;;;;;;;
+2019;fisica;Instituto Superior de Educação Campo Limpo Paulista;SP;140;Privada;;;138;2.37;139;0.33;116;0.64;;;119;1.4;;;;;;;;;
+2019;fisica;Universidade Estadual de Roraima;RR;141;Estadual;;;140;1.78;128;0.94;;;;;129;0.84;;;;;;;;;
+2019;fisica;Faculdade Santa Marcelina Muriaé;MG;142;Privada;;;141;1.67;134;0.61;;;;;125;1.06;;;;;;;;;
+2019;fisica;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;143;Municipal;;;143;0.78;131;0.78;;;;;;;;;;;;;;;
+2019;fisica;Faculdade de Ciências Aplicadas de Limoeiro;PE;144;Municipal;;;144;0.45;142;0.17;;;;;139;0.28;;;;;;;;;
+2023;fisica;Universidade de São Paulo;SP;1;Estadual;1;36;1;61.92;15;7.23;25;6.69;;;1;8;1;40;;;;;;;
+2023;fisica;Universidade Estadual de Campinas;SP;2;Estadual;2;35.66;2;61.21;25;6.69;6;7.73;;;1;8;2;38.79;;;;;;;
+2023;fisica;Universidade Federal de Minas Gerais;MG;3;Federal;5;34.65;3;60.54;18;7.07;3;7.89;;;1;8;3;37.58;;;;;;;
+2023;fisica;Universidade Federal do Rio de Janeiro;RJ;4;Federal;4;34.99;4;58.73;36;6.08;18;7.07;;;1;8;3;37.58;;;;;;;
+2023;fisica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.66;6;57.4;1;8;33;6.25;;;1;8;5;35.15;;;;;;;
+2023;fisica;Universidade Federal de São Carlos;SP;6;Federal;10;32.97;5;57.67;17;7.12;12;7.4;;;1;8;5;35.15;;;;;;;
+2023;fisica;Universidade Federal do Rio Grande do Sul;RS;7;Federal;10;32.97;6;57.4;30;6.41;4;7.84;;;1;8;5;35.15;;;;;;;
+2023;fisica;Universidade Federal de Pernambuco;PE;8;Federal;10;32.97;10;52.24;71;4.16;57;4.93;;;1;8;5;35.15;;;;;;;
+2023;fisica;Universidade Federal de Santa Catarina;SC;9;Federal;10;32.97;11;52.21;1;8;17;7.12;;;1;8;10;29.09;;;;;;;
+2023;fisica;Universidade Federal do Paraná;PR;10;Federal;10;32.97;14;50.46;24;6.74;26;6.63;;;1;8;10;29.09;;;;;;;
+2023;fisica;Universidade Federal do Ceará;CE;11;Federal;5;34.65;15;48.49;54;5.1;32;6.3;;;1;8;10;29.09;;;;;;;
+2023;fisica;Fundação Universidade Federal do ABC;SP;12;Federal;39;23.22;8;53.09;1;8;1;8;;;1;8;10;29.09;;;;;;;
+2023;fisica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;13;Estadual;39;23.22;9;53.04;1;8;2;7.95;;;1;8;10;29.09;;;;;;;
+2023;fisica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;14;Privada;20;29.61;17;46.22;1;8;105;2.3;;;132;0.77;5;35.15;;;;;;;
+2023;fisica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;15;Privada;10;32.97;19;42.3;49;5.37;10;7.51;;;140;0.33;10;29.09;;;;;;;
+2023;fisica;Universidade Federal de Viçosa;MG;16;Federal;39;23.22;12;51.23;22;6.85;14;7.29;;;1;8;10;29.09;;;;;;;
+2023;fisica;Universidade Federal de Santa Maria;RS;17;Federal;39;23.22;13;50.57;1;8;47;5.48;;;1;8;10;29.09;;;;;;;
+2023;fisica;Universidade do Vale do Rio dos Sinos;RS;18;Privada;20;29.61;18;43.12;39;5.92;19;7.01;;;126;1.1;10;29.09;;;;;;;
+2023;fisica;Universidade Federal Fluminense;RJ;19;Federal;5;34.65;22;37.46;44;5.64;22;6.85;;;1;8;20;16.97;;;;;;;
+2023;fisica;Pontifícia Universidade Católica do Paraná;PR;20;Privada;39;23.22;16;47.34;70;4.22;37;6.03;;;1;8;10;29.09;;;;;;;
+2023;fisica;Universidade Federal de Sergipe;SE;21;Federal;20;29.61;25;34.67;59;4.82;58;4.88;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Estadual de Feira de Santana;BA;22;Estadual;20;29.61;27;34.18;66;4.44;60;4.77;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Federal de Alagoas;AL;23;Federal;20;29.61;28;34.07;31;6.36;97;2.74;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Estadual de Maringá;PR;24;Estadual;20;29.61;29;33.14;64;4.55;81;3.62;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Federal de Juiz de Fora;MG;25;Federal;39;23.22;20;39.32;19;7.01;13;7.34;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Federal do Maranhão;MA;26;Federal;20;29.61;30;32.86;74;4;76;3.89;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Federal de Mato Grosso;MT;27;Federal;39;23.22;26;34.56;46;5.53;73;4.06;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Regional do Cariri;CE;28;Estadual;39;23.22;32;32.37;35;6.14;124;1.26;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Federal da Bahia;BA;29;Federal;5;34.65;41;20.11;65;4.49;8;7.62;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Estado do Rio de Janeiro;RJ;30;Estadual;5;34.65;43;20;45;5.59;30;6.41;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Goiás;GO;31;Federal;10;32.97;41;20.11;34;6.19;39;5.92;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de São João Del Rei;MG;32;Federal;70;12.79;21;39;33;6.25;5;7.78;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Estadual de Londrina;PR;33;Estadual;10;32.97;52;18.36;57;4.93;48;5.43;;;1;8;;;;;;;;;
+2023;fisica;Universidade de Brasília;DF;34;Federal;20;29.61;44;19.95;47;5.48;29;6.47;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Itajubá;MG;35;Federal;70;12.79;23;36.42;61;4.71;24;6.74;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade Federal do Espírito Santo;ES;36;Federal;20;29.61;48;19.34;43;5.7;44;5.64;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Piauí;PI;37;Federal;10;32.97;78;15.78;69;4.27;83;3.51;;;1;8;;;;;;;;;
+2023;fisica;Universidade Tecnológica Federal do Paraná;PR;38;Federal;70;12.79;24;35.77;62;4.66;35;6.14;;;1;8;20;16.97;;;;;;;
+2023;fisica;Universidade do Estado da Bahia;BA;39;Estadual;20;29.61;53;18.14;49;5.37;60;4.77;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual do Ceará;CE;40;Estadual;10;32.97;90;13.87;75;3.95;112;1.92;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Lavras;MG;41;Federal;39;23.22;33;23.45;1;8;11;7.45;;;1;8;;;;;;;;;
+2023;fisica;Fundação Universidade Federal do Tocantins;TO;42;Federal;20;29.61;64;17.04;1;8;128;1.04;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Amazonas;AM;43;Federal;20;29.61;73;16;77;3.84;71;4.16;;;1;8;;;;;;;;;
+2023;fisica;Universidade de Caxias do Sul;RS;44;Privada;70;12.79;31;32.43;20;6.96;7;7.67;;;131;0.83;20;16.97;;;;;;;
+2023;fisica;Universidade Federal da Paraíba;PB;45;Federal;20;29.61;80;15.5;38;5.97;119;1.53;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal Rural do Rio de Janeiro;RJ;46;Federal;39;23.22;37;21.59;37;6.03;9;7.56;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal Rural de Pernambuco;PE;47;Federal;39;23.22;39;20.61;41;5.81;23;6.8;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Mato Grosso do Sul;MS;48;Federal;39;23.22;45;19.94;42;5.75;34;6.19;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Uberlândia;MG;49;Federal;39;23.22;47;19.73;16;7.18;64;4.55;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual do Piauí;PI;50;Estadual;20;29.61;101;13.04;86;3.34;116;1.7;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual de Ponta Grossa;PR;51;Estadual;39;23.22;51;18.42;27;6.58;77;3.84;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Pará;PA;52;Federal;20;29.61;111;11.89;81;3.62;142;0.27;;;1;8;;;;;;;;;
+2023;fisica;Universidade de Pernambuco;PE;53;Estadual;39;23.22;53;18.14;1;8;108;2.14;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Rio Grande do Norte;RN;54;Federal;39;23.22;57;17.97;40;5.86;72;4.11;;;1;8;;;;;;;;;
+2023;fisica;Universidade Católica de Brasília;DF;55;Privada;39;23.22;58;17.81;1;8;114;1.81;;;1;8;;;;;;;;;
+2023;fisica;Pontifícia Universidade Católica de Minas Gerais;MG;56;Privada;20;29.61;115;11.12;63;4.6;40;5.86;;;134;0.66;;;;;;;;;
+2023;fisica;Universidade Estadual do Maranhão;MA;57;Estadual;20;29.61;120;10.47;129;0.99;120;1.48;;;1;8;;;;;;;;;
+2023;fisica;Pontifícia Universidade Católica de Goiás;GO;58;Privada;20;29.61;124;10.15;73;4.06;55;5.04;;;127;1.05;;;;;;;;;
+2023;fisica;Universidade Estadual de Santa Cruz;BA;59;Estadual;39;23.22;67;16.44;80;3.67;60;4.77;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual de Goiás;GO;60;Estadual;39;23.22;68;16.38;55;5.04;86;3.34;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Estado do Rio Grande do Norte;RN;61;Estadual;39;23.22;72;16.05;82;3.56;65;4.49;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual do Sudoeste da Bahia;BA;62;Estadual;39;23.22;73;16;89;3.18;59;4.82;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;63;Federal;39;23.22;94;13.54;127;1.1;66;4.44;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Campina Grande;PB;64;Federal;39;23.22;95;13.53;78;3.78;115;1.75;;;1;8;;;;;;;;;
+2023;fisica;Universidade Católica de Pernambuco;PE;65;Privada;20;29.61;139;6.58;96;2.8;80;3.67;;;144;0.11;;;;;;;;;
+2023;fisica;Universidade Estadual de Alagoas;AL;66;Estadual;39;23.22;104;12.77;118;1.59;89;3.18;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual Vale do Acaraú;CE;67;Estadual;39;23.22;107;12.38;92;3.01;122;1.37;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual da Paraíba;PB;68;Estadual;39;23.22;113;11.35;110;2.03;123;1.32;;;1;8;;;;;;;;;
+2023;fisica;Universidade Luterana do Brasil;RS;69;Privada;39;23.22;119;10.48;93;2.96;27;6.58;;;129;0.94;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;70;Federal;39;23.22;121;10.41;133;0.77;117;1.64;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Estado do Amazonas;AM;71;Estadual;39;23.22;127;9.81;132;0.82;129;0.99;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Alfenas;MG;72;Federal;70;12.79;46;19.89;26;6.63;51;5.26;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Catalão;GO;73;Federal;70;12.79;49;18.8;23;6.8;74;4;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual do Centro Oeste;PR;74;Estadual;70;12.79;50;18.58;60;4.77;41;5.81;;;1;8;;;;;;;;;
+2023;fisica;Fundação Universidade do Estado de Santa Catarina;SC;75;Estadual;39;23.22;136;8.06;134;0.71;20;6.96;;;139;0.39;;;;;;;;;
+2023;fisica;Universidade Federal de Ouro Preto;MG;76;Federal;70;12.79;56;18.03;48;5.43;63;4.6;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Oeste da Bahia;BA;77;Federal;70;12.79;60;17.65;68;4.33;50;5.32;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Jataí;GO;78;Federal;70;12.79;62;17.37;95;2.85;28;6.52;;;1;8;;;;;;;;;
+2023;fisica;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;79;Federal;70;12.79;63;17.1;72;4.11;56;4.99;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;80;Federal;70;12.79;65;16.72;83;3.51;52;5.21;;;1;8;;;;;;;;;
+2023;fisica;Universidade Regional de Blumenau;SC;81;Municipal;39;23.22;140;6.14;115;1.75;68;4.33;;;145;0.06;;;;;;;;;
+2023;fisica;Universidade Federal do Sul e Sudeste do Pará;PA;82;Federal;70;12.79;69;16.27;1;8;142;0.27;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;83;Federal;70;12.79;70;16.17;91;3.07;54;5.1;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;84;Federal;70;12.79;71;16.06;98;2.69;49;5.37;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal da Fronteira Sul;SC;85;Federal;70;12.79;77;15.78;53;5.15;99;2.63;;;1;8;;;;;;;;;
+2023;fisica;Fundação Universidade Federal da Grande Dourados;MS;86;Federal;70;12.79;81;15.07;31;6.36;134;0.71;;;1;8;;;;;;;;;
+2023;fisica;Fundação Universidade Federal do Pampa;RS;87;Federal;70;12.79;84;14.58;56;4.99;118;1.59;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Roraima;RR;88;Federal;70;12.79;85;14.14;79;3.73;103;2.41;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal de Pelotas;RS;89;Federal;70;12.79;87;14.13;140;0.38;42;5.75;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;90;Federal;70;12.79;88;13.97;117;1.64;68;4.33;;;1;8;;;;;;;;;
+2023;fisica;Universidade de Passo Fundo;RS;90;Privada;70;12.79;88;13.97;94;2.9;91;3.07;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Recôncavo da Bahia;BA;92;Federal;70;12.79;91;13.76;87;3.29;102;2.47;;;1;8;;;;;;;;;
+2023;fisica;Fundação Universidade Federal de Rondônia;RO;93;Federal;70;12.79;92;13.65;58;4.88;133;0.77;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Oeste de Santa Catarina;SC;94;Privada;70;12.79;100;13.32;106;2.25;91;3.07;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;95;Federal;70;12.79;102;12.99;105;2.3;98;2.69;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;96;Federal;70;12.79;103;12.93;120;1.48;84;3.45;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;97;Federal;70;12.79;106;12.39;135;0.66;79;3.73;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;98;Federal;70;12.79;113;11.35;125;1.21;108;2.14;;;1;8;;;;;;;;;
+2023;fisica;Centro Universitário Ages;BA;99;Privada;;;34;23.18;1;8;16;7.18;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Estado do Pará;PA;100;Estadual;70;12.79;123;10.24;111;1.97;142;0.27;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;101;Federal;70;12.79;125;10.08;114;1.81;142;0.27;;;1;8;;;;;;;;;
+2023;fisica;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;102;Privada;;;35;22.24;99;2.63;104;2.36;;;141;0.28;20;16.97;;;;;;;
+2023;fisica;Universidade Estadual da Região Tocantina do Maranhão;MA;103;Estadual;70;12.79;128;9.42;136;0.6;132;0.82;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Estado de Mato Grosso;MT;104;Estadual;70;12.79;129;9.26;131;0.88;140;0.38;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual de Mato Grosso do Sul;MS;105;Estadual;70;12.79;130;9.11;52;5.21;85;3.4;;;137;0.5;;;;;;;;;
+2023;fisica;Universidade Federal do Triângulo Mineiro;MG;106;Federal;;;36;21.81;27;6.58;15;7.23;;;1;8;;;;;;;;;
+2023;fisica;Universidade Estadual de Roraima;RR;107;Estadual;70;12.79;131;8.87;136;0.6;142;0.27;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;108;Federal;70;12.79;134;8.6;107;2.19;46;5.53;;;130;0.88;;;;;;;;;
+2023;fisica;Universidade Federal do Rio Grande;RS;109;Federal;;;38;20.83;29;6.47;31;6.36;;;1;8;;;;;;;;;
+2023;fisica;Universidade de Santa Cruz do Sul;RS;110;Privada;70;12.79;137;7.67;67;4.38;91;3.07;;;142;0.22;;;;;;;;;
+2023;fisica;Universidade Federal do Cariri;CE;111;Federal;;;40;20.22;1;8;70;4.22;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Extremo Sul Catarinense;SC;112;Privada;70;12.79;142;5.65;108;2.14;91;3.07;;;138;0.44;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;113;Federal;;;55;18.13;88;3.23;21;6.9;;;1;8;;;;;;;;;
+2023;fisica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;114;Federal;;;59;17.75;49;5.37;67;4.38;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;115;Federal;;;61;17.43;1;8;121;1.43;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;116;Federal;;;66;16.44;97;2.74;43;5.7;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;117;Federal;;;75;15.9;75;3.95;75;3.95;;;1;8;;;;;;;;;
+2023;fisica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;118;Federal;;;76;15.89;20;6.96;130;0.93;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;119;Federal;;;79;15.57;121;1.43;35;6.14;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;120;Federal;;;82;14.85;124;1.26;45;5.59;;;1;8;;;;;;;;;
+2023;fisica;Centro Universitário Campos de Andrade;PR;121;Privada;;;83;14.63;136;0.6;37;6.03;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Acre;AC;122;Federal;;;85;14.14;104;2.36;78;3.78;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Contestado;SC;123;Privada;;;93;13.59;101;2.52;91;3.07;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;124;Federal;;;96;13.42;84;3.45;111;1.97;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;124;Federal;;;96;13.42;113;1.86;82;3.56;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;126;Federal;;;98;13.37;109;2.08;87;3.29;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;126;Federal;;;98;13.37;90;3.12;106;2.25;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;128;Federal;;;105;12.71;119;1.53;89;3.18;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;129;Federal;;;108;12.33;102;2.47;113;1.86;;;1;8;;;;;;;;;
+2023;fisica;Universidade Federal do Amapá;AP;130;Federal;;;109;12.28;116;1.7;100;2.58;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;131;Federal;;;110;12.16;130;0.93;88;3.23;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;132;Federal;;;112;11.51;100;2.58;130;0.93;;;1;8;;;;;;;;;
+2023;fisica;Universidade do Estado de Minas Gerais;MG;133;Estadual;;;116;11.07;111;1.97;127;1.1;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;134;Federal;;;117;10.85;141;0.33;101;2.52;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;135;Federal;;;118;10.53;123;1.32;125;1.21;;;1;8;;;;;;;;;
+2023;fisica;Centro de Ensino Superior do Vale São Francisco;PE;136;Municipal;;;122;10.25;145;0.11;108;2.14;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;137;Federal;;;126;9.87;125;1.21;135;0.66;;;1;8;;;;;;;;;
+2023;fisica;Centro Universitário Campo Limpo Paulista;SP;138;Privada;;;132;8.82;143;0.22;136;0.6;;;1;8;;;;;;;;;
+2023;fisica;Centro Universitário Faema;RO;139;Privada;;;133;8.76;144;0.16;136;0.6;;;1;8;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;140;Federal;;;135;8.44;146;0.06;140;0.38;;;1;8;;;;;;;;;
+2023;fisica;Universidade Franciscana;RS;141;Privada;;;138;7.08;85;3.4;91;3.07;;;135;0.61;;;;;;;;;
+2023;fisica;Universidade de Taubaté;SP;142;Municipal;;;141;5.81;136;0.6;52;5.21;;;;;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;143;Federal;;;143;5.59;103;2.41;107;2.19;;;128;0.99;;;;;;;;;
+2023;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;144;Federal;;;144;2.74;128;1.04;126;1.15;;;136;0.55;;;;;;;;;
+2023;fisica;Centro Universitário da Fundação Educacional de Barretos;SP;145;Privada;;;145;2.14;122;1.37;136;0.6;;;143;0.17;;;;;;;;;
+2023;fisica;Faculdade Mozarteum de São Paulo;SP;146;Privada;;;146;1.59;142;0.27;136;0.6;;;133;0.72;;;;;;;;;
+2024;fisica;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.35;;;25;6.68;;;1;8;;;7;7.67;1;40;;;
+2024;fisica;Universidade Estadual de Campinas;SP;2;Estadual;2;35.67;2;62.06;;;6;7.72;;;1;8;;;15;7.23;2;39.11;;;
+2024;fisica;Universidade Federal de Minas Gerais;MG;3;Federal;5;34.69;3;61.56;;;3;7.89;;;1;8;;;11;7.45;3;38.22;;;
+2024;fisica;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.67;5;58.91;;;18;7.06;;;1;8;;;44;5.63;3;38.22;;;
+2024;fisica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.67;8;56.62;;;33;6.23;;;1;8;;;6;7.72;7;34.67;;;
+2024;fisica;Universidade Federal do Rio Grande do Sul;RS;6;Federal;10;33.06;4;59.17;;;4;7.83;;;1;8;;;21;6.9;5;36.44;;;
+2024;fisica;Universidade Federal de São Carlos;SP;7;Federal;10;33.06;7;57.4;;;12;7.39;;;1;8;;;13;7.34;7;34.67;;;
+2024;fisica;Universidade Federal de Pernambuco;PE;8;Federal;5;34.69;10;53.71;;;56;4.97;;;1;8;;;68;4.3;5;36.44;;;
+2024;fisica;Universidade Federal de Santa Catarina;SC;9;Federal;10;33.06;9;53.73;;;17;7.12;;;1;8;;;10;7.5;11;31.11;;;
+2024;fisica;Universidade Federal do Ceará;CE;10;Federal;10;33.06;13;50.64;;;32;6.29;;;1;8;;;51;5.24;11;31.11;;;
+2024;fisica;Universidade Federal Fluminense;RJ;11;Federal;5;34.69;19;47.58;;;22;6.84;;;1;8;;;36;6.07;16;26.67;;;
+2024;fisica;Universidade Federal da Bahia;BA;12;Federal;5;34.69;23;46.91;;;8;7.61;;;1;8;;;62;4.63;16;26.67;;;
+2024;fisica;Universidade do Estado do Rio de Janeiro;RJ;13;Estadual;5;34.69;24;46.53;;;30;6.4;;;1;8;;;47;5.46;16;26.67;;;
+2024;fisica;Universidade Federal do Paraná;PR;14;Federal;10;33.06;18;47.75;;;26;6.62;;;1;8;;;29;6.46;16;26.67;;;
+2024;fisica;Universidade Federal de Goiás;GO;15;Federal;10;33.06;21;47.14;;;39;5.9;;;1;8;;;27;6.57;16;26.67;;;
+2024;fisica;Universidade de Brasília;DF;16;Federal;10;33.06;22;47.03;;;29;6.46;;;1;8;;;39;5.9;16;26.67;;;
+2024;fisica;Fundação Universidade Federal do ABC;SP;17;Federal;48;20.62;6;58.67;;;1;8;;;1;8;;;1;8;7;34.67;;;
+2024;fisica;Universidade Federal de Sergipe;SE;18;Federal;23;28.8;16;49.15;;;57;4.91;;;1;8;;;53;5.13;11;31.11;;;
+2024;fisica;Universidade Federal de Uberlândia;MG;19;Federal;23;28.8;27;46.31;;;63;4.58;;;1;8;;;18;7.06;16;26.67;;;
+2024;fisica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;20;Privada;23;28.8;28;45.65;;;104;2.32;;;126;1.1;;;9;7.56;7;34.67;;;
+2024;fisica;Universidade Federal de Viçosa;MG;21;Federal;48;20.62;11;53.34;;;14;7.28;;;1;8;;;20;6.95;11;31.11;;;
+2024;fisica;Universidade Federal de Mato Grosso;MT;22;Federal;23;28.8;31;44.05;;;72;4.08;;;1;8;;;50;5.3;16;26.67;;;
+2024;fisica;Universidade Federal de Santa Maria;RS;23;Federal;48;20.62;12;52.18;;;47;5.46;;;1;8;;;8;7.61;11;31.11;;;
+2024;fisica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;24;Privada;10;33.06;41;39.31;;;10;7.5;;;141;0.28;;;58;4.86;16;26.67;;;
+2024;fisica;Universidade Federal de Alagoas;AL;25;Federal;23;28.8;32;43.55;;;97;2.7;;;1;8;;;34;6.18;16;26.67;;;
+2024;fisica;Universidade Estadual de Maringá;PR;26;Estadual;23;28.8;33;42.84;;;81;3.59;;;1;8;;;63;4.58;16;26.67;;;
+2024;fisica;Universidade Federal da Paraíba;PB;27;Federal;23;28.8;34;42.73;;;118;1.55;;;1;8;;;28;6.51;16;26.67;;;
+2024;fisica;Universidade Federal do Maranhão;MA;28;Federal;23;28.8;35;42.62;;;75;3.92;;;1;8;;;73;4.03;16;26.67;;;
+2024;fisica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;29;Estadual;48;20.62;14;50.62;;;2;7.95;;;1;8;;;1;8;16;26.67;;;
+2024;fisica;Universidade Federal do Piauí;PI;30;Federal;23;28.8;36;42.29;;;83;3.48;;;1;8;;;71;4.14;16;26.67;;;
+2024;fisica;Universidade do Vale do Rio dos Sinos;RS;31;Privada;23;28.8;38;41.4;;;19;7.01;;;122;1.32;;;30;6.4;16;26.67;;;
+2024;fisica;Universidade Federal de Juiz de Fora;MG;32;Federal;48;20.62;15;49.18;;;13;7.34;;;1;8;;;16;7.17;16;26.67;;;
+2024;fisica;Universidade Federal de Campina Grande;PB;33;Federal;23;28.8;39;40.91;;;114;1.77;;;1;8;;;65;4.47;16;26.67;;;
+2024;fisica;Universidade Federal Rural de Pernambuco;PE;34;Federal;48;20.62;19;47.58;;;23;6.79;;;1;8;;;35;6.12;16;26.67;;;
+2024;fisica;Universidade Estadual de Feira de Santana;BA;35;Estadual;10;33.06;45;34.5;;;59;4.8;;;115;1.71;;;122;1.32;16;26.67;;;
+2024;fisica;Universidade Federal de Mato Grosso do Sul;MS;36;Federal;48;20.62;26;46.42;;;34;6.18;;;1;8;;;45;5.57;16;26.67;;;
+2024;fisica;Pontifícia Universidade Católica do Paraná;PR;37;Privada;23;28.8;42;37.87;;;37;6.01;;;129;0.94;;;69;4.25;16;26.67;;;
+2024;fisica;Fundação Universidade do Estado de Santa Catarina;SC;38;Estadual;23;28.8;43;36.77;;;20;6.95;;;133;0.72;;;102;2.43;16;26.67;;;
+2024;fisica;Universidade de Pernambuco;PE;39;Estadual;48;20.62;30;44.77;;;108;2.1;;;1;8;;;1;8;16;26.67;;;
+2024;fisica;Universidade Regional do Cariri;CE;40;Estadual;48;20.62;37;42.23;;;123;1.27;;;1;8;;;32;6.29;16;26.67;;;
+2024;fisica;Universidade de Caxias do Sul;RS;41;Privada;48;20.62;40;39.69;;;7;7.67;;;136;0.55;;;59;4.8;16;26.67;;;
+2024;fisica;Universidade Federal de São João Del Rei;MG;42;Federal;83;9.16;17;48.41;;;5;7.78;;;1;8;;;38;5.96;16;26.67;;;
+2024;fisica;Universidade Federal de Itajubá;MG;43;Federal;83;9.16;25;46.48;;;24;6.73;;;1;8;;;54;5.08;16;26.67;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;44;Federal;48;20.62;44;34.84;;;46;5.52;;;127;1.05;;;117;1.6;16;26.67;;;
+2024;fisica;Universidade Tecnológica Federal do Paraná;PR;45;Federal;83;9.16;29;45.54;;;35;6.12;;;1;8;;;60;4.75;16;26.67;;;
+2024;fisica;Universidade Estadual de Londrina;PR;46;Estadual;10;33.06;56;18.76;;;48;5.41;;;1;8;;;49;5.35;;;;;
+2024;fisica;Universidade do Estado da Bahia;BA;47;Estadual;10;33.06;58;18.59;;;59;4.8;;;1;8;;;41;5.79;;;;;
+2024;fisica;Universidade Federal do Espírito Santo;ES;48;Federal;23;28.8;53;19.15;;;44;5.63;;;1;8;;;46;5.52;;;;;
+2024;fisica;Universidade Federal do Rio Grande do Norte;RN;49;Federal;23;28.8;59;18.49;;;71;4.14;;;1;8;;;31;6.35;;;;;
+2024;fisica;Universidade Estadual do Ceará;CE;50;Estadual;10;33.06;91;13.9;;;111;1.93;;;1;8;;;74;3.97;;;;;
+2024;fisica;Universidade Católica de Brasília;DF;51;Privada;23;28.8;64;17.82;;;113;1.82;;;1;8;;;1;8;;;;;
+2024;fisica;Universidade Federal do Amazonas;AM;52;Federal;23;28.8;70;16.71;;;70;4.19;;;1;8;;;64;4.52;;;;;
+2024;fisica;Pontifícia Universidade Católica de Goiás;GO;53;Privada;10;33.06;114;10.65;;;54;5.08;;;119;1.49;;;72;4.08;;;;;
+2024;fisica;Universidade Federal de Lavras;MG;54;Federal;48;20.62;46;22.84;;;11;7.45;;;1;8;;;12;7.39;;;;;
+2024;fisica;Fundação Universidade Federal do Tocantins;TO;55;Federal;23;28.8;90;13.96;;;127;1.05;;;1;8;;;57;4.91;;;;;
+2024;fisica;Universidade Federal Rural do Rio de Janeiro;RJ;56;Federal;48;20.62;48;21.57;;;9;7.56;;;1;8;;;37;6.01;;;;;
+2024;fisica;Universidade Estadual do Piauí;PI;57;Estadual;23;28.8;100;12.63;;;115;1.71;;;1;8;;;93;2.92;;;;;
+2024;fisica;Universidade Federal do Pará;PA;58;Federal;23;28.8;103;12.47;;;141;0.28;;;1;8;;;70;4.19;;;;;
+2024;fisica;Universidade Estadual Vale do Acaraú;CE;59;Estadual;23;28.8;106;12.25;;;121;1.38;;;1;8;;;94;2.87;;;;;
+2024;fisica;Universidade Federal do Cariri;CE;60;Federal;48;20.62;52;19.26;;;69;4.25;;;1;8;;;19;7.01;;;;;
+2024;fisica;Universidade Estadual de Ponta Grossa;PR;61;Estadual;48;20.62;57;18.7;;;76;3.86;;;1;8;;;22;6.84;;;;;
+2024;fisica;Universidade do Estado do Pará;PA;62;Estadual;23;28.8;115;10.27;;;141;0.28;;;1;8;;;110;1.99;;;;;
+2024;fisica;Universidade Federal de Ouro Preto;MG;63;Federal;48;20.62;60;18.37;;;62;4.63;;;1;8;;;42;5.74;;;;;
+2024;fisica;Universidade Estadual do Centro Oeste;PR;64;Estadual;48;20.62;61;18.2;;;41;5.79;;;1;8;;;66;4.41;;;;;
+2024;fisica;Universidade Federal de Jataí;GO;65;Federal;48;20.62;62;18.15;;;28;6.51;;;1;8;;;80;3.64;;;;;
+2024;fisica;Pontifícia Universidade Católica de Minas Gerais;MG;66;Privada;23;28.8;119;9.83;;;40;5.85;;;137;0.5;;;83;3.48;;;;;
+2024;fisica;Universidade Estadual do Sudoeste da Bahia;BA;67;Estadual;48;20.62;71;16.61;;;58;4.86;;;1;8;;;78;3.75;;;;;
+2024;fisica;Universidade Estadual de Goiás;GO;68;Estadual;48;20.62;72;16.5;;;86;3.31;;;1;8;;;52;5.19;;;;;
+2024;fisica;Universidade Estadual de Santa Cruz;BA;69;Estadual;48;20.62;77;15.89;;;59;4.8;;;1;8;;;90;3.09;;;;;
+2024;fisica;Universidade do Estado do Rio Grande do Norte;RN;70;Estadual;48;20.62;79;15.55;;;64;4.52;;;1;8;;;91;3.03;;;;;
+2024;fisica;Universidade Federal de Roraima;RR;71;Federal;48;20.62;81;15.39;;;103;2.37;;;1;8;;;55;5.02;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;72;Federal;48;20.62;82;15.17;;;74;3.97;;;1;8;;;88;3.2;;;;;
+2024;fisica;Universidade Católica de Pernambuco;PE;73;Privada;23;28.8;133;6.63;;;79;3.7;;;143;0.17;;;96;2.76;;;;;
+2024;fisica;Universidade Federal do Sul e Sudeste do Pará;PA;74;Federal;48;20.62;86;14.51;;;141;0.28;;;1;8;;;33;6.23;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;75;Federal;48;20.62;94;13.46;;;65;4.47;;;1;8;;;128;0.99;;;;;
+2024;fisica;Universidade Estadual de Alagoas;AL;76;Estadual;48;20.62;105;12.36;;;90;3.09;;;1;8;;;123;1.27;;;;;
+2024;fisica;Universidade Estadual do Maranhão;MA;77;Estadual;23;28.8;140;3.53;;;119;1.49;;;124;1.21;;;131;0.83;;;;;
+2024;fisica;Universidade Estadual da Paraíba;PB;78;Estadual;48;20.62;111;10.98;;;122;1.32;;;1;8;;;116;1.66;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;79;Federal;48;20.62;115;10.27;;;116;1.66;;;1;8;;;135;0.61;;;;;
+2024;fisica;Universidade Luterana do Brasil;RS;80;Privada;48;20.62;117;10.1;;;27;6.57;;;128;0.99;;;100;2.54;;;;;
+2024;fisica;Universidade do Estado do Amazonas;AM;81;Estadual;48;20.62;121;9.65;;;128;0.99;;;1;8;;;134;0.66;;;;;
+2024;fisica;Universidade Federal do Rio Grande;RS;82;Federal;83;9.16;49;20.2;;;31;6.35;;;1;8;;;40;5.85;;;;;
+2024;fisica;Universidade Federal de Alfenas;MG;83;Federal;83;9.16;50;20.03;;;51;5.24;;;1;8;;;23;6.79;;;;;
+2024;fisica;Universidade Estadual de Mato Grosso do Sul;MS;84;Estadual;48;20.62;126;8.5;;;85;3.37;;;138;0.44;;;61;4.69;;;;;
+2024;fisica;Universidade de Passo Fundo;RS;85;Privada;48;20.62;128;7.61;;;91;3.03;;;125;1.16;;;84;3.42;;;;;
+2024;fisica;Universidade Federal de Catalão;GO;86;Federal;83;9.16;55;18.76;;;73;4.03;;;1;8;;;24;6.73;;;;;
+2024;fisica;Universidade de Santa Cruz do Sul;RS;87;Privada;48;20.62;129;7.28;;;91;3.03;;;139;0.39;;;76;3.86;;;;;
+2024;fisica;Universidade Regional de Blumenau;SC;88;Municipal;48;20.62;130;7.23;;;67;4.36;;;145;0.06;;;95;2.81;;;;;
+2024;fisica;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;89;Federal;83;9.16;66;17.38;;;55;5.02;;;1;8;;;67;4.36;;;;;
+2024;fisica;Universidade Federal de Pelotas;RS;90;Federal;83;9.16;67;17.27;;;42;5.74;;;1;8;;;82;3.53;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;91;Federal;83;9.16;69;16.72;;;53;5.13;;;1;8;;;81;3.59;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;92;Federal;83;9.16;73;16.45;;;52;5.19;;;1;8;;;87;3.26;;;;;
+2024;fisica;Universidade Federal do Oeste da Bahia;BA;93;Federal;83;9.16;74;16.28;;;50;5.3;;;1;8;;;92;2.98;;;;;
+2024;fisica;Fundação Universidade Federal do Pampa;RS;94;Federal;83;9.16;83;15.01;;;117;1.6;;;1;8;;;48;5.41;;;;;
+2024;fisica;Centro Universitário Campos de Andrade;PR;95;Privada;83;9.16;85;14.56;;;37;6.01;;;1;8;;;136;0.55;;;;;
+2024;fisica;Universidade Federal do Acre;AC;96;Federal;83;9.16;87;14.4;;;77;3.81;;;1;8;;;99;2.59;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;97;Federal;83;9.16;89;14.07;;;67;4.36;;;1;8;;;115;1.71;;;;;
+2024;fisica;Fundação Universidade Federal de Rondônia;RO;98;Federal;83;9.16;93;13.74;;;132;0.77;;;1;8;;;56;4.97;;;;;
+2024;fisica;Universidade do Oeste de Santa Catarina;SC;99;Privada;83;9.16;95;13.24;;;91;3.03;;;1;8;;;106;2.21;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;100;Federal;83;9.16;96;12.91;;;98;2.65;;;1;8;;;105;2.26;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;101;Federal;83;9.16;98;12.81;;;87;3.26;;;1;8;;;118;1.55;;;;;
+2024;fisica;Universidade Federal do Triângulo Mineiro;MG;102;Federal;;;47;21.85;;;15;7.23;;;1;8;;;26;6.62;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;103;Federal;83;9.16;102;12.52;;;78;3.75;;;1;8;;;132;0.77;;;;;
+2024;fisica;Universidade Federal do Amapá;AP;104;Federal;83;9.16;104;12.47;;;100;2.54;;;1;8;;;111;1.93;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;105;Federal;83;9.16;108;12.03;;;112;1.88;;;1;8;;;107;2.15;;;;;
+2024;fisica;Universidade do Estado de Mato Grosso;MT;106;Estadual;83;9.16;112;10.87;;;139;0.39;;;1;8;;;101;2.48;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;107;Federal;83;9.16;113;10.81;;;101;2.48;;;1;8;;;140;0.33;;;;;
+2024;fisica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;108;Federal;;;51;19.53;;;66;4.41;;;1;8;;;17;7.12;;;;;
+2024;fisica;Centro Universitário Ages;BA;109;Privada;;;54;19.09;;;16;7.17;;;1;8;;;75;3.92;;;;;
+2024;fisica;Universidade Estadual da Região Tocantina do Maranhão;MA;110;Estadual;83;9.16;123;9.22;;;131;0.83;;;1;8;;;139;0.39;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;111;Federal;;;63;18.05;;;21;6.9;;;1;8;;;89;3.15;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;112;Federal;;;65;17.43;;;120;1.43;;;1;8;;;1;8;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;113;Federal;;;68;17.05;;;43;5.68;;;1;8;;;85;3.37;;;;;
+2024;fisica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;114;Federal;;;75;16.22;;;129;0.94;;;1;8;;;14;7.28;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;115;Federal;;;76;16;;;49;5.35;;;1;8;;;98;2.65;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;116;Federal;;;77;15.89;;;35;6.12;;;1;8;;;114;1.77;;;;;
+2024;fisica;Fundação Universidade Federal da Grande Dourados;MS;117;Federal;;;80;15.4;;;133;0.72;;;1;8;;;25;6.68;;;;;
+2024;fisica;Universidade do Extremo Sul Catarinense;SC;118;Privada;83;9.16;134;5.46;;;91;3.03;;;135;0.61;;;113;1.82;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;118;Federal;;;84;14.62;;;45;5.57;;;1;8;;;127;1.05;;;;;
+2024;fisica;Universidade Federal do Recôncavo da Bahia;BA;120;Federal;;;88;14.13;;;102;2.43;;;1;8;;;79;3.7;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;121;Federal;;;92;13.8;;;110;1.99;;;1;8;;;77;3.81;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;122;Federal;83;9.16;137;4.63;;;108;2.1;;;120;1.43;;;126;1.1;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;123;Federal;;;96;12.91;;;106;2.21;;;1;8;;;97;2.7;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;124;Federal;;;99;12.63;;;84;3.42;;;1;8;;;124;1.21;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;125;Federal;;;101;12.58;;;89;3.15;;;1;8;;;120;1.43;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;126;Federal;;;107;12.14;;;88;3.2;;;1;8;;;129;0.94;;;;;
+2024;fisica;Centro de Ensino Superior do Vale São Francisco;PE;127;Municipal;;;109;11.81;;;79;3.7;;;1;8;;;144;0.11;;;;;
+2024;fisica;Universidade do Estado de Minas Gerais;MG;128;Estadual;;;110;11.47;;;126;1.1;;;1;8;;;103;2.37;;;;;
+2024;fisica;Universidade Estadual de Roraima;RR;129;Estadual;83;9.16;144;1.55;;;141;0.28;;;131;0.83;;;138;0.44;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;130;Federal;;;118;10.09;;;124;1.21;;;1;8;;;130;0.88;;;;;
+2024;fisica;Universidade Federal da Fronteira Sul;SC;131;Federal;;;120;9.82;;;99;2.59;;;118;1.55;;;43;5.68;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;132;Federal;;;122;9.38;;;134;0.66;;;1;8;;;133;0.72;;;;;
+2024;fisica;Centro Universitário Campo Limpo Paulista;SP;133;Privada;;;124;8.89;;;135;0.61;;;1;8;;;141;0.28;;;;;
+2024;fisica;Centro Universitário Faema;RO;134;Privada;;;125;8.83;;;135;0.61;;;1;8;;;142;0.22;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;135;Federal;;;127;8.45;;;139;0.39;;;1;8;;;145;0.06;;;;;
+2024;fisica;Universidade Franciscana;RS;136;Privada;;;131;7;;;91;3.03;;;134;0.66;;;86;3.31;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;137;Federal;;;132;6.68;;;82;3.53;;;116;1.66;;;119;1.49;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;138;Federal;;;135;5.41;;;107;2.15;;;121;1.38;;;112;1.88;;;;;
+2024;fisica;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;139;Privada;;;136;4.64;;;104;2.32;;;142;0.22;;;108;2.1;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;140;Federal;;;138;4.53;;;129;0.94;;;123;1.27;;;104;2.32;;;;;
+2024;fisica;Universidade do Contestado;SC;141;Privada;;;139;3.86;;;91;3.03;;;140;0.33;;;137;0.5;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;142;Federal;;;141;3.26;;;141;0.28;;;117;1.6;;;121;1.38;;;;;
+2024;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;143;Federal;;;142;3.2;;;125;1.16;;;130;0.88;;;125;1.16;;;;;
+2024;fisica;Centro Universitário da Fundação Educacional de Barretos;SP;144;Privada;;;143;2.76;;;135;0.61;;;144;0.11;;;109;2.04;;;;;
+2024;fisica;Faculdade Mozarteum de São Paulo;SP;145;Privada;;;144;1.55;;;135;0.61;;;132;0.77;;;143;0.17;;;;;
+2025;fisica;Universidade de São Paulo;SP;1;Estadual;1;30;1;67.8;;;25;6.7;;;1;8;;;6;7.73;1;40;1;15;5.37
+2025;fisica;Universidade Estadual de Campinas;SP;2;Estadual;2;29.73;2;66.1;;;6;7.73;;;1;8;;;13;7.35;2;39;2;45;4.02
+2025;fisica;Universidade Federal de Minas Gerais;MG;3;Federal;5;28.91;3;65.55;;;3;7.89;;;1;8;;;11;7.46;3;38;3;41;4.2
+2025;fisica;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;29.73;4;63.27;;;18;7.08;;;1;8;;;44;5.68;3;38;4;34;4.51
+2025;fisica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;29.73;7;60.87;;;33;6.27;;;1;8;;;1;8;7;34;5;32;4.6
+2025;fisica;Universidade Federal do Rio Grande do Sul;RS;6;Federal;11;27.27;6;62.61;;;4;7.84;;;1;8;;;19;7.03;5;36;6;51;3.74
+2025;fisica;Universidade Federal de São Carlos;SP;7;Federal;5;28.91;8;59.2;;;12;7.41;;;1;8;;;8;7.62;7;34;7;86;2.17
+2025;fisica;Fundação Universidade Federal do ABC;SP;8;Federal;25;23.46;5;63.05;;;1;8;;;1;8;;;1;8;7;34;8;22;5.05
+2025;fisica;Universidade Federal de Pernambuco;PE;9;Federal;5;28.91;10;55.86;;;56;5.03;;;1;8;;;70;4.27;6;35;9;55;3.56
+2025;fisica;Universidade Federal de Santa Catarina;SC;10;Federal;11;27.27;11;55.24;;;17;7.14;;;1;8;;;9;7.57;11;30;10;78;2.53
+2025;fisica;Universidade Federal do Ceará;CE;11;Federal;5;28.91;13;52.8;;;32;6.32;;;1;8;;;54;5.14;11;30;11;60;3.34
+2025;fisica;Universidade Federal da Bahia;BA;12;Federal;5;28.91;15;52.33;;;7;7.68;;;1;8;;;63;4.65;15;26;12;1;6
+2025;fisica;Universidade Federal de Viçosa;MG;13;Federal;25;23.46;9;57.07;;;14;7.3;;;1;8;;;18;7.08;11;30;13;30;4.69
+2025;fisica;Universidade de Brasília;DF;14;Federal;11;27.27;18;50.89;;;29;6.49;;;1;8;;;41;5.84;15;26;14;33;4.56
+2025;fisica;Universidade Federal de Goiás;GO;15;Federal;11;27.27;19;50.88;;;39;5.95;;;1;8;;;22;6.87;15;26;15;44;4.06
+2025;fisica;Universidade Estadual de Maringá;PR;16;Estadual;11;27.27;24;48.6;;;81;3.68;;;1;8;;;58;4.92;15;26;16;1;6
+2025;fisica;Universidade Federal de Sergipe;SE;17;Federal;25;23.46;17;52.16;;;57;4.97;;;1;8;;;55;5.08;11;30;17;43;4.11
+2025;fisica;Universidade Federal Fluminense;RJ;18;Federal;11;27.27;26;47.95;;;22;6.87;;;1;8;;;28;6.54;15;26;18;122;0.54
+2025;fisica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;19;Privada;25;23.46;20;50.48;;;107;2.27;;;131;0.97;;;15;7.24;7;34;1;1;6
+2025;fisica;Universidade Estadual de Feira de Santana;BA;20;Estadual;11;27.27;30;46.14;;;59;4.87;;;1;8;;;73;4.11;15;26;19;64;3.16
+2025;fisica;Universidade Federal de Uberlândia;MG;21;Federal;25;23.46;22;49.54;;;63;4.65;;;1;8;;;16;7.19;15;26;20;52;3.7
+2025;fisica;Universidade Federal de Santa Maria;RS;22;Federal;25;23.46;23;48.81;;;47;5.51;;;1;8;;;7;7.68;15;26;21;98;1.62
+2025;fisica;Universidade do Estado do Rio de Janeiro;RJ;23;Estadual;5;28.91;36;42.82;;;30;6.43;;;123;1.41;;;42;5.78;15;26;22;63;3.2
+2025;fisica;Universidade Federal da Paraíba;PB;24;Federal;25;23.46;25;48.21;;;121;1.51;;;1;8;;;25;6.7;15;26;23;1;6
+2025;fisica;Pontifícia Universidade Católica do Paraná;PR;25;Privada;25;23.46;28;47.61;;;37;6.05;;;1;8;;;66;4.49;15;26;2;66;3.07
+2025;fisica;Universidade Federal de Juiz de Fora;MG;26;Federal;49;16.91;12;53.75;;;13;7.35;;;1;8;;;14;7.3;15;26;24;21;5.1
+2025;fisica;Universidade Federal do Maranhão;MA;27;Federal;25;23.46;29;46.87;;;75;4;;;1;8;;;75;4;15;26;25;26;4.87
+2025;fisica;Universidade Federal Rural de Pernambuco;PE;28;Federal;49;16.91;14;52.74;;;23;6.81;;;1;8;;;26;6.65;15;26;26;17;5.28
+2025;fisica;Universidade Federal do Piauí;PI;29;Federal;25;23.46;31;45.77;;;83;3.57;;;1;8;;;74;4.05;15;26;27;42;4.15
+2025;fisica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;30;Estadual;49;16.91;16;52.25;;;2;7.95;;;1;8;;;1;8;15;26;28;83;2.3
+2025;fisica;Universidade do Vale do Rio dos Sinos;RS;31;Privada;25;23.46;32;45.54;;;19;7.03;;;125;1.3;;;40;5.89;15;26;3;16;5.32
+2025;fisica;Universidade de Pernambuco;PE;32;Estadual;25;23.46;35;43.51;;;111;2.05;;;122;1.46;;;1;8;15;26;29;1;6
+2025;fisica;Universidade Federal do Espírito Santo;ES;33;Federal;49;16.91;21;49.61;;;44;5.68;;;1;8;;;37;6.05;15;26;30;48;3.88
+2025;fisica;Pontifícia Universidade Católica de Minas Gerais;MG;34;Privada;25;23.46;37;42.22;;;40;5.89;;;137;0.65;;;65;4.54;15;26;4;20;5.14
+2025;fisica;Universidade Federal de Campina Grande;PB;35;Federal;25;23.46;38;41.26;;;117;1.73;;;1;8;;;61;4.76;15;26;31;117;0.77
+2025;fisica;Universidade Regional do Cariri;CE;36;Estadual;49;16.91;27;47.62;;;126;1.24;;;1;8;;;31;6.38;15;26;32;1;6
+2025;fisica;Fundação Universidade do Estado de Santa Catarina;SC;37;Estadual;25;23.46;39;38.93;;;20;6.97;;;130;1.03;;;102;2.54;15;26;33;81;2.39
+2025;fisica;Universidade Federal de Mato Grosso do Sul;MS;38;Federal;49;16.91;33;44.76;;;34;6.22;;;116;1.78;;;46;5.57;15;26;34;19;5.19
+2025;fisica;Universidade de Caxias do Sul;RS;39;Privada;49;16.91;34;44.13;;;8;7.62;;;136;0.7;;;56;5.03;15;26;5;28;4.78
+2025;fisica;Universidade Federal do Paraná;PR;40;Federal;11;27.27;41;26.4;;;26;6.65;;;1;8;;;21;6.92;;;35;27;4.83
+2025;fisica;Universidade Estadual de Londrina;PR;41;Estadual;11;27.27;44;23.88;;;48;5.46;;;1;8;;;49;5.41;;;36;23;5.01
+2025;fisica;Universidade do Estado da Bahia;BA;42;Estadual;11;27.27;64;20.32;;;59;4.87;;;1;8;;;52;5.24;;;37;85;2.21
+2025;fisica;Universidade Estadual do Ceará;CE;43;Estadual;11;27.27;68;20.05;;;114;1.89;;;1;8;;;72;4.16;;;38;1;6
+2025;fisica;Universidade Federal de Mato Grosso;MT;44;Federal;25;23.46;51;22.09;;;72;4.16;;;1;8;;;38;6;;;39;47;3.93
+2025;fisica;Universidade Federal do Pará;PA;45;Federal;11;27.27;77;18;;;144;0.27;;;1;8;;;69;4.32;;;40;14;5.41
+2025;fisica;Universidade Federal do Amazonas;AM;46;Federal;25;23.46;55;21.12;;;70;4.27;;;1;8;;;67;4.43;;;41;36;4.42
+2025;fisica;Universidade Federal de Alagoas;AL;47;Federal;25;23.46;59;20.6;;;100;2.65;;;1;8;;;51;5.3;;;42;31;4.65
+2025;fisica;Universidade Federal do Rio Grande do Norte;RN;48;Federal;25;23.46;63;20.41;;;71;4.22;;;1;8;;;35;6.16;;;43;89;2.03
+2025;fisica;Pontifícia Universidade Católica de Goiás;GO;49;Privada;11;27.27;102;14.65;;;54;5.14;;;124;1.35;;;89;3.24;;;6;25;4.92
+2025;fisica;Universidade Federal de Lavras;MG;50;Federal;49;16.91;42;24.5;;;11;7.46;;;1;8;;;10;7.51;;;44;100;1.53
+2025;fisica;Universidade Federal de São João Del Rei;MG;51;Federal;49;16.91;43;24.26;;;5;7.78;;;1;8;;;23;6.81;;;45;97;1.67
+2025;fisica;Universidade Federal Rural do Rio de Janeiro;RJ;52;Federal;49;16.91;45;23.87;;;9;7.57;;;1;8;;;34;6.22;;;46;88;2.08
+2025;fisica;Universidade Federal de Itajubá;MG;53;Federal;49;16.91;47;23.74;;;24;6.76;;;1;8;;;48;5.46;;;47;56;3.52
+2025;fisica;Universidade Estadual de Ponta Grossa;PR;54;Estadual;49;16.91;48;23.52;;;76;3.95;;;1;8;;;36;6.11;;;48;13;5.46
+2025;fisica;Universidade Estadual do Piauí;PI;55;Estadual;25;23.46;86;16.73;;;118;1.68;;;1;8;;;92;3.08;;;49;46;3.97
+2025;fisica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;56;Privada;11;27.27;117;12.75;;;10;7.51;;;141;0.43;;;60;4.81;;;7;;
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;57;Federal;93;4.91;40;34.83;;;46;5.57;;;127;1.19;;;120;1.57;15;26;50;123;0.5
+2025;fisica;Universidade do Estado do Pará;PA;58;Estadual;25;23.46;92;16.27;;;144;0.27;;;1;8;;;112;2;;;51;1;6
+2025;fisica;Universidade Estadual do Centro Oeste;PR;59;Estadual;49;16.91;53;21.53;;;41;5.84;;;1;8;;;71;4.22;;;52;57;3.47
+2025;fisica;Universidade Estadual da Paraíba;PB;60;Estadual;25;23.46;101;14.87;;;125;1.3;;;1;8;;;126;1.24;;;53;38;4.33
+2025;fisica;Universidade Federal de Catalão;GO;61;Federal;49;16.91;57;20.86;;;73;4.11;;;1;8;;;43;5.73;;;54;67;3.02
+2025;fisica;Universidade Federal do Oeste da Bahia;BA;62;Federal;49;16.91;58;20.84;;;50;5.35;;;1;8;;;78;3.84;;;55;53;3.65
+2025;fisica;Universidade Federal de Alfenas;MG;63;Federal;49;16.91;61;20.51;;;51;5.3;;;1;8;;;24;6.76;;;56;124;0.45
+2025;fisica;Universidade Federal de Jataí;GO;64;Federal;49;16.91;66;20.15;;;28;6.54;;;1;8;;;82;3.62;;;57;90;1.99
+2025;fisica;Universidade Federal de Ouro Preto;MG;65;Federal;49;16.91;67;20.06;;;62;4.7;;;1;8;;;32;6.32;;;58;111;1.04
+2025;fisica;Universidade Estadual do Maranhão;MA;66;Estadual;25;23.46;114;13.36;;;122;1.46;;;1;8;;;132;0.92;;;59;68;2.98
+2025;fisica;Universidade Federal do Cariri;CE;67;Federal;49;16.91;71;18.81;;;69;4.32;;;1;8;;;29;6.49;;;60;;
+2025;fisica;Universidade Estadual do Sudoeste da Bahia;BA;68;Estadual;49;16.91;74;18.41;;;58;4.92;;;1;8;;;80;3.73;;;61;95;1.76
+2025;fisica;Universidade do Estado do Rio Grande do Norte;RN;69;Estadual;49;16.91;79;17.39;;;64;4.6;;;1;8;;;108;2.22;;;62;77;2.57
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;70;Federal;49;16.91;80;17.29;;;52;5.24;;;1;8;;;79;3.78;;;63;128;0.27
+2025;fisica;Universidade Federal do Sul e Sudeste do Pará;PA;71;Federal;49;16.91;81;17.2;;;144;0.27;;;1;8;;;33;6.27;;;64;75;2.66
+2025;fisica;Universidade Estadual de Goiás;GO;72;Estadual;49;16.91;82;17.15;;;86;3.41;;;1;8;;;47;5.51;;;65;129;0.23
+2025;fisica;Universidade Estadual de Santa Cruz;BA;73;Estadual;49;16.91;83;17.12;;;59;4.87;;;1;8;;;87;3.35;;;66;114;0.9
+2025;fisica;Universidade Federal do Acre;AC;74;Federal;49;16.91;85;16.74;;;77;3.89;;;1;8;;;86;3.41;;;67;102;1.44
+2025;fisica;Universidade do Oeste de Santa Catarina;SC;75;Privada;49;16.91;88;16.57;;;93;3.03;;;1;8;;;110;2.11;;;8;58;3.43
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;76;Federal;49;16.91;89;16.55;;;74;4.05;;;1;8;;;101;2.6;;;68;92;1.9
+2025;fisica;Fundação Universidade Federal da Grande Dourados;MS;77;Federal;49;16.91;90;16.52;;;136;0.7;;;1;8;;;27;6.6;;;69;107;1.22
+2025;fisica;Universidade Estadual Vale do Acaraú;CE;78;Estadual;49;16.91;94;16.04;;;124;1.35;;;1;8;;;113;1.95;;;70;29;4.74
+2025;fisica;Universidade Estadual de Mato Grosso do Sul;MS;79;Estadual;49;16.91;99;15.12;;;85;3.46;;;140;0.49;;;45;5.62;;;71;11;5.55
+2025;fisica;Universidade do Estado do Amazonas;AM;80;Estadual;49;16.91;100;14.96;;;131;0.97;;;1;8;;;135;0.76;;;72;18;5.23
+2025;fisica;Universidade Católica de Pernambuco;PE;81;Privada;25;23.46;135;7.87;;;79;3.78;;;145;0.22;;;95;2.92;;;9;113;0.95
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;82;Federal;49;16.91;107;14.23;;;65;4.54;;;1;8;;;131;0.97;;;73;118;0.72
+2025;fisica;Universidade Regional de Blumenau;SC;83;Municipal;49;16.91;108;13.84;;;67;4.43;;;147;0.11;;;88;3.3;;;74;1;6
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;84;Federal;49;16.91;109;13.65;;;87;3.35;;;1;8;;;119;1.62;;;75;119;0.68
+2025;fisica;Universidade Federal do Amapá;AP;85;Federal;49;16.91;110;13.51;;;103;2.49;;;1;8;;;114;1.89;;;76;109;1.13
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;86;Federal;49;16.91;112;13.41;;;104;2.43;;;1;8;;;144;0.27;;;77;74;2.71
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;87;Federal;49;16.91;116;12.76;;;119;1.62;;;1;8;;;136;0.7;;;78;80;2.44
+2025;fisica;Universidade Estadual de Alagoas;AL;88;Estadual;49;16.91;118;12.72;;;92;3.08;;;1;8;;;122;1.46;;;79;130;0.18
+2025;fisica;Universidade de Passo Fundo;RS;89;Privada;49;16.91;126;11.37;;;93;3.03;;;133;0.87;;;81;3.68;;;10;50;3.79
+2025;fisica;Universidade Estadual da Região Tocantina do Maranhão;MA;90;Estadual;49;16.91;128;10.72;;;134;0.81;;;1;8;;;138;0.6;;;80;105;1.31
+2025;fisica;Universidade Luterana do Brasil;RS;91;Privada;49;16.91;130;9.95;;;27;6.6;;;129;1.08;;;107;2.27;;;11;;
+2025;fisica;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;92;Estadual;49;16.91;131;9.89;;;142;0.38;;;1;8;;;121;1.51;;;81;;
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;93;Federal;93;4.91;52;21.61;;;53;5.19;;;1;8;;;85;3.46;;;82;24;4.96
+2025;fisica;Universidade Federal do Rio Grande;RS;94;Federal;93;4.91;56;20.96;;;31;6.38;;;1;8;;;39;5.95;;;83;120;0.63
+2025;fisica;Universidade Tecnológica Federal do Paraná;PR;95;Federal;93;4.91;62;20.43;;;35;6.16;;;1;8;;;59;4.87;;;84;103;1.4
+2025;fisica;Universidade Federal do Triângulo Mineiro;MG;96;Federal;;;46;23.79;;;15;7.24;;;1;8;;;20;6.97;;;85;99;1.58
+2025;fisica;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;97;Federal;93;4.91;71;18.81;;;55;5.08;;;1;8;;;68;4.38;;;86;104;1.35
+2025;fisica;Universidade Federal de Pelotas;RS;98;Federal;93;4.91;76;18.21;;;42;5.78;;;1;8;;;83;3.57;;;87;115;0.86
+2025;fisica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;99;Federal;;;49;22.74;;;66;4.49;;;1;8;;;17;7.14;;;88;65;3.11
+2025;fisica;Universidade Católica de Brasília;DF;100;Privada;49;16.91;141;5.62;;;116;1.78;;;128;1.14;;;99;2.7;;;12;;
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;101;Federal;;;50;22.12;;;21;6.92;;;1;8;;;76;3.95;;;89;62;3.25
+2025;fisica;Universidade Federal do Recôncavo da Bahia;BA;102;Federal;93;4.91;86;16.73;;;105;2.38;;;1;8;;;84;3.51;;;90;71;2.84
+2025;fisica;Universidade Federal de Roraima;RR;103;Federal;;;54;21.17;;;106;2.32;;;1;8;;;50;5.35;;;91;12;5.5
+2025;fisica;Universidade Federal Rural do Semi-árido;RN;104;Federal;93;4.91;93;16.05;;;87;3.35;;;1;8;;;62;4.7;;;92;;
+2025;fisica;Universidade do Estado de Minas Gerais;MG;105;Estadual;93;4.91;95;15.93;;;129;1.08;;;1;8;;;105;2.38;;;93;35;4.47
+2025;fisica;Fundação Universidade Federal do Pampa;RS;106;Federal;93;4.91;96;15.75;;;120;1.57;;;1;8;;;53;5.19;;;94;112;0.99
+2025;fisica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;107;Federal;;;60;20.57;;;132;0.92;;;1;8;;;12;7.41;;;95;40;4.24
+2025;fisica;Universidade Federal do Norte do Tocantins;TO;108;Federal;;;65;20.22;;;89;3.24;;;1;8;;;64;4.6;;;96;37;4.38
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;109;Federal;93;4.91;97;15.27;;;78;3.84;;;1;8;;;134;0.81;;;97;76;2.62
+2025;fisica;Centro Universitário Campos de Andrade;PR;110;Privada;93;4.91;103;14.59;;;37;6.05;;;1;8;;;139;0.54;;;13;;
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;111;Federal;;;69;19.46;;;49;5.41;;;1;8;;;98;2.76;;;98;61;3.29
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;112;Federal;;;70;19.34;;;43;5.73;;;1;8;;;97;2.81;;;99;72;2.8
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;113;Federal;;;73;18.74;;;35;6.16;;;1;8;;;106;2.32;;;100;84;2.26
+2025;fisica;Centro Universitário Ages;BA;114;Privada;93;4.91;113;13.39;;;16;7.19;;;139;0.54;;;111;2.05;;;14;54;3.61
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;115;Federal;;;75;18.22;;;123;1.41;;;1;8;;;1;8;;;101;116;0.81
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;116;Federal;;;77;18;;;67;4.43;;;1;8;;;117;1.73;;;102;49;3.84
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;117;Federal;93;4.91;119;12.69;;;115;1.84;;;1;8;;;103;2.49;;;103;126;0.36
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;118;Federal;93;4.91;121;12.16;;;89;3.24;;;1;8;;;133;0.87;;;104;133;0.05
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;119;Federal;;;84;16.86;;;45;5.62;;;1;8;;;125;1.3;;;105;91;1.94
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;120;Federal;;;91;16.32;;;113;1.95;;;1;8;;;77;3.89;;;106;79;2.48
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;121;Federal;;;98;15.24;;;91;3.14;;;1;8;;;124;1.35;;;107;73;2.75
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;122;Federal;;;104;14.41;;;84;3.51;;;1;8;;;127;1.19;;;108;96;1.71
+2025;fisica;Fundação Universidade Federal de Rondônia;RO;123;Federal;;;105;14.32;;;135;0.76;;;1;8;;;57;4.97;;;109;121;0.59
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;124;Federal;;;106;14.24;;;132;0.92;;;1;8;;;104;2.43;;;110;70;2.89
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;125;Federal;;;111;13.44;;;109;2.16;;;1;8;;;96;2.87;;;111;125;0.41
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;126;Federal;93;4.91;134;8.27;;;82;3.62;;;117;1.73;;;115;1.84;;;112;110;1.08
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;127;Federal;;;115;13.08;;;101;2.6;;;1;8;;;109;2.16;;;113;127;0.32
+2025;fisica;Universidade do Extremo Sul Catarinense;SC;128;Privada;;;120;12.49;;;93;3.03;;;135;0.76;;;99;2.7;;;15;1;6
+2025;fisica;Universidade Estadual de Montes Claros;MG;129;Estadual;;;122;12.11;;;129;1.08;;;1;8;;;93;3.03;;;114;;
+2025;fisica;Universidade Federal da Fronteira Sul;SC;130;Federal;;;123;12.08;;;102;2.54;;;119;1.62;;;30;6.43;;;115;101;1.49
+2025;fisica;Centro de Ensino Superior do Vale São Francisco;PE;131;Municipal;;;124;12.03;;;79;3.78;;;1;8;;;147;0.11;;;116;131;0.14
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;132;Federal;;;125;11.48;;;127;1.19;;;1;8;;;130;1.03;;;117;106;1.26
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;133;Federal;93;4.91;139;6.51;;;111;2.05;;;120;1.57;;;129;1.08;;;118;94;1.81
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;134;Federal;;;127;11.32;;;137;0.65;;;1;8;;;143;0.32;;;119;82;2.35
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;135;Federal;;;129;10.55;;;142;0.38;;;1;8;;;148;0.05;;;120;87;2.12
+2025;fisica;Centro Universitário Campo Limpo Paulista;SP;136;Privada;93;4.91;143;5.43;;;138;0.6;;;142;0.38;;;146;0.16;;;16;39;4.29
+2025;fisica;Centro Universitário Faema;RO;137;Privada;;;132;9.14;;;138;0.6;;;1;8;;;139;0.54;;;17;;
+2025;fisica;Universidade Estadual de Roraima;RR;138;Estadual;;;133;8.81;;;144;0.27;;;1;8;;;139;0.54;;;121;;
+2025;fisica;Faculdade Souza Marques;RJ;139;Privada;;;136;7.2;;;107;2.27;;;143;0.32;;;118;1.68;;;18;69;2.93
+2025;fisica;Universidade Franciscana;RS;140;Privada;;;137;7.12;;;93;3.03;;;134;0.81;;;90;3.19;;;19;132;0.09
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;141;Federal;;;138;6.9;;;128;1.14;;;126;1.24;;;128;1.14;;;122;59;3.38
+2025;fisica;Universidade de Santa Cruz do Sul;RS;142;Privada;;;140;6.44;;;93;3.03;;;144;0.27;;;91;3.14;;;20;;
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;143;Federal;;;142;5.58;;;144;0.27;;;118;1.68;;;116;1.78;;;123;93;1.85
+2025;fisica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;144;Federal;;;144;5.03;;;110;2.11;;;121;1.51;;;123;1.41;;;124;;
+2025;fisica;Centro Universitário da Fundação Educacional de Barretos;SP;145;Privada;;;145;4.9;;;138;0.6;;;146;0.16;;;94;2.97;;;21;108;1.17
+2025;fisica;Universidade do Contestado;SC;146;Privada;;;146;4.28;;;93;3.03;;;138;0.6;;;137;0.65;;;22;;
+2025;fisica;Universidade do Sul de Santa Catarina;SC;147;Privada;;;147;3.62;;;93;3.03;;;148;0.05;;;139;0.54;;;23;;
+2025;fisica;Faculdade Mozarteum de São Paulo;SP;148;Privada;;;148;1.74;;;138;0.6;;;132;0.92;;;145;0.22;;;24;;

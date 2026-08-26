@@ -1,0 +1,1167 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;comunicacao;Universidade Federal do Rio Grande do Sul;RS;1;Federal;4;34.84;4;59.84;9;7.79;16;7.48;;;1;8;4;36.57;;;;;;;
+2019;comunicacao;Universidade Federal de Minas Gerais;MG;2;Federal;9;32.9;2;60.2;7;7.84;7;7.79;;;1;8;4;36.57;;;;;;;
+2019;comunicacao;Universidade Federal de Santa Catarina;SC;3;Federal;9;32.9;5;59.74;27;7.31;5;7.86;;;1;8;4;36.57;;;;;;;
+2019;comunicacao;Universidade de São Paulo;SP;4;Estadual;1;36;6;56.35;1;8;201-250;0.35;;;1;8;1;40;;;;;;;
+2019;comunicacao;Faculdade Cásper Líbero;SP;5;Privada;1;36;9;53.66;51;6.68;9;7.72;;;251-300;0.4;2;38.86;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica de São Paulo;SP;6;Privada;9;32.9;7;56.22;42;6.92;40;6.66;;;74;6.07;4;36.57;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;7;Privada;4;34.84;8;54;47;6.79;42;6.59;;;150;4.05;4;36.57;;;;;;;
+2019;comunicacao;Universidade Federal do Rio de Janeiro;RJ;8;Federal;25;26.71;1;60.4;4;7.92;70;5.62;;;1;8;2;38.86;;;;;;;
+2019;comunicacao;Universidade de Brasília;DF;9;Federal;25;26.71;3;60.04;12;7.71;8;7.76;;;1;8;4;36.57;;;;;;;
+2019;comunicacao;Universidade Federal do Paraná;PR;10;Federal;9;32.9;10;52.14;16;7.6;2;7.97;;;1;8;11;28.57;;;;;;;
+2019;comunicacao;Escola Superior de Propaganda e Marketing;SP;11;Privada;4;34.84;12;47.94;74;6.07;123;3.79;;;201-250;1.51;4;36.57;;;;;;;
+2019;comunicacao;Universidade Presbiteriana Mackenzie;SP;12;Privada;1;36;15;43.09;37;7.05;81;5.24;;;201-250;2.23;11;28.57;;;;;;;
+2019;comunicacao;Universidade Federal da Bahia;BA;13;Federal;25;26.71;11;51.96;24;7.39;1;8;;;1;8;11;28.57;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica de Minas Gerais;MG;14;Privada;9;32.9;14;43.52;104;5.28;74;5.48;;;145;4.19;11;28.57;;;;;;;
+2019;comunicacao;Universidade Federal do Ceará;CE;15;Federal;9;32.9;17;41.06;19;7.53;23;7.24;;;1;8;20;18.29;;;;;;;
+2019;comunicacao;Universidade Metodista de São Paulo;SP;16;Privada;9;32.9;20;40.39;149;4.09;124;3.76;;;153;3.97;11;28.57;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;17;Privada;9;32.9;23;38.91;135;4.46;98;4.66;;;251-300;1.22;11;28.57;;;;;;;
+2019;comunicacao;Universidade do Vale do Rio dos Sinos;RS;18;Privada;9;32.9;24;36.73;38;7.02;54;6.17;;;105;5.25;20;18.29;;;;;;;
+2019;comunicacao;Faculdade de Comunicação e Marketing da Fundação Armando Álvares Penteado;SP;19;Privada;9;32.9;28;34.38;87;5.73;;;;;251-300;0.08;11;28.57;;;;;;;
+2019;comunicacao;Universidade Estadual de Londrina;PR;20;Estadual;25;26.71;19;40.49;34;7.13;28;7.07;;;1;8;20;18.29;;;;;;;
+2019;comunicacao;Universidade Federal de Santa Maria;RS;21;Federal;25;26.71;22;39.54;14;7.66;71;5.59;;;1;8;20;18.29;;;;;;;
+2019;comunicacao;Universidade Paulista;SP;22;Privada;9;32.9;31;33.12;201-250;2.61;37;6.76;;;97;5.46;20;18.29;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica do Paraná;PR;23;Privada;4;34.84;33;30.29;170;3.54;53;6.21;;;201-250;2.25;20;18.29;;;;;;;
+2019;comunicacao;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;24;Privada;25;26.71;25;36.55;41;6.94;4;7.9;;;174;3.42;20;18.29;;;;;;;
+2019;comunicacao;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;25;Privada;25;26.71;29;34.26;83;5.84;3;7.93;;;201-250;2.2;20;18.29;;;;;;;
+2019;comunicacao;Universidade Nove de Julho;SP;26;Privada;25;26.71;30;33.2;35;7.1;163;2.41;;;99;5.4;20;18.29;;;;;;;
+2019;comunicacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;27;Estadual;25;26.71;32;31.94;6;7.87;201-250;0.35;;;98;5.43;20;18.29;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica de Campinas;SP;28;Privada;25;26.71;35;27.85;70;6.18;155;2.69;;;251-300;0.69;20;18.29;;;;;;;
+2019;comunicacao;Universidade do Estado do Rio de Janeiro;RJ;29;Estadual;72;8.52;16;41.99;10;7.76;201-250;0.1;;;93;5.56;11;28.57;;;;;;;
+2019;comunicacao;Universidade Federal de Uberlândia;MG;30;Federal;25;26.71;36;23.55;5;7.89;11;7.66;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal de Pernambuco;PE;31;Federal;25;26.71;38;23.33;20;7.5;6;7.83;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Positivo;PR;32;Privada;9;32.9;65;16.91;97;5.47;21;7.31;;;147;4.13;;;;;;;;;
+2019;comunicacao;Universidade Federal de Mato Grosso;MT;33;Federal;9;32.9;66;16.7;45;6.84;179;1.86;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal do Espírito Santo;ES;34;Federal;25;26.71;42;22.14;39;7;26;7.14;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade de Ribeirão Preto;SP;35;Privada;25;26.71;44;21.73;48;6.76;31;6.97;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal do Pará;PA;36;Federal;25;26.71;45;21.53;32;7.18;49;6.35;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Anhembi Morumbi;SP;37;Privada;4;34.84;124;13.15;40;6.97;156;2.66;;;170;3.52;;;;;;;;;
+2019;comunicacao;Universidade Federal de Goiás;GO;38;Federal;25;26.71;46;21.24;64;6.34;33;6.9;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário de Brasília;DF;39;Privada;9;32.9;128;13.04;81;5.89;48;6.38;;;251-300;0.77;;;;;;;;;
+2019;comunicacao;Universidade Federal da Paraíba;PB;40;Federal;25;26.71;52;19.21;66;6.28;90;4.93;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade de Fortaleza;CE;41;Privada;9;32.9;134;12.54;129;4.62;130;3.55;;;138;4.37;;;;;;;;;
+2019;comunicacao;Universidade Vila Velha;ES;42;Privada;25;26.71;56;17.8;68;6.23;25;7.17;;;137;4.4;;;;;;;;;
+2019;comunicacao;Universidade Estadual de Campinas;SP;43;Estadual;;;13;44.31;11;7.74;;;;;1;8;11;28.57;;;;;;;
+2019;comunicacao;Universidade Feevale;RS;44;Privada;25;26.71;59;17.48;57;6.52;89;4.97;;;77;5.99;;;;;;;;;
+2019;comunicacao;Universidade Pitágoras Unopar Anhanguera;PR;45;Privada;9;32.9;164;10.57;251-300;0.71;76;5.41;;;135;4.45;;;;;;;;;
+2019;comunicacao;Universidade do Estado da Bahia;BA;46;Estadual;25;26.71;67;16.53;124;4.75;69;5.66;;;72;6.12;;;;;;;;;
+2019;comunicacao;Fundação Universidade Federal de Rondônia;RO;47;Federal;25;26.71;71;16.41;52;6.65;182;1.76;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário de Belo Horizonte;MG;48;Privada;25;26.71;74;16.33;71;6.15;86;5.07;;;110;5.11;;;;;;;;;
+2019;comunicacao;Centro Universitário Faesa;ES;49;Privada;25;26.71;78;16.25;190;3.01;22;7.28;;;78;5.96;;;;;;;;;
+2019;comunicacao;Universidade Católica Dom Bosco;MS;50;Privada;25;26.71;84;15.39;173;3.46;119;3.93;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário do Instituto de Educação Superior de Brasília;DF;51;Privada;25;26.71;88;15.21;178;3.33;43;6.55;;;102;5.33;;;;;;;;;
+2019;comunicacao;Universidade de Santa Cruz do Sul;RS;52;Privada;25;26.71;92;15.01;59;6.47;30;7;;;201-250;1.54;;;;;;;;;
+2019;comunicacao;Centro Universitário Adventista de São Paulo;SP;53;Privada;25;26.71;94;14.91;111;5.1;56;6.1;;;163;3.71;;;;;;;;;
+2019;comunicacao;Universidade Tuiuti do Paraná;PR;54;Privada;25;26.71;99;14.6;84;5.81;121;3.86;;;117;4.93;;;;;;;;;
+2019;comunicacao;Centro Universitário Jorge Amado;BA;55;Privada;25;26.71;101;14.42;132;4.54;34;6.86;;;189;3.02;;;;;;;;;
+2019;comunicacao;Universidade Federal de Juiz de Fora;MG;56;Federal;;;18;41.04;30;7.23;15;7.52;;;1;8;20;18.29;;;;;;;
+2019;comunicacao;Centro Universitário Una;MG;57;Privada;25;26.71;106;14.01;123;4.78;80;5.28;;;154;3.95;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio de Santa Catarina;SC;58;Privada;25;26.71;107;13.98;130;4.59;72;5.55;;;158;3.84;;;;;;;;;
+2019;comunicacao;Universidade Federal de Alagoas;AL;59;Federal;25;26.71;119;13.34;49;6.73;201-250;0.52;;;73;6.09;;;;;;;;;
+2019;comunicacao;Centro Universitário Fanor Wyden;CE;59;Privada;25;26.71;119;13.34;159;3.83;110;4.24;;;104;5.27;;;;;;;;;
+2019;comunicacao;Universidade Estadual de Ponta Grossa;PR;61;Estadual;;;21;39.9;21;7.47;55;6.14;;;1;8;20;18.29;;;;;;;
+2019;comunicacao;Universidade do Sul de Santa Catarina;SC;62;Privada;25;26.71;127;13.05;157;3.88;83;5.17;;;152;4;;;;;;;;;
+2019;comunicacao;Universidade Estácio de Sá;RJ;63;Privada;25;26.71;137;12.49;118;4.91;150;2.86;;;125;4.72;;;;;;;;;
+2019;comunicacao;Universidade Católica de Pernambuco;PE;64;Privada;25;26.71;162;10.82;102;5.33;120;3.9;;;201-250;1.59;;;;;;;;;
+2019;comunicacao;Pontifícia Universidade Católica de Goiás;GO;65;Privada;25;26.71;172;9.93;82;5.86;168;2.24;;;201-250;1.83;;;;;;;;;
+2019;comunicacao;Universidade da Amazônia;PA;66;Privada;25;26.71;187;9.19;158;3.86;133;3.45;;;201-250;1.88;;;;;;;;;
+2019;comunicacao;Universidade de Caxias do Sul;RS;67;Privada;;;26;35.83;63;6.36;27;7.1;;;149;4.08;20;18.29;;;;;;;
+2019;comunicacao;Universidade Anhanguera;MS;68;Privada;25;26.71;188;9.11;251-300;1.37;147;2.97;;;123;4.77;;;;;;;;;
+2019;comunicacao;Centro Universitário Assis Gurgacz;PR;69;Privada;25;26.71;198;8.55;251-300;0.98;61;5.93;;;201-250;1.64;;;;;;;;;
+2019;comunicacao;Faculdades Integradas Hélio Alonso;RJ;70;Privada;25;26.71;200;8.47;128;4.65;176;1.97;;;201-250;1.85;;;;;;;;;
+2019;comunicacao;Universidade Federal Fluminense;RJ;71;Federal;;;27;34.51;15;7.63;201-250;0.59;;;1;8;20;18.29;;;;;;;
+2019;comunicacao;Universidade de Cuiabá;MT;72;Privada;25;26.71;201-250;6.87;251-300;1.14;106;4.38;;;251-300;1.35;;;;;;;;;
+2019;comunicacao;Faculdade Estácio de Florianópolis;SC;73;Privada;25;26.71;201-250;6.21;188;3.06;;;;;184;3.15;;;;;;;;;
+2019;comunicacao;Centro Universitário Unic;MT;74;Privada;25;26.71;201-250;6.14;201-250;2.35;201-250;0.21;;;168;3.58;;;;;;;;;
+2019;comunicacao;Centro Universitário do Triângulo;MG;75;Privada;25;26.71;201-250;6.04;251-300;0.87;192;1.41;;;161;3.76;;;;;;;;;
+2019;comunicacao;Centro Universitário de Barra Mansa;RJ;76;Privada;25;26.71;251-300;4.6;194;2.9;;;;;201-250;1.7;;;;;;;;;
+2019;comunicacao;Universidade Salvador;BA;77;Privada;25;26.71;251-300;4.5;201-250;2.51;;;;;201-250;1.99;;;;;;;;;
+2019;comunicacao;Universidade Federal do Rio Grande do Norte;RN;78;Federal;72;8.52;43;21.79;18;7.55;52;6.24;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Internacional;PR;79;Privada;;;34;29.25;133;4.52;172;2.1;;;139;4.34;20;18.29;;;;;;;
+2019;comunicacao;Centro Universitário de Volta Redonda;RJ;80;Privada;72;8.52;61;17.27;43;6.89;164;2.38;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade São Judas Tadeu;SP;81;Privada;72;8.52;75;16.31;56;6.55;46;6.45;;;178;3.31;;;;;;;;;
+2019;comunicacao;Universidade Federal de Sergipe;SE;82;Federal;72;8.52;79;16.23;85;5.78;162;2.45;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Sete de Setembro;CE;83;Privada;72;8.52;83;15.46;148;4.12;64;5.83;;;95;5.51;;;;;;;;;
+2019;comunicacao;Universidade Federal de São João Del Rei;MG;84;Federal;;;37;23.42;2;7.97;17;7.45;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Estadual do Centro Oeste;PR;85;Estadual;;;39;22.88;29;7.26;12;7.62;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal de Viçosa;MG;86;Federal;;;40;22.77;23;7.42;20;7.35;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Favip Wyden;PE;87;Privada;72;8.52;112;13.77;103;5.31;159;2.55;;;80;5.91;;;;;;;;;
+2019;comunicacao;Universidade Federal de Ouro Preto;MG;88;Federal;;;41;22.16;25;7.37;36;6.79;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade de Mogi das Cruzes;SP;89;Privada;72;8.52;116;13.56;160;3.8;105;4.41;;;101;5.35;;;;;;;;;
+2019;comunicacao;Universidade Veiga de Almeida;RJ;90;Privada;72;8.52;125;13.13;44;6.87;132;3.48;;;198;2.78;;;;;;;;;
+2019;comunicacao;Universidade Federal de Pelotas;RS;91;Federal;;;47;21.06;13;7.68;77;5.38;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal do Maranhão;MA;92;Federal;;;48;20.88;46;6.81;57;6.07;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal Rural do Rio de Janeiro;RJ;93;Federal;;;49;20.54;3;7.95;100;4.59;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal do Recôncavo da Bahia;BA;94;Federal;;;50;20.31;22;7.45;92;4.86;;;1;8;;;;;;;;;
+2019;comunicacao;Fundação Universidade Federal do Tocantins;TO;95;Federal;;;51;20.18;36;7.08;85;5.1;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio de Belo Horizonte;MG;96;Privada;72;8.52;150;11.64;163;3.72;143;3.1;;;121;4.82;;;;;;;;;
+2019;comunicacao;Fundação Universidade Federal do Pampa;RS;97;Federal;;;53;18.68;33;7.16;131;3.52;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Fumec;MG;98;Privada;72;8.52;175;9.83;99;5.41;194;1.35;;;187;3.07;;;;;;;;;
+2019;comunicacao;Universidade Cesumar;PR;99;Privada;;;54;18.22;77;5.99;19;7.38;;;120;4.85;;;;;;;;;
+2019;comunicacao;Universidade de Sorocaba;SP;100;Privada;72;8.52;179;9.6;108;5.18;118;3.97;;;251-300;0.45;;;;;;;;;
+2019;comunicacao;Universidade Tiradentes;SE;101;Privada;72;8.52;180;9.55;161;3.78;170;2.17;;;167;3.6;;;;;;;;;
+2019;comunicacao;Universidade Municipal de São Caetano do Sul;SP;102;Municipal;72;8.52;182;9.4;90;5.65;134;3.41;;;251-300;0.34;;;;;;;;;
+2019;comunicacao;Universidade Católica de Santos;SP;103;Privada;;;55;17.91;53;6.63;138;3.28;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade do Estado de Minas Gerais;MG;104;Estadual;72;8.52;184;9.27;201-250;2.24;60;5.97;;;251-300;1.06;;;;;;;;;
+2019;comunicacao;Centro Universitário FBV Wyden;PE;105;Privada;;;57;17.76;86;5.76;117;4;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade do Oeste Paulista;SP;106;Privada;;;58;17.53;60;6.44;58;6.03;;;112;5.06;;;;;;;;;
+2019;comunicacao;Universidade Federal do Acre;AC;107;Federal;;;60;17.43;75;6.05;135;3.38;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade do Vale do Taquari;RS;108;Privada;;;62;17.22;94;5.55;45;6.48;;;107;5.19;;;;;;;;;
+2019;comunicacao;Centro Universitário Zarns;BA;109;Privada;;;63;17.22;127;4.67;101;4.55;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Metodista de Piracicaba;SP;109;Privada;72;8.52;194;8.7;100;5.39;151;2.83;;;251-300;0.48;;;;;;;;;
+2019;comunicacao;Universidade Ceuma;MA;111;Privada;;;64;17.16;98;5.44;125;3.72;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Belas Artes de São Paulo;SP;112;Privada;72;8.52;197;8.62;58;6.5;;;;;201-250;2.12;;;;;;;;;
+2019;comunicacao;Centro Universitário Barão de Mauá;SP;113;Privada;72;8.52;201-250;8.38;152;4.01;157;2.62;;;201-250;1.75;;;;;;;;;
+2019;comunicacao;Centro Universitário Maurício de Nassau de João Pessoa;PB;114;Privada;72;8.52;201-250;8.24;176;3.38;201-250;1.07;;;160;3.79;;;;;;;;;
+2019;comunicacao;Universidade de Taubaté;SP;115;Municipal;;;68;16.51;131;4.57;62;5.9;;;75;6.04;;;;;;;;;
+2019;comunicacao;Universidade Federal de Roraima;RR;116;Federal;;;69;16.45;31;7.21;197;1.24;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade do Estado do Rio Grande do Norte;RN;117;Estadual;;;70;16.42;150;4.07;107;4.35;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal de Mato Grosso do Sul;MS;118;Federal;;;72;16.36;17;7.58;149;2.9;;;81;5.88;;;;;;;;;
+2019;comunicacao;Universidade Federal do Cariri;CE;119;Federal;;;73;16.34;115;4.99;136;3.35;;;1;8;;;;;;;;;
+2019;comunicacao;Faculdade Paulus de Tecnologia e Comunicação;SP;120;Privada;;;76;16.29;79;5.94;39;6.69;;;165;3.66;;;;;;;;;
+2019;comunicacao;Universidade Estadual do Sudoeste da Bahia;BA;121;Estadual;;;77;16.26;106;5.23;145;3.03;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal do Amapá;AP;122;Federal;;;80;16.04;125;4.73;137;3.31;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Franciscana;RS;123;Privada;;;81;15.99;95;5.52;96;4.72;;;86;5.75;;;;;;;;;
+2019;comunicacao;Universidade Estadual da Paraíba;PB;124;Estadual;;;82;15.79;72;6.13;185;1.66;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Estadual de Santa Cruz;BA;125;Estadual;;;85;15.29;28;7.29;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio Juiz de Fora;MG;126;Privada;;;86;15.25;109;5.15;51;6.28;;;159;3.82;;;;;;;;;
+2019;comunicacao;Faculdade Estácio do Pará;PA;127;Privada;;;87;15.21;146;4.17;32;6.93;;;148;4.11;;;;;;;;;
+2019;comunicacao;Centro Universitário Social da Bahia;BA;128;Privada;;;89;15.17;61;6.42;66;5.76;;;190;2.99;;;;;;;;;
+2019;comunicacao;Centro Universitário Araguaia;GO;129;Privada;;;90;15.05;92;5.6;191;1.45;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Comunitária da Região de Chapecó;SC;130;Privada;;;91;15.04;171;3.51;63;5.86;;;89;5.67;;;;;;;;;
+2019;comunicacao;Centro Universitário das Faculdades Associadas de Ensino;SP;131;Municipal;72;8.52;201-250;6.47;251-300;1.08;122;3.83;;;201-250;1.56;;;;;;;;;
+2019;comunicacao;Centro Universitário Unifaat;SP;132;Privada;;;93;14.94;119;4.88;18;7.41;;;201-250;2.65;;;;;;;;;
+2019;comunicacao;Centro Universitário Sagrado Coração;SP;133;Privada;;;95;14.89;78;5.97;95;4.76;;;146;4.16;;;;;;;;;
+2019;comunicacao;Centro Universitário Unicarioca;RJ;134;Privada;;;96;14.71;8;7.82;166;2.31;;;130;4.58;;;;;;;;;
+2019;comunicacao;Universidade de Uberaba;MG;135;Privada;;;97;14.7;191;2.98;59;6;;;87;5.72;;;;;;;;;
+2019;comunicacao;Universidade Federal do Amazonas;AM;136;Federal;;;98;14.65;201-250;2.48;112;4.17;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Inta;CE;137;Privada;;;100;14.57;55;6.57;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Facvest;SC;138;Privada;;;102;14.32;26;7.34;201-250;0.97;;;76;6.01;;;;;;;;;
+2019;comunicacao;Universidade Estadual do Piauí;PI;139;Estadual;;;103;14.1;201-250;2.03;115;4.07;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário das Américas;SP;139;Privada;;;103;14.1;73;6.1;;;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Federal do Piauí;PI;141;Federal;;;105;14.02;76;6.02;;;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade do Grande Rio Professor José de Souza Herdy;RJ;142;Privada;;;108;13.92;166;3.64;167;2.28;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Funorte;MG;143;Privada;;;109;13.87;201-250;2.67;38;6.72;;;134;4.48;;;;;;;;;
+2019;comunicacao;Centro Universitário Autônomo do Brasil;PR;144;Privada;;;110;13.84;155;3.93;78;5.35;;;131;4.56;;;;;;;;;
+2019;comunicacao;Faculdades Integradas Rio Branco;SP;145;Privada;;;111;13.78;88;5.7;24;7.21;;;251-300;0.87;;;;;;;;;
+2019;comunicacao;Centro Universitário Univel;PR;146;Privada;;;113;13.62;201-250;2.27;29;7.03;;;140;4.32;;;;;;;;;
+2019;comunicacao;Faculdade Interamericana de Porto Velho;RO;147;Privada;;;114;13.58;121;4.83;73;5.52;;;181;3.23;;;;;;;;;
+2019;comunicacao;Universidade Católica de Pelotas;RS;148;Privada;;;115;13.57;80;5.91;152;2.79;;;119;4.87;;;;;;;;;
+2019;comunicacao;União das Faculdades dos Grandes Lagos;SP;149;Privada;;;117;13.53;201-250;2.32;140;3.21;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário de União da Vitória;PR;150;Municipal;;;118;13.52;201-250;1.9;128;3.62;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio da Bahia;BA;151;Privada;;;121;13.33;144;4.22;67;5.72;;;175;3.39;;;;;;;;;
+2019;comunicacao;Faculdade Anísio Teixeira de Feira de Santana;BA;152;Privada;;;122;13.25;251-300;1.11;113;4.14;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Católica de Brasília;DF;153;Privada;;;123;13.24;96;5.49;169;2.21;;;94;5.54;;;;;;;;;
+2019;comunicacao;Universidade de Franca;SP;154;Privada;;;126;13.08;145;4.2;44;6.52;;;201-250;2.36;;;;;;;;;
+2019;comunicacao;Faculdade Promove de Minas Gerais;MG;155;Privada;;;129;12.99;115;4.99;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Uniftc;BA;156;Privada;;;130;12.94;143;4.25;201-250;0.69;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Luterana do Brasil;RS;157;Privada;;;131;12.78;112;5.07;173;2.07;;;90;5.64;;;;;;;;;
+2019;comunicacao;Centro Universitário Braz Cubas;SP;158;Privada;72;8.52;251-300;4.21;251-300;0.95;;;;;180;3.26;;;;;;;;;
+2019;comunicacao;Universidade Cruzeiro do Sul;SP;159;Privada;;;132;12.67;65;6.31;111;4.21;;;201-250;2.15;;;;;;;;;
+2019;comunicacao;Faculdade Canção Nova;SP;160;Privada;;;133;12.63;175;3.41;14;7.55;;;201-250;1.67;;;;;;;;;
+2019;comunicacao;Centro Universitário Unirb;BA;161;Privada;;;134;12.54;89;5.68;193;1.38;;;96;5.48;;;;;;;;;
+2019;comunicacao;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;162;Privada;;;136;12.53;140;4.33;141;3.17;;;113;5.03;;;;;;;;;
+2019;comunicacao;Centro Universitário Euro-americano;DF;163;Privada;;;138;12.45;54;6.6;;;;;82;5.85;;;;;;;;;
+2019;comunicacao;Universidade Santa Cecília;SP;164;Privada;;;139;12.36;186;3.12;88;5;;;143;4.24;;;;;;;;;
+2019;comunicacao;Centro Universitário de Votuporanga;SP;165;Privada;;;140;12.36;126;4.7;116;4.03;;;166;3.63;;;;;;;;;
+2019;comunicacao;Centro Universitário Ritter dos Reis;RS;166;Privada;;;141;12.28;120;4.86;91;4.9;;;201-250;2.52;;;;;;;;;
+2019;comunicacao;Centro Universitário Aeso - Barros Melo;PE;167;Privada;;;142;12.26;185;3.14;99;4.62;;;133;4.5;;;;;;;;;
+2019;comunicacao;Centro Universitário Católico Salesiano Auxilium;SP;168;Privada;;;143;12.14;69;6.21;;;;;79;5.93;;;;;;;;;
+2019;comunicacao;Centro Universitário Satc;SC;169;Privada;;;144;12.06;201-250;2.4;65;5.79;;;157;3.87;;;;;;;;;
+2019;comunicacao;Universidade Federal de Campina Grande;PB;170;Federal;;;145;11.99;153;3.99;;;;;1;8;;;;;;;;;
+2019;comunicacao;Instituto Superior e Centro Educacional Luterano;SC;171;Privada;;;146;11.95;141;4.3;41;6.62;;;251-300;1.03;;;;;;;;;
+2019;comunicacao;Centro Universitário Ibmec;RJ;172;Privada;;;147;11.82;151;4.04;13;7.59;;;251-300;0.19;;;;;;;;;
+2019;comunicacao;Universidade do Estado de Mato Grosso;MT;173;Estadual;;;148;11.75;180;3.27;201-250;0.48;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade de Cruz Alta;RS;174;Privada;;;149;11.73;110;5.12;154;2.72;;;156;3.89;;;;;;;;;
+2019;comunicacao;Faculdade de Estudos Avançados do Pará;PA;175;Privada;;;151;11.62;174;3.43;104;4.45;;;162;3.74;;;;;;;;;
+2019;comunicacao;Centro Universitário FG;BA;176;Privada;;;152;11.59;168;3.59;;;;;1;8;;;;;;;;;
+2019;comunicacao;Instituto Esperança de Ensino Superior;PA;177;Privada;;;153;11.57;251-300;1.32;87;5.03;;;106;5.22;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio de Ribeirão Preto;SP;178;Privada;;;154;11.49;142;4.28;103;4.48;;;200;2.73;;;;;;;;;
+2019;comunicacao;Centro Universitário Fasipe;MT;179;Privada;;;155;11.49;172;3.49;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Sant'Anna;SP;180;Privada;;;156;11.42;91;5.62;;;;;84;5.8;;;;;;;;;
+2019;comunicacao;Universidade Potiguar;RN;181;Privada;;;157;11.17;93;5.57;195;1.31;;;141;4.29;;;;;;;;;
+2019;comunicacao;Universidade do Planalto Catarinense;SC;182;Privada;;;158;11.05;251-300;0.55;10;7.69;;;197;2.81;;;;;;;;;
+2019;comunicacao;Centro Universitário Católica do Leste de Minas Gerais;MG;183;Privada;;;159;10.88;165;3.67;146;3;;;144;4.21;;;;;;;;;
+2019;comunicacao;Universidade de Passo Fundo;RS;184;Privada;;;160;10.84;122;4.81;161;2.48;;;169;3.55;;;;;;;;;
+2019;comunicacao;Faculdades Integradas de Três Lagoas;MS;184;Privada;;;160;10.84;115;4.99;;;;;82;5.85;;;;;;;;;
+2019;comunicacao;Centro Universitário Módulo;SP;186;Privada;;;163;10.62;105;5.25;201-250;0.07;;;103;5.3;;;;;;;;;
+2019;comunicacao;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;187;Privada;;;165;10.56;201-250;2.56;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Brasileiro;PE;187;Privada;;;165;10.56;201-250;2.56;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Fieo;SP;189;Privada;;;167;10.29;62;6.39;201-250;0.93;;;191;2.97;;;;;;;;;
+2019;comunicacao;Universidade Universus Veritas Guarulhos;SP;190;Privada;;;168;10.19;182;3.22;97;4.69;;;201-250;2.28;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio do Ceará;CE;191;Privada;;;169;10.13;187;3.09;114;4.1;;;192;2.94;;;;;;;;;
+2019;comunicacao;Faculdade Esamc Uberlândia;MG;192;Privada;72;8.52;251-300;1.58;251-300;1.29;;;;;251-300;0.29;;;;;;;;;
+2019;comunicacao;Faculdade Maringá;PR;193;Privada;;;170;10.09;199;2.77;50;6.31;;;251-300;1.01;;;;;;;;;
+2019;comunicacao;Centro Universitário Sociesc de Blumenau;SC;194;Privada;;;171;9.98;201-250;2.46;47;6.41;;;251-300;1.11;;;;;;;;;
+2019;comunicacao;Universidade do Vale do Itajaí;SC;195;Privada;;;173;9.86;201-250;2.69;188;1.55;;;91;5.62;;;;;;;;;
+2019;comunicacao;Faculdades Integradas Ipep;SP;196;Privada;;;174;9.85;201-250;1.85;;;;;1;8;;;;;;;;;
+2019;comunicacao;Universidade Alto Vale do Rio do Peixe;SC;197;Privada;;;176;9.72;201-250;2.01;153;2.76;;;116;4.95;;;;;;;;;
+2019;comunicacao;Centro Universitário Icesp;DF;199;Privada;;;178;9.62;154;3.96;129;3.59;;;201-250;2.07;;;;;;;;;
+2019;comunicacao;Centro Universitário Ceuni;AM;200;Privada;;;181;9.53;136;4.44;;;;;111;5.09;;;;;;;;;
+2019;comunicacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;201;Privada;;;201-250;8.38;251-300;0.69;127;3.66;;;151;4.03;;;;;;;;;
+2019;comunicacao;Faculdade Assis Gurgacz;PR;201;Privada;;;199;8.52;251-300;0.82;94;4.79;;;193;2.91;;;;;;;;;
+2019;comunicacao;Instituto de Educação Superior Raimundo Sá;PI;201;Privada;;;201-250;6.64;251-300;0.5;201-250;0.76;;;100;5.38;;;;;;;;;
+2019;comunicacao;Faculdade Paraense de Ensino;PA;201;Privada;;;201-250;6.07;201-250;1.51;;;;;131;4.56;;;;;;;;;
+2019;comunicacao;Faculdade Estácio de Sá de Vitória;ES;201;Privada;;;201-250;8.15;251-300;1.4;108;4.31;;;201-250;2.44;;;;;;;;;
+2019;comunicacao;Centro Universitário Álvares Penteado;SP;201;Privada;;;201-250;7.66;50;6.71;;;;;251-300;0.95;;;;;;;;;
+2019;comunicacao;Universidade de Gurupi;TO;201;Municipal;;;191;8.81;251-300;0.53;201-250;0.28;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário de Patos;PB;201;Privada;;;201-250;6.14;201-250;1.45;;;;;126;4.69;;;;;;;;;
+2019;comunicacao;Universidade Salgado de Oliveira;RJ;201;Privada;;;201-250;7.74;179;3.3;201-250;1.1;;;177;3.34;;;;;;;;;
+2019;comunicacao;Fiam-faam - Centro Universitário;SP;201;Privada;;;201-250;8.45;107;5.2;198;1.21;;;201-250;2.04;;;;;;;;;
+2019;comunicacao;Centro Universitário da Grande Fortaleza;CE;201;Privada;;;201-250;8.11;251-300;0.11;;;;;1;8;;;;;;;;;
+2019;comunicacao;Centro Universitário Governador Ozanam Coelho;MG;201;Privada;;;192;8.77;138;4.38;201-250;1;;;175;3.39;;;;;;;;;
+2019;comunicacao;Faculdades Integradas de Fernandópolis;SP;201;Privada;;;201-250;6.2;177;3.35;201-250;0.17;;;201-250;2.68;;;;;;;;;
+2019;comunicacao;Centro Universitário Opet;PR;201;Privada;;;201-250;5.84;201-250;1.82;158;2.59;;;201-250;1.43;;;;;;;;;
+2019;comunicacao;Faculdade Anhanguera de Divinópolis;MG;201;Privada;;;189;9;251-300;1.22;82;5.21;;;201-250;2.57;;;;;;;;;
+2019;comunicacao;Cesrei Faculdade;PB;201;Privada;;;201-250;5.8;251-300;0.79;;;;;114;5.01;;;;;;;;;
+2019;comunicacao;Centro Universitário de Rio Preto;SP;201;Privada;;;201-250;7.78;197;2.83;178;1.9;;;188;3.05;;;;;;;;;
+2019;comunicacao;Centro Universitário Metodista;RS;201;Privada;;;193;8.71;67;6.26;196;1.28;;;251-300;1.17;;;;;;;;;
+2019;comunicacao;Centro Universitário do Sul de Minas;MG;201;Privada;;;201-250;7.18;201-250;2.38;;;;;122;4.8;;;;;;;;;
+2019;comunicacao;Centro Universitário Sul-americana;GO;201;Privada;;;190;8.98;201-250;2.14;93;4.83;;;201-250;2.01;;;;;;;;;
+2019;comunicacao;Centro Universitário Santa Amélia;PR;201;Privada;;;201-250;7.21;201-250;1.74;201-250;0.83;;;128;4.64;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio de Brasília;DF;201;Privada;;;196;8.65;201-250;2.59;171;2.14;;;155;3.92;;;;;;;;;
+2019;comunicacao;Centro Universitário Newton Paiva;MG;201;Privada;;;201-250;6.99;251-300;1.06;201-250;1.03;;;118;4.9;;;;;;;;;
+2019;comunicacao;Centro Universitário Salesiano de São Paulo;SP;201;Privada;;;201-250;6.22;156;3.91;;;;;201-250;2.31;;;;;;;;;
+2019;comunicacao;Universidade Vale do Rio Doce;MG;201;Privada;;;195;8.67;251-300;0.77;139;3.24;;;127;4.66;;;;;;;;;
+2019;comunicacao;Centro Universitário Maurício de Nassau de Campina Grande;PB;201;Privada;;;201-250;7.65;147;4.15;;;;;171;3.5;;;;;;;;;
+2019;comunicacao;Centro Universitário Sociesc;SC;201;Privada;;;201-250;6.48;168;3.59;;;;;194;2.89;;;;;;;;;
+2019;comunicacao;Centro Universitário Fluminense;RJ;201;Privada;;;201-250;8.18;251-300;1.24;160;2.52;;;136;4.42;;;;;;;;;
+2019;comunicacao;Universidade do Vale do Paraíba;SP;201;Privada;;;201-250;7.86;201-250;1.8;75;5.45;;;251-300;0.61;;;;;;;;;
+2019;comunicacao;Centro Universitário Campo Limpo Paulista;SP;201;Privada;;;201-250;7.6;201-250;2.3;180;1.83;;;172;3.47;;;;;;;;;
+2019;comunicacao;Centro Universitário da Amazônia;PA;201;Privada;;;201-250;8.28;251-300;1;102;4.52;;;199;2.76;;;;;;;;;
+2019;comunicacao;Faculdade Estácio Macapá;AP;201;Privada;;;201-250;7.91;201-250;2.22;201-250;0.55;;;109;5.14;;;;;;;;;
+2019;comunicacao;Centro Universitário da Região da Campanha;RS;201;Privada;;;201-250;7.53;201-250;1.88;126;3.69;;;201-250;1.96;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;201-250;6.18;113;5.04;;;;;251-300;1.14;;;;;;;;;
+2019;comunicacao;Centro Universitário Nossa Senhora do Patrocínio;SP;201;Privada;;;201-250;8.02;251-300;0.66;35;6.83;;;251-300;0.53;;;;;;;;;
+2019;comunicacao;Centro Universitário Teresa D'ávila;SP;201;Privada;;;201-250;8.15;201-250;1.61;68;5.69;;;251-300;0.85;;;;;;;;;
+2019;comunicacao;Centro Universitário dos Guararapes;PE;201;Privada;;;201-250;6.35;114;5.02;;;;;251-300;1.33;;;;;;;;;
+2019;comunicacao;"Faculdade de Comunicação e Design ""Oswaldo Cruz""";SP;201;Privada;;;201-250;6.03;164;3.7;;;;;201-250;2.33;;;;;;;;;
+2019;comunicacao;Centro Universitário Unibras do Sudoeste Goiano;GO;201;Privada;;;185;9.27;201-250;2.17;177;1.93;;;108;5.17;;;;;;;;;
+2019;comunicacao;Universidade Santo Amaro;SP;201;Privada;;;186;9.21;137;4.41;187;1.59;;;182;3.21;;;;;;;;;
+2019;comunicacao;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;183;9.38;191;2.98;201-250;0.62;;;85;5.78;;;;;;;;;
+2019;comunicacao;Centro Universitário Joaquim Nabuco de Recife;PE;201;Privada;;;201-250;6.96;167;3.62;201-250;0.24;;;186;3.1;;;;;;;;;
+2019;comunicacao;Faculdades Integradas de Jahu;SP;201;Privada;;;201-250;7.37;193;2.93;165;2.35;;;201-250;2.09;;;;;;;;;
+2019;comunicacao;Centro Universitário Augusto Motta;RJ;201;Privada;;;201-250;6.09;196;2.85;201-250;0.41;;;196;2.83;;;;;;;;;
+2019;comunicacao;Centro Universitário Santa Maria da Glória;PR;201;Privada;;;201-250;7.15;201-250;1.43;;;;;87;5.72;;;;;;;;;
+2019;comunicacao;Faculdade Anhanguera Unime de Salvador;BA;201;Privada;;;201-250;7.8;195;2.88;142;3.14;;;201-250;1.78;;;;;;;;;
+2019;comunicacao;Centro Universitário da Serra Gaúcha;RS;201;Privada;;;201-250;6.33;183;3.2;;;;;185;3.13;;;;;;;;;
+2019;comunicacao;Universidade Castelo Branco;RJ;201;Privada;;;201-250;6.06;200;2.75;184;1.69;;;201-250;1.62;;;;;;;;;
+2019;comunicacao;Centro Universitário de Maceió;AL;201;Privada;;;201-250;6.05;251-300;1.16;174;2.03;;;195;2.86;;;;;;;;;
+2019;comunicacao;Centro Universitário Maurício de Nassau;PE;201;Privada;;;201-250;8.22;189;3.04;175;2;;;183;3.18;;;;;;;;;
+2019;comunicacao;Centro Universitário Cesmac;AL;251;Privada;;;251-300;2.58;251-300;0.9;201-250;0.38;;;251-300;1.3;;;;;;;;;
+2019;comunicacao;Faculdade Esamc Santos;SP;251;Privada;;;251-300;2.96;251-300;0.34;;;;;201-250;2.62;;;;;;;;;
+2019;comunicacao;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;251;Privada;;;251-300;1.85;251-300;1.03;;;;;251-300;0.82;;;;;;;;;
+2019;comunicacao;Centro Universitário de Pato Branco;PR;251;Privada;;;251-300;5.22;251-300;0.24;;;;;115;4.98;;;;;;;;;
+2019;comunicacao;Faculdade Faccat;SP;251;Privada;;;251-300;4.58;201-250;1.58;189;1.52;;;201-250;1.48;;;;;;;;;
+2019;comunicacao;Faculdade Anhanguera de Brasília;DF;251;Privada;;;251-300;3.17;251-300;0.63;;;;;201-250;2.54;;;;;;;;;
+2019;comunicacao;Faculdade Anhanguera de Belo Horizonte;MG;251;Privada;;;251-300;3.46;201-250;2.72;;;;;251-300;0.74;;;;;;;;;
+2019;comunicacao;Faculdade Fortium;DF;251;Privada;;;251-300;5.64;301-350;0.05;;;;;92;5.59;;;;;;;;;
+2019;comunicacao;Faculdade JK - Guará;DF;251;Privada;;;251-300;1.95;201-250;1.95;;;;;;;;;;;;;;;
+2019;comunicacao;Centro Universitário de Presidente Prudente;SP;251;Privada;;;201-250;5.78;251-300;0.85;201-250;0.66;;;142;4.27;;;;;;;;;
+2019;comunicacao;Centro Universitário Anhanguera de São Paulo;SP;251;Privada;;;251-300;5.05;251-300;0.4;148;2.93;;;201-250;1.72;;;;;;;;;
+2019;comunicacao;Faculdade Dois de Julho;BA;251;Privada;;;251-300;4.68;201-250;2.19;;;;;201-250;2.49;;;;;;;;;
+2019;comunicacao;Faculdade da Cidade de Maceió;AL;251;Privada;;;251-300;1.01;301-350;0.08;;;;;251-300;0.93;;;;;;;;;
+2019;comunicacao;Faculdade Esamc Sorocaba;SP;251;Privada;;;251-300;4.63;251-300;1.19;;;;;173;3.44;;;;;;;;;
+2019;comunicacao;Centro Universitário Metropolitano de Maringá;PR;251;Privada;;;251-300;2.33;201-250;1.77;;;;;251-300;0.56;;;;;;;;;
+2019;comunicacao;Universidade Nilton Lins;AM;251;Privada;;;251-300;2.31;251-300;0.26;201-250;0.14;;;201-250;1.91;;;;;;;;;
+2019;comunicacao;Faculdade Metropolitana da Grande Recife;PE;251;Privada;;;251-300;2.46;201-250;1.66;;;;;251-300;0.8;;;;;;;;;
+2019;comunicacao;Centro Universitário Tabosa de Almeida;PE;251;Privada;;;251-300;5.1;201-250;2.64;;;;;201-250;2.46;;;;;;;;;
+2019;comunicacao;Faculdade Estácio de Belém;PA;251;Privada;;;251-300;2.86;201-250;1.48;;;;;251-300;1.38;;;;;;;;;
+2019;comunicacao;Faculdades Integradas de Taquara;RS;251;Privada;;;201-250;5.68;101;5.36;;;;;251-300;0.32;;;;;;;;;
+2019;comunicacao;Faculdade Anhanguera de Itabuna;BA;251;Privada;;;251-300;2.98;251-300;0.92;201-250;0.79;;;251-300;1.27;;;;;;;;;
+2019;comunicacao;Centro Universitário Toledo Wyden;SP;251;Privada;;;251-300;3.47;201-250;1.93;201-250;0.9;;;251-300;0.64;;;;;;;;;
+2019;comunicacao;Centro Universitário Metrocamp Wyden;SP;251;Privada;;;251-300;1.77;251-300;1.27;;;;;251-300;0.5;;;;;;;;;
+2019;comunicacao;Centro Universitário Estácio de São Luís;MA;251;Privada;;;251-300;4.22;251-300;1.35;186;1.62;;;251-300;1.25;;;;;;;;;
+2019;comunicacao;Faculdade de Americana;SP;251;Privada;;;251-300;3.66;251-300;0.37;;;;;179;3.29;;;;;;;;;
+2019;comunicacao;Instituto Municipal de Ensino Superior de Bebedouro Victório Cardassi;SP;251;Municipal;;;251-300;2.99;201-250;2.06;201-250;0.03;;;251-300;0.9;;;;;;;;;
+2019;comunicacao;Faculdades Integradas Ipitanga;BA;251;Privada;;;251-300;3.08;201-250;1.56;201-250;0.86;;;251-300;0.66;;;;;;;;;
+2019;comunicacao;Faculdade São Francisco de Assis;RS;251;Privada;;;251-300;3.83;181;3.25;;;;;251-300;0.58;;;;;;;;;
+2019;comunicacao;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;251-300;5.18;251-300;0.74;109;4.28;;;251-300;0.16;;;;;;;;;
+2019;comunicacao;Faculdade Esamc Campinas;SP;251;Privada;;;201-250;5.68;162;3.75;;;;;201-250;1.93;;;;;;;;;
+2019;comunicacao;Centro Universitário Cearense;CE;251;Privada;;;251-300;3.23;201-250;1.69;199;1.17;;;251-300;0.37;;;;;;;;;
+2019;comunicacao;Centro Universitário Alves Faria;GO;251;Privada;;;251-300;5.61;251-300;0.42;84;5.14;;;301-350;0.05;;;;;;;;;
+2019;comunicacao;Centro Universitário de Patos de Minas;MG;251;Privada;;;251-300;2.91;251-300;0.21;;;;;201-250;2.7;;;;;;;;;
+2019;comunicacao;Centro Universitário Ibmr;RJ;251;Privada;;;251-300;2.44;201-250;1.72;;;;;251-300;0.72;;;;;;;;;
+2019;comunicacao;Centro Universitário Fadergs;RS;251;Privada;;;201-250;5.68;134;4.49;;;;;251-300;1.19;;;;;;;;;
+2019;comunicacao;Centro Universitário do Norte;AM;251;Privada;;;251-300;3.38;201-250;1.53;201-250;0.45;;;201-250;1.4;;;;;;;;;
+2019;comunicacao;Faculdade Eduvale de Avaré;SP;251;Privada;;;251-300;1.3;251-300;0.32;;;;;251-300;0.98;;;;;;;;;
+2019;comunicacao;Universidade Regional de Blumenau;SC;251;Municipal;;;251-300;4.57;139;4.36;;;;;251-300;0.21;;;;;;;;;
+2019;comunicacao;Faculdade Pitágoras;MG;251;Privada;;;251-300;1.41;251-300;0.32;;;;;251-300;1.09;;;;;;;;;
+2019;comunicacao;Faculdade Paulista de Comunicação;SP;251;Privada;;;251-300;5.03;201-250;2.43;;;;;201-250;2.6;;;;;;;;;
+2019;comunicacao;Centro Universitário de Ciências e Tecnologia do Maranhão;MA;251;Privada;;;251-300;5.09;251-300;0.45;;;;;128;4.64;;;;;;;;;
+2019;comunicacao;Centro Universitário Academia;MG;251;Privada;;;251-300;5.31;184;3.17;183;1.72;;;251-300;0.42;;;;;;;;;
+2019;comunicacao;Universidade de Araraquara;SP;251;Privada;;;251-300;5.4;198;2.8;200;1.14;;;201-250;1.46;;;;;;;;;
+2019;comunicacao;Faculdade Estácio de Sá de Campo Grande;MS;251;Privada;;;251-300;5.32;251-300;0.58;;;;;124;4.74;;;;;;;;;
+2019;comunicacao;Centro Universitário Maurício de Nassau de Maceió;AL;251;Privada;;;201-250;5.79;201-250;2.11;;;;;164;3.68;;;;;;;;;
+2019;comunicacao;Faculdade Pinheiro Guimarães;RJ;251;Privada;;;251-300;3.46;201-250;1.64;181;1.79;;;301-350;0.03;;;;;;;;;
+2019;comunicacao;Faculdade Boas Novas de Ciências Teológicas, Sociais e Biotecnológicas;AM;251;Privada;;;251-300;4.13;251-300;0.48;190;1.48;;;201-250;2.17;;;;;;;;;
+2019;comunicacao;Centro Universitário de Ensino Superior do Amazonas;AM;251;Privada;;;251-300;2.44;301-350;0.03;;;;;201-250;2.41;;;;;;;;;
+2019;comunicacao;Instituto Superior de Ciências Aplicadas;SP;251;Privada;;;251-300;3.95;251-300;0.61;144;3.07;;;251-300;0.27;;;;;;;;;
+2019;comunicacao;Faculdade Martha Falcão Wyden;AM;251;Privada;;;251-300;4.61;201-250;2.09;201-250;0.72;;;201-250;1.8;;;;;;;;;
+2019;comunicacao;Instituto Maranhense de Ensino e Cultura;MA;301;Privada;;;301-350;0.43;251-300;0.19;;;;;251-300;0.24;;;;;;;;;
+2019;comunicacao;Faculdade de Ciências Sociais Aplicadas SC;SC;301;Privada;;;301-350;0.26;251-300;0.13;;;;;251-300;0.13;;;;;;;;;
+2019;comunicacao;Faculdades Integradas de Itapetininga;SP;301;Privada;;;301-350;0.27;251-300;0.16;;;;;251-300;0.11;;;;;;;;;
+2023;comunicacao;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.48;13;7.67;8;7.81;;;1;8;1;40;;;;;;;
+2023;comunicacao;Universidade Federal de Santa Catarina;SC;2;Federal;6;35;2;63.22;1;8;6;7.86;;;1;8;2;39.36;;;;;;;
+2023;comunicacao;Universidade Federal de Minas Gerais;MG;3;Federal;6;35;3;61.04;12;7.7;4;7.92;;;1;8;5;37.42;;;;;;;
+2023;comunicacao;Universidade Federal do Rio Grande do Sul;RS;4;Federal;6;35;4;60.84;21;7.45;2;7.97;;;1;8;5;37.42;;;;;;;
+2023;comunicacao;Universidade de Brasília;DF;5;Federal;17;32.8;5;60.49;35;7.07;1;8;;;1;8;5;37.42;;;;;;;
+2023;comunicacao;Universidade Federal do Rio de Janeiro;RJ;6;Federal;17;32.8;6;60.26;30;7.2;14;7.64;;;1;8;5;37.42;;;;;;;
+2023;comunicacao;Universidade Federal da Bahia;BA;7;Federal;17;32.8;7;59.85;42;6.87;17;7.56;;;1;8;5;37.42;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;8;Privada;1;36;12;55.32;50;6.65;36;7.04;;;136;4.21;5;37.42;;;;;;;
+2023;comunicacao;Faculdade Cásper Líbero;SP;9;Privada;1;36;14;54.16;94;5.44;16;7.59;;;201-250;1.77;2;39.36;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica de São Paulo;SP;10;Privada;17;32.8;8;56.97;55;6.52;57;6.46;;;121;4.63;2;39.36;;;;;;;
+2023;comunicacao;Universidade Federal do Ceará;CE;11;Federal;6;35;16;53.63;95;5.42;3;7.95;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Universidade Federal do Paraná;PR;12;Federal;17;32.8;9;55.74;16;7.59;5;7.89;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;13;Estadual;17;32.8;10;55.71;14;7.64;8;7.81;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Universidade Federal de Uberlândia;MG;14;Federal;17;32.8;15;54.01;43;6.85;41;6.9;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Escola Superior de Propaganda e Marketing;SP;15;Privada;1;36;20;49.8;105;5.14;92;5.5;;;201-250;1.74;5;37.42;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica de Campinas;SP;16;Privada;17;32.8;19;50.28;107;5.09;44;6.82;;;251-300;0.95;5;37.42;;;;;;;
+2023;comunicacao;Universidade Presbiteriana Mackenzie;SP;17;Privada;1;36;24;46.05;91;5.53;110;5;;;170;3.26;13;32.26;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica de Minas Gerais;MG;18;Privada;6;35;23;46.81;110;5;53;6.57;;;180;2.98;13;32.26;;;;;;;
+2023;comunicacao;Universidade Estadual de Campinas;SP;19;Estadual;51;26;11;55.55;20;7.48;8;7.81;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica do Paraná;PR;20;Privada;6;35;25;45.64;174;3.24;7;7.84;;;201-250;2.3;13;32.26;;;;;;;
+2023;comunicacao;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;21;Privada;17;32.8;21;47.44;76;5.94;51;6.63;;;193;2.61;13;32.26;;;;;;;
+2023;comunicacao;Universidade Federal de Santa Maria;RS;22;Federal;51;26;17;53.08;15;7.62;103;5.2;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Universidade Federal Fluminense;RJ;23;Federal;51;26;18;52.44;25;7.34;116;4.84;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;24;Privada;17;32.8;26;44.81;121;4.7;20;7.48;;;251-300;0.37;13;32.26;;;;;;;
+2023;comunicacao;Universidade Estadual de Londrina;PR;25;Estadual;17;32.8;30;43.43;51;6.63;19;7.51;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Metodista de São Paulo;SP;26;Privada;17;32.8;31;43.36;158;3.68;111;4.98;;;199;2.44;13;32.26;;;;;;;
+2023;comunicacao;Universidade do Vale do Rio dos Sinos;RS;27;Privada;6;35;37;39.6;34;7.09;33;7.12;;;140;4.1;30;21.29;;;;;;;
+2023;comunicacao;Universidade Nove de Julho;SP;28;Privada;17;32.8;35;41.07;194;2.69;201-250;1.4;;;118;4.72;13;32.26;;;;;;;
+2023;comunicacao;Universidade do Estado do Rio de Janeiro;RJ;29;Estadual;51;26;22;47;120;4.73;30;7.2;;;186;2.81;13;32.26;;;;;;;
+2023;comunicacao;Centro Universitário Armando Alvares Penteado;SP;30;Privada;17;32.8;36;40.06;143;4.1;180;3.08;;;251-300;0.62;13;32.26;;;;;;;
+2023;comunicacao;Universidade Positivo;PR;31;Privada;17;32.8;38;39.44;200;2.53;15;7.62;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal do Pará;PA;32;Federal;51;26;28;43.73;36;7.04;23;7.4;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal de Mato Grosso do Sul;MS;33;Federal;51;26;29;43.59;17;7.56;47;6.74;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal do Rio Grande do Norte;RN;34;Federal;51;26;32;43.04;47;6.74;37;7.01;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal de Juiz de Fora;MG;35;Federal;51;26;33;42.98;58;6.43;28;7.26;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Centro Universitário Faesa;ES;36;Privada;17;32.8;43;36.09;201-250;1.27;91;5.53;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade de Fortaleza;CE;37;Privada;6;35;49;33.78;201-250;2.34;77;5.91;;;135;4.24;30;21.29;;;;;;;
+2023;comunicacao;Universidade Católica de Pernambuco;PE;38;Privada;17;32.8;45;35.5;80;5.83;78;5.88;;;197;2.5;30;21.29;;;;;;;
+2023;comunicacao;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;39;Privada;17;32.8;46;35.33;115;4.87;29;7.23;;;201-250;1.94;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal do Cariri;CE;40;Federal;51;26;34;41.58;77;5.91;60;6.38;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Anhembi Morumbi;SP;41;Privada;6;35;52;32.55;175;3.22;74;5.99;;;201-250;2.05;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal do Acre;AC;42;Federal;51;26;39;38.69;117;4.81;125;4.59;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal de Pelotas;RS;43;Federal;51;26;40;37.54;201-250;1.76;56;6.49;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade São Judas Tadeu;SP;44;Privada;51;26;41;37.18;68;6.16;115;4.87;;;113;4.86;30;21.29;;;;;;;
+2023;comunicacao;Centro Universitário Ritter dos Reis;RS;45;Privada;51;26;44;35.98;71;6.08;93;5.47;;;174;3.14;30;21.29;;;;;;;
+2023;comunicacao;Universidade Metodista de Piracicaba;SP;46;Privada;51;26;47;34.49;124;4.62;81;5.8;;;187;2.78;30;21.29;;;;;;;
+2023;comunicacao;Centro Universitário Belas Artes de São Paulo;SP;47;Privada;51;26;50;33.56;132;4.4;165;3.49;;;130;4.38;30;21.29;;;;;;;
+2023;comunicacao;Universidade do Vale do Itajaí;SC;48;Privada;51;26;51;33.09;201-250;2.36;66;6.21;;;171;3.23;30;21.29;;;;;;;
+2023;comunicacao;Universidade Municipal de São Caetano do Sul;SP;49;Municipal;51;26;54;31.61;122;4.67;112;4.95;;;251-300;0.7;30;21.29;;;;;;;
+2023;comunicacao;Centro Universitário Internacional;PR;50;Privada;51;26;56;31.06;142;4.12;201-250;2.31;;;167;3.34;30;21.29;;;;;;;
+2023;comunicacao;Universidade Fumec;MG;51;Privada;51;26;57;30.9;201-250;1.76;80;5.83;;;201-250;2.02;30;21.29;;;;;;;
+2023;comunicacao;Instituto Esperança de Ensino Superior;PA;52;Privada;51;26;58;29.73;251-300;0.33;48;6.71;;;201-250;1.4;30;21.29;;;;;;;
+2023;comunicacao;Faculdades Integradas Hélio Alonso;RJ;53;Privada;51;26;59;29.36;201-250;1.98;139;4.21;;;201-250;1.88;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal de Pernambuco;PE;54;Federal;17;32.8;69;22.22;32;7.15;35;7.07;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal do Espírito Santo;ES;55;Federal;17;32.8;70;21.97;27;7.29;49;6.68;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal de Goiás;GO;56;Federal;17;32.8;71;21.77;70;6.1;13;7.67;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Estadual de Ponta Grossa;PR;57;Estadual;;;13;54.31;48;6.71;25;7.34;;;1;8;13;32.26;;;;;;;
+2023;comunicacao;Universidade Federal de Mato Grosso;MT;58;Federal;17;32.8;73;21.08;26;7.31;82;5.77;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário de Belo Horizonte;MG;59;Privada;17;32.8;103;16.87;59;6.41;79;5.86;;;122;4.6;;;;;;;;;
+2023;comunicacao;Universidade de Ribeirão Preto;SP;60;Privada;17;32.8;110;16.49;124;4.62;32;7.15;;;118;4.72;;;;;;;;;
+2023;comunicacao;Universidade Federal de Ouro Preto;MG;61;Federal;51;26;65;22.71;31;7.18;18;7.53;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal da Paraíba;PB;62;Federal;51;26;67;22.38;40;6.93;21;7.45;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Pitágoras Unopar Anhanguera;PR;63;Privada;6;35;158;12.45;44;6.82;201-250;1.9;;;153;3.73;;;;;;;;;
+2023;comunicacao;Universidade Federal do Maranhão;MA;64;Federal;51;26;72;21.44;33;7.12;62;6.32;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal de Sergipe;SE;65;Federal;51;26;73;21.08;66;6.21;42;6.87;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal do Piauí;PI;66;Federal;51;26;75;20.95;63;6.3;50;6.65;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade do Estado do Rio Grande do Norte;RN;67;Estadual;51;26;78;20.09;118;4.78;26;7.31;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade de Santa Cruz do Sul;RS;68;Privada;17;32.8;146;13.17;55;6.52;185;2.94;;;154;3.71;;;;;;;;;
+2023;comunicacao;Centro Universitário Una;MG;69;Privada;17;32.8;148;13.05;124;4.62;152;3.85;;;123;4.58;;;;;;;;;
+2023;comunicacao;Universidade Estadual de Santa Cruz;BA;70;Estadual;51;26;80;19.63;53;6.57;108;5.06;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade do Estado da Bahia;BA;71;Estadual;51;26;82;19.25;67;6.19;108;5.06;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Funorte;MG;72;Privada;51;26;84;19.08;83;5.75;98;5.33;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Feevale;RS;73;Privada;17;32.8;161;12.25;98;5.33;133;4.37;;;195;2.55;;;;;;;;;
+2023;comunicacao;Universidade Tuiuti do Paraná;PR;74;Privada;17;32.8;166;11.94;160;3.63;145;4.04;;;134;4.27;;;;;;;;;
+2023;comunicacao;Centro Universitário Assis Gurgacz;PR;75;Privada;17;32.8;168;11.88;251-300;0.5;169;3.38;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Vila Velha;ES;76;Privada;17;32.8;178;11.41;201-250;1.18;11;7.73;;;197;2.5;;;;;;;;;
+2023;comunicacao;Universidade de Cuiabá;MT;77;Privada;17;32.8;179;11.37;74;5.99;201-250;1.95;;;164;3.43;;;;;;;;;
+2023;comunicacao;Universidade Paulista;SP;78;Privada;6;35;201-250;8.96;201-250;1.76;167;3.44;;;152;3.76;;;;;;;;;
+2023;comunicacao;Centro Universitário Sete de Setembro;CE;79;Privada;51;26;90;17.93;124;4.62;99;5.31;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal de Roraima;RR;80;Federal;51;26;92;17.87;44;6.82;181;3.05;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal do Recôncavo da Bahia;BA;81;Federal;51;26;93;17.85;103;5.2;123;4.65;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal de São João Del Rei;MG;82;Federal;;;27;43.84;24;7.37;31;7.18;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Centro Universitário de Volta Redonda;RJ;83;Privada;51;26;97;17.41;83;5.75;159;3.66;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Cesumar;PR;84;Privada;51;26;99;17.09;68;6.16;55;6.52;;;129;4.41;;;;;;;;;
+2023;comunicacao;Universidade Comunitária da Região de Chapecó;SC;85;Privada;51;26;100;17.07;182;3.02;72;6.05;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Católica Dom Bosco;MS;86;Privada;51;26;101;16.99;111;4.98;146;4.01;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Luterana do Brasil;RS;87;Privada;51;26;104;16.85;176;3.19;86;5.66;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal de Alagoas;AL;88;Federal;51;26;106;16.63;108;5.06;162;3.57;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Católica de Brasília;DF;89;Privada;51;26;107;16.61;92;5.5;46;6.76;;;131;4.35;;;;;;;;;
+2023;comunicacao;Universidade Federal do Amazonas;AM;90;Federal;51;26;111;16.44;93;5.47;184;2.97;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário de Brasília;DF;91;Privada;17;32.8;201-250;9.63;78;5.88;182;3.02;;;251-300;0.73;;;;;;;;;
+2023;comunicacao;Centro Universitário do Instituto de Educação Superior de Brasília;DF;92;Privada;17;32.8;201-250;9.57;201-250;2.45;67;6.19;;;251-300;0.93;;;;;;;;;
+2023;comunicacao;Universidade do Estado de Minas Gerais;MG;93;Estadual;51;26;112;16.3;154;3.79;128;4.51;;;1;8;;;;;;;;;
+2023;comunicacao;Fundação Universidade Federal de Rondônia;RO;94;Federal;51;26;114;16.08;114;4.89;176;3.19;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Católica de Santos;SP;95;Privada;51;26;115;16.05;79;5.86;97;5.36;;;114;4.83;;;;;;;;;
+2023;comunicacao;Faculdade Esamc Uberlândia;MG;96;Privada;51;26;122;15.32;251-300;0.47;43;6.85;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Anhanguera de Brasília;DF;97;Privada;51;26;125;15.14;36;7.04;171;3.33;;;116;4.77;;;;;;;;;
+2023;comunicacao;Universidade Regional de Blumenau;SC;98;Municipal;51;26;126;15.13;71;6.08;69;6.13;;;182;2.92;;;;;;;;;
+2023;comunicacao;União das Faculdades dos Grandes Lagos;SP;99;Privada;51;26;129;14.68;201-250;2.12;126;4.56;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Estácio de Sá;RJ;100;Privada;51;26;134;14.27;28;7.26;172;3.3;;;154;3.71;;;;;;;;;
+2023;comunicacao;Universidade do Vale do Taquari;RS;101;Privada;51;26;136;14.2;161;3.6;73;6.02;;;123;4.58;;;;;;;;;
+2023;comunicacao;Faculdade Anísio Teixeira de Feira de Santana;BA;102;Privada;51;26;139;13.94;251-300;0.66;100;5.28;;;1;8;;;;;;;;;
+2023;comunicacao;Pontifícia Universidade Católica de Goiás;GO;103;Privada;17;32.8;201-250;6.9;163;3.55;201-250;2.25;;;201-250;1.1;;;;;;;;;
+2023;comunicacao;Universidade de Passo Fundo;RS;104;Privada;51;26;141;13.27;135;4.32;94;5.44;;;161;3.51;;;;;;;;;
+2023;comunicacao;Universidade do Estado de Mato Grosso;MT;105;Estadual;51;26;152;12.86;201-250;2.28;198;2.58;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário de Rio Preto;SP;106;Privada;51;26;153;12.81;251-300;0.11;121;4.7;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Ceuma;MA;107;Privada;51;26;155;12.65;251-300;1.13;164;3.52;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade da Amazônia;PA;108;Privada;51;26;156;12.53;182;3.02;87;5.64;;;148;3.87;;;;;;;;;
+2023;comunicacao;Centro Universitário Univel;PR;109;Privada;51;26;160;12.26;251-300;0.96;27;7.29;;;143;4.01;;;;;;;;;
+2023;comunicacao;Centro Universitário Unic;MT;110;Privada;51;26;163;12.12;64;6.27;201-250;1.95;;;147;3.9;;;;;;;;;
+2023;comunicacao;Centro Universitário Euro-americano;DF;111;Privada;51;26;165;11.96;201-250;1.76;201-250;2.2;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Ibmec;RJ;112;Privada;151;6;53;31.86;83;5.75;138;4.23;;;251-300;0.59;30;21.29;;;;;;;
+2023;comunicacao;Universidade do Oeste Paulista;SP;113;Privada;51;26;171;11.78;90;5.55;201-250;2.36;;;148;3.87;;;;;;;;;
+2023;comunicacao;Universidade de Taubaté;SP;113;Municipal;51;26;171;11.78;164;3.52;161;3.6;;;120;4.66;;;;;;;;;
+2023;comunicacao;Centro Universitário Newton Paiva;MG;115;Privada;51;26;173;11.77;201-250;1.76;201-250;2.01;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário da Serra Gaúcha;RS;116;Privada;51;26;174;11.68;176;3.19;34;7.09;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Centro Universitário Sagrado Coração;SP;117;Privada;51;26;175;11.65;134;4.34;130;4.45;;;184;2.86;;;;;;;;;
+2023;comunicacao;Centro Universitário Favip Wyden;PE;118;Privada;51;26;176;11.54;106;5.11;147;3.99;;;199;2.44;;;;;;;;;
+2023;comunicacao;Universidade de Mogi das Cruzes;SP;119;Privada;51;26;180;11.36;156;3.74;178;3.13;;;126;4.49;;;;;;;;;
+2023;comunicacao;Universidade Veiga de Almeida;RJ;120;Privada;51;26;182;11.1;139;4.21;122;4.67;;;201-250;2.22;;;;;;;;;
+2023;comunicacao;Centro Universitário das Faculdades Associadas de Ensino;SP;121;Municipal;51;26;183;11.02;188;2.86;141;4.15;;;143;4.01;;;;;;;;;
+2023;comunicacao;Centro Universitário Jorge Amado;BA;122;Privada;51;26;184;10.94;148;3.96;89;5.58;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Universidade Anhanguera;MS;123;Privada;51;26;186;10.77;80;5.83;201-250;1.51;;;164;3.43;;;;;;;;;
+2023;comunicacao;Faculdade Estácio de Florianópolis;SC;124;Privada;51;26;187;10.72;201-250;1.76;251-300;0.96;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Dinâmica das Cataratas;PR;125;Privada;51;26;188;10.69;251-300;0.96;201-250;1.73;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Adventista de São Paulo;SP;126;Privada;51;26;189;10.68;192;2.75;107;5.09;;;185;2.84;;;;;;;;;
+2023;comunicacao;Centro Universitário Aeso - Barros Melo;PE;127;Privada;51;26;190;10.65;201-250;2.25;114;4.89;;;161;3.51;;;;;;;;;
+2023;comunicacao;Universidade de Uberaba;MG;128;Privada;51;26;192;10.47;201-250;2.03;137;4.26;;;137;4.18;;;;;;;;;
+2023;comunicacao;Centro Universitário Maurício de Nassau;PE;129;Privada;51;26;196;10.37;176;3.19;183;3;;;137;4.18;;;;;;;;;
+2023;comunicacao;Universidade Estadual da Paraíba;PB;130;Estadual;;;42;36.36;167;3.44;160;3.63;;;1;8;30;21.29;;;;;;;
+2023;comunicacao;Universidade do Planalto Catarinense;SC;131;Privada;51;26;201-250;9.96;201-250;1.9;105;5.14;;;182;2.92;;;;;;;;;
+2023;comunicacao;Centro Universitário do Norte;AM;132;Privada;51;26;201-250;9.81;145;4.04;201-250;1.76;;;143;4.01;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio do Ceará;CE;133;Privada;51;26;201-250;9.69;188;2.86;201-250;2.09;;;117;4.74;;;;;;;;;
+2023;comunicacao;Centro Universitário da Amazônia;PA;134;Privada;51;26;201-250;9.57;182;3.02;168;3.41;;;174;3.14;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio da Bahia;BA;135;Privada;51;26;201-250;9.43;1;8;201-250;1.43;;;;;;;;;;;;;
+2023;comunicacao;Centro Universitário Nossa Senhora do Patrocínio;SP;136;Privada;51;26;201-250;9.37;193;2.72;84;5.72;;;251-300;0.93;;;;;;;;;
+2023;comunicacao;Universidade Santa Cecília;SP;137;Privada;151;6;60;29.19;201-250;2.47;174;3.24;;;201-250;2.19;30;21.29;;;;;;;
+2023;comunicacao;Centro Universitário Maurício de Nassau de João Pessoa;PB;138;Privada;51;26;201-250;8.4;176;3.19;201-250;1.87;;;167;3.34;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio de São Luís;MA;139;Privada;51;26;201-250;8.36;167;3.44;201-250;1.21;;;154;3.71;;;;;;;;;
+2023;comunicacao;Universidade Tiradentes;SE;140;Privada;51;26;201-250;8.33;201-250;2.2;170;3.35;;;187;2.78;;;;;;;;;
+2023;comunicacao;Universidade de Sorocaba;SP;141;Privada;51;26;201-250;8.3;144;4.07;179;3.11;;;201-250;1.12;;;;;;;;;
+2023;comunicacao;Faculdade Paulus de Tecnologia e Comunicação;SP;142;Privada;;;48;33.91;165;3.49;12;7.7;;;201-250;1.43;30;21.29;;;;;;;
+2023;comunicacao;Faculdade Estácio de Belém;PA;143;Privada;51;26;201-250;7.9;124;4.62;251-300;0.5;;;187;2.78;;;;;;;;;
+2023;comunicacao;Fiam-faam - Centro Universitário;SP;144;Privada;51;26;201-250;7.75;201-250;2.23;142;4.12;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Centro Universitário Metrocamp Wyden;SP;145;Privada;51;26;201-250;7.51;167;3.44;251-300;0.36;;;154;3.71;;;;;;;;;
+2023;comunicacao;Centro Universitário de Barra Mansa;RJ;146;Privada;51;26;201-250;7.36;251-300;0.83;76;5.94;;;251-300;0.59;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio de Belo Horizonte;MG;147;Privada;51;26;201-250;7.33;98;5.33;251-300;1.13;;;251-300;0.87;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio de Santa Catarina;SC;148;Privada;51;26;201-250;7.16;98;5.33;251-300;0.96;;;251-300;0.87;;;;;;;;;
+2023;comunicacao;Faculdade Maringá;PR;149;Privada;51;26;201-250;7.1;201-250;1.76;151;3.88;;;201-250;1.46;;;;;;;;;
+2023;comunicacao;Centro Universitário Barão de Mauá;SP;150;Privada;51;26;201-250;6.87;161;3.6;251-300;0.83;;;199;2.44;;;;;;;;;
+2023;comunicacao;Universidade Cruzeiro do Sul;SP;151;Privada;51;26;251-300;6.73;201-250;1.87;154;3.79;;;201-250;1.07;;;;;;;;;
+2023;comunicacao;Centro Universitário Fanor Wyden;CE;152;Privada;51;26;251-300;6.01;201-250;1.76;201-250;2.06;;;201-250;2.19;;;;;;;;;
+2023;comunicacao;Centro Universitário Alves Faria;GO;153;Privada;51;26;251-300;5.3;201-250;1.16;173;3.27;;;251-300;0.87;;;;;;;;;
+2023;comunicacao;Faculdade Estácio do Pará;PA;154;Privada;;;55;31.19;148;3.96;177;3.16;;;187;2.78;30;21.29;;;;;;;
+2023;comunicacao;Universidade Salvador;BA;155;Privada;51;26;251-300;2.75;251-300;0.74;251-300;0.61;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Universidade Federal de Viçosa;MG;156;Federal;151;6;68;22.3;19;7.51;45;6.79;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Cearense;CE;157;Privada;51;26;251-300;0.94;251-300;0.14;251-300;0.66;;;251-300;0.14;;;;;;;;;
+2023;comunicacao;Centro Universitário Braz Cubas;SP;158;Privada;51;26;251-300;0.81;251-300;0.17;251-300;0.36;;;251-300;0.28;;;;;;;;;
+2023;comunicacao;Faculdade de Estudos Avançados do Pará;PA;159;Privada;;;61;25.82;167;3.44;251-300;0.5;;;251-300;0.59;30;21.29;;;;;;;
+2023;comunicacao;Universidade Estadual do Sudoeste da Bahia;BA;160;Estadual;151;6;81;19.36;83;5.75;88;5.61;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Estadual do Piauí;PI;161;Estadual;151;6;88;18.14;109;5.03;106;5.11;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio Juiz de Fora;MG;162;Privada;151;6;89;17.96;59;6.41;163;3.55;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Franciscana;RS;163;Privada;151;6;90;17.93;119;4.76;104;5.17;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Estadual de Maringá;PR;164;Estadual;151;6;96;17.46;97;5.36;143;4.1;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Católica de Pelotas;RS;165;Privada;;;62;23.41;251-300;0.33;201-250;1.79;;;;;30;21.29;;;;;;;
+2023;comunicacao;Universidade Federal do Sul e Sudeste do Pará;PA;166;Federal;;;63;23.4;1;8;23;7.4;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal de Campina Grande;PB;167;Federal;;;64;22.98;18;7.53;21;7.45;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Anhanguera de Belo Horizonte;MG;168;Privada;151;6;105;16.76;52;6.6;40;6.93;;;171;3.23;;;;;;;;;
+2023;comunicacao;Centro Universitário Metodista;RS;169;Privada;;;66;22.6;1;8;52;6.6;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Potiguar;RN;170;Privada;151;6;108;16.55;59;6.41;201-250;2.14;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Estácio de Sá de Vitória;ES;171;Privada;151;6;121;15.48;124;4.62;188;2.86;;;1;8;;;;;;;;;
+2023;comunicacao;Fundação Universidade Federal do Tocantins;TO;172;Federal;;;76;20.65;23;7.4;101;5.25;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdades Integradas de Jahu;SP;173;Privada;;;77;20.29;1;8;136;4.29;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal do Sul da Bahia;BA;174;Federal;;;79;19.63;38;6.98;123;4.65;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;175;Privada;151;6;141;13.27;136;4.29;132;4.4;;;123;4.58;;;;;;;;;
+2023;comunicacao;Universidade Alto Vale do Rio do Peixe;SC;176;Privada;151;6;147;13.14;140;4.18;251-300;0.96;;;1;8;;;;;;;;;
+2023;comunicacao;Fundação Universidade Federal do Pampa;RS;177;Federal;;;83;19.13;22;7.42;157;3.71;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal Rural do Rio de Janeiro;RJ;178;Federal;;;84;19.08;65;6.24;116;4.84;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade de Caxias do Sul;RS;179;Privada;151;6;149;13.03;133;4.37;59;6.41;;;201-250;2.25;;;;;;;;;
+2023;comunicacao;Universidade Estadual do Centro Oeste;PR;180;Estadual;;;86;18.81;48;6.71;143;4.1;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Anhanguera Unime de Salvador;BA;181;Privada;;;87;18.4;28;7.26;39;6.96;;;137;4.18;;;;;;;;;
+2023;comunicacao;Centro Universitário Anhanguera de São Paulo;SP;183;Privada;151;6;167;11.92;123;4.65;153;3.82;;;163;3.45;;;;;;;;;
+2023;comunicacao;Centro Universitário Unicuritiba;PR;184;Privada;;;94;17.73;1;8;201-250;1.73;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Federal do Amapá;AP;185;Federal;;;95;17.68;41;6.9;191;2.78;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Brasileiro;PE;186;Privada;;;98;17.38;1;8;201-250;1.38;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio de Ribeirão Preto;SP;187;Privada;151;6;181;11.3;201-250;1.76;201-250;1.54;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Sociesc;SC;188;Privada;;;102;16.96;1;8;251-300;0.96;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Paraense de Ensino;PA;189;Privada;;;109;16.5;1;8;251-300;0.5;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Toledo Wyden;SP;190;Privada;151;6;194;10.43;59;6.41;155;3.77;;;251-300;0.25;;;;;;;;;
+2023;comunicacao;Faculdade Esamc Campinas;SP;191;Privada;151;6;197;10.3;251-300;1.05;71;6.08;;;173;3.17;;;;;;;;;
+2023;comunicacao;Faculdade Anhanguera de Divinópolis;MG;192;Privada;;;113;16.24;80;5.83;38;6.98;;;164;3.43;;;;;;;;;
+2023;comunicacao;Centro Universitário Fasipe;MT;193;Privada;;;116;15.92;201-250;1.76;68;6.16;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário FBV Wyden;PE;194;Privada;;;117;15.64;1;8;65;6.24;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Centro Universitário dos Guararapes;PE;195;Privada;;;118;15.59;111;4.98;197;2.61;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Unirb;BA;196;Privada;;;119;15.56;116;4.84;193;2.72;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Unicarioca;RJ;197;Privada;;;120;15.5;39;6.96;156;3.74;;;115;4.8;;;;;;;;;
+2023;comunicacao;Faculdade Martha Falcão Wyden;AM;198;Privada;151;6;201-250;9.28;71;6.08;187;2.89;;;251-300;0.31;;;;;;;;;
+2023;comunicacao;Centro Universitário Unifaat;SP;199;Privada;;;123;15.18;104;5.17;63;6.3;;;154;3.71;;;;;;;;;
+2023;comunicacao;Centro Universitário Católico Salesiano Auxilium;SP;200;Privada;;;124;15.15;251-300;0.8;61;6.35;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário de Patos de Minas;MG;201;Privada;;;201-250;8.78;251-300;1.07;85;5.69;;;201-250;2.02;;;;;;;;;
+2023;comunicacao;Centro Universitário do Distrito Federal;DF;201;Privada;;;135;14.22;95;5.42;251-300;0.8;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário União das Américas Descomplica;PR;201;Privada;;;145;13.17;167;3.44;201-250;1.73;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade Universus Veritas Guarulhos;SP;201;Privada;;;191;10.61;201-250;2.06;129;4.48;;;141;4.07;;;;;;;;;
+2023;comunicacao;Centro Universitário Social da Bahia;BA;201;Privada;;;201-250;8.76;182;3.02;134;4.34;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Centro Universitário Uniftc;BA;201;Privada;;;143;13.23;124;4.62;251-300;0.61;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Ibmr;RJ;201;Privada;;;128;14.78;75;5.97;135;4.32;;;126;4.49;;;;;;;;;
+2023;comunicacao;Centro Universitário FG;BA;201;Privada;;;195;10.37;201-250;1.76;251-300;0.61;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Satc;SC;201;Privada;;;201-250;9.38;201-250;2.2;90;5.55;;;201-250;1.63;;;;;;;;;
+2023;comunicacao;Universidade Vale do Rio Doce;MG;201;Privada;151;6;201-250;7.76;201-250;2.45;166;3.46;;;201-250;1.85;;;;;;;;;
+2023;comunicacao;Centro Universitário Una de Contagem;MG;201;Privada;;;185;10.89;201-250;1.76;251-300;1.13;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;200;10.12;201-250;1.76;251-300;0.36;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Joaquim Nabuco de Recife;PE;201;Privada;;;201-250;9.63;140;4.18;201-250;2.5;;;181;2.95;;;;;;;;;
+2023;comunicacao;Centro Universitário Teresa D'ávila;SP;201;Privada;151;6;201-250;7.87;201-250;1.24;58;6.43;;;251-300;0.2;;;;;;;;;
+2023;comunicacao;Centro Universitário Maurício de Nassau de Campina Grande;PB;201;Privada;;;201-250;9.92;145;4.04;201-250;1.87;;;143;4.01;;;;;;;;;
+2023;comunicacao;Centro Universitário Santa Maria da Glória;PR;201;Privada;;;177;11.49;201-250;1.76;201-250;1.73;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Zarns;BA;201;Privada;;;131;14.52;136;4.29;201-250;2.23;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Santa Amélia;PR;201;Privada;;;198;10.2;98;5.33;201-250;1.73;;;174;3.14;;;;;;;;;
+2023;comunicacao;Centro Universitário Salesiano de São Paulo;SP;201;Privada;151;6;201-250;7.19;152;3.85;201-250;2.47;;;251-300;0.87;;;;;;;;;
+2023;comunicacao;Universidade do Vale do Paraíba;SP;201;Privada;151;6;201-250;7.54;201-250;2.09;149;3.93;;;201-250;1.52;;;;;;;;;
+2023;comunicacao;Faculdade Estácio de Sá de Campo Grande;MS;201;Privada;;;201-250;9.51;1;8;201-250;1.51;;;;;;;;;;;;;
+2023;comunicacao;Centro Universitário Álvares Penteado;SP;201;Privada;;;201-250;9.48;54;6.54;251-300;0.36;;;194;2.58;;;;;;;;;
+2023;comunicacao;Centro Universitário Fluminense;RJ;201;Privada;;;193;10.45;201-250;1.21;201-250;1.24;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Esamc Santos;SP;201;Privada;151;6;201-250;8.42;251-300;0.41;70;6.1;;;201-250;1.91;;;;;;;;;
+2023;comunicacao;Faculdade JK - Guará;DF;201;Privada;;;169;11.82;182;3.02;251-300;0.8;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Módulo;SP;201;Privada;;;164;12.04;98;5.33;54;6.54;;;251-300;0.17;;;;;;;;;
+2023;comunicacao;Faculdade Paulista de Comunicação;SP;201;Privada;;;199;10.15;201-250;1.79;251-300;0.36;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Autônomo do Brasil;PR;201;Privada;;;201-250;9.5;152;3.85;118;4.78;;;251-300;0.87;;;;;;;;;
+2023;comunicacao;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;201;Privada;;;201-250;8.86;191;2.78;201-250;1.73;;;131;4.35;;;;;;;;;
+2023;comunicacao;Centro Universitário de União da Vitória;PR;201;Municipal;;;140;13.77;201-250;1.81;148;3.96;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Interamericana de Porto Velho;RO;201;Privada;;;162;12.23;251-300;0.33;150;3.9;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Academia;MG;201;Privada;151;6;201-250;8.33;251-300;1.02;119;4.76;;;195;2.55;;;;;;;;;
+2023;comunicacao;Universidade do Sul de Santa Catarina;SC;201;Privada;151;6;201-250;7.38;200;2.53;131;4.43;;;251-300;0.42;;;;;;;;;
+2023;comunicacao;Centro Universitário Católica do Leste de Minas Gerais;MG;201;Privada;;;154;12.75;145;4.04;64;6.27;;;199;2.44;;;;;;;;;
+2023;comunicacao;Centro Universitário de Maceió;AL;201;Privada;;;201-250;8.92;181;3.05;158;3.68;;;201-250;2.19;;;;;;;;;
+2023;comunicacao;Faculdade Esamc Sorocaba;SP;201;Privada;151;6;201-250;7.31;251-300;0.99;201-250;2.28;;;142;4.04;;;;;;;;;
+2023;comunicacao;Faculdade Promove de Minas Gerais;MG;201;Privada;;;138;14.11;111;4.98;251-300;1.13;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Facvest;SC;201;Privada;;;130;14.6;155;3.77;189;2.83;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Evoluir;CE;201;Privada;;;201-250;9.29;251-300;0.63;251-300;0.66;;;1;8;;;;;;;;;
+2023;comunicacao;Faculdade Anhanguera de Itabuna;BA;201;Privada;;;137;14.14;44;6.82;140;4.18;;;174;3.14;;;;;;;;;
+2023;comunicacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;201;Privada;;;151;12.87;89;5.58;190;2.8;;;126;4.49;;;;;;;;;
+2023;comunicacao;Centro Universitário Unibras do Sudoeste Goiano;GO;201;Privada;;;170;11.8;156;3.74;251-300;0.06;;;1;8;;;;;;;;;
+2023;comunicacao;Instituto Superior e Centro Educacional Luterano;SC;201;Privada;;;144;13.18;124;4.62;95;5.42;;;174;3.14;;;;;;;;;
+2023;comunicacao;Universidade do Grande Rio Professor José de Souza Herdy;RJ;201;Privada;;;133;14.3;148;3.96;201-250;2.34;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Sociesc de Blumenau;SC;201;Privada;;;132;14.38;251-300;0.63;83;5.75;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário das Américas;SP;201;Privada;151;6;251-300;4.93;138;4.23;251-300;0.36;;;251-300;0.34;;;;;;;;;
+2023;comunicacao;Faculdades Integradas de Três Lagoas;MS;201;Privada;;;150;12.97;166;3.46;201-250;1.51;;;1;8;;;;;;;;;
+2023;comunicacao;Universidade de Franca;SP;201;Privada;151;6;251-300;4.93;188;2.86;251-300;0.36;;;201-250;1.71;;;;;;;;;
+2023;comunicacao;Centro Universitário Sant'Anna;SP;201;Privada;;;127;14.85;57;6.46;251-300;0.39;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Inta;CE;201;Privada;;;156;12.53;158;3.68;251-300;0.85;;;1;8;;;;;;;;;
+2023;comunicacao;Centro Universitário Sul-americana;GO;251;Privada;;;201-250;7.22;251-300;0.88;127;4.54;;;201-250;1.8;;;;;;;;;
+2023;comunicacao;Centro Universitário Fadergs;RS;251;Privada;;;251-300;4.01;201-250;1.95;251-300;1.05;;;201-250;1.01;;;;;;;;;
+2023;comunicacao;Faculdades Integradas de Taquara;RS;251;Privada;;;251-300;6.47;151;3.88;251-300;1.05;;;201-250;1.54;;;;;;;;;
+2023;comunicacao;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;251-300;6.04;201-250;2.34;251-300;0.36;;;167;3.34;;;;;;;;;
+2023;comunicacao;Universidade de Cruz Alta;RS;251;Privada;;;201-250;6.94;201-250;2.45;196;2.64;;;201-250;1.85;;;;;;;;;
+2023;comunicacao;Instituto Maranhense de Ensino e Cultura;MA;251;Privada;;;251-300;3.61;251-300;0.77;201-250;1.21;;;201-250;1.63;;;;;;;;;
+2023;comunicacao;Faculdade Metropolitana de Anápolis;GO;251;Privada;;;251-300;4.73;251-300;0.85;251-300;0.06;;;150;3.82;;;;;;;;;
+2023;comunicacao;Faculdade Estácio Macapá;AP;251;Privada;;;251-300;4.98;201-250;1.76;175;3.22;;;;;;;;;;;;;
+2023;comunicacao;Universidade Castelo Branco;RJ;251;Privada;;;251-300;4.43;251-300;0.33;201-250;1.32;;;187;2.78;;;;;;;;;
+2023;comunicacao;Centro Universitário Ceuni;AM;251;Privada;;;201-250;7.92;194;2.69;201-250;2.45;;;187;2.78;;;;;;;;;
+2023;comunicacao;Faculdade Boas Novas de Ciências Teológicas, Sociais e Biotecnológicas;AM;251;Privada;;;251-300;1.82;251-300;1.13;251-300;0.69;;;;;;;;;;;;;
+2023;comunicacao;Universidade Católica do Salvador;BA;251;Privada;;;251-300;5.66;180;3.08;251-300;0.61;;;201-250;1.97;;;;;;;;;
+2023;comunicacao;Faculdade Eduvale de Avaré;SP;251;Privada;;;251-300;6.74;199;2.56;251-300;0.36;;;150;3.82;;;;;;;;;
+2023;comunicacao;Faculdade Pinheiro Guimarães;RJ;251;Privada;;;251-300;3.98;201-250;1.92;201-250;1.98;;;251-300;0.08;;;;;;;;;
+2023;comunicacao;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;251;Privada;;;251-300;3.9;182;3.02;251-300;0.8;;;251-300;0.08;;;;;;;;;
+2023;comunicacao;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;251-300;5.61;194;2.69;195;2.67;;;251-300;0.25;;;;;;;;;
+2023;comunicacao;Centro Universitário da Região da Campanha;RS;251;Privada;;;251-300;6;251-300;0.44;201-250;2.42;;;174;3.14;;;;;;;;;
+2023;comunicacao;Faculdade Assis Gurgacz;PR;251;Privada;;;251-300;5.22;251-300;0.19;113;4.92;;;251-300;0.11;;;;;;;;;
+2023;comunicacao;Centro Universitário Campo Limpo Paulista;SP;251;Privada;;;251-300;4.93;251-300;0.69;192;2.75;;;201-250;1.49;;;;;;;;;
+2023;comunicacao;Faculdade Esamc São Paulo;SP;251;Privada;;;251-300;3.76;251-300;0.96;251-300;0.36;;;199;2.44;;;;;;;;;
+2023;comunicacao;Universidade de Gurupi;TO;251;Municipal;;;251-300;6.47;251-300;0.63;101;5.25;;;251-300;0.59;;;;;;;;;
+2023;comunicacao;Faculdade da Cidade de Maceió;AL;251;Privada;;;251-300;2.11;251-300;0.08;201-250;2.03;;;;;;;;;;;;;
+2023;comunicacao;Centro Universitário de Pato Branco;PR;251;Privada;;;251-300;4.66;251-300;0.39;199;2.56;;;201-250;1.71;;;;;;;;;
+2023;comunicacao;Universidade Santo Amaro;SP;251;Privada;;;201-250;8.15;167;3.44;251-300;0.36;;;131;4.35;;;;;;;;;
+2023;comunicacao;Faculdade Internacional da Paraíba;PB;251;Privada;;;201-250;7.5;167;3.44;201-250;1.87;;;201-250;2.19;;;;;;;;;
+2023;comunicacao;Cesrei Faculdade;PB;251;Privada;;;251-300;4.82;251-300;0.06;120;4.73;;;251-300;0.03;;;;;;;;;
+2023;comunicacao;Centro Universitário Estácio de Brasília;DF;251;Privada;;;201-250;8.74;83;5.75;251-300;0.8;;;201-250;2.19;;;;;;;;;
+2023;comunicacao;Centro Universitário Augusto Motta;RJ;251;Privada;;;251-300;6.67;201-250;1.84;200;2.53;;;201-250;2.3;;;;;;;;;
+2023;comunicacao;Centro Universitário Tabosa de Almeida;PE;251;Privada;;;251-300;6.38;201-250;1.29;201-250;1.38;;;154;3.71;;;;;;;;;
+2023;comunicacao;Centro Universitário Metropolitano de Maringá;PR;251;Privada;;;201-250;7.19;251-300;0.63;75;5.97;;;251-300;0.59;;;;;;;;;
+2023;comunicacao;Faculdade Canção Nova;SP;251;Privada;;;251-300;6.05;194;2.69;194;2.69;;;251-300;0.67;;;;;;;;;
+2023;comunicacao;Universidade Nilton Lins;AM;251;Privada;;;251-300;2.07;251-300;0.03;251-300;0.41;;;201-250;1.63;;;;;;;;;
+2023;comunicacao;Centro Universitário do Sul de Minas;MG;251;Privada;;;201-250;6.76;251-300;0.36;96;5.39;;;201-250;1.01;;;;;;;;;
+2023;comunicacao;Instituto Superior de Ciências Aplicadas;SP;251;Privada;;;251-300;4.26;251-300;0.74;201-250;2.12;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Centro Universitário de Ciências e Tecnologia do Maranhão;MA;251;Privada;;;251-300;4.37;201-250;1.76;201-250;1.21;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Faculdade Faccat;SP;251;Privada;;;251-300;3.39;251-300;0.63;201-250;2.17;;;251-300;0.59;;;;;;;;;
+2023;comunicacao;Instituto de Educação Superior Raimundo Sá;PI;251;Privada;;;251-300;3;251-300;0.33;201-250;1.27;;;201-250;1.4;;;;;;;;;
+2023;comunicacao;Universidade Salgado de Oliveira;RJ;251;Privada;;;251-300;3.99;201-250;2.03;201-250;1.29;;;251-300;0.67;;;;;;;;;
+2023;comunicacao;Faculdade São Francisco de Assis;RS;251;Privada;;;251-300;5.4;194;2.69;251-300;1.05;;;201-250;1.66;;;;;;;;;
+2023;comunicacao;Centro Universitário Araguaia;GO;251;Privada;;;251-300;5.19;201-250;1.76;201-250;2.39;;;201-250;1.04;;;;;;;;;
+2023;comunicacao;Centro Universitário de Tecnologia de Curitiba;PR;251;Privada;;;251-300;4.29;201-250;2.14;201-250;1.73;;;251-300;0.42;;;;;;;;;
+2024;comunicacao;Universidade de São Paulo;SP;1;Estadual;1;36;2;63.13;;;30;7.21;;;1;8;;;4;7.92;1;40;;;
+2024;comunicacao;Universidade Federal de Santa Catarina;SC;2;Federal;6;34.94;1;63.16;;;3;7.95;;;1;8;;;7;7.84;2;39.37;;;
+2024;comunicacao;Universidade Federal de Minas Gerais;MG;3;Federal;6;34.94;4;61.89;;;7;7.84;;;1;8;;;3;7.95;4;38.1;;;
+2024;comunicacao;Universidade Federal do Rio Grande do Sul;RS;4;Federal;6;34.94;5;61.77;;;1;8;;;1;8;;;13;7.67;4;38.1;;;
+2024;comunicacao;Universidade Federal do Rio de Janeiro;RJ;5;Federal;21;31.77;3;62.41;;;12;7.7;;;1;8;;;25;7.34;2;39.37;;;
+2024;comunicacao;Universidade Federal da Bahia;BA;6;Federal;21;31.77;7;60.65;;;14;7.65;;;1;8;;;41;6.9;4;38.1;;;
+2024;comunicacao;Pontifícia Universidade Católica de São Paulo;SP;7;Privada;6;34.94;8;57.39;;;33;7.13;;;95;5.42;;;47;6.74;4;38.1;;;
+2024;comunicacao;Universidade de Brasília;DF;7;Federal;6;34.94;8;57.39;;;13;7.67;;;1;8;;;22;7.43;10;34.29;;;
+2024;comunicacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;9;Estadual;21;31.77;8;57.39;;;30;7.21;;;1;8;;;5;7.89;10;34.29;;;
+2024;comunicacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;10;Privada;3;35.58;14;50.68;;;93;5.49;;;135;4.32;;;53;6.58;10;34.29;;;
+2024;comunicacao;Faculdade Cásper Líbero;SP;11;Privada;1;36;18;50.04;;;92;5.52;;;251-300;0.72;;;85;5.7;4;38.1;;;
+2024;comunicacao;Universidade Federal de Goiás;GO;12;Federal;6;34.94;14;50.68;;;8;7.81;;;1;8;;;63;6.3;19;28.57;;;
+2024;comunicacao;Universidade Federal do Paraná;PR;13;Federal;6;34.94;19;49.98;;;5;7.89;;;86;5.66;;;6;7.86;19;28.57;;;
+2024;comunicacao;Universidade Presbiteriana Mackenzie;SP;14;Privada;3;35.58;22;48.09;;;150;3.93;;;158;3.68;;;67;6.19;10;34.29;;;
+2024;comunicacao;Universidade Federal de Uberlândia;MG;15;Federal;21;31.77;12;51.59;;;11;7.73;;;1;8;;;27;7.29;19;28.57;;;
+2024;comunicacao;Universidade Federal Fluminense;RJ;16;Federal;69;21.6;6;61.44;;;10;7.75;;;1;8;;;16;7.59;4;38.1;;;
+2024;comunicacao;Universidade do Vale do Rio dos Sinos;RS;17;Privada;6;34.94;24;47.36;;;45;6.8;;;116;4.84;;;32;7.15;19;28.57;;;
+2024;comunicacao;Escola Superior de Propaganda e Marketing;SP;18;Privada;3;35.58;26;46.46;;;99;5.32;;;201-250;1.21;;;87;5.64;10;34.29;;;
+2024;comunicacao;Universidade Federal do Ceará;CE;19;Federal;21;31.77;20;49.97;;;9;7.78;;;1;8;;;88;5.62;19;28.57;;;
+2024;comunicacao;Universidade Estadual de Londrina;PR;20;Estadual;21;31.77;21;49.29;;;68;6.17;;;1;8;;;54;6.55;19;28.57;;;
+2024;comunicacao;Universidade Federal de Mato Grosso do Sul;MS;21;Federal;21;31.77;23;48.05;;;74;6.01;;;85;5.69;;;9;7.78;19;28.57;;;
+2024;comunicacao;Centro Universitário Armando Alvares Penteado;SP;22;Privada;6;34.94;30;43.7;;;112;4.97;;;251-300;0.33;;;143;4.11;10;34.29;;;
+2024;comunicacao;Universidade Estadual de Campinas;SP;23;Estadual;69;21.6;11;56.98;;;30;7.21;;;1;8;;;20;7.48;10;34.29;;;
+2024;comunicacao;Pontifícia Universidade Católica de Minas Gerais;MG;24;Privada;6;34.94;31;43.21;;;72;6.06;;;170;3.35;;;102;5.23;19;28.57;;;
+2024;comunicacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;25;Privada;21;31.77;28;45.29;;;66;6.23;;;251-300;0.22;;;127;4.55;10;34.29;;;
+2024;comunicacao;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;25;Privada;21;31.77;28;45.29;;;27;7.29;;;173;3.27;;;68;6.16;19;28.57;;;
+2024;comunicacao;Pontifícia Universidade Católica do Paraná;PR;27;Privada;6;34.94;34;41.73;;;28;7.26;;;201-250;2.42;;;166;3.48;19;28.57;;;
+2024;comunicacao;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;28;Privada;21;31.77;32;42.96;;;52;6.61;;;201-250;2.25;;;91;5.53;19;28.57;;;
+2024;comunicacao;Universidade do Vale do Itajaí;SC;29;Privada;21;31.77;33;42.46;;;67;6.2;;;125;4.59;;;180;3.1;19;28.57;;;
+2024;comunicacao;Universidade Federal de Pernambuco;PE;30;Federal;6;34.94;37;37.96;;;37;7.02;;;1;8;;;35;7.07;39;15.87;;;
+2024;comunicacao;Universidade Federal de Santa Maria;RS;31;Federal;69;21.6;17;50.31;;;77;5.93;;;1;8;;;8;7.81;19;28.57;;;
+2024;comunicacao;Universidade Metodista de São Paulo;SP;32;Privada;21;31.77;35;39.98;;;106;5.13;;;189;2.83;;;167;3.45;19;28.57;;;
+2024;comunicacao;Universidade Federal do Pará;PA;33;Federal;21;31.77;36;38.56;;;35;7.07;;;1;8;;;15;7.62;39;15.87;;;
+2024;comunicacao;Universidade Nove de Julho;SP;34;Privada;21;31.77;39;37.81;;;201-250;1.23;;;160;3.63;;;133;4.38;19;28.57;;;
+2024;comunicacao;Universidade Federal de Juiz de Fora;MG;35;Federal;21;31.77;41;37.49;;;50;6.66;;;1;8;;;39;6.96;39;15.87;;;
+2024;comunicacao;Pontifícia Universidade Católica de Campinas;SP;36;Privada;69;21.6;25;46.99;;;78;5.9;;;201-250;1.51;;;100;5.29;10;34.29;;;
+2024;comunicacao;Faculdades Integradas Hélio Alonso;RJ;37;Privada;21;31.77;44;36.39;;;158;3.71;;;201-250;1.92;;;201-250;2.19;19;28.57;;;
+2024;comunicacao;Universidade do Estado do Rio de Janeiro;RJ;38;Estadual;69;21.6;27;46.36;;;21;7.45;;;146;4.01;;;62;6.33;19;28.57;;;
+2024;comunicacao;Centro Universitário Belas Artes de São Paulo;SP;39;Privada;21;31.77;48;30.36;;;151;3.9;;;105;5.14;;;94;5.45;39;15.87;;;
+2024;comunicacao;Centro Universitário Faesa;ES;40;Privada;21;31.77;49;30.03;;;36;7.04;;;87;5.64;;;201-250;1.48;39;15.87;;;
+2024;comunicacao;Universidade Federal do Rio Grande do Norte;RN;41;Federal;69;21.6;38;37.82;;;48;6.72;;;1;8;;;29;7.23;39;15.87;;;
+2024;comunicacao;Universidade Federal do Cariri;CE;42;Federal;69;21.6;40;37.6;;;25;7.35;;;1;8;;;60;6.38;39;15.87;;;
+2024;comunicacao;Universidade Santa Cecília;SP;43;Privada;69;21.6;42;37.29;;;251-300;1.17;;;157;3.71;;;153;3.84;19;28.57;;;
+2024;comunicacao;Universidade Anhembi Morumbi;SP;44;Privada;6;34.94;60;23.89;;;188;2.89;;;201-250;1.76;;;170;3.37;39;15.87;;;
+2024;comunicacao;Universidade de Fortaleza;CE;45;Privada;21;31.77;54;26.61;;;156;3.77;;;145;4.04;;;186;2.93;39;15.87;;;
+2024;comunicacao;Universidade Cesumar;PR;46;Privada;21;31.77;56;26.36;;;201-250;2.51;;;174;3.24;;;120;4.74;39;15.87;;;
+2024;comunicacao;Universidade Estadual de Maringá;PR;47;Estadual;69;21.6;45;36.15;;;68;6.17;;;1;8;;;70;6.11;39;15.87;;;
+2024;comunicacao;Universidade Federal do Amazonas;AM;48;Federal;69;21.6;46;34.54;;;124;4.64;;;1;8;;;73;6.03;39;15.87;;;
+2024;comunicacao;Universidade Federal da Paraíba;PB;49;Federal;21;31.77;64;22.66;;;15;7.62;;;1;8;;;36;7.04;;;;;
+2024;comunicacao;Universidade Federal do Espírito Santo;ES;50;Federal;21;31.77;66;22.42;;;22;7.43;;;1;8;;;38;6.99;;;;;
+2024;comunicacao;Universidade Federal de Sergipe;SE;51;Federal;21;31.77;69;21.65;;;40;6.94;;;1;8;;;48;6.71;;;;;
+2024;comunicacao;Universidade Federal de Mato Grosso;MT;52;Federal;21;31.77;71;21.19;;;71;6.09;;;1;8;;;34;7.1;;;;;
+2024;comunicacao;Universidade Federal de Pelotas;RS;53;Federal;21;31.77;72;21.04;;;39;6.96;;;1;8;;;71;6.08;;;;;
+2024;comunicacao;Universidade Federal do Maranhão;MA;54;Federal;21;31.77;81;19.35;;;132;4.42;;;1;8;;;40;6.93;;;;;
+2024;comunicacao;Universidade Federal de Roraima;RR;55;Federal;21;31.77;82;19.19;;;136;4.31;;;1;8;;;42;6.88;;;;;
+2024;comunicacao;Universidade Estadual de Ponta Grossa;PR;56;Estadual;;;13;50.74;;;38;6.99;;;1;8;;;31;7.18;19;28.57;;;
+2024;comunicacao;Universidade Federal de São João Del Rei;MG;57;Federal;;;16;50.33;;;61;6.36;;;1;8;;;23;7.4;19;28.57;;;
+2024;comunicacao;Universidade Pitágoras Unopar Anhanguera;PR;58;Privada;21;31.77;91;17.83;;;49;6.69;;;129;4.48;;;50;6.66;;;;;
+2024;comunicacao;Centro Universitário Ibmec;RJ;59;Privada;69;21.6;51;27.73;;;200;2.57;;;201-250;1.73;;;17;7.56;39;15.87;;;
+2024;comunicacao;Universidade de Santa Cruz do Sul;RS;60;Privada;21;31.77;94;17.31;;;56;6.5;;;140;4.18;;;51;6.63;;;;;
+2024;comunicacao;Universidade do Oeste Paulista;SP;61;Privada;21;31.77;101;16.68;;;65;6.25;;;102;5.22;;;103;5.21;;;;;
+2024;comunicacao;Universidade Positivo;PR;62;Privada;21;31.77;102;16.65;;;24;7.37;;;109;5.03;;;138;4.25;;;;;
+2024;comunicacao;Universidade Veiga de Almeida;RJ;63;Privada;21;31.77;104;16.43;;;23;7.4;;;152;3.85;;;104;5.18;;;;;
+2024;comunicacao;Universidade de Taubaté;SP;64;Municipal;69;21.6;57;26.05;;;251-300;1.12;;;92;5.5;;;163;3.56;39;15.87;;;
+2024;comunicacao;Centro Universitário Álvares Penteado;SP;65;Privada;69;21.6;58;25.55;;;251-300;0.46;;;200;2.53;;;49;6.69;39;15.87;;;
+2024;comunicacao;Universidade de Passo Fundo;RS;66;Privada;21;31.77;110;15.37;;;59;6.42;;;133;4.37;;;126;4.58;;;;;
+2024;comunicacao;Centro Universitário de Brasília;DF;67;Privada;6;34.94;159;12.07;;;94;5.46;;;251-300;0.8;;;81;5.81;;;;;
+2024;comunicacao;Universidade Feevale;RS;68;Privada;21;31.77;113;15.19;;;46;6.77;;;185;2.94;;;93;5.48;;;;;
+2024;comunicacao;Universidade Fumec;MG;69;Privada;69;21.6;59;24.84;;;78;5.9;;;201-250;1.32;;;201-250;1.75;39;15.87;;;
+2024;comunicacao;Centro Universitário Una;MG;70;Privada;21;31.77;121;14.29;;;55;6.53;;;154;3.79;;;148;3.97;;;;;
+2024;comunicacao;Universidade Tuiuti do Paraná;PR;71;Privada;21;31.77;122;14.25;;;115;4.89;;;127;4.54;;;117;4.82;;;;;
+2024;comunicacao;Universidade Católica de Pernambuco;PE;72;Privada;6;34.94;186;10.85;;;180;3.11;;;201-250;1.9;;;80;5.84;;;;;
+2024;comunicacao;Centro Universitário Favip Wyden;PE;73;Privada;21;31.77;140;13.18;;;144;4.1;;;165;3.49;;;89;5.59;;;;;
+2024;comunicacao;Universidade Federal de Viçosa;MG;74;Federal;69;21.6;62;23.26;;;17;7.56;;;1;8;;;12;7.7;;;;;
+2024;comunicacao;Universidade Católica de Brasília;DF;75;Privada;21;31.77;144;13.03;;;201-250;1.64;;;115;4.87;;;55;6.52;;;;;
+2024;comunicacao;Centro Universitário de Belo Horizonte;MG;76;Privada;21;31.77;148;12.88;;;177;3.2;;;126;4.56;;;106;5.12;;;;;
+2024;comunicacao;Centro Universitário Maurício de Nassau;PE;77;Privada;21;31.77;150;12.84;;;116;4.86;;;138;4.23;;;156;3.75;;;;;
+2024;comunicacao;Universidade Estácio de Sá;RJ;78;Privada;21;31.77;153;12.63;;;155;3.8;;;201-250;2.06;;;46;6.77;;;;;
+2024;comunicacao;Universidade Cruzeiro do Sul;SP;79;Privada;69;21.6;65;22.64;;;191;2.81;;;201-250;1.38;;;199;2.58;39;15.87;;;
+2024;comunicacao;Universidade Federal de Ouro Preto;MG;80;Federal;69;21.6;68;21.95;;;63;6.31;;;1;8;;;14;7.64;;;;;
+2024;comunicacao;Universidade do Vale do Taquari;RS;81;Privada;21;31.77;174;11.32;;;201-250;2.02;;;118;4.78;;;128;4.52;;;;;
+2024;comunicacao;Universidade Metodista de Piracicaba;SP;82;Privada;69;21.6;70;21.41;;;251-300;0.46;;;201-250;2.28;;;191;2.8;39;15.87;;;
+2024;comunicacao;Universidade Estadual de Santa Cruz;BA;83;Estadual;69;21.6;73;21;;;82;5.79;;;1;8;;;30;7.21;;;;;
+2024;comunicacao;Universidade Federal do Piauí;PI;84;Federal;69;21.6;74;20.82;;;62;6.33;;;1;8;;;56;6.49;;;;;
+2024;comunicacao;Universidade Federal de Alagoas;AL;85;Federal;69;21.6;75;20.8;;;43;6.85;;;1;8;;;76;5.95;;;;;
+2024;comunicacao;Universidade Tiradentes;SE;86;Privada;21;31.77;195;9.84;;;169;3.41;;;148;3.96;;;201-250;2.47;;;;;
+2024;comunicacao;Universidade Vila Velha;ES;87;Privada;21;31.77;199;9.64;;;134;4.37;;;161;3.6;;;201-250;1.67;;;;;
+2024;comunicacao;Universidade Estadual do Sudoeste da Bahia;BA;88;Estadual;69;21.6;79;19.79;;;82;5.79;;;1;8;;;74;6;;;;;
+2024;comunicacao;Pontifícia Universidade Católica de Goiás;GO;89;Privada;21;31.77;200;9.59;;;133;4.4;;;201-250;1.49;;;158;3.7;;;;;
+2024;comunicacao;Universidade do Estado da Bahia;BA;90;Estadual;69;21.6;80;19.63;;;70;6.12;;;1;8;;;92;5.51;;;;;
+2024;comunicacao;Universidade Paulista;SP;90;Privada;21;31.77;201-250;9.46;;;161;3.63;;;131;4.43;;;201-250;1.4;;;;;
+2024;comunicacao;Centro Universitário Brasileiro;PE;92;Privada;69;21.6;83;19.14;;;179;3.14;;;1;8;;;1;8;;;;;
+2024;comunicacao;Centro Universitário do Instituto de Educação Superior de Brasília;DF;93;Privada;21;31.77;201-250;8.41;;;140;4.21;;;201-250;2.12;;;201-250;2.08;;;;;
+2024;comunicacao;Universidade Federal do Acre;AC;94;Federal;69;21.6;86;18.56;;;105;5.16;;;1;8;;;96;5.4;;;;;
+2024;comunicacao;Universidade do Estado do Rio Grande do Norte;RN;95;Estadual;69;21.6;87;18.37;;;86;5.68;;;1;8;;;122;4.69;;;;;
+2024;comunicacao;Universidade Franciscana;RS;96;Privada;69;21.6;88;18.01;;;111;5;;;1;8;;;110;5.01;;;;;
+2024;comunicacao;Universidade Católica de Santos;SP;97;Privada;69;21.6;89;17.91;;;73;6.03;;;88;5.61;;;64;6.27;;;;;
+2024;comunicacao;Faculdade Estácio de Florianópolis;SC;98;Privada;21;31.77;201-250;7.54;;;201-250;1.78;;;201-250;2.03;;;157;3.73;;;;;
+2024;comunicacao;Universidade Federal do Recôncavo da Bahia;BA;99;Federal;69;21.6;93;17.52;;;173;3.3;;;1;8;;;66;6.22;;;;;
+2024;comunicacao;Universidade de Ribeirão Preto;SP;100;Privada;69;21.6;96;17.26;;;26;7.32;;;111;4.98;;;112;4.96;;;;;
+2024;comunicacao;Universidade do Estado de Minas Gerais;MG;101;Estadual;69;21.6;98;17.16;;;101;5.27;;;1;8;;;151;3.89;;;;;
+2024;comunicacao;Centro Universitário de Volta Redonda;RJ;102;Privada;69;21.6;99;17.09;;;178;3.17;;;1;8;;;77;5.92;;;;;
+2024;comunicacao;Fundação Universidade Federal de Rondônia;RO;103;Federal;69;21.6;100;17.03;;;160;3.66;;;1;8;;;97;5.37;;;;;
+2024;comunicacao;Universidade Estadual do Piauí;PI;104;Estadual;69;21.6;103;16.65;;;137;4.29;;;1;8;;;134;4.36;;;;;
+2024;comunicacao;Centro Universitário Estácio Juiz de Fora;MG;105;Privada;69;21.6;108;15.51;;;88;5.63;;;167;3.44;;;58;6.44;;;;;
+2024;comunicacao;Centro Universitário Anhanguera de São Paulo;SP;106;Privada;69;21.6;111;15.27;;;107;5.11;;;120;4.73;;;95;5.43;;;;;
+2024;comunicacao;Faculdade Anísio Teixeira de Feira de Santana;BA;107;Privada;69;21.6;112;15.19;;;51;6.64;;;1;8;;;251-300;0.55;;;;;
+2024;comunicacao;Universidade Católica Dom Bosco;MS;108;Privada;69;21.6;115;14.96;;;201-250;1.86;;;1;8;;;107;5.1;;;;;
+2024;comunicacao;Centro Universitário Jorge Amado;BA;109;Privada;69;21.6;116;14.9;;;80;5.84;;;183;3;;;72;6.06;;;;;
+2024;comunicacao;Fundação Universidade Federal do Tocantins;TO;110;Federal;;;43;36.45;;;117;4.83;;;1;8;;;10;7.75;39;15.87;;;
+2024;comunicacao;Centro Universitário Sete de Setembro;CE;111;Privada;69;21.6;117;14.73;;;76;5.95;;;134;4.34;;;131;4.44;;;;;
+2024;comunicacao;Universidade de Franca;SP;112;Privada;69;21.6;123;14.24;;;41;6.91;;;195;2.67;;;123;4.66;;;;;
+2024;comunicacao;Universidade São Judas Tadeu;SP;113;Privada;69;21.6;127;14.06;;;163;3.58;;;94;5.44;;;109;5.04;;;;;
+2024;comunicacao;Universidade Luterana do Brasil;RS;114;Privada;69;21.6;130;13.97;;;97;5.38;;;101;5.25;;;171;3.34;;;;;
+2024;comunicacao;Universidade Comunitária da Região de Chapecó;SC;115;Privada;69;21.6;133;13.89;;;89;5.6;;;100;5.28;;;183;3.01;;;;;
+2024;comunicacao;Universidade Alto Vale do Rio do Peixe;SC;116;Privada;69;21.6;134;13.86;;;201-250;1.78;;;1;8;;;144;4.08;;;;;
+2024;comunicacao;Centro Universitário Zarns;BA;117;Privada;69;21.6;139;13.2;;;251-300;1.04;;;1;8;;;141;4.16;;;;;
+2024;comunicacao;Centro Universitário Dinâmica das Cataratas;PR;118;Privada;69;21.6;141;13.17;;;175;3.25;;;1;8;;;201-250;1.92;;;;;
+2024;comunicacao;Universidade Anhanguera;MS;119;Privada;69;21.6;143;13.05;;;199;2.59;;;139;4.21;;;65;6.25;;;;;
+2024;comunicacao;Centro Universitário Internacional;PR;120;Privada;69;21.6;147;12.91;;;201-250;2.51;;;108;5.06;;;98;5.34;;;;;
+2024;comunicacao;Centro Universitário da Serra Gaúcha;RS;121;Privada;69;21.6;149;12.86;;;34;7.1;;;201-250;1.46;;;136;4.3;;;;;
+2024;comunicacao;Faculdade Anhanguera de Belo Horizonte;MG;122;Privada;69;21.6;155;12.34;;;251-300;0.6;;;124;4.62;;;33;7.12;;;;;
+2024;comunicacao;Centro Universitário Aeso - Barros Melo;PE;123;Privada;69;21.6;156;12.24;;;29;7.24;;;201-250;2.31;;;195;2.69;;;;;
+2024;comunicacao;Centro Universitário Assis Gurgacz;PR;124;Privada;69;21.6;157;12.21;;;58;6.44;;;106;5.11;;;251-300;0.66;;;;;
+2024;comunicacao;Centro Universitário Maurício de Nassau de João Pessoa;PB;125;Privada;69;21.6;162;11.98;;;170;3.39;;;117;4.81;;;155;3.78;;;;;
+2024;comunicacao;Centro Universitário Barão de Mauá;SP;126;Privada;69;21.6;163;11.95;;;129;4.51;;;164;3.52;;;150;3.92;;;;;
+2024;comunicacao;Centro Universitário Sagrado Coração;SP;127;Privada;69;21.6;164;11.9;;;185;2.98;;;144;4.07;;;116;4.85;;;;;
+2024;comunicacao;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;128;Privada;69;21.6;167;11.68;;;167;3.47;;;132;4.4;;;154;3.81;;;;;
+2024;comunicacao;Centro Universitário Ceuni;AM;129;Privada;69;21.6;170;11.59;;;195;2.7;;;122;4.67;;;139;4.22;;;;;
+2024;comunicacao;Universidade de Cuiabá;MT;130;Privada;69;21.6;171;11.52;;;251-300;0.79;;;137;4.26;;;57;6.47;;;;;
+2024;comunicacao;Universidade de Caxias do Sul;RS;131;Privada;69;21.6;173;11.39;;;146;4.04;;;196;2.64;;;121;4.71;;;;;
+2024;comunicacao;Centro Universitário Adventista de São Paulo;SP;132;Privada;69;21.6;177;11.14;;;84;5.73;;;188;2.86;;;200;2.55;;;;;
+2024;comunicacao;Faculdade Estácio de Sá de Vitória;ES;132;Privada;69;21.6;177;11.14;;;87;5.65;;;187;2.89;;;198;2.6;;;;;
+2024;comunicacao;Centro Universitário de Pato Branco;PR;134;Privada;69;21.6;179;11.13;;;4;7.92;;;193;2.72;;;251-300;0.49;;;;;
+2024;comunicacao;Centro Universitário das Faculdades Associadas de Ensino;SP;135;Municipal;69;21.6;180;11.04;;;165;3.52;;;136;4.29;;;175;3.23;;;;;
+2024;comunicacao;Centro Universitário Estácio da Bahia;BA;136;Privada;69;21.6;183;10.92;;;251-300;1.04;;;141;4.15;;;84;5.73;;;;;
+2024;comunicacao;Universidade de Sorocaba;SP;137;Privada;69;21.6;185;10.86;;;85;5.71;;;251-300;0.66;;;129;4.49;;;;;
+2024;comunicacao;Faculdade Esamc Campinas;SP;138;Privada;69;21.6;191;10.45;;;47;6.74;;;185;2.94;;;251-300;0.77;;;;;
+2024;comunicacao;Universidade Regional de Blumenau;SC;139;Municipal;;;47;32.04;;;6;7.86;;;201-250;2.34;;;75;5.97;39;15.87;;;
+2024;comunicacao;Universidade da Amazônia;PA;139;Privada;69;21.6;192;10.44;;;119;4.78;;;171;3.33;;;201-250;2.33;;;;;
+2024;comunicacao;Universidade do Sul de Santa Catarina;SC;141;Privada;69;21.6;198;9.67;;;123;4.67;;;201-250;1.57;;;168;3.43;;;;;
+2024;comunicacao;Faculdade Esamc Sorocaba;SP;142;Privada;69;21.6;201-250;9.04;;;131;4.45;;;159;3.66;;;251-300;0.93;;;;;
+2024;comunicacao;Centro Universitário Estácio do Ceará;CE;143;Privada;69;21.6;201-250;8.97;;;139;4.23;;;201-250;1.84;;;187;2.9;;;;;
+2024;comunicacao;Centro Universitário Estácio de Ribeirão Preto;SP;144;Privada;69;21.6;201-250;8.84;;;251-300;0.46;;;1;8;;;251-300;0.38;;;;;
+2024;comunicacao;Universidade de Mogi das Cruzes;SP;145;Privada;69;21.6;201-250;8.79;;;157;3.74;;;166;3.46;;;201-250;1.59;;;;;
+2024;comunicacao;Universidade Vale do Rio Doce;MG;146;Privada;69;21.6;201-250;8.7;;;98;5.35;;;201-250;1.24;;;201-250;2.11;;;;;
+2024;comunicacao;Centro Universitário das Américas;SP;146;Privada;69;21.6;201-250;8.7;;;176;3.22;;;251-300;1.07;;;132;4.41;;;;;
+2024;comunicacao;Universidade Potiguar;RN;148;Privada;69;21.6;201-250;8.61;;;201-250;1.2;;;122;4.67;;;193;2.74;;;;;
+2024;comunicacao;Universidade Ceuma;MA;149;Privada;69;21.6;201-250;8.56;;;201-250;1.34;;;98;5.33;;;201-250;1.89;;;;;
+2024;comunicacao;Centro Universitário Nossa Senhora do Patrocínio;SP;150;Privada;69;21.6;201-250;8.49;;;152;3.88;;;201-250;1.43;;;177;3.18;;;;;
+2024;comunicacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;151;Privada;;;50;29.91;;;181;3.09;;;107;5.09;;;79;5.86;39;15.87;;;
+2024;comunicacao;Faculdade Martha Falcão Wyden;AM;152;Privada;69;21.6;201-250;8.22;;;198;2.62;;;251-300;1.13;;;130;4.47;;;;;
+2024;comunicacao;Faculdade Esamc Santos;SP;153;Privada;69;21.6;201-250;8.08;;;118;4.81;;;182;3.02;;;251-300;0.25;;;;;
+2024;comunicacao;Universidade Salvador;BA;154;Privada;69;21.6;201-250;8.02;;;121;4.72;;;201-250;2.01;;;201-250;1.29;;;;;
+2024;comunicacao;Universidade do Vale do Paraíba;SP;155;Privada;69;21.6;201-250;7.91;;;100;5.3;;;251-300;0.99;;;201-250;1.62;;;;;
+2024;comunicacao;Universidade de Uberaba;MG;156;Privada;69;21.6;201-250;7.52;;;251-300;0.6;;;121;4.7;;;201-250;2.22;;;;;
+2024;comunicacao;Universidade do Planalto Catarinense;SC;157;Privada;69;21.6;201-250;7.34;;;184;3;;;199;2.56;;;201-250;1.78;;;;;
+2024;comunicacao;Fiam-faam - Centro Universitário;SP;158;Privada;69;21.6;201-250;7.23;;;183;3.03;;;201-250;1.68;;;201-250;2.52;;;;;
+2024;comunicacao;Faculdade Maringá;PR;159;Privada;69;21.6;201-250;7.06;;;103;5.22;;;251-300;1.02;;;251-300;0.82;;;;;
+2024;comunicacao;Faculdade Esamc Uberlândia;MG;160;Privada;69;21.6;201-250;6.81;;;196;2.68;;;155;3.77;;;251-300;0.36;;;;;
+2024;comunicacao;Centro Universitário Teresa D'ávila;SP;161;Privada;69;21.6;201-250;6.46;;;114;4.92;;;251-300;0.28;;;201-250;1.26;;;;;
+2024;comunicacao;Centro Universitário Academia;MG;162;Privada;69;21.6;251-300;6.28;;;128;4.53;;;251-300;0.85;;;251-300;0.9;;;;;
+2024;comunicacao;Faculdade Estácio de Belém;PA;163;Privada;69;21.6;251-300;6;;;201-250;2.24;;;251-300;0.96;;;191;2.8;;;;;
+2024;comunicacao;Centro Universitário Estácio de São Luís;MA;164;Privada;69;21.6;251-300;5.83;;;201-250;2.13;;;201-250;1.95;;;201-250;1.75;;;;;
+2024;comunicacao;Faculdade Estácio de Teresina;PI;165;Privada;69;21.6;251-300;5.64;;;201-250;1.28;;;251-300;0.83;;;164;3.53;;;;;
+2024;comunicacao;Faculdade Paulus de Tecnologia e Comunicação;SP;166;Privada;;;52;27.17;;;44;6.83;;;251-300;0.61;;;152;3.86;39;15.87;;;
+2024;comunicacao;Centro Universitário Ritter dos Reis;RS;167;Privada;;;53;27.05;;;141;4.18;;;181;3.05;;;149;3.95;39;15.87;;;
+2024;comunicacao;Centro Universitário Univel;PR;168;Privada;69;21.6;251-300;5.2;;;201-250;2.51;;;201-250;1.7;;;251-300;0.99;;;;;
+2024;comunicacao;Centro Universitário Estácio de Santa Catarina;SC;169;Privada;69;21.6;251-300;5.15;;;201-250;1.78;;;251-300;0.41;;;185;2.96;;;;;
+2024;comunicacao;Faculdade Estácio do Pará;PA;170;Privada;;;55;26.6;;;90;5.57;;;201-250;2.09;;;181;3.07;39;15.87;;;
+2024;comunicacao;Centro Universitário Alves Faria;GO;171;Privada;69;21.6;251-300;3.97;;;187;2.92;;;251-300;0.36;;;251-300;0.69;;;;;
+2024;comunicacao;Instituto Esperança de Ensino Superior;PA;172;Privada;69;21.6;251-300;3.86;;;201-250;2.24;;;201-250;1.29;;;251-300;0.33;;;;;
+2024;comunicacao;Centro Universitário Estácio de Belo Horizonte;MG;173;Privada;69;21.6;251-300;3.65;;;251-300;0.6;;;251-300;0.58;;;201-250;2.47;;;;;
+2024;comunicacao;Centro Universitário Salesiano de São Paulo;SP;174;Privada;69;21.6;251-300;3.64;;;251-300;0.46;;;251-300;0.44;;;193;2.74;;;;;
+2024;comunicacao;Centro Universitário de Barra Mansa;RJ;175;Privada;69;21.6;251-300;2.93;;;251-300;1.09;;;251-300;0.74;;;251-300;1.1;;;;;
+2024;comunicacao;Faculdade de Estudos Avançados do Pará;PA;176;Privada;;;61;23.84;;;201-250;2.24;;;194;2.69;;;182;3.04;39;15.87;;;
+2024;comunicacao;Universidade Federal de Campina Grande;PB;177;Federal;;;63;23.07;;;15;7.62;;;1;8;;;21;7.45;;;;;
+2024;comunicacao;Centro Universitário Braz Cubas;SP;178;Privada;69;21.6;251-300;0.9;;;251-300;0.46;;;251-300;0.3;;;251-300;0.14;;;;;
+2024;comunicacao;Universidade Estadual do Centro Oeste;PR;179;Estadual;;;67;22.08;;;20;7.48;;;1;8;;;52;6.6;;;;;
+2024;comunicacao;Fundação Universidade Federal do Pampa;RS;180;Federal;;;76;20.67;;;96;5.41;;;1;8;;;28;7.26;;;;;
+2024;comunicacao;Universidade Federal do Sul e Sudeste do Pará;PA;181;Federal;;;77;20.26;;;138;4.26;;;1;8;;;1;8;;;;;
+2024;comunicacao;Universidade Federal Rural do Rio de Janeiro;RJ;182;Federal;;;78;19.93;;;108;5.08;;;1;8;;;43;6.85;;;;;
+2024;comunicacao;Centro Universitário Facvest;SC;183;Privada;;;84;18.94;;;104;5.19;;;1;8;;;83;5.75;;;;;
+2024;comunicacao;Universidade Federal do Sul da Bahia;BA;184;Federal;;;85;18.67;;;173;3.3;;;1;8;;;24;7.37;;;;;
+2024;comunicacao;Universidade Federal do Amapá;AP;185;Federal;;;90;17.88;;;148;3.99;;;1;8;;;78;5.89;;;;;
+2024;comunicacao;Centro Universitário Uniftc;BA;186;Privada;;;92;17.68;;;143;4.12;;;1;8;;;90;5.56;;;;;
+2024;comunicacao;Centro Universitário Sociesc;SC;187;Privada;;;95;17.27;;;2;7.97;;;109;5.03;;;137;4.27;;;;;
+2024;comunicacao;Universidade do Grande Rio Professor José de Souza Herdy;RJ;188;Privada;;;97;17.24;;;125;4.61;;;1;8;;;124;4.63;;;;;
+2024;comunicacao;Centro Universitário Unicarioca;RJ;189;Privada;;;105;16.42;;;164;3.55;;;90;5.55;;;26;7.32;;;;;
+2024;comunicacao;Universidade Estadual da Paraíba;PB;190;Estadual;;;106;15.69;;;145;4.07;;;1;8;;;161;3.62;;;;;
+2024;comunicacao;Faculdades Integradas de Três Lagoas;MS;191;Privada;;;107;15.65;;;147;4.01;;;1;8;;;160;3.64;;;;;
+2024;comunicacao;Centro Universitário FBV Wyden;PE;192;Privada;;;109;15.48;;;162;3.6;;;141;4.15;;;11;7.73;;;;;
+2024;comunicacao;Faculdade Promove de Minas Gerais;MG;193;Privada;;;114;15.14;;;201-250;1.47;;;1;8;;;86;5.67;;;;;
+2024;comunicacao;Centro Universitário de União da Vitória;PR;194;Municipal;;;118;14.72;;;110;5.02;;;1;8;;;201-250;1.7;;;;;
+2024;comunicacao;Faculdade Anhanguera de Brasília;DF;195;Privada;;;119;14.56;;;201-250;1.64;;;96;5.39;;;18;7.53;;;;;
+2024;comunicacao;Centro Universitário de Rio Preto;SP;196;Privada;;;120;14.55;;;57;6.47;;;1;8;;;251-300;0.08;;;;;
+2024;comunicacao;Universidade do Estado de Mato Grosso;MT;197;Estadual;;;124;14.23;;;121;4.72;;;1;8;;;201-250;1.51;;;;;
+2024;comunicacao;União das Faculdades dos Grandes Lagos;SP;198;Privada;;;125;14.21;;;142;4.15;;;1;8;;;201-250;2.06;;;;;
+2024;comunicacao;Centro Universitário Inta;CE;199;Privada;;;126;14.14;;;201-250;2.08;;;1;8;;;145;4.06;;;;;
+2024;comunicacao;Instituto Superior e Centro Educacional Luterano;SC;200;Privada;;;128;14.01;;;42;6.88;;;201-250;2.2;;;113;4.93;;;;;
+2024;comunicacao;Faculdade Anhanguera Unime de Salvador;BA;200;Privada;;;128;14.01;;;201-250;2.27;;;113;4.92;;;44;6.82;;;;;
+2024;comunicacao;Faculdade Anhanguera de Divinópolis;MG;201;Privada;;;136;13.38;;;192;2.79;;;130;4.45;;;69;6.14;;;;;
+2024;comunicacao;Centro Universitário do Distrito Federal;DF;201;Privada;;;158;12.1;;;201-250;1.64;;;96;5.39;;;108;5.07;;;;;
+2024;comunicacao;Faculdade Hélio Rocha;BA;201;Privada;;;201-250;9.53;;;251-300;1.04;;;1;8;;;251-300;0.49;;;;;
+2024;comunicacao;Centro Universitário União das Américas Descomplica;PR;201;Privada;;;146;12.92;;;201-250;2.51;;;1;8;;;201-250;2.41;;;;;
+2024;comunicacao;Centro Universitário Campo Limpo Paulista;SP;201;Privada;;;201-250;7.66;;;91;5.54;;;201-250;1.6;;;251-300;0.52;;;;;
+2024;comunicacao;Centro Universitário Autônomo do Brasil;PR;201;Privada;;;168;11.67;;;201-250;2.51;;;169;3.38;;;82;5.78;;;;;
+2024;comunicacao;Faculdade Internacional da Paraíba;PB;201;Privada;;;201-250;7.71;;;170;3.39;;;179;3.11;;;201-250;1.21;;;;;
+2024;comunicacao;Centro Universitário Sociesc de Blumenau;SC;201;Privada;;;201-250;7.8;;;201-250;1.78;;;112;4.95;;;251-300;1.07;;;;;
+2024;comunicacao;Centro Universitário Unibras do Sudoeste Goiano;GO;201;Privada;;;201-250;9.53;;;201-250;1.86;;;91;5.53;;;201-250;2.14;;;;;
+2024;comunicacao;Centro Universitário de Patos de Minas;MG;201;Privada;;;142;13.08;;;19;7.51;;;180;3.08;;;201-250;2.49;;;;;
+2024;comunicacao;Universidade Universus Veritas Guarulhos;SP;201;Privada;;;201-250;8.19;;;197;2.65;;;162;3.57;;;201-250;1.97;;;;;
+2024;comunicacao;Centro Universitário Fluminense;RJ;201;Privada;;;194;10.28;;;159;3.69;;;89;5.58;;;251-300;1.01;;;;;
+2024;comunicacao;Centro Universitário de Tecnologia de Curitiba;PR;201;Privada;;;201-250;7.72;;;154;3.82;;;251-300;1.05;;;189;2.85;;;;;
+2024;comunicacao;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;201;Privada;;;154;12.58;;;201-250;2.51;;;93;5.47;;;125;4.6;;;;;
+2024;comunicacao;Universidade Santo Amaro;SP;201;Privada;;;197;9.8;;;251-300;0.46;;;99;5.31;;;146;4.03;;;;;
+2024;comunicacao;Faculdade Evoluir;CE;201;Privada;;;188;10.68;;;201-250;2.08;;;1;8;;;251-300;0.6;;;;;
+2024;comunicacao;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;196;9.83;;;251-300;0.46;;;1;8;;;201-250;1.37;;;;;
+2024;comunicacao;Universidade Municipal de São Caetano do Sul;SP;201;Municipal;;;175;11.25;;;75;5.98;;;251-300;0.5;;;119;4.77;;;;;
+2024;comunicacao;Centro Universitário da Região da Campanha;RS;201;Privada;;;166;11.69;;;18;7.54;;;168;3.41;;;251-300;0.74;;;;;
+2024;comunicacao;Centro Universitário Unicuritiba;PR;201;Privada;;;145;12.94;;;201-250;2.51;;;104;5.17;;;101;5.26;;;;;
+2024;comunicacao;Centro Universitário Una de Contagem;MG;201;Privada;;;186;10.85;;;251-300;0.6;;;1;8;;;201-250;2.25;;;;;
+2024;comunicacao;Faculdade Anhanguera de Itabuna;BA;201;Privada;;;172;11.5;;;251-300;1.04;;;143;4.1;;;61;6.36;;;;;
+2024;comunicacao;Centro Universitário Unic;MT;201;Privada;;;176;11.19;;;251-300;0.79;;;147;3.99;;;59;6.41;;;;;
+2024;comunicacao;Centro Universitário Metodista;RS;201;Privada;;;189;10.63;;;201-250;2.02;;;201-250;1.81;;;45;6.8;;;;;
+2024;comunicacao;FAE Centro Universitário;PR;201;Privada;;;201-250;9.57;;;201-250;2.51;;;151;3.88;;;177;3.18;;;;;
+2024;comunicacao;Centro Universitário Unirb;BA;201;Privada;;;132;13.92;;;251-300;1.04;;;1;8;;;115;4.88;;;;;
+2024;comunicacao;Centro Universitário Toledo Wyden;SP;201;Privada;169;0.42;138;13.21;;;95;5.43;;;251-300;0.77;;;37;7.01;;;;;
+2024;comunicacao;Faculdade JK - Guará;DF;201;Privada;;;152;12.76;;;201-250;1.64;;;1;8;;;179;3.12;;;;;
+2024;comunicacao;Universidade Católica do Salvador;BA;201;Privada;;;190;10.62;;;81;5.82;;;201-250;2.14;;;196;2.66;;;;;
+2024;comunicacao;Centro Universitário Estácio de Brasília;DF;201;Privada;;;201-250;7.92;;;201-250;1.64;;;201-250;1.29;;;111;4.99;;;;;
+2024;comunicacao;Instituto de Educação Superior Raimundo Sá;PI;201;Privada;;;201-250;8.51;;;127;4.56;;;190;2.8;;;251-300;1.15;;;;;
+2024;comunicacao;Centro Universitário Fanor Wyden;CE;201;Privada;;;201-250;7.86;;;168;3.44;;;251-300;1.13;;;173;3.29;;;;;
+2024;comunicacao;Centro Universitário de Maceió;AL;201;Privada;;;201-250;8.52;;;190;2.84;;;201-250;2.36;;;172;3.32;;;;;
+2024;comunicacao;Centro Universitário Ibmr;RJ;201;Privada;;;184;10.9;;;120;4.75;;;192;2.75;;;169;3.4;;;;;
+2024;comunicacao;Faculdade Dois de Julho;BA;201;Privada;;;182;10.99;;;251-300;1.04;;;1;8;;;201-250;1.95;;;;;
+2024;comunicacao;Centro Universitário Sant'Anna;SP;201;Privada;;;137;13.36;;;251-300;0.46;;;1;8;;;114;4.9;;;;;
+2024;comunicacao;Faculdade de Tecnologia de Sinop;MT;201;Privada;;;201-250;9.37;;;251-300;0.79;;;1;8;;;251-300;0.58;;;;;
+2024;comunicacao;Centro Universitário Católica do Leste de Minas Gerais;MG;201;Privada;;;131;13.96;;;54;6.55;;;153;3.82;;;162;3.59;;;;;
+2024;comunicacao;Centro Universitário Satc;SC;201;Privada;;;159;12.07;;;53;6.58;;;197;2.61;;;188;2.88;;;;;
+2024;comunicacao;Faculdades Integradas de Fernandópolis;SP;201;Privada;169;0.42;201-250;9.27;;;166;3.5;;;191;2.78;;;184;2.99;;;;;
+2024;comunicacao;Centro Universitário Católico Salesiano Auxilium;SP;201;Privada;;;193;10.35;;;251-300;0.71;;;1;8;;;201-250;1.64;;;;;
+2024;comunicacao;Faculdade Metropolitana de Anápolis;GO;201;Privada;;;201-250;8.86;;;201-250;2.54;;;103;5.2;;;251-300;1.12;;;;;
+2024;comunicacao;Centro Universitário Fasipe;MT;201;Privada;;;169;11.61;;;64;6.28;;;150;3.9;;;201-250;1.43;;;;;
+2024;comunicacao;Faculdade Estácio de Sá de Campo Grande;MS;201;Privada;;;181;11.02;;;201-250;1.86;;;201-250;1.65;;;19;7.51;;;;;
+2024;comunicacao;Centro Universitário Social da Bahia;BA;201;Privada;;;201-250;8.5;;;251-300;1.04;;;178;3.13;;;135;4.33;;;;;
+2024;comunicacao;Centro Universitário Maurício de Nassau de Campina Grande;PB;201;Privada;;;161;12.04;;;170;3.39;;;128;4.51;;;142;4.14;;;;;
+2024;comunicacao;Centro Universitário Santa Amélia;PR;201;Privada;;;135;13.83;;;113;4.94;;;114;4.89;;;147;4;;;;;
+2024;comunicacao;Centro Universitário Unifaat;SP;201;Privada;;;165;11.81;;;194;2.73;;;149;3.93;;;105;5.15;;;;;
+2024;comunicacao;Centro Universitário Funorte;MG;201;Privada;;;151;12.82;;;251-300;0.6;;;1;8;;;139;4.22;;;;;
+2024;comunicacao;Cesrei Faculdade;PB;251;Privada;;;251-300;6.04;;;102;5.24;;;251-300;0.69;;;251-300;0.11;;;;;
+2024;comunicacao;Centro Universitário São Judas Tadeu;SP;251;Privada;;;251-300;6.06;;;251-300;0.46;;;184;2.97;;;197;2.63;;;;;
+2024;comunicacao;Faculdade Pinheiro Guimarães;RJ;251;Privada;;;251-300;4.29;;;193;2.76;;;251-300;0.08;;;201-250;1.45;;;;;
+2024;comunicacao;Faculdade Esamc São Paulo;SP;251;Privada;;;251-300;3.24;;;251-300;0.46;;;201-250;1.98;;;251-300;0.8;;;;;
+2024;comunicacao;Faculdades Integradas Rio Branco;SP;251;Privada;;;251-300;5.09;;;251-300;0.46;;;201-250;2.47;;;201-250;2.16;;;;;
+2024;comunicacao;Centro Universitário Metrocamp Wyden;SP;251;Privada;;;201-250;6.99;;;251-300;0.46;;;174;3.24;;;173;3.29;;;;;
+2024;comunicacao;Centro Universitário Vale do Cricaré;ES;251;Privada;;;251-300;5.55;;;134;4.37;;;251-300;0.96;;;251-300;0.22;;;;;
+2024;comunicacao;Faculdade Estácio Macapá;AP;251;Privada;;;251-300;2.63;;;251-300;0.68;;;251-300;0.39;;;201-250;1.56;;;;;
+2024;comunicacao;Centro Universitário Joaquim Nabuco de Recife;PE;251;Privada;;;201-250;7.18;;;201-250;1.42;;;251-300;0.96;;;118;4.8;;;;;
+2024;comunicacao;Centro Universitário Sul-americana;GO;251;Privada;;;251-300;5.55;;;149;3.96;;;251-300;0.55;;;251-300;1.04;;;;;
+2024;comunicacao;Faculdades Integradas de Taquara;RS;251;Privada;;;201-250;6.32;;;201-250;2.02;;;251-300;0.63;;;159;3.67;;;;;
+2024;comunicacao;Faculdade da Cidade de Maceió;AL;251;Privada;;;251-300;1.32;;;201-250;1.26;;;;;;;251-300;0.06;;;;;
+2024;comunicacao;Universidade de Cruz Alta;RS;251;Privada;;;201-250;7.1;;;201-250;2.02;;;201-250;1.87;;;176;3.21;;;;;
+2024;comunicacao;Faculdade Assis Gurgacz;PR;251;Privada;;;201-250;6.74;;;60;6.39;;;251-300;0.19;;;251-300;0.16;;;;;
+2024;comunicacao;Instituto Maranhense de Ensino e Cultura;MA;251;Privada;;;201-250;7.39;;;126;4.59;;;201-250;2.17;;;251-300;0.63;;;;;
+2024;comunicacao;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;251-300;3.42;;;251-300;1.09;;;251-300;0.06;;;201-250;2.27;;;;;
+2024;comunicacao;Universidade Nilton Lins;AM;251;Privada;;;201-250;6.48;;;109;5.05;;;201-250;1.4;;;251-300;0.03;;;;;
+2024;comunicacao;Centro Universitário de Ciências e Tecnologia do Maranhão;MA;251;Privada;;;251-300;5.95;;;201-250;1.34;;;174;3.24;;;201-250;1.37;;;;;
+2024;comunicacao;Centro Universitário Fadergs;RS;251;Privada;;;251-300;4.08;;;201-250;2.02;;;251-300;0.17;;;201-250;1.89;;;;;
+2024;comunicacao;Faculdade São Tomaz de Aquino;BA;251;Privada;;;251-300;1.04;;;251-300;1.04;;;;;;;;;;;;;
+2024;comunicacao;Centro Universitário dos Guararapes;PE;251;Privada;;;251-300;5.9;;;201-250;1.42;;;201-250;2.45;;;201-250;2.03;;;;;
+2024;comunicacao;Centro Universitário do Norte;AM;251;Privada;;;201-250;7.35;;;251-300;0.68;;;177;3.16;;;165;3.51;;;;;
+2024;comunicacao;Centro Universitário Cearense;CE;251;Privada;;;251-300;3.53;;;186;2.95;;;251-300;0.14;;;251-300;0.44;;;;;
+2024;comunicacao;Centro Universitário Metropolitano de Maringá;PR;251;Privada;;;251-300;4.52;;;201-250;2.51;;;201-250;1.16;;;251-300;0.85;;;;;
+2024;comunicacao;Faculdade Boas Novas de Ciências Teológicas, Sociais e Biotecnológicas;AM;251;Privada;;;251-300;1.42;;;251-300;0.68;;;251-300;0.03;;;251-300;0.71;;;;;
+2024;comunicacao;Centro Universitário Araguaia;GO;251;Privada;;;201-250;7.24;;;201-250;2.1;;;172;3.3;;;201-250;1.84;;;;;
+2024;comunicacao;Centro Universitário Módulo;SP;251;Privada;;;201-250;6.66;;;251-300;0.46;;;251-300;0.88;;;99;5.32;;;;;
+2024;comunicacao;Faculdade Canção Nova;SP;251;Privada;;;251-300;2.74;;;251-300;0.46;;;251-300;0.47;;;201-250;1.81;;;;;
+2024;comunicacao;Centro Universitário do Sul de Minas;MG;251;Privada;;;251-300;5.37;;;189;2.87;;;201-250;1.62;;;251-300;0.88;;;;;
+2024;comunicacao;Centro Universitário Augusto Motta;RJ;251;Privada;;;251-300;6.14;;;201-250;1.45;;;201-250;2.39;;;201-250;2.3;;;;;
+2024;comunicacao;Universidade Salgado de Oliveira;RJ;251;Privada;;;251-300;5.74;;;251-300;1.15;;;201-250;2.23;;;201-250;2.36;;;;;
+2024;comunicacao;Instituto Superior de Ciências Aplicadas;SP;251;Privada;;;251-300;1.39;;;251-300;0.46;;;251-300;0.52;;;251-300;0.41;;;;;
+2024;comunicacao;Faculdade Eduvale de Avaré;SP;251;Privada;;;201-250;7.25;;;130;4.48;;;201-250;1.54;;;201-250;1.23;;;;;
+2024;comunicacao;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;251;Privada;;;251-300;4.13;;;201-250;1.64;;;251-300;0.11;;;201-250;2.38;;;;;
+2024;comunicacao;Centro Universitário da Amazônia;PA;251;Privada;;;251-300;6.27;;;201-250;2.24;;;201-250;2.5;;;201-250;1.53;;;;;
+2024;comunicacao;Centro Universitário Tabosa de Almeida;PE;251;Privada;;;251-300;6;;;201-250;1.42;;;198;2.58;;;201-250;2;;;;;
+2024;comunicacao;Universidade Castelo Branco;RJ;251;Privada;;;251-300;5.47;;;153;3.85;;;201-250;1.35;;;251-300;0.27;;;;;
+2024;comunicacao;Faculdade Paulista de Comunicação;SP;251;Privada;;;251-300;5.38;;;251-300;0.46;;;156;3.74;;;201-250;1.18;;;;;
+2024;comunicacao;Faculdade Interamericana de Porto Velho;RO;251;Privada;;;251-300;5.17;;;182;3.06;;;201-250;1.81;;;251-300;0.3;;;;;
+2024;comunicacao;Centro Universitário FG;BA;251;Privada;;;201-250;7.17;;;251-300;1.04;;;119;4.76;;;201-250;1.37;;;;;
+2024;comunicacao;Faculdade São Francisco de Assis;RS;251;Privada;;;251-300;6.02;;;201-250;2.02;;;201-250;1.18;;;190;2.82;;;;;
+2024;comunicacao;Faculdade Faccat;SP;251;Privada;;;251-300;0.9;;;251-300;0.46;;;251-300;0.25;;;251-300;0.19;;;;;
+2024;comunicacao;Universidade de Gurupi;TO;251;Municipal;;;251-300;6.29;;;201-250;1.78;;;163;3.55;;;251-300;0.96;;;;;
+2025;comunicacao;Universidade Federal de Santa Catarina;SC;1;Federal;4;29.48;1;68.94;;;3;7.94;;;1;8;;;11;7.71;2;39.29;1;1;6
+2025;comunicacao;Universidade de São Paulo;SP;2;Estadual;1;30;2;68.31;;;30;7.17;;;1;8;;;8;7.8;1;40;2;28;5.34
+2025;comunicacao;Universidade Federal do Rio de Janeiro;RJ;3;Federal;4;29.48;3;67.54;;;12;7.69;;;1;8;;;36;7;2;39.29;3;19;5.56
+2025;comunicacao;Universidade Federal de Minas Gerais;MG;4;Federal;4;29.48;4;65.78;;;7;7.83;;;1;8;;;5;7.89;4;37.86;4;75;4.2
+2025;comunicacao;Universidade Federal do Rio Grande do Sul;RS;5;Federal;16;27.38;5;65.74;;;1;8;;;1;8;;;18;7.51;4;37.86;5;68;4.37
+2025;comunicacao;Universidade Federal da Bahia;BA;6;Federal;16;27.38;7;63.94;;;14;7.63;;;1;8;;;57;6.4;4;37.86;6;81;4.05
+2025;comunicacao;Pontifícia Universidade Católica de São Paulo;SP;7;Privada;4;29.48;12;60.61;;;33;7.09;;;101;5.12;;;39;6.91;4;37.86;1;98;3.63
+2025;comunicacao;Universidade Federal de Uberlândia;MG;8;Federal;16;27.38;8;61.67;;;11;7.72;;;1;8;;;22;7.4;10;33.57;7;43;4.98
+2025;comunicacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;9;Estadual;16;27.38;10;61.38;;;30;7.17;;;1;8;;;7;7.83;10;33.57;8;50;4.81
+2025;comunicacao;Universidade de Brasília;DF;10;Federal;16;27.38;11;60.99;;;13;7.66;;;1;8;;;29;7.2;10;33.57;9;60;4.56
+2025;comunicacao;Universidade Federal Fluminense;RJ;11;Federal;48;21.8;6;65.48;;;10;7.74;;;1;8;;;17;7.54;4;37.86;10;69;4.34
+2025;comunicacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;12;Privada;4;29.48;13;54.22;;;93;5.38;;;130;4.29;;;54;6.49;10;33.57;2;63;4.49
+2025;comunicacao;Faculdade Cásper Líbero;SP;13;Privada;2;29.83;14;53.8;;;92;5.41;;;251-300;0.6;;;99;5.2;4;37.86;3;53;4.73
+2025;comunicacao;Universidade Estadual de Campinas;SP;14;Estadual;48;21.8;9;61.5;;;30;7.17;;;1;8;;;23;7.37;10;33.57;11;26;5.39
+2025;comunicacao;Universidade Federal do Paraná;PR;15;Federal;4;29.48;15;53.58;;;5;7.89;;;1;8;;;6;7.86;22;25;12;49;4.83
+2025;comunicacao;Universidade Presbiteriana Mackenzie;SP;16;Privada;4;29.48;18;52.21;;;150;3.76;;;144;3.89;;;63;6.23;10;33.57;4;52;4.76
+2025;comunicacao;Universidade Federal de Goiás;GO;17;Federal;4;29.48;21;51.18;;;8;7.8;;;1;8;;;66;6.14;22;25;13;73;4.24
+2025;comunicacao;Universidade Federal do Pará;PA;18;Federal;16;27.38;16;52.99;;;35;7.03;;;1;8;;;16;7.57;22;25;14;26;5.39
+2025;comunicacao;Escola Superior de Propaganda e Marketing;SP;19;Privada;2;29.83;27;50.44;;;99;5.21;;;201-250;1.27;;;87;5.54;10;33.57;5;48;4.85
+2025;comunicacao;Pontifícia Universidade Católica do Paraná;PR;20;Privada;4;29.48;28;50.35;;;28;7.23;;;201-250;2.19;;;154;3.63;10;33.57;6;94;3.73
+2025;comunicacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;21;Privada;4;29.48;29;50.08;;;66;6.15;;;251-300;0.37;;;107;4.97;10;33.57;7;41;5.02
+2025;comunicacao;Universidade Estadual de Londrina;PR;22;Estadual;16;27.38;24;50.75;;;68;6.09;;;1;8;;;52;6.54;22;25;15;37;5.12
+2025;comunicacao;Universidade Federal do Ceará;CE;23;Federal;16;27.38;26;50.57;;;9;7.77;;;1;8;;;96;5.29;22;25;16;62;4.51
+2025;comunicacao;Universidade Federal de Pernambuco;PE;24;Federal;16;27.38;32;49.09;;;37;6.98;;;1;8;;;47;6.69;22;25;17;148;2.42
+2025;comunicacao;Universidade do Vale do Rio dos Sinos;RS;25;Privada;16;27.38;35;48.19;;;44;6.78;;;107;4.95;;;30;7.17;22;25;8;71;4.29
+2025;comunicacao;Universidade Metodista de São Paulo;SP;26;Privada;48;21.8;19;52.19;;;106;5.01;;;155;3.57;;;120;4.6;10;33.57;9;24;5.44
+2025;comunicacao;Pontifícia Universidade Católica de Minas Gerais;MG;27;Privada;4;29.48;39;43.91;;;72;5.98;;;157;3.51;;;92;5.4;22;25;10;82;4.02
+2025;comunicacao;Universidade Estadual de Maringá;PR;28;Estadual;48;21.8;20;51.43;;;68;6.09;;;1;8;;;59;6.34;22;25;18;1;6
+2025;comunicacao;Universidade Federal de Mato Grosso do Sul;MS;29;Federal;48;21.8;22;51.13;;;74;5.92;;;1;8;;;9;7.77;22;25;19;65;4.44
+2025;comunicacao;Universidade Federal do Rio Grande do Norte;RN;30;Federal;48;21.8;23;51.04;;;48;6.66;;;1;8;;;32;7.11;22;25;20;72;4.27
+2025;comunicacao;Pontifícia Universidade Católica de Campinas;SP;31;Privada;48;21.8;25;50.69;;;78;5.81;;;201-250;1.47;;;114;4.77;10;33.57;11;39;5.07
+2025;comunicacao;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;32;Privada;16;27.38;37;45.04;;;52;6.55;;;182;2.79;;;91;5.43;22;25;12;31;5.27
+2025;comunicacao;Centro Universitário Armando Alvares Penteado;SP;33;Privada;16;27.38;38;44.78;;;112;4.84;;;251-300;0.29;;;151;3.71;10;33.57;13;150;2.37
+2025;comunicacao;Universidade Federal de Santa Maria;RS;34;Federal;48;21.8;30;49.63;;;77;5.84;;;1;8;;;10;7.74;22;25;21;122;3.05
+2025;comunicacao;Universidade Federal do Amazonas;AM;35;Federal;48;21.8;34;48.27;;;124;4.5;;;1;8;;;79;5.77;22;25;22;42;5
+2025;comunicacao;Universidade do Estado do Rio de Janeiro;RJ;36;Estadual;48;21.8;36;46.16;;;21;7.43;;;174;3.02;;;61;6.29;22;25;23;66;4.42
+2025;comunicacao;Universidade do Vale do Itajaí;SC;37;Privada;16;27.38;45;39.78;;;67;6.12;;;149;3.74;;;161;3.43;22;25;14;186;1.49
+2025;comunicacao;Universidade de Fortaleza;CE;38;Privada;16;27.38;50;38.21;;;156;3.59;;;123;4.49;;;185;2.74;22;25;15;149;2.39
+2025;comunicacao;Centro Universitário Belas Artes de São Paulo;SP;39;Privada;48;21.8;40;42.8;;;151;3.73;;;111;4.84;;;80;5.74;22;25;16;104;3.49
+2025;comunicacao;Centro Universitário Faesa;ES;39;Privada;48;21.8;40;42.8;;;36;7;;;1;8;;;201-250;1.6;22;25;16;198;1.2
+2025;comunicacao;Universidade Regional de Blumenau;SC;41;Municipal;48;21.8;42;42.78;;;6;7.86;;;197;2.36;;;89;5.49;22;25;24;162;2.07
+2025;comunicacao;Universidade Anhembi Morumbi;SP;42;Privada;16;27.38;54;34.49;;;187;2.71;;;201-250;2.16;;;175;3.03;22;25;18;182;1.59
+2025;comunicacao;Universidade Santa Cecília;SP;43;Privada;48;21.8;44;40.03;;;201-250;1.14;;;126;4.4;;;140;4.03;22;25;19;23;5.46
+2025;comunicacao;Universidade Nove de Julho;SP;44;Privada;48;21.8;48;39.08;;;201-250;1.2;;;178;2.91;;;126;4.43;22;25;20;20;5.54
+2025;comunicacao;Faculdades Integradas Hélio Alonso;RJ;45;Privada;48;21.8;49;38.63;;;158;3.53;;;199;2.3;;;200;2.31;22;25;21;22;5.49
+2025;comunicacao;Centro Universitário Álvares Penteado;SP;46;Privada;48;21.8;51;37.42;;;251-300;0.46;;;194;2.45;;;42;6.83;22;25;22;137;2.68
+2025;comunicacao;Universidade de Taubaté;SP;47;Municipal;48;21.8;52;36.14;;;201-250;1.08;;;90;5.44;;;149;3.77;22;25;25;201-250;0.85
+2025;comunicacao;Universidade Cruzeiro do Sul;SP;48;Privada;48;21.8;55;33.18;;;190;2.62;;;201-250;1.58;;;181;2.86;22;25;23;201-250;1.12
+2025;comunicacao;Fundação Universidade Federal do Tocantins;TO;49;Federal;136;6.45;33;48.51;;;117;4.7;;;1;8;;;12;7.69;22;25;26;119;3.12
+2025;comunicacao;Universidade Federal do Espírito Santo;ES;50;Federal;16;27.38;58;27.46;;;22;7.4;;;1;8;;;45;6.74;;;27;29;5.32
+2025;comunicacao;Universidade Cesumar;PR;51;Privada;48;21.8;56;32.55;;;200;2.34;;;192;2.5;;;186;2.71;22;25;24;;
+2025;comunicacao;Universidade Estadual de Ponta Grossa;PR;52;Estadual;;;17;52.31;;;38;6.95;;;1;8;;;38;6.94;22;25;28;25;5.42
+2025;comunicacao;Universidade Federal de Juiz de Fora;MG;53;Federal;16;27.38;67;24.75;;;50;6.61;;;1;8;;;49;6.63;;;29;103;3.51
+2025;comunicacao;Universidade Federal do Maranhão;MA;54;Federal;16;27.38;70;23.7;;;132;4.27;;;1;8;;;40;6.89;;;30;61;4.54
+2025;comunicacao;Universidade Federal de Pelotas;RS;55;Federal;16;27.38;72;23.32;;;39;6.92;;;1;8;;;75;5.89;;;31;144;2.51
+2025;comunicacao;Universidade Federal da Paraíba;PB;56;Federal;48;21.8;57;28.66;;;15;7.6;;;1;8;;;34;7.06;;;32;1;6
+2025;comunicacao;Universidade do Oeste Paulista;SP;57;Privada;16;27.38;77;22.03;;;65;6.18;;;102;5.09;;;83;5.66;;;25;38;5.1
+2025;comunicacao;Universidade Federal do Cariri;CE;58;Federal;;;31;49.28;;;25;7.32;;;1;8;;;64;6.2;22;25;33;134;2.76
+2025;comunicacao;Universidade Federal de Viçosa;MG;59;Federal;48;21.8;59;27.29;;;17;7.54;;;1;8;;;15;7.6;;;34;77;4.15
+2025;comunicacao;Universidade Federal de Ouro Preto;MG;60;Federal;48;21.8;62;25.94;;;63;6.24;;;1;8;;;14;7.63;;;35;80;4.07
+2025;comunicacao;Centro Universitário Ibmec;RJ;61;Privada;136;6.45;43;41.05;;;198;2.39;;;251-300;0.2;;;20;7.46;22;25;26;1;6
+2025;comunicacao;Universidade Federal de Mato Grosso;MT;62;Federal;48;21.8;63;25.4;;;71;6.01;;;1;8;;;26;7.29;;;36;79;4.1
+2025;comunicacao;Universidade Federal do Piauí;PI;63;Federal;48;21.8;64;25.14;;;62;6.26;;;1;8;;;71;6;;;37;47;4.88
+2025;comunicacao;Universidade Federal de Roraima;RR;64;Federal;48;21.8;66;24.76;;;136;4.16;;;1;8;;;50;6.6;;;38;1;6
+2025;comunicacao;Universidade Federal de Sergipe;SE;65;Federal;48;21.8;68;24.36;;;40;6.89;;;1;8;;;51;6.57;;;39;128;2.9
+2025;comunicacao;Universidade Católica de Santos;SP;66;Privada;16;27.38;100;18.76;;;73;5.95;;;88;5.5;;;62;6.26;;;27;201-250;1.05
+2025;comunicacao;Universidade de Santa Cruz do Sul;RS;67;Privada;16;27.38;104;18.31;;;56;6.43;;;143;3.91;;;56;6.43;;;28;184;1.54
+2025;comunicacao;Universidade de Passo Fundo;RS;68;Privada;16;27.38;106;17.91;;;59;6.35;;;125;4.43;;;121;4.57;;;29;142;2.56
+2025;comunicacao;Universidade Estadual do Sudoeste da Bahia;BA;69;Estadual;48;21.8;71;23.46;;;82;5.69;;;1;8;;;60;6.31;;;40;105;3.46
+2025;comunicacao;Centro Universitário de Brasília;DF;70;Privada;16;27.38;111;17.38;;;94;5.35;;;201-250;1.3;;;88;5.51;;;30;33;5.22
+2025;comunicacao;Universidade Positivo;PR;71;Privada;48;21.8;74;22.54;;;24;7.35;;;87;5.53;;;128;4.37;;;31;30;5.29
+2025;comunicacao;Universidade do Estado da Bahia;BA;72;Estadual;48;21.8;78;21.95;;;70;6.04;;;1;8;;;69;6.06;;;41;171;1.85
+2025;comunicacao;Universidade do Estado do Rio Grande do Norte;RN;73;Estadual;48;21.8;79;21.9;;;86;5.58;;;1;8;;;106;5;;;42;111;3.32
+2025;comunicacao;Pontifícia Universidade Católica de Goiás;GO;74;Privada;4;29.48;168;13.19;;;133;4.24;;;201-250;1.12;;;147;3.83;;;32;83;4
+2025;comunicacao;Universidade de Ribeirão Preto;SP;75;Privada;48;21.8;84;20.55;;;26;7.29;;;113;4.78;;;103;5.09;;;33;108;3.39
+2025;comunicacao;Faculdade Estácio de Sá de Vitória;ES;76;Privada;48;21.8;85;20.52;;;87;5.55;;;1;8;;;171;3.14;;;34;90;3.83
+2025;comunicacao;Universidade Veiga de Almeida;RJ;77;Privada;48;21.8;87;20.34;;;23;7.37;;;159;3.45;;;115;4.74;;;35;51;4.78
+2025;comunicacao;Centro Universitário Maurício de Nassau;PE;78;Privada;16;27.38;144;14.64;;;116;4.73;;;122;4.52;;;166;3.29;;;36;161;2.1
+2025;comunicacao;Centro Universitário das Américas;SP;79;Privada;136;6.45;53;35.48;;;175;3.05;;;251-300;0.23;;;144;3.91;22;25;37;112;3.29
+2025;comunicacao;Universidade Federal do Recôncavo da Bahia;BA;80;Federal;48;21.8;91;20.01;;;172;3.13;;;1;8;;;81;5.71;;;43;117;3.17
+2025;comunicacao;Centro Universitário Una;MG;81;Privada;16;27.38;148;14.34;;;55;6.46;;;198;2.33;;;130;4.31;;;38;196;1.24
+2025;comunicacao;Universidade do Estado de Minas Gerais;MG;82;Estadual;48;21.8;93;19.76;;;101;5.15;;;1;8;;;158;3.51;;;44;120;3.1
+2025;comunicacao;Universidade do Vale do Taquari;RS;83;Privada;16;27.38;156;13.93;;;201-250;1.94;;;103;5.07;;;119;4.63;;;39;153;2.29
+2025;comunicacao;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;83;Privada;48;21.8;94;19.51;;;27;7.26;;;158;3.48;;;73;5.94;;;39;131;2.83
+2025;comunicacao;Centro Universitário Brasileiro;PE;85;Privada;48;21.8;95;19.46;;;178;2.96;;;114;4.75;;;33;7.09;;;41;56;4.66
+2025;comunicacao;Universidade Feevale;RS;86;Privada;48;21.8;96;19.44;;;46;6.72;;;141;3.97;;;72;5.97;;;42;133;2.78
+2025;comunicacao;Universidade Católica de Pernambuco;PE;87;Privada;16;27.38;162;13.5;;;179;2.93;;;201-250;1.84;;;90;5.46;;;43;113;3.27
+2025;comunicacao;Universidade Pitágoras Unopar Anhanguera;PR;88;Privada;48;21.8;98;18.89;;;49;6.63;;;115;4.72;;;24;7.34;;;44;201-250;0.2
+2025;comunicacao;Universidade São Judas Tadeu;SP;89;Privada;16;27.38;165;13.21;;;163;3.39;;;170;3.14;;;94;5.34;;;45;192;1.34
+2025;comunicacao;Centro Universitário Estácio Juiz de Fora;MG;90;Privada;48;21.8;101;18.65;;;88;5.52;;;108;4.92;;;104;5.06;;;46;118;3.15
+2025;comunicacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;91;Privada;;;45;39.78;;;180;2.9;;;100;5.15;;;48;6.66;22;25;47;201-250;0.07
+2025;comunicacao;Centro Universitário Adventista de São Paulo;SP;92;Privada;;;47;39.69;;;84;5.64;;;187;2.65;;;187;2.69;22;25;48;95;3.71
+2025;comunicacao;Centro Universitário Uniftc;BA;93;Privada;48;21.8;108;17.73;;;143;3.96;;;1;8;;;101;5.14;;;49;201-250;0.63
+2025;comunicacao;Universidade Católica de Brasília;DF;94;Privada;16;27.38;195;11.84;;;201-250;1.57;;;104;5.04;;;98;5.23;;;50;;
+2025;comunicacao;Universidade Estácio de Sá;RJ;94;Privada;48;21.8;109;17.42;;;155;3.62;;;150;3.71;;;67;6.11;;;50;84;3.98
+2025;comunicacao;Universidade Comunitária da Região de Chapecó;SC;96;Privada;48;21.8;110;17.39;;;89;5.5;;;98;5.21;;;182;2.83;;;52;89;3.85
+2025;comunicacao;Universidade Católica Dom Bosco;MS;97;Privada;48;21.8;115;16.92;;;201-250;1.79;;;1;8;;;102;5.11;;;53;164;2.02
+2025;comunicacao;Fundação Universidade Federal de Rondônia;RO;98;Federal;48;21.8;117;16.78;;;160;3.47;;;1;8;;;95;5.31;;;45;;
+2025;comunicacao;Centro Universitário Favip Wyden;PE;99;Privada;48;21.8;121;16.34;;;144;3.93;;;201-250;1.9;;;123;4.51;;;54;1;6
+2025;comunicacao;Centro Universitário de Belo Horizonte;MG;100;Privada;16;27.38;201-250;10.74;;;176;3.02;;;191;2.53;;;130;4.31;;;55;201-250;0.88
+2025;comunicacao;Centro Universitário Barão de Mauá;SP;101;Privada;48;21.8;123;16.24;;;129;4.36;;;142;3.94;;;168;3.23;;;56;54;4.71
+2025;comunicacao;Universidade Tuiuti do Paraná;PR;102;Privada;48;21.8;124;16.09;;;115;4.75;;;137;4.09;;;118;4.66;;;57;141;2.59
+2025;comunicacao;Centro Universitário Jorge Amado;BA;103;Privada;48;21.8;125;16;;;80;5.75;;;201-250;2.1;;;74;5.91;;;58;155;2.24
+2025;comunicacao;Centro Universitário Ceuni;AM;104;Privada;48;21.8;126;15.93;;;193;2.53;;;131;4.26;;;171;3.14;;;59;1;6
+2025;comunicacao;Universidade Estadual do Piauí;PI;105;Estadual;48;21.8;129;15.7;;;137;4.13;;;1;8;;;156;3.57;;;46;;
+2025;comunicacao;Centro Universitário Anhanguera de São Paulo;SP;106;Privada;48;21.8;132;15.44;;;107;4.98;;;112;4.81;;;84;5.63;;;60;201-250;0.02
+2025;comunicacao;Universidade Paulista;SP;107;Privada;16;27.38;201-250;9.72;;;161;3.45;;;139;4.03;;;201-250;1.51;;;61;201-250;0.73
+2025;comunicacao;Universidade de Caxias do Sul;RS;108;Privada;48;21.8;137;15.13;;;146;3.87;;;193;2.48;;;125;4.46;;;62;70;4.32
+2025;comunicacao;Faculdade Martha Falcão Wyden;AM;109;Privada;48;21.8;138;15.09;;;196;2.45;;;201-250;1.38;;;97;5.26;;;63;1;6
+2025;comunicacao;Centro Universitário da Serra Gaúcha;RS;110;Privada;48;21.8;146;14.51;;;34;7.06;;;201-250;1.67;;;153;3.66;;;64;160;2.12
+2025;comunicacao;Universidade de Franca;SP;111;Privada;48;21.8;153;14.04;;;41;6.86;;;201-250;1.81;;;112;4.83;;;65;201-250;0.54
+2025;comunicacao;Universidade Anhanguera;MS;112;Privada;48;21.8;157;13.73;;;197;2.42;;;119;4.6;;;58;6.37;;;66;201-250;0.34
+2025;comunicacao;Centro Universitário Assis Gurgacz;PR;113;Privada;48;21.8;163;13.48;;;58;6.38;;;92;5.38;;;251-300;0.4;;;67;193;1.32
+2025;comunicacao;Universidade Luterana do Brasil;RS;114;Privada;48;21.8;166;13.2;;;97;5.27;;;132;4.23;;;196;2.43;;;68;195;1.27
+2025;comunicacao;Universidade Ceuma;MA;114;Privada;48;21.8;166;13.2;;;201-250;1.28;;;1;8;;;201-250;2.09;;;68;172;1.83
+2025;comunicacao;Centro Universitário Estácio do Ceará;CE;116;Privada;48;21.8;173;12.85;;;139;4.07;;;171;3.11;;;201-250;1.86;;;70;91;3.81
+2025;comunicacao;Universidade Tiradentes;SE;117;Privada;48;21.8;177;12.79;;;169;3.22;;;128;4.35;;;157;3.54;;;71;178;1.68
+2025;comunicacao;Universidade de Sorocaba;SP;117;Privada;48;21.8;176;12.79;;;85;5.61;;;251-300;0.66;;;116;4.71;;;71;173;1.81
+2025;comunicacao;Universidade do Sul de Santa Catarina;SC;119;Privada;48;21.8;178;12.63;;;123;4.53;;;201-250;2.01;;;155;3.6;;;73;145;2.49
+2025;comunicacao;Faculdade Esamc Campinas;SP;120;Privada;48;21.8;184;12.38;;;47;6.69;;;140;4;;;251-300;0.71;;;74;201-250;0.98
+2025;comunicacao;Centro Universitário de Pato Branco;PR;121;Privada;48;21.8;187;12.25;;;4;7.92;;;183;2.76;;;251-300;0.57;;;75;201-250;1
+2025;comunicacao;Faculdade Esamc Uberlândia;MG;122;Privada;48;21.8;189;12.09;;;194;2.51;;;1;8;;;251-300;0.29;;;76;194;1.29
+2025;comunicacao;Centro Universitário Maurício de Nassau de João Pessoa;PB;123;Privada;48;21.8;192;12.03;;;170;3.19;;;136;4.12;;;167;3.26;;;77;187;1.46
+2025;comunicacao;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;124;Privada;48;21.8;193;11.92;;;167;3.27;;;121;4.55;;;146;3.86;;;78;201-250;0.24
+2025;comunicacao;Faculdade Estácio de Florianópolis;SC;125;Privada;48;21.8;201-250;11.2;;;201-250;1.71;;;1;8;;;201-250;1.49;;;79;;
+2025;comunicacao;Universidade Fumec;MG;126;Privada;48;21.8;201-250;11.08;;;78;5.81;;;201-250;1.53;;;201-250;1.74;;;80;165;2
+2025;comunicacao;Universidade Vila Velha;ES;127;Privada;48;21.8;201-250;10.93;;;134;4.21;;;169;3.17;;;201-250;1.23;;;81;152;2.32
+2025;comunicacao;Universidade Federal de Alagoas;AL;128;Federal;136;6.45;61;26.03;;;43;6.8;;;1;8;;;70;6.03;;;47;34;5.2
+2025;comunicacao;Universidade Vale do Rio Doce;MG;129;Privada;48;21.8;201-250;10.67;;;98;5.24;;;201-250;1.96;;;198;2.37;;;82;201-250;1.1
+2025;comunicacao;Centro Universitário do Instituto de Educação Superior de Brasília;DF;130;Privada;48;21.8;201-250;10.53;;;140;4.04;;;201-250;1.5;;;201-250;2.06;;;83;127;2.93
+2025;comunicacao;Centro Universitário Estácio de Santa Catarina;SC;131;Privada;48;21.8;201-250;10.47;;;201-250;1.71;;;201-250;0.84;;;136;4.14;;;84;92;3.78
+2025;comunicacao;Universidade Salvador;BA;132;Privada;48;21.8;201-250;10.28;;;121;4.58;;;201-250;1.93;;;201-250;1.89;;;85;170;1.88
+2025;comunicacao;Faculdade Eduvale de Avaré;SP;133;Privada;48;21.8;201-250;9.32;;;130;4.33;;;201-250;1.41;;;201-250;1.09;;;86;145;2.49
+2025;comunicacao;Universidade de Uberaba;MG;134;Privada;48;21.8;201-250;8.82;;;251-300;0.57;;;165;3.28;;;184;2.77;;;87;157;2.2
+2025;comunicacao;Centro Universitário Nossa Senhora do Patrocínio;SP;135;Privada;48;21.8;201-250;8.53;;;152;3.7;;;201-250;1.44;;;194;2.49;;;88;201-250;0.9
+2025;comunicacao;Centro Universitário Salesiano de São Paulo;SP;136;Privada;48;21.8;201-250;8.42;;;251-300;0.46;;;251-300;0.72;;;165;3.31;;;89;86;3.93
+2025;comunicacao;Universidade Potiguar;RN;137;Privada;48;21.8;201-250;8.18;;;201-250;1.17;;;163;3.34;;;180;2.89;;;90;201-250;0.78
+2025;comunicacao;Universidade da Amazônia;PA;138;Privada;48;21.8;251-300;7.88;;;119;4.64;;;251-300;0.81;;;251-300;0.8;;;91;180;1.63
+2025;comunicacao;Universidade Estadual de Santa Cruz;BA;139;Estadual;136;6.45;73;22.67;;;82;5.69;;;1;8;;;35;7.03;;;48;167;1.95
+2025;comunicacao;Centro Universitário Academia;MG;140;Privada;48;21.8;251-300;7.01;;;128;4.38;;;201-250;1.01;;;201-250;1.03;;;92;201-250;0.59
+2025;comunicacao;Universidade Federal do Sul e Sudeste do Pará;PA;141;Federal;136;6.45;75;22.25;;;138;4.1;;;1;8;;;1;8;;;49;159;2.15
+2025;comunicacao;Centro Universitário Univel;PR;142;Privada;48;21.8;251-300;6.79;;;200;2.34;;;164;3.31;;;201-250;1.14;;;93;;
+2025;comunicacao;Universidade do Planalto Catarinense;SC;143;Privada;48;21.8;251-300;6.71;;;183;2.82;;;201-250;1.87;;;201-250;1.31;;;94;201-250;0.71
+2025;comunicacao;Universidade Federal do Acre;AC;144;Federal;136;6.45;82;21.17;;;105;5.04;;;1;8;;;150;3.74;;;50;67;4.39
+2025;comunicacao;Universidade Federal de Campina Grande;PB;145;Federal;;;60;26.95;;;15;7.6;;;1;8;;;28;7.23;;;51;78;4.12
+2025;comunicacao;Universidade Estadual da Paraíba;PB;146;Estadual;136;6.45;86;20.49;;;145;3.9;;;1;8;;;152;3.69;;;52;46;4.9
+2025;comunicacao;Centro Universitário Alves Faria;GO;147;Privada;48;21.8;251-300;4.75;;;186;2.73;;;251-300;0.78;;;201-250;0.97;;;95;201-250;0.27
+2025;comunicacao;Centro Universitário Facvest;SC;148;Privada;136;6.45;89;20.04;;;104;5.07;;;1;8;;;138;4.09;;;96;129;2.88
+2025;comunicacao;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;149;Estadual;136;6.45;97;19.41;;;121;4.58;;;1;8;;;160;3.46;;;53;109;3.37
+2025;comunicacao;Centro Universitário São Judas Tadeu;SP;150;Privada;48;21.8;251-300;3.33;;;251-300;0.46;;;201-250;1.07;;;201-250;1.8;;;97;;
+2025;comunicacao;Universidade Estadual do Centro Oeste;PR;151;Estadual;;;65;24.76;;;20;7.46;;;1;8;;;41;6.86;;;54;147;2.44
+2025;comunicacao;Universidade Federal de São João Del Rei;MG;152;Federal;;;69;24.17;;;61;6.29;;;1;8;;;13;7.66;;;55;156;2.22
+2025;comunicacao;Centro Universitário das Faculdades Associadas de Ensino;SP;153;Municipal;136;6.45;116;16.89;;;165;3.33;;;201-250;1.76;;;78;5.8;;;56;1;6
+2025;comunicacao;Centro Universitário Toledo Wyden;SP;154;Privada;136;6.45;118;16.75;;;95;5.32;;;251-300;0.75;;;43;6.8;;;98;88;3.88
+2025;comunicacao;União das Faculdades dos Grandes Lagos;SP;155;Privada;136;6.45;120;16.46;;;142;3.99;;;1;8;;;179;2.91;;;99;183;1.56
+2025;comunicacao;Faculdades Integradas de Três Lagoas;MS;156;Privada;;;76;22.24;;;147;3.84;;;1;8;;;127;4.4;;;100;1;6
+2025;comunicacao;Centro Universitário Sociesc;SC;157;Privada;136;6.45;131;15.58;;;2;7.97;;;175;2.99;;;139;4.06;;;101;201-250;0.56
+2025;comunicacao;Universidade Alto Vale do Rio do Peixe;SC;158;Privada;136;6.45;134;15.4;;;201-250;1.71;;;1;8;;;82;5.69;;;102;;
+2025;comunicacao;Universidade Federal Rural do Rio de Janeiro;RJ;159;Federal;;;80;21.73;;;108;4.95;;;1;8;;;53;6.51;;;57;154;2.27
+2025;comunicacao;Fundação Universidade Federal do Pampa;RS;160;Federal;;;81;21.49;;;96;5.3;;;1;8;;;43;6.8;;;58;190;1.39
+2025;comunicacao;Instituto Superior e Centro Educacional Luterano;SC;161;Privada;136;6.45;139;15.03;;;42;6.83;;;201-250;2.25;;;135;4.17;;;103;174;1.78
+2025;comunicacao;Centro Universitário Fluminense;RJ;162;Privada;136;6.45;140;15;;;159;3.5;;;93;5.35;;;201-250;1;;;104;36;5.15
+2025;comunicacao;Universidade Franciscana;RS;163;Privada;136;6.45;142;14.84;;;111;4.87;;;99;5.18;;;117;4.69;;;105;201-250;0.1
+2025;comunicacao;Universidade Federal do Amapá;AP;164;Federal;;;83;20.67;;;148;3.82;;;1;8;;;100;5.17;;;59;96;3.68
+2025;comunicacao;Centro Universitário de Volta Redonda;RJ;165;Privada;;;88;20.13;;;177;2.99;;;1;8;;;85;5.6;;;106;102;3.54
+2025;comunicacao;Centro Universitário Unicarioca;RJ;166;Privada;;;89;20.04;;;164;3.36;;;89;5.47;;;27;7.26;;;107;85;3.95
+2025;comunicacao;Universidade de Mogi das Cruzes;SP;167;Privada;136;6.45;161;13.53;;;157;3.56;;;201-250;2.22;;;193;2.51;;;108;32;5.24
+2025;comunicacao;Faculdade Promove de Minas Gerais;MG;168;Privada;;;92;19.81;;;201-250;1.42;;;1;8;;;65;6.17;;;109;74;4.22
+2025;comunicacao;Centro Universitário Estácio de São Luís;MA;169;Privada;136;6.45;170;13.05;;;201-250;2.05;;;118;4.63;;;201-250;1.69;;;110;55;4.68
+2025;comunicacao;Centro Universitário Dinâmica das Cataratas;PR;170;Privada;136;6.45;172;12.9;;;174;3.08;;;105;5.01;;;201-250;2.2;;;111;140;2.61
+2025;comunicacao;Universidade Católica do Salvador;BA;171;Privada;136;6.45;174;12.84;;;81;5.72;;;190;2.56;;;183;2.8;;;112;175;1.76
+2025;comunicacao;Centro Universitário Sagrado Coração;SP;172;Privada;136;6.45;175;12.8;;;184;2.79;;;134;4.17;;;109;4.91;;;113;201-250;0.93
+2025;comunicacao;Faculdade Anísio Teixeira de Feira de Santana;BA;173;Privada;;;99;18.82;;;51;6.58;;;1;8;;;251-300;0.63;;;114;99;3.61
+2025;comunicacao;Centro Universitário de União da Vitória;PR;174;Municipal;;;102;18.61;;;110;4.9;;;1;8;;;201-250;1.54;;;60;76;4.17
+2025;comunicacao;Universidade Federal do Sul da Bahia;BA;175;Federal;;;103;18.44;;;172;3.13;;;1;8;;;25;7.31;;;61;;
+2025;comunicacao;Universidade do Grande Rio Professor José de Souza Herdy;RJ;176;Privada;;;105;17.92;;;125;4.47;;;1;8;;;162;3.4;;;115;163;2.05
+2025;comunicacao;Centro Universitário de Rio Preto;SP;177;Privada;136;6.45;198;11.44;;;57;6.41;;;126;4.4;;;251-300;0.26;;;116;201-250;0.37
+2025;comunicacao;Centro Universitário de Patos de Minas;MG;178;Privada;;;107;17.75;;;19;7.49;;;161;3.4;;;201-250;2.23;;;117;57;4.63
+2025;comunicacao;Faculdade Anhanguera de Itabuna;BA;179;Privada;136;6.45;200;11.28;;;201-250;0.97;;;151;3.68;;;55;6.46;;;118;201-250;0.17
+2025;comunicacao;Universidade de Cuiabá;MT;180;Privada;136;6.45;201-250;11.19;;;251-300;0.74;;;135;4.14;;;68;6.09;;;119;201-250;0.22
+2025;comunicacao;Escola de Comunicação, Mídia e Informação da Fundação Getulio Vargas;RJ;181;Privada;136;6.45;201-250;10.87;;;201-250;1.05;;;180;2.85;;;37;6.97;;;120;;
+2025;comunicacao;Centro Universitário Santa Amélia;PR;182;Privada;;;112;17.31;;;113;4.81;;;106;4.98;;;110;4.89;;;121;139;2.63
+2025;comunicacao;Centro Universitário Sant'Anna;SP;183;Privada;;;113;17.3;;;251-300;0.46;;;1;8;;;145;3.89;;;122;44;4.95
+2025;comunicacao;Centro Universitário Unirb;BA;184;Privada;;;114;17.22;;;201-250;0.97;;;1;8;;;105;5.03;;;123;115;3.22
+2025;comunicacao;Faculdades Integradas de Fernandópolis;SP;185;Privada;136;6.45;201-250;10.44;;;166;3.3;;;133;4.2;;;178;2.94;;;124;;
+2025;comunicacao;Centro Universitário Fasipe;MT;186;Privada;;;119;16.55;;;64;6.21;;;147;3.8;;;251-300;0.54;;;125;1;6
+2025;comunicacao;Faculdade Estácio de Teresina;PI;187;Privada;136;6.45;201-250;9.91;;;201-250;1.25;;;201-250;1.78;;;129;4.34;;;126;143;2.54
+2025;comunicacao;Universidade Municipal de São Caetano do Sul;SP;188;Municipal;;;122;16.26;;;75;5.89;;;251-300;0.43;;;143;3.94;;;62;1;6
+2025;comunicacao;Faculdade Estácio de Belém;PA;189;Privada;136;6.45;201-250;9.5;;;201-250;2.11;;;180;2.85;;;122;4.54;;;127;;
+2025;comunicacao;Centro Universitário Sete de Setembro;CE;190;Privada;;;127;15.83;;;76;5.87;;;160;3.42;;;134;4.2;;;128;151;2.34
+2025;comunicacao;Centro Universitário Fanor Wyden;CE;191;Privada;;;128;15.72;;;168;3.25;;;251-300;0.58;;;75;5.89;;;129;1;6
+2025;comunicacao;Centro Universitário Católico Salesiano Auxilium;SP;192;Privada;;;130;15.61;;;251-300;0.68;;;1;8;;;199;2.34;;;130;59;4.59
+2025;comunicacao;Centro Universitário da Região da Campanha;RS;193;Privada;;;133;15.42;;;18;7.52;;;201-250;1.21;;;251-300;0.69;;;131;1;6
+2025;comunicacao;Centro Universitário Inta;CE;194;Privada;;;135;15.3;;;201-250;1.99;;;1;8;;;148;3.8;;;132;185;1.51
+2025;comunicacao;Centro Universitário Unibras Rio Verde;GO;195;Privada;;;136;15.27;;;201-250;1.79;;;95;5.3;;;93;5.37;;;133;132;2.81
+2025;comunicacao;Faculdade Esamc Santos;SP;196;Privada;136;6.45;201-250;8.79;;;118;4.67;;;179;2.88;;;251-300;0.43;;;134;201-250;0.81
+2025;comunicacao;Centro Universitário Católica do Leste de Minas Gerais;MG;197;Privada;;;141;14.88;;;54;6.49;;;129;4.32;;;176;3;;;135;201-250;1.07
+2025;comunicacao;FAE Centro Universitário;PR;198;Privada;136;6.45;201-250;8.39;;;200;2.34;;;185;2.71;;;164;3.34;;;136;;
+2025;comunicacao;Fiam-faam - Centro Universitário;SP;199;Privada;136;6.45;201-250;8.25;;;182;2.85;;;201-250;1.55;;;189;2.63;;;137;197;1.22
+2025;comunicacao;Faculdade Anhanguera de Divinópolis;MG;200;Privada;;;143;14.67;;;191;2.59;;;110;4.86;;;46;6.71;;;138;201-250;0.51
+2025;comunicacao;Centro Universitário Estácio da Bahia;BA;201;Privada;;;171;13.02;;;201-250;0.97;;;201-250;0.98;;;1;8;;;154;121;3.07
+2025;comunicacao;Centro Universitário FG;BA;201;Privada;;;201-250;10.46;;;201-250;0.97;;;1;8;;;201-250;1.49;;;175;;
+2025;comunicacao;Centro Universitário do Distrito Federal;DF;201;Privada;;;181;12.44;;;201-250;1.57;;;95;5.3;;;86;5.57;;;157;;
+2025;comunicacao;Faculdade Dois de Julho;BA;201;Privada;;;201-250;10.54;;;201-250;0.97;;;1;8;;;201-250;1.57;;;173;;
+2025;comunicacao;Faculdade Estácio de Sá de Campo Grande;MS;201;Privada;;;159;13.62;;;201-250;1.79;;;201-250;0.98;;;1;8;;;150;130;2.85
+2025;comunicacao;Faculdade Assis Gurgacz;PR;201;Privada;136;6.45;251-300;7.28;;;60;6.32;;;251-300;0.09;;;251-300;0.11;;;148;201-250;0.76
+2025;comunicacao;Centro Universitário FBV Wyden;PE;201;Privada;;;182;12.4;;;162;3.42;;;201-250;0.98;;;1;8;;;158;;
+2025;comunicacao;Centro Universitário Ritter dos Reis;RS;201;Privada;;;186;12.26;;;141;4.01;;;201-250;2.04;;;133;4.23;;;161;166;1.98
+2025;comunicacao;Centro Universitário Ibmr;RJ;201;Privada;;;149;14.24;;;120;4.61;;;167;3.22;;;170;3.17;;;142;114;3.24
+2025;comunicacao;Faculdades Integradas Ipitanga;BA;201;Privada;;;201-250;10.46;;;201-250;0.97;;;1;8;;;201-250;1.49;;;175;;
+2025;comunicacao;Faculdades Integradas Rio Branco;SP;201;Privada;;;191;12.06;;;251-300;0.46;;;1;8;;;171;3.14;;;164;201-250;0.46
+2025;comunicacao;Cesrei Faculdade;PB;201;Privada;;;201-250;9.49;;;102;5.13;;;251-300;0.46;;;251-300;0.14;;;183;93;3.76
+2025;comunicacao;Universidade Castelo Branco;RJ;201;Privada;;;189;12.09;;;153;3.67;;;161;3.4;;;251-300;0.09;;;163;45;4.93
+2025;comunicacao;Faculdade Estácio do Pará;PA;201;Privada;;;164;13.31;;;90;5.47;;;195;2.42;;;197;2.4;;;152;123;3.02
+2025;comunicacao;Universidade Santo Amaro;SP;201;Privada;;;201-250;8.96;;;251-300;0.46;;;95;5.3;;;169;3.2;;;188;;
+2025;comunicacao;Centro Universitário Estácio de Belo Horizonte;MG;201;Privada;136;6.45;201-250;8.05;;;251-300;0.57;;;201-250;1.32;;;191;2.57;;;140;100;3.59
+2025;comunicacao;Faculdade de Tecnologia de Sinop;MT;201;Privada;;;201-250;9.57;;;251-300;0.74;;;1;8;;;251-300;0.83;;;181;;
+2025;comunicacao;Universidade do Vale do Paraíba;SP;201;Privada;;;194;11.89;;;100;5.18;;;201-250;1.24;;;201-250;2.03;;;165;106;3.44
+2025;comunicacao;Faculdade Metropolitana de Anápolis;GO;201;Privada;;;150;14.16;;;199;2.36;;;116;4.69;;;201-250;1.11;;;143;1;6
+2025;comunicacao;Centro Universitário Estácio de Ribeirão Preto;SP;201;Privada;;;201-250;10.9;;;251-300;0.46;;;1;8;;;201-250;1.49;;;171;201-250;0.95
+2025;comunicacao;Centro Universitário de Maceió;AL;201;Privada;;;155;13.95;;;189;2.65;;;146;3.83;;;124;4.49;;;147;125;2.98
+2025;comunicacao;Instituto Maranhense de Ensino e Cultura;MA;201;Privada;;;201-250;9.6;;;126;4.44;;;156;3.54;;;201-250;0.94;;;180;201-250;0.68
+2025;comunicacao;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;201;Privada;;;152;14.07;;;200;2.34;;;93;5.35;;;108;4.94;;;145;188;1.44
+2025;comunicacao;Centro Universitário Estácio de Brasília;DF;201;Privada;;;188;12.17;;;201-250;1.57;;;153;3.63;;;113;4.8;;;162;158;2.17
+2025;comunicacao;Universidade Metodista de Piracicaba;SP;201;Privada;136;6.45;251-300;3.16;;;251-300;0.46;;;251-300;0.26;;;201-250;2;;;179;201-250;0.44
+2025;comunicacao;Faculdades Integradas de Taquara;RS;201;Privada;;;201-250;9.24;;;201-250;1.94;;;201-250;0.86;;;159;3.49;;;185;126;2.95
+2025;comunicacao;Faculdade São Francisco de Assis;RS;201;Privada;;;201-250;9.2;;;201-250;1.94;;;201-250;1.99;;;163;3.37;;;187;169;1.9
+2025;comunicacao;Centro Universitário Teresa D'ávila;SP;201;Privada;;;201-250;11.15;;;114;4.78;;;251-300;0.14;;;201-250;1.06;;;169;35;5.17
+2025;comunicacao;Centro Universitário Aeso - Barros Melo;PE;201;Privada;;;151;14.13;;;29;7.2;;;201-250;1.61;;;188;2.66;;;144;138;2.66
+2025;comunicacao;Faculdade Maringá;PR;201;Privada;;;199;11.31;;;103;5.1;;;251-300;0.69;;;201-250;0.91;;;168;58;4.61
+2025;comunicacao;Faculdade Paulista de Comunicação;SP;201;Privada;;;201-250;10.27;;;251-300;0.46;;;1;8;;;201-250;1.2;;;177;201-250;0.61
+2025;comunicacao;Faculdade Anhanguera de Belo Horizonte;MG;201;Privada;;;169;13.1;;;251-300;0.57;;;109;4.89;;;19;7.49;;;153;201-250;0.15
+2025;comunicacao;Centro Universitário do Norte;AM;201;Privada;;;197;11.62;;;251-300;0.66;;;168;3.19;;;201-250;2.26;;;167;21;5.51
+2025;comunicacao;Faculdade Anhanguera Unime de Salvador;BA;201;Privada;;;154;13.98;;;201-250;2.14;;;120;4.58;;;31;7.14;;;146;201-250;0.12
+2025;comunicacao;Centro Universitário Augusto Motta;RJ;201;Privada;;;201-250;11.04;;;201-250;1.4;;;188;2.62;;;201-250;1.97;;;170;40;5.05
+2025;comunicacao;Faculdade Hélio Rocha;BA;201;Privada;;;201-250;9.34;;;201-250;0.97;;;1;8;;;251-300;0.37;;;184;;
+2025;comunicacao;Centro Universitário Campo Limpo Paulista;SP;201;Privada;;;201-250;10.66;;;91;5.44;;;201-250;1.73;;;251-300;0.49;;;172;124;3
+2025;comunicacao;Faculdade Paulus de Tecnologia e Comunicação;SP;201;Privada;;;179;12.61;;;45;6.75;;;251-300;0.52;;;142;3.97;;;155;191;1.37
+2025;comunicacao;Faculdade Anhanguera de Brasília;DF;201;Privada;;;147;14.46;;;201-250;1.57;;;91;5.41;;;21;7.43;;;141;201-250;0.05
+2025;comunicacao;Centro Universitário Metrocamp Wyden;SP;201;Privada;;;158;13.66;;;251-300;0.46;;;138;4.06;;;171;3.14;;;149;1;6
+2025;comunicacao;Universidade Universus Veritas Guarulhos;SP;201;Privada;;;201-250;9.22;;;195;2.48;;;152;3.66;;;201-250;1.91;;;186;199;1.17
+2025;comunicacao;Centro Universitário Araguaia;GO;201;Privada;;;201-250;10.49;;;201-250;2.02;;;172;3.08;;;201-250;1.83;;;174;101;3.56
+2025;comunicacao;Centro Universitário Unifaat;SP;201;Privada;;;180;12.45;;;192;2.56;;;173;3.05;;;137;4.11;;;156;135;2.73
+2025;comunicacao;Centro Universitário Satc;SC;201;Privada;;;182;12.4;;;53;6.52;;;189;2.59;;;195;2.46;;;158;201-250;0.83
+2025;comunicacao;Universidade de Cruz Alta;RS;201;Privada;;;201-250;9.56;;;201-250;1.94;;;184;2.73;;;110;4.89;;;182;;
+2025;comunicacao;Instituto de Educação Superior Raimundo Sá;PI;201;Privada;;;145;14.57;;;127;4.41;;;175;2.99;;;201-250;1.17;;;139;1;6
+2025;comunicacao;Centro Universitário Autônomo do Brasil;PR;201;Privada;;;196;11.67;;;200;2.34;;;154;3.6;;;130;4.31;;;166;189;1.42
+2025;comunicacao;Centro Universitário União das Américas Descomplica;PR;201;Privada;;;160;13.6;;;200;2.34;;;1;8;;;177;2.97;;;151;201-250;0.29
+2025;comunicacao;Centro Universitário Social da Bahia;BA;201;Privada;;;185;12.33;;;201-250;0.97;;;147;3.8;;;77;5.83;;;160;176;1.73
+2025;comunicacao;Centro Universitário Estácio de São Paulo;SP;201;Privada;;;201-250;9.95;;;251-300;0.46;;;1;8;;;201-250;1.49;;;178;;
+2025;comunicacao;Centro Universitário Maurício de Nassau Derby;PE;251;Privada;;;251-300;1.37;;;201-250;1.37;;;;;;;;;;;201-250;;
+2025;comunicacao;Centro Universitário do Sul de Minas;MG;251;Privada;;;201-250;8.23;;;188;2.68;;;201-250;2.07;;;251-300;0.77;;;193;136;2.71
+2025;comunicacao;Instituto Esperança de Ensino Superior;PA;251;Privada;;;251-300;6.21;;;201-250;2.11;;;251-300;0.17;;;251-300;0.51;;;201-250;107;3.42
+2025;comunicacao;Faculdade Esamc São Paulo;SP;251;Privada;;;251-300;3.74;;;251-300;0.46;;;177;2.94;;;251-300;0.34;;;201-250;;
+2025;comunicacao;Faculdade Esamc Sorocaba;SP;251;Privada;;;201-250;8.14;;;131;4.3;;;186;2.68;;;251-300;0.74;;;194;201-250;0.42
+2025;comunicacao;Centro Universitário dos Guararapes;PE;251;Privada;;;251-300;6.37;;;201-250;1.37;;;196;2.39;;;201-250;2.29;;;201-250;201-250;0.32
+2025;comunicacao;Centro Universitário Fadergs;RS;251;Privada;;;201-250;7.95;;;201-250;1.94;;;251-300;0.58;;;201-250;1.77;;;195;97;3.66
+2025;comunicacao;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;251-300;3.25;;;201-250;1.05;;;251-300;0.03;;;201-250;2.17;;;201-250;;
+2025;comunicacao;Centro Universitário Sociesc de Blumenau;SC;251;Privada;;;251-300;7.82;;;201-250;1.71;;;124;4.46;;;201-250;1.26;;;196;201-250;0.39
+2025;comunicacao;Centro Universitário Unicuritiba;PR;251;Privada;;;201-250;8.61;;;200;2.34;;;200;2.27;;;141;4;;;191;;
+2025;comunicacao;Faculdade da Cidade de Maceió;AL;251;Privada;;;251-300;2.3;;;201-250;1.22;;;;;;;251-300;0.06;;;201-250;201-250;1.02
+2025;comunicacao;Instituto Superior de Ciências Aplicadas;SP;251;Privada;;;251-300;5.17;;;251-300;0.46;;;251-300;0.32;;;251-300;0.46;;;201-250;86;3.93
+2025;comunicacao;Centro Universitário de Barra Mansa;RJ;251;Privada;;;251-300;6.43;;;201-250;1.05;;;201-250;1.15;;;201-250;0.89;;;201-250;110;3.34
+2025;comunicacao;Faculdade Interamericana de Porto Velho;RO;251;Privada;;;251-300;6.87;;;181;2.88;;;201-250;2.13;;;251-300;0.2;;;201-250;179;1.66
+2025;comunicacao;Centro Universitário Tabosa de Almeida;PE;251;Privada;;;201-250;8.67;;;201-250;1.37;;;201-250;1.21;;;201-250;1.63;;;190;64;4.46
+2025;comunicacao;Faculdade Boas Novas de Ciências Teológicas, Sociais e Biotecnológicas;AM;251;Privada;;;251-300;7.38;;;251-300;0.66;;;251-300;0.12;;;251-300;0.6;;;200;1;6
+2025;comunicacao;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;251;Privada;;;251-300;4.66;;;201-250;1.57;;;251-300;0.49;;;190;2.6;;;201-250;;
+2025;comunicacao;Centro Universitário de Tecnologia de Curitiba;PR;251;Privada;;;201-250;8.93;;;154;3.64;;;201-250;1.04;;;192;2.54;;;189;177;1.71
+2025;comunicacao;Universidade Nilton Lins;AM;251;Privada;;;201-250;8.24;;;109;4.93;;;201-250;1.35;;;251-300;0.03;;;192;168;1.93
+2025;comunicacao;Faculdade Faccat;SP;251;Privada;;;251-300;1.06;;;251-300;0.46;;;251-300;0.4;;;251-300;0.2;;;201-250;;
+2025;comunicacao;Faculdade Estácio Macapá;AP;251;Privada;;;251-300;2.64;;;251-300;0.66;;;;;;;201-250;1.49;;;201-250;201-250;0.49
+2025;comunicacao;Universidade de Gurupi;TO;251;Municipal;;;201-250;8.05;;;201-250;1.71;;;166;3.25;;;201-250;1.94;;;63;200;1.15
+2025;comunicacao;Centro Universitário Cearense;CE;251;Privada;;;251-300;6.25;;;185;2.76;;;251-300;0.06;;;251-300;0.23;;;201-250;116;3.2
+2025;comunicacao;Centro Universitário Vale do Cricaré;ES;251;Privada;;;251-300;5.85;;;134;4.21;;;201-250;0.98;;;251-300;0.66;;;201-250;;
+2025;comunicacao;Universidade Salgado de Oliveira;RJ;251;Privada;;;251-300;6.5;;;201-250;1.11;;;201-250;1.64;;;201-250;2.14;;;201-250;181;1.61
+2025;comunicacao;Centro Universitário Braz Cubas;SP;251;Privada;136;6.45;251-300;1.12;;;251-300;0.46;;;251-300;0.35;;;251-300;0.31;;;197;;
+2025;comunicacao;Centro Universitário Sul-americana;GO;251;Privada;;;251-300;7.44;;;149;3.79;;;201-250;1.7;;;201-250;1.29;;;199;201-250;0.66
+2025;comunicacao;Faculdade Evoluir;CE;251;Privada;;;251-300;7.51;;;201-250;1.99;;;117;4.66;;;251-300;0.86;;;198;;
+2025;comunicacao;Faculdade Internacional da Paraíba;PB;251;Privada;;;251-300;5.94;;;170;3.19;;;201-250;1.09;;;201-250;1.66;;;201-250;;
+2025;comunicacao;Faculdade Canção Nova;SP;251;Privada;;;251-300;2.8;;;251-300;0.46;;;251-300;0.63;;;201-250;1.71;;;201-250;;
+2025;comunicacao;Centro Universitário Una de Contagem;MG;251;Privada;;;251-300;6.54;;;251-300;0.57;;;145;3.86;;;201-250;2.11;;;201-250;;

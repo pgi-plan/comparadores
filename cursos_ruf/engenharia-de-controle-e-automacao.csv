@@ -1,0 +1,592 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;engenharia-de-controle-e-automacao;Universidade Estadual de Campinas;SP;1;Estadual;4;32.73;3;60.79;5;7.78;44;5.01;;;1;8;1;40;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Minas Gerais;MG;2;Federal;1;36;4;56.75;4;7.84;7;7.58;;;1;8;4;33.33;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Santa Catarina;SC;3;Federal;10;26.18;1;61.3;6;7.73;4;7.79;;;1;8;2;37.78;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande do Sul;RS;4;Federal;4;32.73;5;54.62;10;7.51;1;8;;;1;8;5;31.11;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal do Rio de Janeiro;RJ;5;Federal;10;26.18;2;60.97;2;7.95;12;7.24;;;1;8;2;37.78;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;6;Estadual;10;26.18;6;49.73;3;7.89;39;5.36;;;49;5.37;5;31.11;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Pernambuco;PE;7;Federal;10;26.18;8;49.52;17;7.13;5;7.72;;;1;8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário do Instituto Mauá de Tecnologia;SP;8;Privada;4;32.73;14;42.53;29;6.48;11;7.3;;;109;2.08;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Fundação Universidade Federal do ABC;SP;9;Federal;10;26.18;10;48.65;1;8;30;5.98;;;1;8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Tecnológica Federal do Paraná;PR;10;Federal;10;26.18;11;48.17;24;6.75;19;6.75;;;1;8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário da Fundação Educacional Inaciana Pe Sabóia de Medeiros;SP;11;Privada;4;32.73;19;21.63;16;7.18;20;6.68;;;127;1.1;16;6.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade do Vale do Rio dos Sinos;RS;12;Privada;4;32.73;20;21.51;8;7.62;3;7.86;;;37;6.03;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Minas Gerais;MG;13;Privada;1;36;49;15.23;56;5.01;25;6.33;;;76;3.89;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Paulista;SP;14;Privada;1;36;53;13.79;53;5.17;67;3.41;;;52;5.21;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Santa Maria;RS;15;Federal;;;7;49.61;9;7.57;10;7.37;;;1;8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Uberlândia;MG;16;Federal;;;9;49.51;12;7.4;9;7.44;;;1;8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Paraná;PR;17;Privada;10;26.18;16;23.26;44;5.66;18;6.82;;;72;4.11;16;6.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;18;Privada;4;32.73;46;15.46;18;7.08;35;5.64;;;97;2.74;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Itajubá;MG;19;Federal;;;12;47.98;21;6.91;24;6.4;;;1;8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Fortaleza;CE;20;Privada;10;26.18;24;20.73;28;6.53;59;3.97;;;82;3.56;16;6.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;21;Privada;;;13;45.29;11;7.46;14;7.1;;;73;4.06;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Caxias do Sul;RS;22;Privada;10;26.18;38;16.74;25;6.69;29;6.05;;;74;4;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Una;MG;23;Privada;10;26.18;51;14.62;51;5.28;55;4.24;;;54;5.1;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Metrocamp Wyden;SP;24;Privada;;;15;39.17;58;4.9;47;4.8;;;96;2.8;7;26.67;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Mato Grosso;MT;25;Federal;10;26.18;55;12.95;57;4.95;;;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Goiás;GO;26;Privada;10;26.18;67;11.1;69;4.3;45;4.94;;;113;1.86;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Estácio de Belém;PA;27;Privada;10;26.18;73;10.51;62;4.68;70;3.2;;;99;2.63;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Metodista de Piracicaba;SP;28;Privada;10;26.18;74;10.24;32;6.31;65;3.55;;;140;0.38;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Estácio de Sá;RJ;29;Privada;10;26.18;87;8.39;54;5.12;84;2.23;;;128;1.04;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário das Faculdades Metropolitanas Unidas;SP;30;Privada;10;26.18;88;8.25;86;3.37;83;2.3;;;100;2.58;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Fanor Wyden;CE;31;Privada;10;26.18;100;6.94;85;3.43;;;;;83;3.51;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal da Bahia;BA;32;Federal;27;7.64;18;21.97;23;6.8;13;7.17;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade do Estado do Amazonas;AM;33;Estadual;27;7.64;26;20.09;46;5.55;22;6.54;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Pernambuco;PE;34;Estadual;27;7.64;28;19.51;26;6.64;46;4.87;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica de Minas Gerais;MG;35;Federal;27;7.64;29;19.28;48;5.44;32;5.84;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Cesumar;PR;36;Privada;27;7.64;39;16.33;15;7.24;68;3.34;;;42;5.75;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Área1 Wyden;BA;37;Privada;27;7.64;50;14.98;39;5.93;56;4.17;;;58;4.88;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Lavras;MG;38;Federal;;;17;22.56;7;7.67;17;6.89;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;39;Federal;;;21;21.28;42;5.77;8;7.51;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Ouro Preto;MG;40;Federal;;;22;21.05;13;7.35;34;5.7;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal de Pelotas;RS;41;Federal;;;23;20.78;27;6.59;27;6.19;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;42;Federal;;;25;20.29;22;6.86;38;5.43;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;43;Federal;;;27;19.7;61;4.74;16;6.96;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;44;Federal;;;30;19.03;40;5.88;42;5.15;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande;RS;45;Federal;;;31;19.01;20;6.97;58;4.04;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;46;Federal;;;32;18.99;52;5.22;33;5.77;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;47;Federal;;;33;18.6;99;2.67;2;7.93;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade do Centro Leste;ES;48;Privada;;;34;18.41;47;5.5;6;7.65;;;51;5.26;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Nacional de Telecomunicações;MG;49;Privada;;;35;17.68;38;5.99;26;6.26;;;48;5.43;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;50;Federal;;;36;17.6;74;4.03;36;5.57;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;51;Federal;;;37;17.23;50;5.33;60;3.9;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;52;Federal;;;40;16.28;75;3.97;54;4.31;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;53;Federal;;;41;16.19;55;5.06;71;3.13;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;54;Federal;;;42;16.18;91;3.1;43;5.08;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade São Judas Tadeu;SP;55;Privada;;;43;16.13;33;6.26;23;6.47;;;85;3.4;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Católica Dom Bosco;MS;56;Privada;;;44;15.93;68;4.35;37;5.5;;;36;6.08;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade do Vale do Taquari;RS;57;Privada;;;45;15.52;34;6.2;49;4.66;;;62;4.66;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Sociesc;SC;58;Privada;;;47;15.35;76;3.92;21;6.61;;;59;4.82;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;59;Federal;;;48;15.24;72;4.14;40;5.29;;;41;5.81;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Senai Cimatec;BA;60;Privada;27;7.64;96;7.22;107;2.23;;;;;56;4.99;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade de Ciências Sociais Aplicadas de Extrema;MG;61;Privada;;;52;14.07;87;3.32;41;5.22;;;46;5.53;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Famec;BA;62;Privada;;;54;13.62;14;7.29;99;1.18;;;53;5.15;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário FBV Wyden;PE;63;Privada;;;56;12.79;60;4.79;;;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade de Ciência e Tecnologia de Montes Claros;MG;64;Privada;;;57;12.72;84;3.48;28;6.12;;;90;3.12;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Santa Rita;MG;65;Privada;;;58;12.68;63;4.63;79;2.57;;;47;5.48;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Faesa;ES;66;Privada;;;59;12.64;80;3.7;64;3.62;;;50;5.32;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Taubaté;SP;67;Municipal;;;60;12.61;70;4.25;80;2.5;;;40;5.86;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Newton Paiva;MG;68;Privada;;;61;12.27;82;3.59;48;4.73;;;75;3.95;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;69;Federal;;;62;12.08;73;4.08;;;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Santa Cecília;SP;70;Privada;;;63;11.78;67;4.41;51;4.52;;;95;2.85;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Multivix Serra;ES;71;Privada;;;64;11.69;97;2.78;73;2.99;;;39;5.92;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário de Excelência Eniac;SP;72;Privada;;;65;11.47;35;6.15;105;0.77;;;64;4.55;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;73;Federal;;;66;11.21;89;3.21;;;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Una de Uberlândia;MG;74;Privada;;;68;10.88;59;4.84;82;2.37;;;80;3.67;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Pitágoras Unopar de João Pessoa;PB;75;Privada;;;69;10.75;30;6.42;;;;;68;4.33;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário de Jaguariúna;SP;76;Privada;;;70;10.7;65;4.52;50;4.59;;;118;1.59;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Favip Wyden;PE;77;Privada;;;71;10.54;64;4.57;;;;;38;5.97;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Fieo;SP;78;Privada;;;72;10.53;43;5.71;53;4.38;;;139;0.44;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;79;Federal;;;75;10.18;108;2.18;;;;;1;8;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Belo Horizonte;MG;80;Privada;;;76;9.93;78;3.81;62;3.76;;;104;2.36;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Multivix Vitória;ES;81;Privada;;;77;9.89;71;4.19;;;;;43;5.7;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdades Integradas Paulista;SP;82;Privada;;;78;9.86;95;2.88;77;2.71;;;69;4.27;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Ruy Barbosa Wyden;BA;83;Privada;;;79;9.83;36;6.1;;;;;79;3.73;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Ipatinga;MG;84;Privada;;;80;9.49;135;0.71;15;7.03;;;115;1.75;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Ribeirão Preto;SP;85;Privada;;;81;9.4;88;3.27;61;3.83;;;105;2.3;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Salesiano de São Paulo;SP;86;Privada;;;82;9.12;49;5.39;90;1.81;;;112;1.92;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Assis Gurgacz;PR;87;Privada;;;83;9.07;101;2.56;57;4.1;;;103;2.41;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Araraquara;SP;88;Privada;;;84;8.97;41;5.82;81;2.44;;;134;0.71;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera Jaraguá do Sul;SC;89;Privada;;;85;8.47;111;2.01;31;5.91;;;137;0.55;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário de Lins;SP;89;Privada;;;85;8.47;77;3.86;78;2.64;;;111;1.97;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Santa Cruz do Sul;RS;91;Privada;;;89;8.01;19;7.02;;;;;129;0.99;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade do Contestado;SC;92;Privada;;;90;7.84;117;1.69;108;0.56;;;45;5.59;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Politécnica de Campinas;SP;93;Privada;;;91;7.81;113;1.91;95;1.46;;;66;4.44;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Ritter dos Reis;RS;94;Privada;;;92;7.64;45;5.61;;;;;110;2.03;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sumaré;SP;95;Privada;;;93;7.35;106;2.29;85;2.16;;;94;2.9;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Estácio de Sá de Ourinhos;SP;96;Privada;;;94;7.27;105;2.34;;;;;57;4.93;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário do Norte;AM;97;Privada;;;95;7.25;37;6.04;;;;;125;1.21;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Unime de Ciências Exatas e Tecnológicas;BA;98;Privada;;;97;7.21;93;2.99;;;;;70;4.22;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Funvic;SP;98;Privada;;;97;7.21;119;1.58;98;1.25;;;67;4.38;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Divinópolis;MG;100;Privada;;;99;7.05;133;0.82;69;3.27;;;93;2.96;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jundiaí;SP;101;Privada;;;101;6.88;129;1.03;76;2.78;;;91;3.07;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Engenheiro Salvador Arena;SP;102;Privada;;;102;6.86;31;6.37;;;;;138;0.49;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Unicuritiba;PR;103;Privada;;;103;6.84;110;2.07;;;;;60;4.77;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade de Santa Bárbara D'oeste;SP;104;Privada;;;104;6.74;100;2.61;104;0.84;;;87;3.29;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade de Sorocaba;SP;105;Privada;;;105;6.68;66;4.46;88;1.95;;;142;0.27;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Alto Vale do Rio do Peixe;SC;106;Privada;;;106;6.62;138;0.54;101;1.04;;;55;5.04;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Betim;MG;107;Privada;;;107;6.47;125;1.25;63;3.69;;;119;1.53;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São Luiz;MA;108;Privada;;;108;6.42;126;1.2;89;1.88;;;86;3.34;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Instituto de Ensino Superior de Cuiabá;MT;108;Privada;;;108;6.42;137;0.6;100;1.11;;;61;4.71;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera Unime de Salvador;BA;110;Privada;;;110;6.34;109;2.12;;;;;70;4.22;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Pitágoras;MG;111;Privada;;;111;6.27;121;1.47;66;3.48;;;123;1.32;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Poços de Caldas;MG;112;Privada;;;112;6.22;102;2.5;72;3.06;;;135;0.66;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;113;Privada;;;113;6.18;94;2.94;93;1.6;;;117;1.64;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sorocaba;SP;114;Privada;;;114;6.13;118;1.63;97;1.32;;;89;3.18;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Universidade Anhanguera de São Paulo;SP;115;Privada;;;115;6.09;103;2.45;96;1.39;;;106;2.25;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera Pitágoras Votorantim;SP;116;Privada;;;116;5.96;116;1.74;94;1.53;;;98;2.69;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jacareí;SP;117;Privada;;;117;5.93;81;3.65;114;0.14;;;108;2.14;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Anhangüera;SP;117;Privada;;;117;5.93;112;1.96;111;0.35;;;81;3.62;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera de São Paulo;SP;119;Privada;;;119;5.75;146;0.11;;;;;44;5.64;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Limeira;SP;120;Privada;;;120;5.71;128;1.09;74;2.92;;;116;1.7;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade de Jacareí;SP;121;Privada;;;121;5.63;83;3.54;112;0.28;;;114;1.81;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Guarulhos;SP;122;Privada;;;122;5.58;130;0.98;;;;;63;4.6;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Ideal Wyden;PA;123;Privada;;;123;5.52;92;3.05;;;;;102;2.47;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade do Sul da Bahia;BA;124;Privada;;;124;5.41;145;0.16;87;2.02;;;88;3.23;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Horizontina;RS;125;Privada;;;125;5.3;114;1.85;;;;;84;3.45;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Max Planck;SP;126;Privada;;;126;5.21;136;0.65;52;4.45;;;145;0.11;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Porto Alegre;RS;127;Privada;;;127;5.13;79;3.76;;;;;122;1.37;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Bauru;SP;128;Privada;;;128;4.78;123;1.36;103;0.9;;;101;2.52;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário do Sul de Minas;MG;129;Privada;;;129;4.6;134;0.76;;;;;77;3.84;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Campinas;SP;130;Privada;;;130;4.58;122;1.42;102;0.97;;;107;2.19;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Ingá;PR;131;Privada;;;131;4.54;147;0.05;;;;;65;4.49;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Piracicaba;SP;132;Privada;;;132;4.5;98;2.72;107;0.63;;;126;1.15;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Presidente Antônio Carlos de Conselheiro Lafaiete;MG;133;Privada;;;133;4.45;120;1.52;92;1.67;;;124;1.26;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Caxias do Sul;RS;134;Privada;;;134;4.16;141;0.38;;;;;78;3.78;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Goiânia;GO;135;Privada;;;135;4.06;140;0.44;75;2.85;;;133;0.77;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São José;SP;136;Privada;;;136;4.04;104;2.4;113;0.21;;;121;1.43;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Campo Grande;MS;137;Privada;;;137;3.98;115;1.8;106;0.7;;;120;1.48;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário de Barra Mansa;RJ;138;Privada;;;138;3.92;96;2.83;109;0.49;;;136;0.6;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Santa Bárbara;SP;139;Privada;;;139;3.73;124;1.31;86;2.09;;;141;0.33;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera do Rio Grande;RS;140;Privada;;;140;3.7;127;1.14;91;1.74;;;132;0.82;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Rondonópolis;MT;141;Privada;;;141;3.39;141;0.38;;;;;92;3.01;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário Estácio da Bahia;BA;142;Privada;;;142;3.21;89;3.21;;;;;;;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Taubaté;SP;143;Privada;;;143;1.82;132;0.87;115;0.07;;;131;0.88;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Centro Universitário de Paulínia;SP;144;Privada;;;144;1.37;141;0.38;;;;;129;0.99;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Joinville;SC;145;Privada;;;145;1.15;131;0.93;;;;;143;0.22;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Matão;SP;146;Privada;;;146;0.97;139;0.49;110;0.42;;;146;0.06;;;;;;;;;
+2019;engenharia-de-controle-e-automacao;Faculdade Única de Ipatinga;MG;147;Privada;;;147;0.38;144;0.22;;;;;144;0.16;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Estadual de Campinas;SP;1;Estadual;2;35.46;1;63.04;16;7.2;4;7.84;;;1;8;1;40;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Santa Catarina;SC;2;Federal;2;35.46;2;62.77;19;7.03;6;7.74;;;1;8;1;40;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Minas Gerais;MG;3;Federal;1;36;5;59.49;18;7.09;13;7.36;;;1;8;3;37.04;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.46;3;59.91;20;6.98;3;7.89;;;1;8;3;37.04;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande do Sul;RS;5;Federal;2;35.46;4;59.64;27;6.6;1;8;;;1;8;3;37.04;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Tecnológica Federal do Paraná;PR;6;Federal;2;35.46;10;53.11;46;5.58;21;6.94;;;1;8;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;7;Estadual;11;30.63;6;55.21;1;8;27;6.62;;;1;8;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Santa Maria;RS;8;Federal;11;30.63;8;54.45;28;6.55;14;7.31;;;1;8;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Uberlândia;MG;9;Federal;11;30.63;9;54.19;22;6.87;25;6.73;;;1;8;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Pernambuco;PE;10;Federal;2;35.46;14;43.7;38;6.01;11;7.47;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;11;Privada;11;30.63;11;48.14;25;6.71;56;5.09;;;77;3.75;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário do Instituto Mauá de Tecnologia;SP;12;Privada;11;30.63;12;46.73;49;5.42;18;7.1;;;115;1.62;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário da Fundação Educacional Inaciana Pe Sabóia de Medeiros;SP;13;Privada;2;35.46;19;39.38;17;7.14;19;7.05;;;91;2.97;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Minas Gerais;MG;14;Privada;2;35.46;23;33.39;91;3.17;40;5.93;;;107;2.07;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Itajubá;MG;15;Federal;35;17.73;13;44.14;26;6.66;15;7.26;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Fortaleza;CE;16;Privada;11;30.63;25;30.41;108;2.26;75;4.08;;;111;1.85;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;17;Federal;35;17.73;15;41.58;45;5.64;44;5.72;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;18;Federal;35;17.73;21;38.59;79;3.81;66;4.56;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Fundação Universidade Federal do ABC;SP;19;Federal;;;7;55;1;8;31;6.41;;;1;8;6;32.59;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Ouro Preto;MG;20;Federal;11;30.63;30;21.08;21;6.93;36;6.15;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal da Bahia;BA;21;Federal;11;30.63;32;20.41;52;5.26;17;7.15;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Metodista de Piracicaba;SP;22;Privada;11;30.63;35;20.19;1;8;73;4.19;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade do Vale do Rio dos Sinos;RS;23;Privada;11;30.63;46;18.07;29;6.5;16;7.21;;;66;4.36;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade do Estado do Amazonas;AM;24;Estadual;11;30.63;47;18.06;86;3.44;27;6.62;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Mato Grosso;MT;25;Federal;11;30.63;48;17.92;57;4.99;59;4.93;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Pernambuco;PE;26;Estadual;11;30.63;51;17.86;67;4.46;50;5.4;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário de Jaguariúna;SP;27;Privada;35;17.73;26;30.4;138;0.64;34;6.25;;;121;1.29;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Paraná;PR;28;Privada;11;30.63;58;16.19;30;6.44;45;5.67;;;71;4.08;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Una;MG;29;Privada;11;30.63;60;15.72;97;2.85;60;4.87;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Paulista;SP;30;Privada;2;35.46;105;9.38;101;2.63;86;3.5;;;86;3.25;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Caxias do Sul;RS;31;Privada;11;30.63;74;13.18;61;4.78;42;5.83;;;98;2.57;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;32;Privada;11;30.63;76;12.79;47;5.53;53;5.25;;;108;2.01;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Goiás;GO;33;Privada;11;30.63;78;12.64;62;4.73;65;4.61;;;85;3.3;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade do Centro Leste;ES;34;Privada;11;30.63;84;12.17;110;2.15;23;6.83;;;87;3.19;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Taubaté;SP;35;Municipal;35;17.73;27;24.78;129;1.13;125;1.43;;;;;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Estácio de Sá;RJ;36;Privada;11;30.63;101;9.98;35;6.17;96;2.97;;;129;0.84;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;37;Federal;;;16;40.6;77;3.92;30;6.46;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica de Minas Gerais;MG;38;Federal;;;17;40.56;65;4.56;43;5.78;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;39;Federal;;;18;39.6;78;3.87;48;5.51;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Lavras;MG;40;Federal;35;17.73;29;21.61;15;7.25;32;6.36;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal de Pelotas;RS;41;Federal;;;20;38.9;93;3.06;46;5.62;;;1;8;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Senai Cimatec;BA;42;Privada;11;30.63;117;8.09;117;1.77;57;5.03;;;121;1.29;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário das Faculdades Metropolitanas Unidas;SP;43;Privada;11;30.63;123;7.65;82;3.65;85;3.55;;;136;0.45;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Estadual do Rio Grande do Sul;RS;44;Estadual;35;17.73;31;20.44;23;6.82;46;5.62;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande;RS;45;Federal;35;17.73;33;20.37;41;5.85;29;6.52;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade São Judas Tadeu;SP;46;Privada;35;17.73;34;20.21;35;6.17;38;6.04;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Unicuritiba;PR;47;Privada;35;17.73;36;19.97;1;8;77;3.97;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Sorocaba;SP;48;Privada;11;30.63;129;6.52;90;3.22;97;2.91;;;137;0.39;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Nacional de Telecomunicações;MG;49;Privada;;;22;36.74;83;3.6;24;6.78;;;70;4.14;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Sociesc;SC;50;Privada;35;17.73;42;18.66;69;4.35;33;6.31;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;51;Federal;35;17.73;45;18.1;92;3.11;20;6.99;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;52;Federal;35;17.73;52;17.59;81;3.71;41;5.88;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;53;Federal;35;17.73;59;16.06;140;0.54;10;7.52;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Senai Blumenau;SC;54;Privada;11;30.63;146;2.21;129;1.13;138;0.74;;;138;0.34;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Faesa;ES;55;Privada;35;17.73;65;14.24;97;2.85;88;3.39;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Cesumar;PR;56;Privada;35;17.73;69;13.38;32;6.34;92;3.18;;;75;3.86;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Belo Horizonte;MG;57;Privada;35;17.73;73;13.22;59;4.89;37;6.09;;;104;2.24;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Metrocamp Wyden;SP;58;Privada;;;24;30.7;69;4.35;74;4.13;;;;;13;22.22;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Área1 Wyden;BA;59;Privada;35;17.73;82;12.35;31;6.39;70;4.34;;;115;1.62;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Católica Dom Bosco;MS;60;Privada;35;17.73;85;12.03;95;2.95;64;4.66;;;65;4.42;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Estácio de Sá de Ourinhos;SP;61;Privada;35;17.73;90;11.6;1;8;121;1.64;;;109;1.96;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário do Norte;AM;62;Privada;35;17.73;107;9.22;87;3.38;122;1.59;;;68;4.25;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;63;Privada;35;17.73;109;8.99;56;5.05;144;0.42;;;81;3.52;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Newton Paiva;MG;64;Privada;35;17.73;110;8.95;120;1.61;79;3.87;;;82;3.47;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Fanor Wyden;CE;65;Privada;35;17.73;115;8.23;69;4.35;82;3.71;;;141;0.17;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Assis Gurgacz;PR;66;Privada;35;17.73;116;8.1;141;0.48;62;4.77;;;93;2.85;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Estácio de Belém;PA;67;Privada;35;17.73;125;7.54;87;3.38;104;2.54;;;115;1.62;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Campinas;SP;68;Privada;35;17.73;128;6.89;55;5.1;130;1.17;;;133;0.62;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Caxias do Sul;RS;69;Privada;35;17.73;131;5.78;104;2.47;116;1.91;;;119;1.4;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São Luiz;MA;70;Privada;35;17.73;133;5.31;127;1.24;146;0.32;;;77;3.75;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Salesiano de São Paulo;SP;71;Privada;35;17.73;135;5.08;114;1.93;102;2.65;;;135;0.5;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Federal Rural de Pernambuco;PE;72;Federal;;;28;21.81;32;6.34;11;7.47;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade do Sul da Bahia;BA;73;Privada;35;17.73;143;3.22;146;0.22;128;1.27;;;113;1.73;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Araraquara;SP;74;Privada;35;17.73;144;3.19;129;1.13;127;1.33;;;131;0.73;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade do Vale do Taquari;RS;75;Privada;;;37;19.74;43;5.75;39;5.99;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;76;Federal;;;38;19.39;80;3.76;8;7.63;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Feitep;PR;77;Privada;;;39;19.18;1;8;92;3.18;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Divinópolis;MG;78;Privada;;;40;19.15;44;5.69;49;5.46;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;79;Federal;;;41;18.96;94;3.01;2;7.95;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade de Americana;SP;80;Privada;35;17.73;151;1.17;;;130;1.17;;;;;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;81;Federal;;;43;18.37;102;2.58;5;7.79;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Joinville;SC;82;Privada;;;44;18.19;53;5.21;58;4.98;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Porto Alegre;RS;83;Privada;;;49;17.91;1;8;116;1.91;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera do Rio Grande;RS;83;Privada;;;49;17.91;1;8;116;1.91;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;85;Federal;;;53;17.46;103;2.52;21;6.94;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;86;Federal;;;54;17.24;121;1.56;7;7.68;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera Jaraguá do Sul;SC;87;Privada;;;55;16.74;1;8;138;0.74;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Multivix Serra;ES;88;Privada;;;56;16.71;129;1.13;9;7.58;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Ideal Wyden;PA;88;Privada;;;56;16.71;35;6.17;104;2.54;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;90;Federal;;;61;15.18;115;1.88;52;5.3;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;91;Federal;;;62;15.12;118;1.72;50;5.4;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul;MS;92;Federal;;;63;14.92;106;2.36;66;4.56;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Maceió;AL;93;Privada;;;64;14.55;34;6.23;146;0.32;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;94;Federal;;;65;14.24;105;2.42;80;3.82;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Unime de Ciências Exatas e Tecnológicas;BA;95;Privada;;;67;14.21;58;4.94;128;1.27;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Favip Wyden;PE;96;Privada;;;68;13.57;1;8;68;4.45;;;124;1.12;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Ruy Barbosa Wyden;BA;97;Privada;;;70;13.36;1;8;72;4.24;;;124;1.12;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;98;Federal;;;71;13.3;147;0.16;55;5.14;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Guarulhos;SP;99;Privada;;;72;13.25;23;6.82;112;2.12;;;67;4.31;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário do Sul de Minas;MG;100;Privada;;;75;13.05;129;1.13;78;3.92;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Poços de Caldas;MG;101;Privada;;;77;12.77;39;5.96;91;3.23;;;80;3.58;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário FBV Wyden;PE;102;Privada;;;79;12.62;1;8;68;4.45;;;141;0.17;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Anhangüera;SP;103;Privada;;;80;12.59;84;3.54;35;6.2;;;93;2.85;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;104;Federal;;;81;12.52;137;0.7;80;3.82;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Santa Rita;MG;105;Privada;;;83;12.27;112;2.04;110;2.23;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Politécnica de Campinas;SP;106;Privada;;;86;12.02;97;2.85;130;1.17;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sumaré;SP;107;Privada;;;87;11.8;48;5.48;113;2.07;;;68;4.25;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sorocaba;SP;108;Privada;;;88;11.79;42;5.8;115;1.96;;;72;4.03;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Ipatinga;MG;109;Privada;;;89;11.67;69;4.35;90;3.29;;;72;4.03;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São José;SP;110;Privada;;;91;11.44;51;5.32;100;2.76;;;84;3.36;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Engenheiro Salvador Arena;SP;111;Privada;;;92;11.06;84;3.54;26;6.68;;;129;0.84;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jacareí;SP;112;Privada;;;93;11;50;5.37;89;3.34;;;103;2.29;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Alto Vale do Rio do Peixe;SC;113;Privada;;;94;10.99;54;5.15;83;3.66;;;105;2.18;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Instituto de Ensino Superior de Cuiabá;MT;114;Privada;;;95;10.84;107;2.31;142;0.53;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Ceuni;AM;115;Privada;;;96;10.72;129;1.13;122;1.59;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Limeira;SP;116;Privada;;;97;10.54;69;4.35;71;4.29;;;110;1.9;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Indaiatuba;SP;117;Privada;;;98;10.32;39;5.96;130;1.17;;;87;3.19;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Famec;BA;117;Privada;;;98;10.32;97;2.85;87;3.44;;;72;4.03;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jundiaí;SP;119;Privada;;;100;10.02;66;4.51;103;2.6;;;92;2.91;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário de Excelência Eniac;SP;120;Privada;;;102;9.68;60;4.83;108;2.33;;;99;2.52;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Martha Falcão Wyden;AM;121;Privada;;;103;9.59;1;8;122;1.59;;;;;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Santa Bárbara;SP;122;Privada;;;104;9.42;68;4.4;111;2.17;;;93;2.85;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Una de Uberlândia;MG;123;Privada;;;106;9.29;129;1.13;149;0.16;;;1;8;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Anhanguera de São Paulo;SP;124;Privada;;;108;9.13;76;3.97;99;2.81;;;102;2.35;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Betim;MG;125;Privada;;;111;8.69;64;4.62;109;2.28;;;112;1.79;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Taubaté;SP;126;Privada;;;112;8.65;74;4.08;106;2.44;;;106;2.13;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário de Lins;SP;127;Privada;;;113;8.64;124;1.4;63;4.72;;;99;2.52;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Facid Wyden;PI;128;Privada;;;114;8.32;1;8;146;0.32;;;;;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Santa Cruz do Sul;RS;129;Privada;;;118;7.98;62;4.73;116;1.91;;;120;1.34;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Horizontina;RS;130;Privada;;;119;7.82;125;1.34;54;5.19;;;121;1.29;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Goiânia;GO;131;Privada;;;120;7.8;111;2.09;95;3.02;;;96;2.69;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Campinas;SP;132;Privada;;;121;7.77;75;4.03;114;2.01;;;113;1.73;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Campo Grande;MS;133;Privada;;;122;7.7;87;3.38;101;2.7;;;115;1.62;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Única de Ipatinga;MG;134;Privada;;;124;7.55;148;0.11;76;4.03;;;83;3.41;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade do Contestado;SC;135;Privada;;;126;7.07;122;1.5;107;2.38;;;87;3.19;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Max Planck;SP;136;Privada;;;127;6.95;128;1.18;61;4.82;;;127;0.95;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Rondonópolis;MT;137;Privada;;;130;6.22;116;1.83;142;0.53;;;75;3.86;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário de Barra Mansa;RJ;138;Privada;;;131;5.78;112;2.04;94;3.07;;;132;0.67;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade de Santa Bárbara D'oeste;SP;139;Privada;;;134;5.29;141;0.48;130;1.17;;;79;3.64;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade do Vale do Sapucaí;MG;140;Privada;;;136;4.88;109;2.2;149;0.16;;;99;2.52;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade de Uberaba;MG;141;Privada;;;137;4.85;122;1.5;149;0.16;;;87;3.19;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Municipal de São Caetano do Sul;SP;142;Municipal;;;138;4.55;95;2.95;125;1.43;;;141;0.17;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade de Ciências Sociais Aplicadas de Extrema;MG;143;Privada;;;139;4.19;139;0.59;84;3.6;;;;;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Campo Limpo Paulista;SP;144;Privada;;;140;4.13;145;0.27;130;1.17;;;96;2.69;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Presidente Antônio Carlos de Conselheiro Lafaiete;MG;145;Privada;;;141;4.08;144;0.32;98;2.86;;;128;0.9;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade do Sul de Santa Catarina;SC;146;Privada;;;142;3.52;119;1.66;138;0.74;;;124;1.12;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Universidade Cândido Mendes;RJ;147;Privada;;;145;2.27;126;1.29;144;0.42;;;134;0.56;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade de Tecnologia Senai Jaraguá do Sul;SC;148;Privada;;;147;2.15;129;1.13;138;0.74;;;139;0.28;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário Ritter dos Reis;RS;149;Privada;;;148;1.91;;;116;1.91;;;;;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Centro Universitário de Paulínia;SP;150;Privada;;;149;1.77;143;0.38;130;1.17;;;140;0.22;;;;;;;;;
+2023;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Ribeirão Preto;SP;151;Privada;;;150;1.28;148;0.11;130;1.17;;;;;;;;;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Estadual de Campinas;SP;1;Estadual;4;34.48;1;63.58;;;4;7.84;;;1;8;;;6;7.74;1;40;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Santa Catarina;SC;2;Federal;4;34.48;2;61.84;;;6;7.74;;;1;8;;;9;7.58;2;38.52;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Minas Gerais;MG;3;Federal;1;36;3;60.08;;;13;7.36;;;1;8;;;7;7.68;3;37.04;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande do Sul;RS;4;Federal;4;34.48;4;58.98;;;1;8;;;1;8;;;12;7.42;4;35.56;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal do Rio de Janeiro;RJ;5;Federal;4;34.48;5;58.76;;;3;7.89;;;1;8;;;14;7.31;4;35.56;;;
+2024;engenharia-de-controle-e-automacao;Universidade Tecnológica Federal do Paraná;PR;6;Federal;4;34.48;7;53.68;;;21;6.94;;;1;8;;;36;6.15;6;32.59;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Pernambuco;PE;7;Federal;4;34.48;11;51.67;;;11;7.47;;;1;8;;;28;6.57;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;8;Estadual;20;26.37;6;55.21;;;27;6.62;;;1;8;;;1;8;6;32.59;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário da Fundação Educacional Inaciana Pe Sabóia de Medeiros;SP;9;Privada;4;34.48;13;47.01;;;19;7.05;;;101;2.7;;;8;7.63;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Paraná;PR;10;Privada;4;34.48;14;46.53;;;45;5.67;;;61;4.82;;;31;6.41;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário do Instituto Mauá de Tecnologia;SP;11;Privada;4;34.48;16;44.46;;;18;7.1;;;124;1.48;;;34;6.25;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Santa Maria;RS;12;Federal;20;26.37;8;52.09;;;14;7.31;;;1;8;;;17;7.15;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Uberlândia;MG;13;Federal;20;26.37;10;51.72;;;25;6.73;;;1;8;;;13;7.36;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Minas Gerais;MG;14;Privada;1;36;17;40.65;;;40;5.93;;;119;1.75;;;89;3.34;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;15;Privada;20;26.37;15;45.53;;;56;5.09;;;85;3.55;;;15;7.26;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal da Bahia;BA;16;Federal;4;34.48;18;36.01;;;17;7.15;;;1;8;;;38;6.04;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;17;Privada;4;34.48;24;28.02;;;53;5.25;;;115;1.96;;;39;5.99;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Pernambuco;PE;18;Estadual;20;26.37;21;32.78;;;50;5.4;;;1;8;;;66;4.56;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;19;Federal;20;26.37;22;32.73;;;21;6.94;;;1;8;;;96;2.97;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Universidade do Vale do Rio dos Sinos;RS;20;Privada;4;34.48;34;19.34;;;16;7.21;;;55;5.14;;;20;6.99;;;;;
+2024;engenharia-de-controle-e-automacao;Fundação Universidade Federal do ABC;SP;21;Federal;;;9;52.04;;;31;6.41;;;1;8;;;1;8;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Senai Cimatec;BA;22;Privada;20;26.37;25;23.87;;;57;5.03;;;117;1.85;;;111;2.17;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Itajubá;MG;23;Federal;20;26.37;26;22.31;;;15;7.26;;;1;8;;;19;7.05;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Lavras;MG;24;Federal;20;26.37;28;22.15;;;32;6.36;;;1;8;;;5;7.79;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário de Jaguariúna;SP;25;Privada;20;26.37;29;22.02;;;34;6.25;;;145;0.37;;;141;0.58;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Ouro Preto;MG;26;Federal;20;26.37;30;21.62;;;36;6.15;;;1;8;;;11;7.47;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Caxias do Sul;RS;27;Privada;4;34.48;68;13.09;;;42;5.83;;;110;2.23;;;57;5.03;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande;RS;28;Federal;20;26.37;31;21.14;;;29;6.52;;;1;8;;;27;6.62;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;29;Federal;;;12;47.38;;;48;5.51;;;1;8;;;72;4.24;8;29.63;;;
+2024;engenharia-de-controle-e-automacao;Universidade Estadual do Rio Grande do Sul;RS;30;Estadual;20;26.37;32;20.72;;;46;5.62;;;1;8;;;18;7.1;;;;;
+2024;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Goiás;GO;31;Privada;4;34.48;78;12.51;;;65;4.61;;;96;2.97;;;59;4.93;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Una;MG;32;Privada;4;34.48;81;12.08;;;60;4.87;;;68;4.45;;;100;2.76;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;33;Federal;20;26.37;33;20.08;;;44;5.72;;;1;8;;;32;6.36;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Paulista;SP;34;Privada;1;36;98;10.23;;;86;3.5;;;79;3.87;;;98;2.86;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Taubaté;SP;35;Municipal;20;26.37;36;19.16;;;129;1.22;;;114;2.01;;;131;1.11;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;36;Federal;20;26.37;40;18.6;;;5;7.79;;;1;8;;;99;2.81;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Mato Grosso;MT;37;Federal;20;26.37;41;18.18;;;59;4.93;;;1;8;;;53;5.25;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade do Estado do Amazonas;AM;38;Estadual;20;26.37;42;18.17;;;27;6.62;;;1;8;;;85;3.55;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;39;Federal;20;26.37;44;17.75;;;41;5.88;;;1;8;;;79;3.87;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;40;Federal;20;26.37;49;16.79;;;10;7.52;;;1;8;;;128;1.27;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade São Judas Tadeu;SP;41;Privada;20;26.37;50;16.59;;;38;6.04;;;53;5.25;;;52;5.3;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Fortaleza;CE;42;Privada;4;34.48;118;7.37;;;75;4.08;;;130;1.17;;;112;2.12;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Belo Horizonte;MG;43;Privada;20;26.37;55;15.41;;;37;6.09;;;88;3.39;;;40;5.93;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Sociesc;SC;44;Privada;20;26.37;60;14.68;;;33;6.31;;;58;4.98;;;88;3.39;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;45;Federal;20;26.37;67;13.19;;;55;5.14;;;1;8;;;151;0.05;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Católica Dom Bosco;MS;46;Privada;20;26.37;69;13.08;;;64;4.66;;;54;5.19;;;91;3.23;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade do Centro Leste;ES;47;Privada;20;26.37;72;12.93;;;23;6.83;;;86;3.5;;;103;2.6;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;48;Federal;20;26.37;79;12.46;;;80;3.82;;;1;8;;;140;0.64;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Unicuritiba;PR;49;Privada;20;26.37;80;12.13;;;77;3.97;;;70;4.34;;;80;3.82;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Cesumar;PR;50;Privada;20;26.37;85;11.6;;;92;3.18;;;91;3.23;;;54;5.19;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;51;Federal;20;26.37;86;11.5;;;80;3.82;;;52;5.3;;;107;2.38;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Senai de Tecnologia Mecatrônica;SP;52;Privada;20;26.37;92;10.96;;;131;1.11;;;1;8;;;117;1.85;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jundiaí;SP;53;Privada;20;26.37;96;10.6;;;103;2.6;;;95;3.02;;;58;4.98;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Ceuni;AM;54;Privada;20;26.37;99;10.18;;;126;1.38;;;1;8;;;137;0.8;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Newton Paiva;MG;55;Privada;20;26.37;103;9.59;;;79;3.87;;;81;3.76;;;115;1.96;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Anhanguera de São Paulo;SP;55;Privada;20;26.37;103;9.59;;;99;2.81;;;105;2.49;;;71;4.29;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Estácio de Sá;RJ;57;Privada;20;26.37;105;9.54;;;96;2.97;;;133;1.01;;;47;5.56;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Estácio de Sá de Ourinhos;SP;58;Privada;20;26.37;108;9.21;;;125;1.43;;;107;2.38;;;50;5.4;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal de Pelotas;RS;59;Federal;;;19;34.9;;;46;5.62;;;1;8;;;30;6.46;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário das Faculdades Metropolitanas Unidas;SP;60;Privada;20;26.37;114;8.42;;;85;3.55;;;131;1.11;;;81;3.76;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Fanor Wyden;CE;61;Privada;20;26.37;115;8.22;;;82;3.71;;;143;0.48;;;76;4.03;;;;;
+2024;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Campinas;SP;62;Privada;20;26.37;122;7.15;;;131;1.11;;;139;0.69;;;51;5.35;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário do Norte;AM;63;Privada;20;26.37;123;6.99;;;126;1.38;;;94;3.07;;;104;2.54;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Assis Gurgacz;PR;64;Privada;20;26.37;124;6.95;;;62;4.77;;;120;1.7;;;143;0.48;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica de Minas Gerais;MG;64;Federal;;;20;33.32;;;43;5.78;;;1;8;;;63;4.72;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Caxias do Sul;RS;66;Privada;20;26.37;126;6.89;;;120;1.7;;;128;1.27;;;78;3.92;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Sorocaba;SP;67;Privada;20;26.37;129;6.3;;;97;2.91;;;146;0.32;;;94;3.07;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São Luiz;MA;68;Privada;20;26.37;130;6.05;;;147;0.27;;;75;4.08;;;120;1.7;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Salesiano de São Paulo;SP;69;Privada;20;26.37;132;5.83;;;102;2.65;;;134;0.95;;;110;2.23;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Ritter dos Reis;RS;70;Privada;20;26.37;135;5.51;;;120;1.7;;;98;2.86;;;134;0.95;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Araraquara;SP;71;Privada;20;26.37;137;4.98;;;131;1.11;;;125;1.43;;;106;2.44;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Uberaba;MG;72;Privada;20;26.37;139;4.72;;;149;0.16;;;89;3.34;;;129;1.22;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade do Contestado;SC;73;Privada;20;26.37;140;4.66;;;107;2.38;;;135;0.9;;;126;1.38;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Senai Blumenau;SC;74;Privada;20;26.37;142;4.13;;;107;2.38;;;138;0.74;;;133;1.01;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Nacional de Telecomunicações;MG;75;Privada;;;23;29.66;;;24;6.78;;;69;4.4;;;83;3.66;18;14.82;;;
+2024;engenharia-de-controle-e-automacao;Faculdade do Sul da Bahia;BA;76;Privada;20;26.37;149;2.18;;;140;0.64;;;126;1.38;;;149;0.16;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Federal Rural de Pernambuco;PE;77;Federal;;;27;22.3;;;11;7.47;;;1;8;;;23;6.83;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Feitep;PR;78;Privada;;;35;19.18;;;92;3.18;;;1;8;;;1;8;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;79;Federal;;;37;19.13;;;8;7.63;;;1;8;;;86;3.5;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;80;Federal;;;38;18.97;;;2;7.95;;;1;8;;;95;3.02;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;81;Federal;;;39;18.86;;;30;6.46;;;1;8;;;69;4.4;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;82;Federal;;;43;18.12;;;20;6.99;;;1;8;;;93;3.13;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Martha Falcão Wyden;AM;83;Privada;;;45;17.38;;;126;1.38;;;1;8;;;1;8;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;84;Federal;;;46;17.27;;;7;7.68;;;1;8;;;122;1.59;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera do Rio Grande;RS;85;Privada;;;47;16.91;;;120;1.7;;;1;8;;;16;7.21;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade do Vale do Taquari;RS;86;Privada;;;48;16.9;;;39;5.99;;;57;5.03;;;41;5.88;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Divinópolis;MG;87;Privada;;;51;16.32;;;49;5.46;;;64;4.66;;;35;6.2;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul;MS;88;Federal;;;52;15.74;;;66;4.56;;;1;8;;;92;3.18;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;89;Federal;;;53;15.63;;;52;5.3;;;1;8;;;108;2.33;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;90;Federal;;;54;15.47;;;50;5.4;;;1;8;;;113;2.07;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Joinville;SC;91;Privada;;;56;15.37;;;58;4.98;;;63;4.72;;;45;5.67;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Maceió;AL;92;Privada;;;57;14.95;;;147;0.27;;;1;8;;;26;6.68;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Favip Wyden;PE;93;Privada;;;58;14.83;;;68;4.45;;;87;3.44;;;21;6.94;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Poços de Caldas;MG;94;Privada;;;59;14.78;;;91;3.23;;;62;4.77;;;24;6.78;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Ideal Wyden;PA;95;Privada;;;61;14.25;;;104;2.54;;;1;8;;;82;3.71;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Porto Alegre;RS;96;Privada;;;62;13.78;;;120;1.7;;;66;4.56;;;10;7.52;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Unime de Ciências Exatas e Tecnológicas;BA;97;Privada;;;63;13.51;;;140;0.64;;;1;8;;;60;4.87;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Limeira;SP;97;Privada;;;64;13.51;;;72;4.24;;;92;3.18;;;37;6.09;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;99;Federal;;;65;13.35;;;66;4.56;;;51;5.35;;;87;3.44;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Ipatinga;MG;100;Privada;;;66;13.26;;;90;3.29;;;73;4.19;;;43;5.78;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sumaré;SP;101;Privada;;;70;13.03;;;117;1.85;;;60;4.87;;;33;6.31;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sorocaba;SP;102;Privada;;;71;12.98;;;119;1.75;;;67;4.5;;;25;6.73;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Anhangüera;SP;103;Privada;;;73;12.83;;;35;6.2;;;106;2.44;;;73;4.19;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário do Sul de Minas;MG;104;Privada;;;74;12.82;;;78;3.92;;;1;8;;;135;0.9;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Ruy Barbosa Wyden;BA;105;Privada;;;75;12.72;;;73;4.19;;;122;1.59;;;21;6.94;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Guarulhos;SP;106;Privada;;;76;12.67;;;116;1.91;;;72;4.24;;;29;6.52;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São José;SP;107;Privada;;;77;12.56;;;100;2.76;;;77;3.97;;;42;5.83;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto Universitário São Judas de São Bernardo do Campo;SP;108;Privada;;;82;12.02;;;131;1.11;;;1;8;;;97;2.91;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário FBV Wyden;PE;109;Privada;;;83;11.76;;;68;4.45;;;122;1.59;;;44;5.72;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jacareí;SP;110;Privada;;;84;11.72;;;89;3.34;;;100;2.76;;;46;5.62;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Engenheiro Salvador Arena;SP;111;Privada;;;87;11.45;;;26;6.68;;;140;0.64;;;74;4.13;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Alto Vale do Rio do Peixe;SC;111;Privada;;;87;11.45;;;83;3.66;;;108;2.33;;;49;5.46;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Multivix Serra;ES;113;Privada;;;89;11.24;;;9;7.58;;;103;2.6;;;132;1.06;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Famec;BA;114;Privada;;;90;11.17;;;87;3.44;;;74;4.13;;;84;3.6;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Área1 Wyden;BA;114;Privada;;;90;11.17;;;71;4.29;;;104;2.54;;;70;4.34;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário de Excelência Eniac;SP;116;Privada;;;93;10.81;;;112;2.12;;;76;4.03;;;64;4.66;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Goiânia;GO;116;Privada;;;94;10.81;;;95;3.02;;;90;3.29;;;67;4.5;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Metrocamp Wyden;SP;118;Privada;;;95;10.7;;;74;4.13;;;112;2.12;;;68;4.45;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Ibmr;RJ;119;Privada;;;97;10.27;;;144;0.42;;;1;8;;;117;1.85;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Santa Bárbara;SP;120;Privada;;;100;10.01;;;115;1.96;;;97;2.91;;;55;5.14;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Taubaté;SP;121;Privada;;;101;9.91;;;106;2.44;;;102;2.65;;;61;4.82;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Faesa;ES;122;Privada;;;102;9.86;;;88;3.39;;;59;4.93;;;123;1.54;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Campo Grande;MS;123;Privada;;;106;9.48;;;101;2.7;;;111;2.17;;;65;4.61;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Indaiatuba;SP;124;Privada;;;107;9.43;;;131;1.11;;;99;2.81;;;48;5.51;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;125;Privada;;;109;9.01;;;144;0.42;;;80;3.82;;;62;4.77;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Campinas;SP;126;Privada;;;110;8.96;;;118;1.8;;;113;2.07;;;56;5.09;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Santa Rita;MG;127;Privada;;;111;8.9;;;114;2.01;;;65;4.61;;;109;2.28;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário dos Guararapes;PE;128;Privada;;;112;8.74;;;68;4.45;;;84;3.6;;;139;0.69;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário de Lins;SP;129;Privada;;;113;8.48;;;63;4.72;;;109;2.28;;;124;1.48;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Betim;MG;130;Privada;;;116;8.06;;;113;2.07;;;116;1.91;;;75;4.08;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Horizontina;RS;131;Privada;;;117;7.68;;;54;5.19;;;132;1.06;;;125;1.43;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Única de Ipatinga;MG;132;Privada;;;119;7.27;;;76;4.03;;;93;3.13;;;150;0.11;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Anhembi Morumbi;SP;133;Privada;;;120;7.26;;;131;1.11;;;83;3.66;;;105;2.49;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Rondonópolis;MT;134;Privada;;;121;7.15;;;142;0.53;;;78;3.92;;;101;2.7;;;;;
+2024;engenharia-de-controle-e-automacao;Instituto de Ensino Superior de Cuiabá;MT;135;Privada;;;126;6.89;;;142;0.53;;;82;3.71;;;102;2.65;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade de Santa Cruz do Sul;RS;135;Privada;;;125;6.89;;;120;1.7;;;129;1.22;;;77;3.97;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade de Santa Bárbara D'oeste;SP;137;Privada;;;128;6.68;;;131;1.11;;;56;5.09;;;143;0.48;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Max Planck;SP;138;Privada;;;131;5.98;;;61;4.82;;;144;0.42;;;138;0.74;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Una de Uberlândia;MG;139;Privada;;;133;5.78;;;149;0.16;;;71;4.29;;;127;1.33;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade do Sul de Santa Catarina;SC;140;Privada;;;134;5.77;;;107;2.38;;;121;1.64;;;119;1.75;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário de Barra Mansa;RJ;141;Privada;;;135;5.51;;;94;3.07;;;137;0.8;;;121;1.64;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Estácio de Belém;PA;142;Privada;;;137;4.98;;;104;2.54;;;142;0.53;;;116;1.91;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Municipal de São Caetano do Sul;SP;143;Municipal;;;141;4.56;;;129;1.22;;;151;0.05;;;90;3.29;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade de Ciências Sociais Aplicadas de Extrema;MG;144;Privada;;;143;4.08;;;84;3.6;;;150;0.11;;;145;0.37;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade Presidente Antônio Carlos de Conselheiro Lafaiete;MG;145;Privada;;;144;3.98;;;98;2.86;;;136;0.85;;;147;0.27;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade de Tecnologia Senai Jaraguá do Sul;SC;146;Privada;;;145;3.55;;;107;2.38;;;147;0.27;;;135;0.9;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade do Vale do Sapucaí;MG;147;Privada;;;146;3.5;;;149;0.16;;;127;1.33;;;114;2.01;;;;;
+2024;engenharia-de-controle-e-automacao;Faculdade de Tecnologia Senai Joinville;SC;148;Privada;;;147;3.49;;;107;2.38;;;141;0.58;;;142;0.53;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário Campo Limpo Paulista;SP;149;Privada;;;148;3.12;;;131;1.11;;;118;1.8;;;148;0.21;;;;;
+2024;engenharia-de-controle-e-automacao;Universidade Cândido Mendes;RJ;150;Privada;;;150;1.8;;;144;0.42;;;148;0.21;;;130;1.17;;;;;
+2024;engenharia-de-controle-e-automacao;Centro Universitário de Paulínia;SP;151;Privada;;;151;1.59;;;131;1.11;;;149;0.16;;;146;0.32;;;;;
+2025;engenharia-de-controle-e-automacao;Universidade Estadual de Campinas;SP;1;Estadual;1;30;2;68.17;;;5;7.78;;;1;8;;;7;7.66;1;40;1;26;4.73
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Santa Catarina;SC;2;Federal;4;28.78;1;68.19;;;6;7.72;;;1;8;;;10;7.49;1;40;2;21;4.98
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Minas Gerais;MG;3;Federal;1;30;3;65.05;;;3;7.89;;;1;8;;;9;7.55;3;36.52;3;19;5.09
+2025;engenharia-de-controle-e-automacao;Universidade Federal do Rio de Janeiro;RJ;4;Federal;4;28.78;4;61.94;;;1;8;;;1;8;;;19;6.99;4;34.78;4;37;4.17
+2025;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande do Sul;RS;5;Federal;16;23.92;5;61.81;;;2;7.94;;;1;8;;;12;7.38;4;34.78;5;46;3.71
+2025;engenharia-de-controle-e-automacao;Centro Universitário da Fundação Educacional Inaciana Pe Sabóia de Medeiros;SP;6;Privada;4;28.78;8;54.93;;;23;6.76;;;84;3.26;;;8;7.61;6;31.3;1;1;6
+2025;engenharia-de-controle-e-automacao;Universidade Tecnológica Federal do Paraná;PR;7;Federal;4;28.78;9;54.73;;;25;6.65;;;1;8;;;44;5.58;6;31.3;6;56;3.2
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Uberlândia;MG;8;Federal;16;23.92;6;59.15;;;11;7.44;;;1;8;;;14;7.27;6;31.3;7;18;5.14
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Santa Maria;RS;9;Federal;16;23.92;7;58.45;;;30;6.37;;;1;8;;;11;7.44;6;31.3;8;14;5.34
+2025;engenharia-de-controle-e-automacao;Centro Universitário do Instituto Mauá de Tecnologia;SP;10;Privada;16;23.92;10;53.39;;;4;7.83;;;100;2.34;;;28;6.48;6;31.3;2;12;5.44
+2025;engenharia-de-controle-e-automacao;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;11;Estadual;16;23.92;11;53.27;;;37;5.97;;;1;8;;;1;8;6;31.3;9;;
+2025;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio de Janeiro;RJ;12;Privada;16;23.92;12;52.53;;;42;5.69;;;81;3.43;;;21;6.87;6;31.3;3;16;5.24
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Pernambuco;PE;13;Federal;4;28.78;14;46.71;;;7;7.66;;;1;8;;;38;5.92;13;19.13;10;1;6
+2025;engenharia-de-controle-e-automacao;Universidade Federal da Bahia;BA;14;Federal;4;28.78;15;42.73;;;16;7.16;;;1;8;;;52;5.13;13;19.13;11;54;3.31
+2025;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Paraná;PR;15;Privada;4;28.78;18;38.6;;;45;5.52;;;48;5.31;;;42;5.69;13;19.13;4;61;2.95
+2025;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica do Rio Grande do Sul;RS;16;Privada;4;28.78;20;36.51;;;18;7.04;;;101;2.29;;;47;5.41;13;19.13;5;67;2.64
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;17;Federal;16;23.92;19;38.59;;;40;5.8;;;1;8;;;76;3.78;13;19.13;12;82;1.88
+2025;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Minas Gerais;MG;18;Privada;4;28.78;22;33.48;;;43;5.63;;;109;1.83;;;92;2.87;13;19.13;6;40;4.02
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;19;Federal;44;12.57;16;40.61;;;12;7.38;;;1;8;;;97;2.59;13;19.13;13;50;3.51
+2025;engenharia-de-controle-e-automacao;Universidade do Vale do Rio dos Sinos;RS;20;Privada;4;28.78;31;22.3;;;33;6.2;;;56;4.86;;;22;6.82;;;7;32;4.42
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Lavras;MG;21;Federal;16;23.92;25;26.85;;;32;6.25;;;1;8;;;6;7.72;;;14;23;4.88
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Ouro Preto;MG;22;Federal;16;23.92;26;26.29;;;34;6.14;;;1;8;;;13;7.32;;;15;24;4.83
+2025;engenharia-de-controle-e-automacao;Fundação Universidade Federal do ABC;SP;23;Federal;;;13;48.01;;;10;7.49;;;1;8;;;1;8;13;19.13;16;13;5.39
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Mato Grosso;MT;24;Federal;16;23.92;30;22.72;;;68;4.23;;;1;8;;;49;5.3;;;17;17;5.19
+2025;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica Celso Suckow da Fonseca;RJ;25;Federal;16;23.92;34;21.87;;;36;6.03;;;1;8;;;41;5.75;;;18;78;2.09
+2025;engenharia-de-controle-e-automacao;Centro Universitário Senai Cimatec;BA;26;Privada;44;12.57;23;32.73;;;47;5.41;;;87;3.09;;;85;3.27;13;19.13;8;83;1.83
+2025;engenharia-de-controle-e-automacao;Centro Universitário Sociesc;SC;27;Privada;16;23.92;47;18.64;;;63;4.51;;;54;4.97;;;48;5.35;;;9;44;3.81
+2025;engenharia-de-controle-e-automacao;Universidade de Pernambuco;PE;28;Estadual;;;17;40.21;;;22;6.82;;;1;8;;;77;3.72;13;19.13;19;69;2.54
+2025;engenharia-de-controle-e-automacao;Universidade Paulista;SP;29;Privada;1;30;106;10.05;;;90;2.99;;;79;3.54;;;104;2.2;;;10;93;1.32
+2025;engenharia-de-controle-e-automacao;Universidade de Caxias do Sul;RS;30;Privada;16;23.92;61;15.87;;;49;5.3;;;95;2.63;;;58;4.79;;;11;57;3.15
+2025;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Goiás;GO;31;Privada;16;23.92;62;15.74;;;73;3.94;;;80;3.49;;;65;4.39;;;12;42;3.92
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Itajubá;MG;32;Federal;44;12.57;24;27.08;;;9;7.55;;;1;8;;;16;7.16;;;20;33;4.37
+2025;engenharia-de-controle-e-automacao;Pontifícia Universidade Católica de Campinas;SP;33;Privada;16;23.92;66;15.34;;;59;4.73;;;132;0.51;;;53;5.07;;;13;20;5.03
+2025;engenharia-de-controle-e-automacao;Centro Universitário Senai Blumenau;SC;34;Privada;4;28.78;107;9.98;;;50;5.24;;;134;0.4;;;130;0.73;;;14;48;3.61
+2025;engenharia-de-controle-e-automacao;Universidade Cesumar;PR;35;Privada;16;23.92;68;14.65;;;76;3.78;;;91;2.86;;;74;3.89;;;15;38;4.12
+2025;engenharia-de-controle-e-automacao;Universidade Estácio de Sá;RJ;36;Privada;16;23.92;69;14.6;;;113;1.69;;;99;2.4;;;27;6.54;;;16;41;3.97
+2025;engenharia-de-controle-e-automacao;Centro Universitário Unime;BA;37;Privada;16;23.92;74;14.45;;;98;2.54;;;1;8;;;90;2.99;;;17;101;0.92
+2025;engenharia-de-controle-e-automacao;Universidade São Judas Tadeu;SP;38;Privada;16;23.92;76;14.25;;;81;3.49;;;86;3.14;;;51;5.18;;;18;71;2.44
+2025;engenharia-de-controle-e-automacao;Centro Universitário Una;MG;39;Privada;16;23.92;83;13.32;;;85;3.27;;;71;4;;;78;3.66;;;19;72;2.39
+2025;engenharia-de-controle-e-automacao;Universidade de Fortaleza;CE;40;Privada;4;28.78;121;8.41;;;97;2.59;;;117;1.37;;;100;2.42;;;20;79;2.03
+2025;engenharia-de-controle-e-automacao;Instituto Nacional de Telecomunicações;MG;41;Privada;;;21;36.03;;;28;6.48;;;63;4.46;;;86;3.21;13;19.13;21;65;2.75
+2025;engenharia-de-controle-e-automacao;Universidade de Uberaba;MG;42;Privada;16;23.92;96;11.53;;;120;1.3;;;69;4.11;;;111;1.8;;;22;34;4.32
+2025;engenharia-de-controle-e-automacao;Universidade Estadual do Rio Grande do Sul;RS;43;Estadual;44;12.57;29;22.79;;;29;6.42;;;1;8;;;17;7.1;;;21;94;1.27
+2025;engenharia-de-controle-e-automacao;Faculdade Feitep;PR;44;Privada;44;12.57;32;22.07;;;102;2.31;;;1;8;;;1;8;;;23;45;3.76
+2025;engenharia-de-controle-e-automacao;Universidade Federal Rural de Pernambuco;PE;45;Federal;44;12.57;35;21.75;;;7;7.66;;;1;8;;;35;6.09;;;22;;
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;46;Federal;44;12.57;36;21.15;;;35;6.09;;;1;8;;;99;2.48;;;23;29;4.58
+2025;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera de São Paulo;SP;47;Privada;16;23.92;111;9.68;;;105;2.14;;;98;2.46;;;70;4.11;;;24;100;0.97
+2025;engenharia-de-controle-e-automacao;Centro Federal de Educação Tecnológica de Minas Gerais;MG;48;Federal;44;12.57;39;20.8;;;54;5.01;;;1;8;;;68;4.23;;;24;49;3.56
+2025;engenharia-de-controle-e-automacao;Universidade de Sorocaba;SP;48;Privada;16;23.92;112;9.45;;;77;3.72;;;138;0.17;;;84;3.32;;;25;75;2.24
+2025;engenharia-de-controle-e-automacao;Centro Universitário Salesiano de São Paulo;SP;50;Privada;16;23.92;115;9.03;;;88;3.1;;;119;1.26;;;108;1.97;;;26;66;2.7
+2025;engenharia-de-controle-e-automacao;Centro Universitário Assis Gurgacz;PR;51;Privada;16;23.92;123;8.23;;;102;2.31;;;61;4.57;;;139;0.23;;;27;97;1.12
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;52;Federal;44;12.57;46;18.66;;;52;5.13;;;1;8;;;128;0.85;;;25;27;4.68
+2025;engenharia-de-controle-e-automacao;Faculdade Senai de Tecnologia Mecatrônica;SP;53;Privada;16;23.92;128;6.72;;;131;0.68;;;54;4.97;;;124;1.07;;;28;;
+2025;engenharia-de-controle-e-automacao;Universidade Católica Dom Bosco;MS;54;Privada;44;12.57;50;17.52;;;55;4.96;;;49;5.26;;;93;2.82;;;29;31;4.48
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;55;Federal;44;12.57;51;17.48;;;15;7.21;;;46;5.43;;;87;3.16;;;26;86;1.68
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;56;Federal;44;12.57;52;17.45;;;67;4.28;;;1;8;;;101;2.37;;;27;64;2.8
+2025;engenharia-de-controle-e-automacao;Universidade Anhembi Morumbi;SP;57;Privada;16;23.92;132;5.83;;;131;0.68;;;113;1.6;;;80;3.55;;;30;;
+2025;engenharia-de-controle-e-automacao;Universidade Salvador;BA;58;Privada;16;23.92;134;5.21;;;98;2.54;;;120;1.2;;;117;1.47;;;31;;
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;59;Federal;44;12.57;65;15.47;;;51;5.18;;;1;8;;;134;0.51;;;28;84;1.78
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;60;Federal;44;12.57;70;14.56;;;91;2.93;;;1;8;;;140;0.17;;;29;51;3.46
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Belo Horizonte;MG;61;Privada;44;12.57;71;14.54;;;78;3.66;;;74;3.83;;;36;6.03;;;32;99;1.02
+2025;engenharia-de-controle-e-automacao;Faculdade do Centro Leste;ES;62;Privada;44;12.57;72;14.53;;;19;6.99;;;73;3.89;;;109;1.92;;;33;85;1.73
+2025;engenharia-de-controle-e-automacao;Centro Universitário Unicuritiba;PR;63;Privada;44;12.57;77;14.23;;;102;2.31;;;69;4.11;;;46;5.47;;;34;73;2.34
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jundiaí;SP;64;Privada;44;12.57;84;13.16;;;106;2.09;;;68;4.17;;;26;6.59;;;35;113;0.31
+2025;engenharia-de-controle-e-automacao;Centro Universitário Newton Paiva;MG;65;Privada;44;12.57;86;12.79;;;83;3.38;;;105;2.06;;;73;3.94;;;36;52;3.41
+2025;engenharia-de-controle-e-automacao;Centro Universitário do Norte;AM;66;Privada;44;12.57;87;12.75;;;109;1.92;;;83;3.31;;;107;2.03;;;37;11;5.49
+2025;engenharia-de-controle-e-automacao;Centro Universitário Favip Wyden;PE;67;Privada;44;12.57;88;12.74;;;70;4.11;;;130;0.63;;;1;8;;;38;;
+2025;engenharia-de-controle-e-automacao;Faculdade Estácio de Belém;PA;68;Privada;44;12.57;93;11.98;;;115;1.58;;;116;1.43;;;56;4.9;;;39;39;4.07
+2025;engenharia-de-controle-e-automacao;Universidade de Santa Cruz do Sul;RS;69;Privada;44;12.57;97;11.35;;;56;4.9;;;106;2;;;64;4.45;;;40;;
+2025;engenharia-de-controle-e-automacao;Universidade Federal do Rio Grande;RS;70;Federal;;;27;23.6;;;69;4.17;;;1;8;;;34;6.14;;;30;15;5.29
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Santa Bárbara;SP;71;Privada;44;12.57;101;10.62;;;119;1.35;;;78;3.6;;;54;5.01;;;41;106;0.66
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Campinas;SP;72;Privada;44;12.57;103;10.55;;;117;1.47;;;88;3.03;;;50;5.24;;;42;103;0.81
+2025;engenharia-de-controle-e-automacao;Universidade do Estado do Amazonas;AM;73;Estadual;;;28;23.03;;;13;7.32;;;1;8;;;82;3.44;;;31;35;4.27
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;74;Federal;;;33;21.98;;;14;7.27;;;1;8;;;79;3.61;;;32;58;3.1
+2025;engenharia-de-controle-e-automacao;Universidade Federal de Pelotas;RS;75;Federal;;;37;21.03;;;57;4.85;;;1;8;;;33;6.2;;;33;80;1.98
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;76;Federal;;;38;20.89;;;17;7.1;;;1;8;;;98;2.54;;;34;55;3.25
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;77;Federal;;;40;20.72;;;24;6.7;;;1;8;;;75;3.83;;;35;76;2.19
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;78;Federal;;;41;20.49;;;27;6.54;;;1;8;;;106;2.09;;;36;43;3.86
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;79;Federal;;;42;20.41;;;31;6.31;;;1;8;;;88;3.1;;;37;60;3
+2025;engenharia-de-controle-e-automacao;Centro Universitário das Faculdades Metropolitanas Unidas;SP;80;Privada;44;12.57;125;7.39;;;108;1.97;;;123;1.03;;;94;2.76;;;43;87;1.63
+2025;engenharia-de-controle-e-automacao;Centro Universitário Ruy Barbosa Wyden;BA;81;Privada;;;43;19.49;;;58;4.79;;;110;1.77;;;20;6.93;;;44;1;6
+2025;engenharia-de-controle-e-automacao;Universidade de Taubaté;SP;82;Municipal;44;12.57;126;6.79;;;61;4.62;;;115;1.49;;;131;0.68;;;38;;
+2025;engenharia-de-controle-e-automacao;Universidade do Contestado;SC;83;Privada;44;12.57;128;6.72;;;63;4.51;;;130;0.63;;;115;1.58;;;45;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário de Excelência Eniac;SP;84;Privada;;;44;19.25;;;38;5.92;;;67;4.23;;;69;4.17;;;46;22;4.93
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;85;Federal;;;45;19.24;;;26;6.59;;;1;8;;;112;1.75;;;39;62;2.9
+2025;engenharia-de-controle-e-automacao;Faculdade Ideal Wyden;PA;86;Privada;;;48;18.23;;;115;1.58;;;1;8;;;96;2.65;;;47;1;6
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;87;Federal;;;49;17.84;;;52;5.13;;;1;8;;;110;1.86;;;40;63;2.85
+2025;engenharia-de-controle-e-automacao;Centro Universitário Ritter dos Reis;RS;88;Privada;44;12.57;135;4.47;;;95;2.7;;;122;1.09;;;131;0.68;;;48;;
+2025;engenharia-de-controle-e-automacao;Universidade do Vale do Taquari;RS;89;Privada;;;53;16.86;;;82;3.44;;;59;4.69;;;63;4.51;;;49;36;4.22
+2025;engenharia-de-controle-e-automacao;Centro Universitário Ibmr;RJ;90;Privada;44;12.57;138;4.15;;;128;0.85;;;102;2.23;;;124;1.07;;;50;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário FBV Wyden;PE;91;Privada;;;54;16.53;;;70;4.11;;;139;0.11;;;31;6.31;;;51;1;6
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Divinópolis;MG;91;Privada;;;54;16.53;;;83;3.38;;;53;5.03;;;24;6.7;;;51;91;1.42
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;93;Federal;;;56;16.36;;;44;5.58;;;45;5.49;;;95;2.7;;;41;68;2.59
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Taubaté;SP;94;Privada;;;57;16.22;;;41;5.75;;;77;3.66;;;32;6.25;;;53;108;0.56
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sumaré;SP;95;Privada;;;58;16.18;;;80;3.55;;;47;5.37;;;25;6.65;;;54;107;0.61
+2025;engenharia-de-controle-e-automacao;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul;MS;96;Federal;;;59;16.13;;;75;3.83;;;1;8;;;91;2.93;;;42;92;1.37
+2025;engenharia-de-controle-e-automacao;Centro Universitário Faesa;ES;97;Privada;;;60;16.12;;;19;6.99;;;1;8;;;123;1.13;;;55;;
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Sorocaba;SP;98;Privada;;;63;15.64;;;93;2.82;;;50;5.2;;;15;7.21;;;56;111;0.41
+2025;engenharia-de-controle-e-automacao;Instituto de Ensino Superior de Cuiabá;MT;99;Privada;;;64;15.52;;;141;0.11;;;1;8;;;118;1.41;;;57;1;6
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Joinville;SC;100;Privada;;;67;15.27;;;63;4.51;;;58;4.74;;;37;5.97;;;58;118;0.05
+2025;engenharia-de-controle-e-automacao;Universidade Cândido Mendes;RJ;101;Privada;44;12.57;141;2.04;;;128;0.85;;;137;0.23;;;126;0.96;;;59;;
+2025;engenharia-de-controle-e-automacao;Universidade Alto Vale do Rio do Peixe;SC;102;Privada;;;73;14.49;;;63;4.51;;;85;3.2;;;57;4.85;;;60;81;1.93
+2025;engenharia-de-controle-e-automacao;Faculdade Engenheiro Salvador Arena;SP;103;Privada;;;75;14.27;;;48;5.35;;;127;0.8;;;81;3.49;;;61;28;4.63
+2025;engenharia-de-controle-e-automacao;Universidade Municipal de São Caetano do Sul;SP;104;Municipal;;;77;14.23;;;39;5.86;;;140;0.06;;;102;2.31;;;43;1;6
+2025;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;105;Privada;;;79;14.06;;;92;2.87;;;60;4.63;;;40;5.8;;;62;104;0.76
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Poços de Caldas;MG;106;Privada;;;80;13.51;;;120;1.3;;;52;5.09;;;23;6.76;;;63;112;0.36
+2025;engenharia-de-controle-e-automacao;Centro Universitário Fanor Wyden;CE;107;Privada;;;81;13.4;;;112;1.75;;;124;0.97;;;60;4.68;;;64;1;6
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Guarulhos;SP;108;Privada;;;82;13.33;;;127;0.9;;;51;5.14;;;18;7.04;;;65;114;0.25
+2025;engenharia-de-controle-e-automacao;Universidade do Sul de Santa Catarina;SC;109;Privada;;;85;13.12;;;46;5.47;;;82;3.37;;;105;2.14;;;66;77;2.14
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Ipatinga;MG;110;Privada;;;89;12.72;;;120;1.3;;;57;4.8;;;29;6.42;;;67;115;0.2
+2025;engenharia-de-controle-e-automacao;Faculdade Multivix Serra;ES;111;Privada;;;90;12.45;;;19;6.99;;;72;3.94;;;116;1.52;;;68;;
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Goiânia;GO;112;Privada;;;91;12.22;;;89;3.04;;;76;3.71;;;55;4.96;;;69;109;0.51
+2025;engenharia-de-controle-e-automacao;Faculdade Estácio de Sá de Ourinhos;SP;113;Privada;;;92;12.2;;;131;0.68;;;93;2.74;;;72;4;;;70;25;4.78
+2025;engenharia-de-controle-e-automacao;Faculdade do Sul da Bahia;BA;114;Privada;;;94;11.62;;;98;2.54;;;92;2.8;;;138;0.28;;;71;1;6
+2025;engenharia-de-controle-e-automacao;Centro Universitário Famec;BA;115;Privada;;;95;11.56;;;98;2.54;;;64;4.4;;;89;3.04;;;72;88;1.58
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São José;SP;116;Privada;;;98;10.97;;;131;0.68;;;75;3.77;;;30;6.37;;;73;116;0.15
+2025;engenharia-de-controle-e-automacao;Centro Universitário Anhangüera;SP;117;Privada;;;99;10.75;;;87;3.16;;;97;2.51;;;61;4.62;;;74;110;0.46
+2025;engenharia-de-controle-e-automacao;Centro Universitário Max Planck;SP;118;Privada;;;100;10.69;;;60;4.68;;;129;0.69;;;129;0.79;;;75;30;4.53
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Caxias do Sul;RS;119;Privada;;;102;10.59;;;74;3.89;;;111;1.71;;;67;4.28;;;76;105;0.71
+2025;engenharia-de-controle-e-automacao;Centro Universitário Metrocamp Wyden;SP;120;Privada;;;104;10.36;;;131;0.68;;;133;0.46;;;39;5.86;;;77;53;3.36
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Jacareí;SP;121;Privada;;;105;10.29;;;131;0.68;;;90;2.91;;;43;5.63;;;78;98;1.07
+2025;engenharia-de-controle-e-automacao;Faculdade Martha Falcão Wyden;AM;122;Privada;;;108;9.92;;;109;1.92;;;;;;;1;8;;;79;;
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de São Luiz;MA;123;Privada;;;109;9.87;;;111;1.8;;;65;4.34;;;103;2.25;;;80;90;1.48
+2025;engenharia-de-controle-e-automacao;Centro Universitário Anhanguera Pitágoras Unopar de Campo Grande;MS;124;Privada;;;110;9.79;;;107;2.03;;;103;2.17;;;59;4.73;;;81;102;0.86
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Indaiatuba;SP;125;Privada;;;113;9.27;;;131;0.68;;;89;2.97;;;45;5.52;;;82;117;0.1
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Betim;MG;126;Privada;;;114;9.13;;;118;1.41;;;107;1.94;;;62;4.56;;;83;95;1.22
+2025;engenharia-de-controle-e-automacao;Centro Universitário Campo Limpo Paulista;SP;127;Privada;;;116;9;;;114;1.63;;;118;1.31;;;142;0.06;;;84;1;6
+2025;engenharia-de-controle-e-automacao;Centro Universitário de Jaguariúna;SP;128;Privada;;;117;8.75;;;62;4.56;;;121;1.14;;;133;0.56;;;85;70;2.49
+2025;engenharia-de-controle-e-automacao;Centro Universitário de Lins;SP;129;Privada;;;118;8.65;;;79;3.61;;;96;2.57;;;120;1.3;;;86;96;1.17
+2025;engenharia-de-controle-e-automacao;Universidade do Vale do Sapucaí;MG;130;Privada;;;119;8.63;;;120;1.3;;;112;1.66;;;83;3.38;;;87;74;2.29
+2025;engenharia-de-controle-e-automacao;Faculdade Horizontina;RS;131;Privada;;;120;8.45;;;95;2.7;;;128;0.74;;;119;1.35;;;88;47;3.66
+2025;engenharia-de-controle-e-automacao;Faculdade Anhanguera de Rondonópolis;MT;132;Privada;;;121;8.41;;;142;0.06;;;66;4.29;;;71;4.06;;;89;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário Santa Rita;MG;133;Privada;;;124;7.5;;;120;1.3;;;61;4.57;;;114;1.63;;;90;;
+2025;engenharia-de-controle-e-automacao;Faculdade Presidente Antônio Carlos de Conselheiro Lafaiete;MG;134;Privada;;;127;6.73;;;86;3.21;;;114;1.54;;;135;0.45;;;91;89;1.53
+2025;engenharia-de-controle-e-automacao;Faculdade de Ciências Sociais Aplicadas de Extrema;MG;135;Privada;;;131;6.15;;;94;2.76;;;;;;;137;0.34;;;92;59;3.05
+2025;engenharia-de-controle-e-automacao;Centro Universitário dos Guararapes;PE;135;Privada;;;130;6.15;;;70;4.11;;;126;0.86;;;122;1.18;;;92;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário Fundação Santo André;SP;137;Privada;;;133;5.31;;;131;0.68;;;136;0.29;;;66;4.34;;;94;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário Una de Uberlândia;MG;138;Privada;;;136;4.31;;;120;1.3;;;104;2.11;;;127;0.9;;;95;;
+2025;engenharia-de-controle-e-automacao;Faculdade Única de Ipatinga;MG;139;Privada;;;137;4.15;;;120;1.3;;;93;2.74;;;141;0.11;;;96;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário de Barra Mansa;RJ;140;Privada;;;139;3.98;;;128;0.85;;;108;1.89;;;121;1.24;;;97;;
+2025;engenharia-de-controle-e-automacao;Instituto Universitário São Judas de São Bernardo do Campo;SP;141;Privada;;;140;3.34;;;131;0.68;;;124;0.97;;;113;1.69;;;98;;
+2025;engenharia-de-controle-e-automacao;Centro Universitário de Paulínia;SP;142;Privada;;;142;1.41;;;131;0.68;;;135;0.34;;;136;0.39;;;99;;

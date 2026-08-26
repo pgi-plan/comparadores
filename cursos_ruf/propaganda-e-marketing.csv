@@ -1,0 +1,1244 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;propaganda-e-marketing;Universidade Federal de Minas Gerais;MG;1;Federal;3;35.35;1;61.28;3;7.95;1;8;;;1;8;3;37.33;;;;;;;
+2019;propaganda-e-marketing;Escola Superior de Propaganda e Marketing;SP;2;Privada;1;36;3;55.43;87;5.86;10;7.74;;;201-250;1.83;1;40;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Rio de Janeiro;RJ;3;Federal;20;29.78;2;60.9;2;7.98;15;7.59;;;1;8;3;37.33;;;;;;;
+2019;propaganda-e-marketing;Universidade de São Paulo;SP;4;Estadual;3;35.35;4;54.67;1;8;;;;;1;8;2;38.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Paraná;PR;5;Federal;9;33.38;6;54.39;10;7.78;3;7.94;;;1;8;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica de São Paulo;SP;6;Privada;9;33.38;9;52.3;24;7.43;251-300;0.73;;;49;6.81;3;37.33;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Rio Grande do Sul;RS;7;Federal;20;29.78;7;54.22;5;7.9;13;7.65;;;1;8;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica do Rio Grande do Sul;RS;8;Privada;20;29.78;8;53.56;37;7.11;95;5.28;;;169;3.84;3;37.33;;;;;;;
+2019;propaganda-e-marketing;Universidade Presbiteriana Mackenzie;SP;9;Privada;2;35.67;12;47.36;42;6.98;201-250;1.54;;;251-300;1.51;3;37.33;;;;;;;
+2019;propaganda-e-marketing;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;10;Privada;9;33.38;11;49.57;58;6.58;40;6.87;;;104;5.45;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica de Minas Gerais;MG;11;Privada;3;35.35;13;47.13;80;6.04;97;5.22;;;114;5.2;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;12;Privada;20;29.78;10;49.85;25;7.4;21;7.42;;;148;4.36;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Universidade de Brasília;DF;13;Federal;41;22.91;5;54.46;6;7.88;4;7.91;;;1;8;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal de Pernambuco;PE;14;Federal;9;33.38;14;42.25;11;7.75;7;7.83;;;1;8;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica do Rio de Janeiro;RJ;15;Privada;9;33.38;16;41.1;114;5.19;156;3.51;;;251-300;1.73;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Universidade do Vale do Rio dos Sinos;RS;16;Privada;9;33.38;18;39.28;12;7.73;55;6.44;;;64;6.44;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Comunicação e Marketing da Fundação Armando Álvares Penteado;SP;17;Privada;9;33.38;19;39.12;50;6.78;201-250;1.62;;;301-350;0.05;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Metodista de São Paulo;SP;18;Privada;20;29.78;17;40.99;201-250;2.86;194;2.41;;;120;5.05;8;30.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Anhembi Morumbi;SP;19;Privada;3;35.35;22;33.41;88;5.84;69;6.03;;;201-250;2.87;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica do Paraná;PR;20;Privada;9;33.38;23;32.28;162;4;41;6.84;;;201-250;2.77;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal de Santa Maria;RS;21;Federal;41;22.91;15;42.18;8;7.83;12;7.68;;;1;8;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Positivo;PR;22;Privada;20;29.78;20;34.9;91;5.76;102;5.07;;;106;5.4;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Faculdade Cásper Líbero;SP;23;Privada;20;29.78;24;32.03;48;6.83;73;5.91;;;251-300;0.62;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Belas Artes de São Paulo;SP;24;Privada;20;29.78;25;30.71;55;6.66;141;3.94;;;251-300;1.44;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica de Campinas;SP;25;Privada;20;29.78;27;29.84;124;4.94;76;5.83;;;301-350;0.4;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Ceará;CE;26;Federal;9;33.38;30;23.54;14;7.68;6;7.86;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Nove de Julho;SP;27;Privada;41;22.91;21;33.78;20;7.53;201-250;1.68;;;86;5.9;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Ibmec;RJ;28;Privada;41;22.91;26;30.56;144;4.45;29;7.19;;;301-350;0.25;17;18.67;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal de Goiás;GO;29;Federal;20;29.78;34;22.65;46;6.88;9;7.77;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Feevale;RS;30;Privada;9;33.38;46;19;67;6.36;81;5.68;;;43;6.96;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Fortaleza;CE;31;Privada;3;35.35;72;16.19;111;5.27;101;5.1;;;89;5.82;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Paulista;SP;32;Privada;3;35.35;93;15.18;201-250;2.76;63;6.2;;;73;6.22;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal Fluminense;RJ;33;Federal;41;22.91;28;24.61;9;7.8;111;4.81;;;1;8;28;4;;;;;;;
+2019;propaganda-e-marketing;Universidade Estácio de Sá;RJ;34;Privada;9;33.38;123;13.66;143;4.47;100;5.13;;;160;4.06;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica de Pelotas;RS;35;Privada;41;22.91;31;23.52;53;6.71;37;6.96;;;88;5.85;28;4;;;;;;;
+2019;propaganda-e-marketing;Universidade Estadual do Centro Oeste;PR;36;Estadual;41;22.91;32;23.21;21;7.5;11;7.71;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Rio Grande do Norte;RN;37;Federal;41;22.91;33;23.06;19;7.55;18;7.51;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade da Região de Joinville;SC;38;Privada;20;29.78;80;15.82;112;5.24;106;4.96;;;97;5.62;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal de Mato Grosso;MT;39;Federal;41;22.91;35;22.25;27;7.35;39;6.9;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Leonardo da Vinci;SC;40;Privada;20;29.78;90;15.35;131;4.77;36;6.99;;;179;3.59;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Caxias do Sul;RS;41;Privada;20;29.78;98;14.99;43;6.96;184;2.7;;;109;5.33;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Espírito Santo;ES;42;Federal;41;22.91;36;21.54;22;7.48;68;6.06;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Cesumar;PR;43;Privada;41;22.91;39;20.53;56;6.63;22;7.39;;;61;6.51;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Ribeirão Preto;SP;44;Privada;41;22.91;42;19.74;49;6.81;107;4.93;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Pontifícia Universidade Católica de Goiás;GO;45;Privada;20;29.78;142;12.61;52;6.73;168;3.16;;;201-250;2.72;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica de Pernambuco;PE;46;Privada;20;29.78;145;12.49;65;6.41;103;5.04;;;251-300;1.04;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas de Taquara;RS;47;Privada;20;29.78;147;12.39;99;5.57;70;6;;;251-300;0.82;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Belo Horizonte;MG;48;Privada;41;22.91;47;18.78;70;6.29;33;7.07;;;105;5.42;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Sete de Setembro;CE;49;Privada;41;22.91;49;18.34;121;5.02;49;6.61;;;53;6.71;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário FBV Wyden;PE;50;Privada;41;22.91;50;18.14;106;5.39;113;4.75;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Vale do Itajaí;SC;51;Privada;20;29.78;166;11.15;201-250;2.44;193;2.44;;;71;6.27;;;;;;;;;
+2019;propaganda-e-marketing;Universidade São Judas Tadeu;SP;52;Privada;41;22.91;53;17.78;34;7.18;64;6.17;;;145;4.43;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Faesa;ES;53;Privada;41;22.91;54;17.63;166;3.9;34;7.04;;;54;6.69;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Ceuma;MA;54;Privada;41;22.91;55;17.52;115;5.17;127;4.35;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Uberaba;MG;55;Privada;41;22.91;65;16.67;146;4.4;47;6.67;;;98;5.6;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Salvador;BA;56;Privada;20;29.78;198;9.74;201-250;2.81;114;4.73;;;201-250;2.2;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Maurício de Nassau;PE;57;Privada;20;29.78;199;9.68;157;4.12;201-250;2.12;;;185;3.44;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário do Instituto de Educação Superior de Brasília;DF;58;Privada;41;22.91;71;16.21;185;3.43;42;6.81;;;83;5.97;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Brasília;DF;59;Privada;20;29.78;201-250;9.24;82;5.99;195;2.38;;;251-300;0.87;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Oeste Paulista;SP;60;Privada;41;22.91;78;15.98;32;7.23;165;3.25;;;102;5.5;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Vila Velha;ES;61;Privada;41;22.91;79;15.92;153;4.22;17;7.54;;;156;4.16;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário da Grande Dourados;MS;62;Privada;41;22.91;81;15.81;201-250;3.03;8;7.8;;;123;4.98;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Santa Cruz do Sul;RS;63;Privada;41;22.91;97;15;38;7.08;91;5.39;;;201-250;2.53;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Fanor Wyden;CE;64;Privada;41;22.91;99;14.94;138;4.6;146;3.8;;;60;6.54;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Una;MG;65;Privada;41;22.91;101;14.86;108;5.34;98;5.19;;;149;4.33;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Veiga de Almeida;RJ;66;Privada;41;22.91;102;14.84;29;7.3;122;4.49;;;201-250;3.05;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica de Brasília;DF;67;Privada;41;22.91;103;14.8;72;6.24;201-250;1.65;;;45;6.91;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Várzea Grande;MT;68;Privada;41;22.91;107;14.6;45;6.91;135;4.12;;;180;3.57;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio do Ceará;CE;69;Privada;41;22.91;120;13.85;147;4.37;72;5.94;;;181;3.54;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Grande Rio Professor José de Souza Herdy;RJ;70;Privada;41;22.91;125;13.64;184;3.45;164;3.28;;;45;6.91;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Potiguar;RN;71;Privada;41;22.91;131;13.39;31;7.26;201-250;1.1;;;121;5.03;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário do Estado do Pará;PA;72;Privada;41;22.91;132;13.35;251-300;1.64;56;6.41;;;110;5.3;;;;;;;;;
+2019;propaganda-e-marketing;Universidade da Amazônia;PA;73;Privada;41;22.91;134;13.23;145;4.42;38;6.93;;;201-250;1.88;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário do Norte;AM;74;Privada;20;29.78;251-300;5.31;251-300;1.19;201-250;1.77;;;201-250;2.35;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Interamericana de Porto Velho;RO;75;Privada;41;22.91;151;12.16;193;3.23;150;3.68;;;112;5.25;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Assis Gurgacz;PR;76;Privada;41;22.91;154;11.97;201-250;2.16;52;6.52;;;191;3.29;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Jorge Amado;BA;77;Privada;41;22.91;155;11.96;104;5.44;154;3.57;;;201-250;2.95;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Fumec;MG;78;Privada;41;22.91;157;11.91;119;5.07;158;3.45;;;187;3.39;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas Hélio Alonso;RJ;79;Privada;41;22.91;159;11.73;89;5.81;171;3.07;;;201-250;2.85;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Barão de Mauá;SP;80;Privada;41;22.91;162;11.43;198;3.11;160;3.39;;;125;4.93;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Sorocaba;SP;81;Privada;41;22.91;169;10.88;77;6.11;145;3.83;;;251-300;0.94;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Sul de Santa Catarina;SC;82;Privada;41;22.91;172;10.74;154;4.2;201-250;2.06;;;143;4.48;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica do Salvador;BA;83;Privada;41;22.91;193;9.91;155;4.17;201-250;1.88;;;168;3.86;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Mogi das Cruzes;SP;84;Privada;41;22.91;201-250;9.42;201-250;2.46;201-250;1.39;;;99;5.57;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Divinópolis;MG;85;Privada;41;22.91;201-250;9.28;251-300;1.29;87;5.51;;;201-250;2.48;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Cuiabá;MT;86;Privada;41;22.91;201-250;9.21;251-300;0.72;50;6.58;;;201-250;1.91;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Toledo Wyden;SP;87;Privada;41;22.91;201-250;9.2;251-300;1.62;77;5.8;;;251-300;1.78;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Maceió;AL;88;Privada;41;22.91;201-250;8.13;251-300;1.24;140;3.97;;;201-250;2.92;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Pitágoras Unopar Anhanguera;PR;89;Privada;41;22.91;201-250;7.46;251-300;0.94;199;2.26;;;152;4.26;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Metodista de Piracicaba;SP;90;Privada;41;22.91;201-250;7.11;101;5.52;201-250;1.42;;;301-350;0.17;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Paranaense;PR;91;Privada;41;22.91;251-300;6.91;251-300;1.37;115;4.7;;;251-300;0.84;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Pará;PA;92;Federal;94;5.56;29;23.58;13;7.7;5;7.88;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Esamc Uberlândia;MG;93;Privada;41;22.91;251-300;4.86;251-300;1.71;188;2.58;;;301-350;0.57;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Presidente Antônio Carlos;MG;94;Privada;41;22.91;251-300;4.42;251-300;1.57;251-300;0.67;;;201-250;2.18;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Ciências Econômicas;SP;95;Privada;94;5.56;43;19.56;60;6.53;19;7.48;;;100;5.55;;;;;;;;;
+2019;propaganda-e-marketing;FAE Centro Universitário;PR;96;Privada;94;5.56;61;16.95;73;6.21;14;7.62;;;198;3.12;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Estado do Rio Grande do Norte;RN;97;Estadual;;;37;21.41;75;6.16;27;7.25;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Fundação Universidade Federal do Pampa;RS;98;Federal;;;38;21.22;16;7.63;84;5.59;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Estácio do Pará;PA;99;Privada;94;5.56;89;15.37;140;4.55;61;6.26;;;140;4.56;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Tiradentes;SE;100;Privada;94;5.56;91;15.29;130;4.8;92;5.36;;;117;5.13;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Promove de Minas Gerais;MG;101;Privada;94;5.56;95;15.02;92;5.74;198;2.29;;;42;6.99;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Volta Redonda;RJ;102;Privada;;;40;20.32;23;7.45;109;4.87;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Internacional;PR;103;Privada;94;5.56;108;14.55;90;5.79;131;4.23;;;141;4.53;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Franciscana;RS;104;Privada;;;41;20;57;6.61;57;6.38;;;41;7.01;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Paulus de Tecnologia e Comunicação;SP;105;Privada;;;44;19.5;40;7.03;16;7.57;;;126;4.9;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Ensino Superior da Cidade de Feira de Santana;BA;106;Privada;;;45;19.06;4;7.93;169;3.13;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Infnet Rio de Janeiro;RJ;107;Privada;;;48;18.59;161;4.03;2;7.97;;;58;6.59;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário do Sul de Minas;MG;108;Privada;;;51;17.94;116;5.14;43;6.78;;;81;6.02;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Marília;SP;109;Privada;;;52;17.84;64;6.44;118;4.61;;;50;6.79;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica de Santos;SP;110;Privada;;;56;17.44;30;7.28;163;3.3;;;47;6.86;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Projeção;DF;111;Privada;;;57;17.23;54;6.68;189;2.55;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Curitiba;PR;112;Privada;;;58;17.19;71;6.26;59;6.32;;;138;4.61;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;113;Privada;;;59;17.12;123;4.97;62;6.23;;;85;5.92;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anísio Teixeira de Feira de Santana;BA;114;Privada;;;60;16.99;251-300;1.69;25;7.3;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Vale do Taquari;RS;115;Privada;;;62;16.88;51;6.76;139;4;;;77;6.12;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Oeste de Santa Catarina;SC;116;Privada;;;63;16.83;85;5.91;86;5.54;;;107;5.38;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Unicarioca;RJ;117;Privada;;;64;16.7;7;7.85;170;3.1;;;92;5.75;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Ritter dos Reis;RS;118;Privada;;;66;16.52;47;6.86;191;2.49;;;196;3.17;28;4;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal de Sergipe;SE;119;Federal;;;67;16.35;170;3.8;120;4.55;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário das Américas;SP;120;Privada;;;68;16.32;36;7.13;201-250;1.19;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Cruzeiro do Sul;SP;120;Privada;94;5.56;171;10.76;78;6.09;201-250;1.3;;;188;3.37;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Autônomo do Brasil;PR;122;Privada;;;69;16.28;122;4.99;94;5.3;;;82;5.99;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Favip Wyden;PE;123;Privada;;;70;16.24;134;4.7;108;4.9;;;56;6.64;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio Juiz de Fora;MG;124;Privada;;;73;16.12;81;6.01;66;6.12;;;163;3.99;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Aeso - Barros Melo;PE;125;Privada;;;74;16.11;180;3.55;26;7.28;;;111;5.28;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Zarns;BA;126;Privada;;;75;16.08;61;6.51;201-250;1.57;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Taubaté;SP;126;Municipal;;;75;16.08;125;4.92;128;4.32;;;48;6.84;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Moura Lacerda;SP;128;Privada;94;5.56;180;10.51;201-250;2.41;35;7.01;;;251-300;1.09;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade JK - Unidade II - Gama;DF;129;Privada;;;77;16.03;171;3.78;75;5.86;;;66;6.39;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Nossa Senhora do Patrocínio;SP;130;Privada;;;82;15.72;69;6.31;79;5.74;;;176;3.67;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Recôncavo da Bahia;BA;131;Federal;;;83;15.65;15;7.65;;;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio de Belo Horizonte;MG;132;Privada;;;84;15.51;136;4.65;105;4.99;;;87;5.87;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas de Três Lagoas;MS;133;Privada;;;85;15.48;105;5.42;148;3.74;;;69;6.32;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Estudos Avançados do Pará;PA;134;Privada;;;86;15.47;175;3.68;67;6.09;;;94;5.7;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Tuiuti do Paraná;PR;135;Privada;;;87;15.44;63;6.46;180;2.81;;;75;6.17;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Fip-moc;MG;136;Privada;;;88;15.41;109;5.32;129;4.29;;;90;5.8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Santa Cecília;SP;137;Privada;;;92;15.22;83;5.96;142;3.91;;;108;5.35;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Ruy Barbosa Wyden;BA;138;Privada;94;5.56;200;9.66;33;7.21;;;;;201-250;2.45;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário - Uniesp;PB;139;Privada;;;94;15.04;141;4.52;134;4.15;;;67;6.37;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Unifaat;SP;140;Privada;;;96;15;93;5.71;78;5.77;;;182;3.52;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Facvest;SC;141;Privada;;;100;14.89;17;7.6;251-300;0.35;;;44;6.94;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Joaquim Nabuco de Recife;PE;142;Privada;94;5.56;201-250;9.28;151;4.27;201-250;0.87;;;157;4.14;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário São Judas Tadeu;SP;143;Privada;;;104;14.75;113;5.22;85;5.57;;;164;3.96;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Comunicação Anhanguera Unidade Guarapari;ES;144;Privada;;;105;14.72;201-250;2.36;48;6.64;;;93;5.72;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Promove de Sete Lagoas;MG;145;Privada;;;106;14.63;201-250;2.98;46;6.7;;;124;4.95;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Paulista de Comunicação;SP;146;Privada;;;109;14.48;142;4.5;45;6.73;;;193;3.25;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Sociesc;SC;146;Privada;;;109;14.48;62;6.48;;;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Central Paulista;SP;148;Privada;;;111;14.41;100;5.54;71;5.97;;;201-250;2.9;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Araguaia;GO;149;Privada;;;112;14.3;86;5.89;251-300;0.41;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Unibras do Sudoeste Goiano;GO;150;Privada;;;113;14.29;201-250;2.53;83;5.62;;;76;6.14;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Votuporanga;SP;151;Privada;;;114;14.23;76;6.14;173;3.01;;;119;5.08;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Esamc Sorocaba;SP;152;Privada;;;115;14.22;201-250;2.71;32;7.1;;;146;4.41;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Metodista;RS;153;Privada;;;116;14.07;79;6.06;80;5.71;;;201-250;2.3;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Uniftc;BA;154;Privada;;;117;13.96;95;5.67;251-300;0.29;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Federal do Oeste da Bahia;BA;155;Federal;;;118;13.94;84;5.94;;;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica Dom Bosco;MS;156;Privada;;;119;13.87;165;3.93;201-250;1.94;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário da Fundação Educacional Guaxupé;MG;157;Privada;;;120;13.85;74;6.19;125;4.41;;;193;3.25;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Unime de Ciências Sociais;BA;158;Privada;;;122;13.76;201-250;2.19;24;7.33;;;153;4.24;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Estado de Minas Gerais;MG;159;Estadual;94;5.56;201-250;8.17;201-250;2.04;176;2.93;;;195;3.2;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Luterana do Brasil;RS;160;Privada;;;123;13.66;110;5.29;201-250;1.71;;;55;6.66;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Módulo;SP;161;Privada;;;126;13.62;28;7.33;;;;;70;6.29;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Salvador;BA;162;Privada;;;127;13.6;301-350;0.05;23;7.36;;;74;6.19;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Internacional da Paraíba;PB;163;Privada;;;128;13.55;39;7.06;;;;;62;6.49;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Álvares Penteado;SP;164;Privada;;;129;13.53;35;7.16;96;5.25;;;251-300;1.12;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Fortaleza;CE;165;Privada;;;130;13.5;126;4.89;28;7.22;;;251-300;1.39;;;;;;;;;
+2019;propaganda-e-marketing;União das Faculdades dos Grandes Lagos;SP;166;Privada;;;133;13.32;251-300;1.67;151;3.65;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Cândido Mendes;RJ;167;Privada;94;5.56;201-250;7.71;150;4.3;251-300;0.26;;;197;3.15;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Excelência de Vitória da Conquista;BA;168;Privada;;;135;13.15;152;4.25;201-250;0.9;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Passo Fundo;RS;169;Privada;;;136;13.1;98;5.59;133;4.17;;;189;3.34;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Sant'Anna;SP;170;Privada;;;137;12.8;59;6.56;;;;;72;6.24;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Esamc Campinas;SP;170;Privada;;;137;12.8;194;3.21;30;7.16;;;201-250;2.43;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Social da Bahia;BA;170;Privada;;;137;12.8;26;7.38;251-300;0.32;;;118;5.1;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Ideau de Caxias do Sul;RS;173;Privada;;;140;12.75;132;4.75;;;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Rio Preto;SP;174;Privada;94;5.56;201-250;7.15;201-250;2.83;251-300;0.7;;;178;3.62;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Adventista de São Paulo;SP;175;Privada;;;141;12.69;167;3.88;138;4.03;;;131;4.78;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Excelência Eniac;SP;176;Privada;;;143;12.53;97;5.62;201-250;0.84;;;79;6.07;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio da Bahia;BA;177;Privada;;;144;12.49;195;3.18;53;6.49;;;201-250;2.82;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio de Ribeirão Preto;SP;178;Privada;;;146;12.4;156;4.15;89;5.45;;;201-250;2.8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Cnec de Bento Gonçalves;RS;179;Privada;;;148;12.38;137;4.62;51;6.55;;;251-300;1.21;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Católica do Leste de Minas Gerais;MG;180;Privada;;;149;12.24;117;5.12;201-250;1.45;;;95;5.67;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Estácio do Rio Grande do Norte;RN;181;Privada;;;150;12.2;201-250;2.73;65;6.15;;;190;3.32;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Sagrado Coração;SP;182;Privada;;;151;12.16;44;6.93;201-250;1.04;;;155;4.19;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade do Litoral Sul Paulista;SP;183;Privada;;;153;12.05;160;4.05;;;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas de Bauru;SP;184;Privada;;;156;11.95;168;3.85;201-250;1.36;;;52;6.74;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Luterano de Palmas;TO;185;Privada;;;158;11.89;201-250;2.56;116;4.67;;;136;4.66;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Estácio Macapá;AP;186;Privada;;;160;11.69;201-250;2.39;175;2.96;;;68;6.34;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Anhanguera de São Paulo;SP;187;Privada;94;5.56;251-300;6.12;301-350;0.25;153;3.59;;;201-250;2.28;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Ibmr;RJ;188;Privada;;;161;11.56;135;4.67;82;5.65;;;251-300;1.24;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio de Santa Catarina;SC;189;Privada;;;163;11.31;159;4.08;167;3.19;;;161;4.04;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Comunitária da Região de Chapecó;SC;190;Privada;;;164;11.26;191;3.28;201-250;1.22;;;51;6.76;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Uniasselvi de Guaramirim;SC;191;Privada;;;165;11.18;201-250;2.21;60;6.29;;;201-250;2.68;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Maringá;PR;192;Privada;;;167;11.05;41;7.01;;;;;161;4.04;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Maurício de Nassau de João Pessoa;PB;193;Privada;;;168;10.93;178;3.6;201-250;1.86;;;103;5.47;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Pitágoras Unopar Anhanguera de Londrina;PR;194;Privada;;;170;10.78;201-250;2.11;123;4.46;;;154;4.21;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Estácio de Sá de Vitória;ES;195;Privada;;;173;10.64;251-300;1.74;58;6.35;;;201-250;2.55;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Santo Amaro;SP;196;Privada;;;174;10.63;102;5.49;201-250;1.25;;;167;3.89;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;197;Privada;;;175;10.62;103;5.47;;;;;116;5.15;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Estácio de Sá de Campo Grande;MS;198;Privada;;;176;10.6;201-250;2.91;192;2.46;;;113;5.23;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Belo Horizonte;MG;199;Privada;;;177;10.57;181;3.53;74;5.88;;;251-300;1.16;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Franca;SP;200;Privada;;;178;10.55;196;3.16;152;3.62;;;172;3.77;;;;;;;;;
+2019;propaganda-e-marketing;Fiam-faam - Centro Universitário;SP;200;Privada;;;178;10.55;68;6.34;251-300;0.49;;;174;3.72;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Uniasselvi de Brusque;SC;201;Privada;;;201-250;8.01;201-250;2.31;183;2.73;;;201-250;2.97;;;;;;;;;
+2019;propaganda-e-marketing;Strong Business School;SP;201;Privada;;;201-250;8.1;18;7.58;;;;;301-350;0.52;;;;;;;;;
+2019;propaganda-e-marketing;"Faculdade de Comunicação e Design ""Oswaldo Cruz""";SP;201;Privada;;;195;9.83;158;4.1;162;3.33;;;201-250;2.4;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário da Serra Gaúcha;RS;201;Privada;;;201-250;8.59;128;4.85;;;;;173;3.74;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Educação São Luís;SP;201;Privada;;;201-250;8.2;251-300;1.07;185;2.67;;;144;4.46;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Sociesc de Blumenau;SC;201;Privada;;;183;10.42;197;3.13;93;5.33;;;201-250;1.96;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas Ipep;SP;201;Privada;;;187;10.2;251-300;1.27;201-250;0.93;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Una de Contagem;MG;201;Privada;;;191;10.03;66;6.39;;;;;177;3.64;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Católico Salesiano Auxilium;SP;201;Privada;;;201-250;9.59;187;3.38;90;5.42;;;251-300;0.79;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Maceió;AL;201;Privada;;;201-250;9.45;149;4.32;251-300;0.75;;;147;4.38;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Castelo Branco;RJ;201;Privada;;;201-250;8.2;172;3.75;190;2.52;;;201-250;1.93;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio de São Luís;MA;201;Privada;;;201-250;9.36;192;3.26;201-250;1.59;;;142;4.51;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Newton Paiva;MG;201;Privada;;;201-250;8.65;201-250;2.34;201-250;1.13;;;115;5.18;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Vale do Cricaré;ES;201;Privada;;;182;10.48;251-300;0.7;20;7.45;;;201-250;2.33;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de São José;SP;201;Privada;;;201-250;8.71;200;3.06;136;4.09;;;251-300;1.56;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Municipal de Ensino Superior de Assis;SP;201;Municipal;;;201-250;9.1;201-250;3.01;;;;;78;6.09;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Fieo;SP;201;Privada;;;194;9.84;129;4.82;149;3.71;;;251-300;1.31;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Jacareí;SP;201;Privada;;;201-250;8.22;251-300;0.77;31;7.13;;;301-350;0.32;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Salgado de Oliveira;RJ;201;Privada;;;201-250;8.32;164;3.95;251-300;0.46;;;166;3.91;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Augusto Motta;RJ;201;Privada;;;201-250;9.39;183;3.48;179;2.84;;;200;3.07;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Municipal de Franca;SP;201;Municipal;;;181;10.49;118;5.09;251-300;0.64;;;132;4.76;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;201;Privada;;;192;10;179;3.58;;;;;65;6.42;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Guarulhos;SP;201;Privada;;;201-250;8.61;251-300;1.54;104;5.01;;;201-250;2.06;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Anhanguera;MS;201;Privada;;;196;9.8;251-300;1.34;143;3.88;;;139;4.58;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Campo Limpo Paulista;SP;201;Privada;;;201-250;7.71;201-250;2.68;251-300;0.15;;;127;4.88;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Municipal de Ensino Superior de Bebedouro Victório Cardassi;SP;201;Municipal;;;201-250;9.44;132;4.75;201-250;2.09;;;201-250;2.6;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Padre Anchieta;SP;201;Privada;;;201-250;8.03;199;3.08;130;4.26;;;251-300;0.69;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Esamc Santos;SP;201;Privada;;;201-250;9.31;301-350;0.27;54;6.46;;;201-250;2.58;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Hélio Rocha;BA;201;Privada;;;201-250;8.27;201-250;1.84;201-250;1.8;;;137;4.63;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;186;10.24;177;3.63;;;;;57;6.61;;;;;;;;;
+2019;propaganda-e-marketing;Claretiano - Centro Universitário de Rio Claro;SP;201;Privada;;;184;10.26;201-250;2.78;126;4.38;;;199;3.1;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Novo Milênio;ES;201;Privada;;;201-250;9.1;201-250;2.88;182;2.75;;;184;3.47;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Prudente de Moraes;SP;201;Privada;;;188;10.17;251-300;1.49;186;2.64;;;80;6.04;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário dos Guararapes;PE;201;Privada;;;201-250;9.13;120;5.04;;;;;159;4.09;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Senac;SP;201;Privada;;;189;10.15;94;5.69;196;2.35;;;201-250;2.11;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio de Brasília;DF;201;Privada;;;190;10.14;163;3.98;201-250;1.16;;;122;5;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Goiás;GO;201;Privada;;;184;10.26;201-250;2.93;119;4.58;;;201-250;2.75;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário do Rio de Janeiro;RJ;201;Privada;;;201-250;8.35;201-250;2.63;201-250;2.03;;;175;3.69;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Superior do Litoral do Paraná;PR;201;Privada;;;201-250;7.73;251-300;1.79;;;;;84;5.94;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Campo Real;PR;201;Privada;;;201-250;8.17;201-250;1.99;110;4.84;;;251-300;1.34;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Valinhos;SP;201;Privada;;;201-250;8.72;190;3.3;112;4.78;;;251-300;0.64;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Centro Paulistano;SP;201;Privada;;;201-250;8.14;176;3.65;251-300;0.38;;;158;4.11;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Cesmac;AL;201;Privada;94;5.56;301-350;3.79;301-350;0.17;251-300;0.2;;;186;3.42;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Uninorte;AM;201;Privada;;;201-250;8.56;169;3.83;;;;;133;4.73;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Vale do Sapucaí;MG;201;Privada;;;201-250;8.78;139;4.57;201-250;1.51;;;201-250;2.7;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Unisul de Balneário Camboriú;SC;201;Privada;;;201-250;8;;;;;;;1;8;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Superior e Centro Educacional Luterano;SC;201;Privada;;;201-250;8.51;201-250;2.51;117;4.64;;;251-300;1.36;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Pan Amazônica;PA;201;Privada;;;201-250;9.25;201-250;2.66;;;;;58;6.59;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de São José-SC;SC;251;Privada;;;251-300;5.88;301-350;0.47;181;2.78;;;201-250;2.63;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Brasília;DF;251;Privada;;;251-300;5.5;251-300;0.8;172;3.04;;;251-300;1.66;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Anápolis;GO;251;Privada;;;251-300;5.95;301-350;0.12;99;5.16;;;251-300;0.67;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Osasco;SP;251;Privada;;;251-300;6.2;251-300;1.39;;;;;130;4.81;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Brusque;SC;251;Privada;;;251-300;4.42;201-250;2.61;;;;;251-300;1.81;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas Rio Branco;SP;251;Privada;;;251-300;6.32;107;5.37;251-300;0.06;;;251-300;0.89;;;;;;;;;
+2019;propaganda-e-marketing;Universidade do Vale do Paraíba;SP;251;Privada;;;251-300;6.97;201-250;1.94;124;4.44;;;251-300;0.59;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Católica de Petrópolis;RJ;251;Privada;;;251-300;5.53;182;3.5;;;;;201-250;2.03;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Santa Bárbara;SP;251;Privada;;;251-300;4.48;251-300;0.82;161;3.36;;;301-350;0.3;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário do Piauí;PI;251;Privada;;;251-300;6.91;301-350;0.42;;;;;62;6.49;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Cesumar de Ponta Grossa;PR;251;Privada;;;201-250;7.14;201-250;2.26;;;;;127;4.88;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Vale do Rio Doce;MG;251;Privada;;;251-300;6.84;251-300;1.32;;;;;101;5.52;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário da Região da Campanha;RS;251;Privada;;;251-300;4.53;301-350;0.52;174;2.99;;;251-300;1.02;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Eduvale de Avaré;SP;251;Privada;;;251-300;6.5;251-300;0.89;132;4.2;;;251-300;1.41;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Fadergs;RS;251;Privada;;;251-300;5.94;127;4.87;;;;;251-300;1.07;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Municipal de São Caetano do Sul;SP;251;Municipal;;;201-250;7.49;96;5.64;201-250;1.48;;;301-350;0.37;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Farias Brito;CE;251;Privada;;;201-250;7.51;174;3.7;;;;;170;3.81;;;;;;;;;
+2019;propaganda-e-marketing;Universidade de Araraquara;SP;251;Privada;;;251-300;5.1;201-250;2.01;201-250;0.96;;;201-250;2.13;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Campinas;SP;251;Privada;;;251-300;6.88;201-250;1.91;121;4.52;;;301-350;0.45;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Lins;SP;251;Privada;;;251-300;6.45;201-250;2.96;;;;;183;3.49;;;;;;;;;
+2019;propaganda-e-marketing;Escola Superior de Marketing;PE;251;Privada;;;251-300;6.12;251-300;0.92;201-250;2.2;;;201-250;3;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Satc;SC;251;Privada;;;251-300;6.77;201-250;2.48;;;;;151;4.29;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Anhanguera de São Paulo;SP;251;Privada;;;251-300;6.64;251-300;1.09;155;3.54;;;201-250;2.01;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Metropolitano de Maringá;PR;251;Privada;;;201-250;7.32;251-300;1.12;88;5.48;;;251-300;0.72;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Unic;MT;251;Privada;;;251-300;5.72;251-300;0.87;201-250;1.83;;;201-250;3.02;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Taubaté;SP;251;Privada;;;251-300;4.69;251-300;1.44;177;2.9;;;301-350;0.35;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Presidente Prudente;SP;251;Privada;;;251-300;5.51;251-300;0.99;251-300;0.58;;;165;3.94;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Teresa D'ávila;SP;251;Privada;;;251-300;6.8;201-250;2.24;159;3.42;;;251-300;1.14;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Uniasselvi de Blumenau ;SC;251;Privada;;;251-300;6.49;251-300;1.76;;;;;133;4.73;;;;;;;;;
+2019;propaganda-e-marketing;Instituto de Ensino Superior de Teresina;PI;251;Privada;;;251-300;6.88;301-350;0.42;201-250;0.81;;;96;5.65;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;251;Privada;;;251-300;7.08;251-300;1.14;251-300;0.17;;;91;5.77;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Opet;PR;251;Privada;;;251-300;6.4;251-300;1.59;166;3.22;;;251-300;1.59;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Lions;GO;251;Privada;;;251-300;5.23;201-250;1.99;201-250;1.01;;;201-250;2.23;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Dom Bosco do Rio de Janeiro;RJ;251;Privada;;;251-300;6.22;201-250;2.29;201-250;2.17;;;251-300;1.76;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio de São Paulo;SP;251;Privada;;;251-300;5.72;201-250;1.81;251-300;0.12;;;171;3.79;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Adventista de Hortolândia;SP;251;Privada;;;251-300;6.03;187;3.38;;;;;201-250;2.65;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Academia;MG;251;Privada;;;251-300;6.67;201-250;2.14;137;4.06;;;301-350;0.47;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas de Jahu;SP;251;Privada;;;251-300;6.95;148;4.35;251-300;0.52;;;201-250;2.08;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Viçosa;MG;251;Privada;;;251-300;5.23;251-300;1.22;144;3.86;;;301-350;0.15;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário da Amazônia;PA;251;Privada;;;251-300;6.72;251-300;1.42;201-250;0.99;;;150;4.31;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Martha Falcão Wyden;AM;251;Privada;;;251-300;6.84;251-300;1.47;178;2.87;;;201-250;2.5;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Sul-americana;GO;251;Privada;;;251-300;6.89;186;3.4;201-250;1.33;;;201-250;2.16;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário de Adamantina;SP;251;Municipal;;;201-250;7.23;201-250;1.89;157;3.48;;;201-250;1.86;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Univel;PR;251;Privada;;;201-250;7.26;201-250;2.58;;;;;135;4.68;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade São Francisco de Assis;RS;251;Privada;;;251-300;4.65;173;3.73;;;;;251-300;0.92;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Estácio da Amazônia;RR;251;Privada;;;251-300;4.41;251-300;0.57;200;2.23;;;251-300;1.61;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário das Faculdades Associadas de Ensino;SP;251;Municipal;;;251-300;6.11;251-300;1.52;187;2.61;;;201-250;1.98;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Integral Cantareira;SP;251;Privada;;;251-300;6.03;251-300;0.65;251-300;0.55;;;129;4.83;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Braz Cubas;SP;251;Privada;94;5.56;301-350;1.61;301-350;0.32;;;;;251-300;1.29;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Jundiaí;SP;251;Privada;;;251-300;6.65;251-300;1.17;147;3.77;;;251-300;1.71;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Esamc São Paulo;SP;301;Privada;;;251-300;4.17;187;3.38;;;;;251-300;0.79;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Anhanguera Pitágoras Ampli;SP;301;Privada;;;301-350;2.54;251-300;1.02;251-300;0.03;;;251-300;1.49;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas de Itapetininga;SP;301;Privada;;;301-350;1.43;301-350;0.08;201-250;1.28;;;301-350;0.07;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Cuiabá de Ensino e Cultura;MT;301;Privada;;;301-350;0.46;301-350;0.15;251-300;0.09;;;301-350;0.22;;;;;;;;;
+2019;propaganda-e-marketing;Faculdades Integradas Adventistas de Minas Gerais;MG;301;Privada;;;301-350;3.05;201-250;2.06;;;;;251-300;0.99;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Zumbi dos Palmares;SP;301;Privada;;;301-350;4.1;301-350;0.45;201-250;1.97;;;251-300;1.68;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Ribeirão Preto;SP;301;Privada;;;301-350;4;251-300;0.97;201-250;0.78;;;201-250;2.25;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Linhares;ES;301;Privada;;;301-350;1.61;301-350;0.35;;;;;251-300;1.26;;;;;;;;;
+2019;propaganda-e-marketing;Universidade Nilton Lins;AM;301;Privada;;;301-350;3.02;301-350;0.2;251-300;0.44;;;201-250;2.38;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Católica Salesiana de Macaé;RJ;301;Privada;;;301-350;2.68;251-300;0.67;201-250;1.91;;;301-350;0.1;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Unibras da Bahia;BA;301;Privada;;;301-350;4.02;251-300;0.75;;;;;192;3.27;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Ciências Sociais Aplicadas SC;SC;301;Privada;;;301-350;2.6;301-350;0.1;201-250;2;;;301-350;0.5;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Limeira;SP;301;Privada;;;301-350;1.82;251-300;0.85;;;;;251-300;0.97;;;;;;;;;
+2019;propaganda-e-marketing;Instituto de Ensino e Pesquisa Objetivo;TO;301;Privada;;;301-350;2.9;301-350;0.03;197;2.32;;;301-350;0.55;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Anhanguera de Piracicaba;SP;301;Privada;;;301-350;1.94;251-300;0.6;201-250;1.07;;;301-350;0.27;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Estácio de Cotia;SP;301;Privada;;;301-350;1.79;301-350;0.3;;;;;251-300;1.49;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade JK - Guará;DF;301;Privada;;;301-350;2.59;301-350;0.22;201-250;2.15;;;301-350;0.22;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Superior de Ciências Aplicadas;SP;301;Privada;;;301-350;1.35;251-300;0.62;251-300;0.61;;;301-350;0.12;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Alves Faria;GO;301;Privada;;;301-350;0.45;301-350;0.42;;;;;301-350;0.03;;;;;;;;;
+2019;propaganda-e-marketing;Centro Universitário Cearense;CE;301;Privada;;;251-300;4.25;201-250;2.09;201-250;1.74;;;301-350;0.42;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade Mais de Ituiutaba;MG;301;Privada;;;301-350;2.42;301-350;0.55;251-300;0.23;;;251-300;1.64;;;;;;;;;
+2019;propaganda-e-marketing;Faculdade de Americana;SP;301;Privada;;;301-350;1.29;301-350;0.5;;;;;251-300;0.79;;;;;;;;;
+2019;propaganda-e-marketing;Instituto Municipal de Ensino Superior de Catanduva;SP;301;Municipal;;;301-350;2.58;251-300;1.04;;;;;251-300;1.54;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal de Minas Gerais;MG;1;Federal;6;34.97;1;62.37;13;7.7;1;8;;;1;8;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Rio Grande do Sul;RS;2;Federal;13;33.53;2;62.04;25;7.39;2;7.98;;;1;8;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Rio de Janeiro;RJ;2;Federal;13;33.53;2;62.04;16;7.62;11;7.75;;;1;8;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade de São Paulo;SP;4;Estadual;2;35.79;5;56.24;12;7.72;251-300;1.19;;;1;8;2;39.33;;;;;;;
+2023;propaganda-e-marketing;Universidade de Brasília;DF;5;Federal;34;29.21;4;61.91;26;7.37;6;7.87;;;1;8;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Escola Superior de Propaganda e Marketing;SP;6;Privada;1;36;10;54.25;85;5.87;61;6.48;;;201-250;1.9;1;40;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica do Rio Grande do Sul;RS;7;Privada;6;34.97;11;54.18;94;5.64;51;6.73;;;190;3.14;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Paraná;PR;8;Federal;13;33.53;6;55.28;1;8;3;7.95;;;1;8;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;9;Privada;13;33.53;7;54.88;99;5.51;17;7.59;;;191;3.11;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica de São Paulo;SP;10;Privada;13;33.53;8;54.63;55;6.63;154;4.11;;;109;5.22;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal de Pernambuco;PE;11;Federal;13;33.53;9;54.52;20;7.52;14;7.67;;;1;8;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;12;Privada;13;33.53;14;53.86;95;5.61;34;7.16;;;201-250;2.42;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade Presbiteriana Mackenzie;SP;13;Privada;2;35.79;15;51.25;103;5.41;125;4.85;;;201-250;2.32;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Universidade do Vale do Rio dos Sinos;RS;14;Privada;6;34.97;16;50.91;22;7.47;48;6.81;;;106;5.3;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Rio Grande do Norte;RN;15;Federal;34;29.21;12;54.16;30;7.26;18;7.57;;;1;8;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica de Campinas;SP;16;Privada;13;33.53;18;48.94;132;4.67;131;4.7;;;251-300;0.9;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica do Rio de Janeiro;RJ;17;Privada;13;33.53;19;48.87;161;3.94;92;5.69;;;251-300;0.57;3;38.67;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica de Minas Gerais;MG;18;Privada;6;34.97;20;45.7;124;4.88;78;6.04;;;178;3.45;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica do Paraná;PR;19;Privada;6;34.97;21;45.16;162;3.91;35;7.14;;;201-250;2.78;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Positivo;PR;20;Privada;34;29.21;17;50.18;181;3.43;24;7.42;;;1;8;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Ceará;CE;21;Federal;6;34.97;25;43.51;78;6.04;22;7.47;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Anhembi Morumbi;SP;22;Privada;2;35.79;29;42.6;147;4.29;175;3.58;;;180;3.4;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Leonardo da Vinci;SC;23;Privada;13;33.53;27;42.98;66;6.35;55;6.63;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Nove de Julho;SP;24;Privada;13;33.53;30;42.41;127;4.8;201-250;2.24;;;155;4.04;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal Fluminense;RJ;25;Federal;34;29.21;22;44.93;19;7.54;25;7.39;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Faculdade Cásper Líbero;SP;26;Privada;34;29.21;23;44.78;102;5.44;54;6.65;;;251-300;1.36;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade São Judas Tadeu;SP;27;Privada;34;29.21;24;44.02;34;7.16;46;6.86;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Armando Alvares Penteado;SP;28;Privada;13;33.53;37;38.86;151;4.19;201-250;2.64;;;251-300;0.7;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Belas Artes de São Paulo;SP;29;Privada;34;29.21;31;41.7;133;4.65;251-300;1.37;;;143;4.35;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Metodista de São Paulo;SP;30;Privada;34;29.21;32;41.29;201-250;2.84;201-250;2.77;;;143;4.35;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Estácio de Sá;RJ;31;Privada;13;33.53;40;35.98;72;6.2;183;3.38;;;141;4.4;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Cesumar;PR;32;Privada;34;29.21;35;39.91;59;6.53;33;7.19;;;149;4.19;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade de Cuiabá;MT;33;Privada;34;29.21;36;39.12;1;8;251-300;1.12;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Divinópolis;MG;34;Privada;34;29.21;38;38.66;60;6.5;64;6.4;;;166;3.76;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Paulista;SP;35;Privada;2;35.79;53;31.81;251-300;1.3;138;4.52;;;157;3.99;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Católica de Pernambuco;PE;36;Privada;13;33.53;44;33.75;129;4.75;90;5.74;;;251-300;1.26;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade do Vale do Itajaí;SC;37;Privada;13;33.53;51;32.67;201-250;2.72;97;5.56;;;201-250;2.39;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Salvador;BA;38;Privada;13;33.53;56;30.74;251-300;0.46;70;6.25;;;201-250;2.03;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Fumec;MG;39;Privada;34;29.21;45;33.4;201-250;2.69;136;4.57;;;151;4.14;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Metodista de Piracicaba;SP;40;Privada;34;29.21;52;32;201-250;2.08;67;6.32;;;201-250;1.6;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade do Oeste de Santa Catarina;SC;41;Privada;87;18.31;28;42.8;97;5.56;31;7.24;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Ibmec;RJ;42;Privada;34;29.21;54;31.3;81;5.97;201-250;2.69;;;251-300;0.64;28;22;;;;;;;
+2023;propaganda-e-marketing;Faculdades Integradas Hélio Alonso;RJ;43;Privada;34;29.21;55;31.09;201-250;2.18;126;4.83;;;201-250;2.08;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Brasília;DF;44;Privada;34;29.21;57;29.99;126;4.83;201-250;2.62;;;251-300;0.54;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Ritter dos Reis;RS;45;Privada;87;18.31;34;40.01;29;7.29;73;6.17;;;135;4.55;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Newton Paiva;MG;46;Privada;34;29.21;58;28.18;201-250;2.08;251-300;1.35;;;201-250;2.75;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Álvares Penteado;SP;47;Privada;87;18.31;39;36.62;42;6.96;140;4.47;;;188;3.19;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal de Santa Maria;RS;48;Federal;;;13;53.93;1;8;56;6.6;;;1;8;14;31.33;;;;;;;
+2023;propaganda-e-marketing;Universidade Tiradentes;SE;49;Privada;87;18.31;42;34.94;176;3.56;40;7.01;;;201-250;2.37;28;22;;;;;;;
+2023;propaganda-e-marketing;FAE Centro Universitário;PR;50;Privada;87;18.31;43;34.92;169;3.73;23;7.44;;;201-250;1.75;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade da Região de Joinville;SC;51;Privada;13;33.53;78;19.02;87;5.82;8;7.82;;;103;5.38;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Espírito Santo;ES;52;Federal;34;29.21;62;22.78;23;7.44;27;7.34;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Santa Cruz do Sul;RS;53;Privada;87;18.31;46;33.39;56;6.6;251-300;1.63;;;189;3.16;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal de Goiás;GO;54;Federal;34;29.21;66;22.29;54;6.65;15;7.64;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Internacional;PR;55;Privada;87;18.31;47;33.1;169;3.73;189;3.23;;;151;4.14;28;22;;;;;;;
+2023;propaganda-e-marketing;Faculdade Esamc Campinas;SP;56;Privada;87;18.31;49;32.84;251-300;0.99;50;6.76;;;192;3.09;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Una;MG;57;Privada;34;29.21;70;20.45;27;7.34;115;5.11;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Fortaleza;CE;58;Privada;6;34.97;153;14.11;201-250;2.87;59;6.53;;;129;4.71;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Belo Horizonte;MG;59;Privada;34;29.21;74;19.62;51;6.73;16;7.62;;;107;5.27;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Feevale;RS;60;Privada;13;33.53;152;14.14;128;4.78;93;5.66;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Caxias do Sul;RS;61;Privada;13;33.53;159;13.92;110;5.23;80;5.99;;;201-250;2.7;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Católica de Brasília;DF;62;Privada;34;29.21;85;18.1;48;6.81;68;6.3;;;118;4.99;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Faesa;ES;63;Privada;34;29.21;88;17.78;201-250;2.08;13;7.7;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Alves Faria;GO;64;Privada;87;18.31;59;27.83;251-300;1.07;150;4.22;;;251-300;0.54;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Castelo Branco;RJ;65;Privada;87;18.31;60;27.61;251-300;0.41;251-300;1.5;;;168;3.7;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Maurício de Nassau;PE;66;Privada;13;33.53;191;12.01;176;3.56;165;3.84;;;133;4.61;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Potiguar;RN;67;Privada;34;29.21;107;16.27;32;7.21;152;4.17;;;122;4.89;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Estado de Minas Gerais;MG;68;Estadual;34;29.21;108;16.2;180;3.45;129;4.75;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Ribeirão Preto;SP;69;Privada;34;29.21;115;16.05;111;5.21;101;5.46;;;103;5.38;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Sete de Setembro;CE;70;Privada;34;29.21;120;15.74;182;3.4;145;4.34;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Pontifícia Universidade Católica de Goiás;GO;71;Privada;13;33.53;201-250;10.4;201-250;2.79;58;6.55;;;251-300;1.06;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Pitágoras Unopar Anhanguera;PR;72;Privada;34;29.21;142;14.54;45;6.88;149;4.24;;;179;3.42;;;;;;;;;
+2023;propaganda-e-marketing;Fundação Universidade Federal do Pampa;RS;73;Federal;;;26;43.39;31;7.24;74;6.15;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio do Ceará;CE;74;Privada;34;29.21;161;13.85;201-250;2.34;178;3.51;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Toledo Wyden;SP;75;Privada;34;29.21;162;13.83;56;6.6;72;6.2;;;251-300;1.03;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Várzea Grande;MT;76;Privada;34;29.21;164;13.75;201-250;2.08;49;6.78;;;122;4.89;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Paranaense;PR;77;Privada;34;29.21;167;13.61;201-250;2.08;177;3.53;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Norte;AM;78;Privada;34;29.21;171;13.33;155;4.09;251-300;1.24;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Mogi das Cruzes;SP;79;Privada;34;29.21;172;13.3;201-250;2.26;89;5.77;;;107;5.27;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Veiga de Almeida;RJ;80;Privada;34;29.21;177;13.06;160;3.96;44;6.91;;;201-250;2.19;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Pará;PA;81;Federal;87;18.31;61;23.8;1;8;9;7.8;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Assis Gurgacz;PR;82;Privada;34;29.21;181;12.8;301-350;0.36;141;4.44;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade da Amazônia;PA;83;Privada;34;29.21;186;12.66;178;3.51;122;4.93;;;148;4.22;;;;;;;;;
+2023;propaganda-e-marketing;União das Faculdades dos Grandes Lagos;SP;84;Privada;34;29.21;196;11.86;251-300;1.02;201-250;2.84;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Anápolis;GO;85;Privada;87;18.31;63;22.6;14;7.67;43;6.93;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal de Mato Grosso;MT;86;Federal;87;18.31;64;22.45;33;7.19;30;7.26;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Estadual do Centro Oeste;PR;86;Estadual;87;18.31;64;22.45;51;6.73;12;7.72;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Projeção;DF;88;Privada;;;33;40.21;48;6.81;182;3.4;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Universidade Vila Velha;ES;89;Privada;34;29.21;201-250;10.97;251-300;1.32;21;7.49;;;201-250;2.16;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal de Sergipe;SE;90;Federal;87;18.31;67;21.72;50;6.76;42;6.96;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdades Integradas de Taquara;RS;91;Privada;34;29.21;201-250;10.54;143;4.39;144;4.37;;;201-250;1.78;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Católica do Salvador;BA;92;Privada;34;29.21;201-250;10.39;186;3.3;100;5.49;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário FBV Wyden;PE;93;Privada;34;29.21;201-250;9.88;1;8;201-250;1.88;;;;;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Barão de Mauá;SP;94;Privada;34;29.21;201-250;9.55;201-250;2.13;120;4.98;;;201-250;2.44;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Estado do Rio Grande do Norte;RN;95;Estadual;87;18.31;71;20.32;137;4.55;10;7.77;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Rio Preto;SP;96;Privada;34;29.21;201-250;9.06;301-350;0.18;171;3.68;;;110;5.2;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Instituto de Educação Superior de Brasília;DF;97;Privada;34;29.21;201-250;8.77;201-250;2.08;88;5.79;;;251-300;0.9;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Ceuma;MA;98;Privada;34;29.21;201-250;8.57;251-300;1.4;201-250;2.18;;;118;4.99;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Sorocaba;SP;99;Privada;34;29.21;201-250;8.5;168;3.76;166;3.81;;;251-300;0.93;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Promove de Minas Gerais;MG;100;Privada;87;18.31;77;19.12;99;5.51;95;5.61;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Sul de Santa Catarina;SC;101;Privada;34;29.21;251-300;7.91;251-300;1.35;75;6.12;;;251-300;0.44;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Franca;SP;101;Privada;34;29.21;251-300;7.91;195;3.07;201-250;2.16;;;201-250;2.68;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Católica Dom Bosco;MS;103;Privada;87;18.31;83;18.21;109;5.26;121;4.95;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Maceió;AL;104;Privada;34;29.21;251-300;7.26;192;3.15;201-250;2.31;;;201-250;1.8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Lins;SP;105;Privada;87;18.31;84;18.13;186;3.3;47;6.83;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Cruzeiro do Sul;SP;106;Privada;34;29.21;251-300;7.05;201-250;2.39;184;3.35;;;251-300;1.31;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Maurício de Nassau de João Pessoa;PB;107;Privada;87;18.31;91;17.32;1;8;251-300;1.32;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Volta Redonda;RJ;108;Privada;87;18.31;93;17.3;111;5.21;155;4.09;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário da Grande Dourados;MS;109;Privada;87;18.31;95;17.16;156;4.06;5;7.9;;;110;5.2;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Facvest;SC;110;Privada;;;41;35.41;190;3.2;201-250;2.21;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Campo Real;PR;111;Privada;87;18.31;98;16.99;201-250;2.49;60;6.5;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Oeste Paulista;SP;112;Privada;87;18.31;99;16.93;76;6.1;79;6.02;;;125;4.81;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Brusque;SC;113;Privada;87;18.31;100;16.9;140;4.47;19;7.54;;;122;4.89;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Unime de Ciências Sociais;BA;114;Privada;87;18.31;101;16.81;35;7.14;133;4.65;;;117;5.02;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Estado do Pará;PA;115;Privada;87;18.31;106;16.4;125;4.85;71;6.22;;;105;5.33;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Sociesc;SC;116;Privada;87;18.31;110;16.15;1;8;301-350;0.15;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Grande Rio Professor José de Souza Herdy;RJ;117;Privada;87;18.31;112;16.1;156;4.06;157;4.04;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário dos Guararapes;PE;117;Privada;87;18.31;112;16.1;143;4.39;170;3.71;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Anhanguera de São Paulo;SP;119;Privada;87;18.31;115;16.05;64;6.4;99;5.51;;;151;4.14;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Presidente Antônio Carlos;MG;119;Privada;34;29.21;251-300;5.15;251-300;0.53;301-350;0.25;;;142;4.37;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Piracicaba;SP;121;Privada;87;18.31;117;16.02;43;6.93;116;5.08;;;156;4.01;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Jorge Amado;BA;122;Privada;34;29.21;251-300;4.84;201-250;2.08;201-250;2.06;;;251-300;0.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Una de Contagem;MG;123;Privada;87;18.31;121;15.69;23;7.44;301-350;0.25;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Esamc Uberlândia;MG;124;Privada;87;18.31;123;15.65;251-300;0.61;39;7.04;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Jundiaí;SP;125;Privada;87;18.31;124;15.6;39;7.04;153;4.14;;;140;4.42;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio de Belo Horizonte;MG;126;Privada;87;18.31;129;15.22;111;5.21;201-250;2.01;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Luterana do Brasil;RS;127;Privada;87;18.31;131;15.21;172;3.66;77;6.07;;;99;5.48;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Ibmr;RJ;128;Privada;87;18.31;136;14.94;60;6.5;159;3.99;;;139;4.45;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio da Bahia;BA;129;Privada;87;18.31;137;14.91;111;5.21;201-250;1.7;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Dinâmica das Cataratas;PR;131;Privada;87;18.31;139;14.79;251-300;0.97;87;5.82;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Estudos Avançados do Pará;PA;132;Privada;;;48;33.08;164;3.86;53;6.68;;;251-300;0.54;28;22;;;;;;;
+2023;propaganda-e-marketing;Faculdade Estácio de Sá de Vitória;ES;133;Privada;87;18.31;140;14.73;195;3.07;172;3.66;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio de São Paulo;SP;134;Privada;;;50;32.74;201-250;2.08;251-300;0.66;;;1;8;28;22;;;;;;;
+2023;propaganda-e-marketing;Instituto Superior e Centro Educacional Luterano;SC;135;Privada;87;18.31;149;14.28;143;4.39;29;7.29;;;201-250;2.6;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Santa Bárbara;SP;136;Privada;87;18.31;150;14.26;74;6.15;179;3.48;;;132;4.63;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Anhanguera;MS;137;Privada;87;18.31;154;14.09;86;5.84;124;4.88;;;181;3.37;;;;;;;;;
+2023;propaganda-e-marketing;Instituto Infnet Rio de Janeiro;RJ;138;Privada;87;18.31;155;14.07;301-350;0.23;86;5.84;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Fip-moc;MG;139;Privada;87;18.31;157;14.04;156;4.06;128;4.78;;;110;5.2;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio Juiz de Fora;MG;140;Privada;87;18.31;158;13.96;35;7.14;193;3.12;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Nossa Senhora do Patrocínio;SP;141;Privada;87;18.31;166;13.62;111;5.21;69;6.27;;;201-250;2.14;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Ruy Barbosa Wyden;BA;142;Privada;87;18.31;169;13.49;1;8;113;5.16;;;251-300;0.33;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Linhares;ES;143;Privada;87;18.31;170;13.42;28;7.31;251-300;0.71;;;102;5.4;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Belo Horizonte;MG;144;Privada;87;18.31;173;13.16;53;6.68;201-250;2.72;;;166;3.76;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Católica do Leste de Minas Gerais;MG;145;Privada;87;18.31;175;13.14;111;5.21;104;5.38;;;201-250;2.55;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Municipal de Franca;SP;146;Municipal;87;18.31;178;13.02;156;4.06;96;5.59;;;181;3.37;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Taubaté;SP;147;Municipal;87;18.31;179;12.92;191;3.18;132;4.67;;;115;5.07;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Uberaba;MG;148;Privada;87;18.31;183;12.79;201-250;2.08;45;6.88;;;163;3.83;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Vale do Sapucaí;MG;149;Privada;87;18.31;185;12.7;201-250;2.08;82;5.94;;;130;4.68;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Martha Falcão Wyden;AM;150;Privada;87;18.31;192;11.98;66;6.35;139;4.5;;;251-300;1.13;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Goiás;GO;151;Privada;87;18.31;194;11.95;164;3.86;127;4.8;;;184;3.29;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Estácio do Pará;PA;152;Privada;87;18.31;199;11.74;104;5.38;180;3.45;;;199;2.91;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Anhanguera de São Paulo;SP;153;Privada;87;18.31;201-250;11.28;141;4.44;201-250;2.67;;;150;4.17;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Sagrado Coração;SP;154;Privada;87;18.31;201-250;11.2;111;5.21;201-250;2.03;;;158;3.96;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Adventista de São Paulo;SP;155;Privada;87;18.31;201-250;11.06;201-250;2.82;112;5.18;;;193;3.06;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Unifaat;SP;156;Privada;87;18.31;201-250;11.05;134;4.62;201-250;2.08;;;143;4.35;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Evangélica de Goiás;GO;157;Privada;87;18.31;201-250;10.68;201-250;2.36;185;3.33;;;118;4.99;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Favip Wyden;PE;158;Privada;87;18.31;201-250;9.61;87;5.82;201-250;1.78;;;201-250;2.01;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Sul de Minas;MG;159;Privada;87;18.31;201-250;9.55;201-250;2.08;85;5.87;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Tuiuti do Paraná;PR;160;Privada;87;18.31;201-250;9.47;192;3.15;201-250;2.54;;;165;3.78;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Maceió;AL;161;Privada;87;18.31;201-250;9.08;195;3.07;201-250;2.31;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Fanor Wyden;CE;162;Privada;87;18.31;201-250;8.59;201-250;2.08;160;3.96;;;201-250;2.55;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Vale do Rio Doce;MG;163;Privada;87;18.31;201-250;8.06;201-250;2.54;143;4.39;;;251-300;1.13;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Augusto Motta;RJ;164;Privada;87;18.31;251-300;7.8;195;3.07;201-250;2.13;;;201-250;2.6;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Araraquara;SP;165;Privada;87;18.31;251-300;7.7;251-300;1.27;137;4.55;;;201-250;1.88;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Multivix Vitória;ES;165;Privada;87;18.31;251-300;7.7;201-250;2.64;251-300;0.71;;;143;4.35;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Votuporanga;SP;167;Privada;87;18.31;251-300;7.49;201-250;2.08;192;3.15;;;201-250;2.26;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Cidade de São Paulo;SP;168;Privada;87;18.31;251-300;7.47;111;5.21;251-300;0.66;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário da Serra Gaúcha;RS;169;Privada;87;18.31;251-300;7.43;172;3.66;251-300;1.09;;;201-250;2.68;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário das Américas;SP;170;Privada;87;18.31;251-300;7.37;148;4.27;201-250;2.82;;;301-350;0.28;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Senac;SP;171;Privada;87;18.31;251-300;7.31;201-250;2.59;199;2.97;;;201-250;1.75;;;;;;;;;
+2023;propaganda-e-marketing;Fiam-faam - Centro Universitário;SP;172;Privada;87;18.31;251-300;7.29;201-250;2.44;190;3.2;;;201-250;1.65;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Moura Lacerda;SP;173;Privada;87;18.31;251-300;6.79;251-300;0.86;98;5.54;;;251-300;0.39;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Academia;MG;174;Privada;87;18.31;251-300;6.7;251-300;0.43;158;4.01;;;201-250;2.26;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Católica de Petrópolis;RJ;175;Privada;87;18.31;251-300;6.48;163;3.89;251-300;0.99;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário - Uniesp;PB;176;Privada;87;18.31;251-300;5.21;301-350;0.03;176;3.56;;;201-250;1.62;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Metrocamp Wyden;SP;177;Privada;87;18.31;251-300;4.93;251-300;0.74;201-250;2.59;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Católico Salesiano Auxilium;SP;178;Privada;87;18.31;251-300;4.21;201-250;2.31;251-300;0.66;;;251-300;1.24;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Americana;SP;179;Privada;87;18.31;301-350;3.51;301-350;0.1;197;3.02;;;251-300;0.39;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Sociesc de Blumenau;SC;180;Privada;;;68;21.13;83;5.92;32;7.21;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Unicarioca;RJ;181;Privada;;;69;20.77;21;7.49;108;5.28;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário da Fundação Educacional Guaxupé;MG;182;Privada;87;18.31;301-350;2.34;251-300;1.19;251-300;0.74;;;251-300;0.41;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Braz Cubas;SP;183;Privada;87;18.31;301-350;1.77;301-350;0.08;251-300;0.66;;;251-300;1.03;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Ensino Superior da Cidade de Feira de Santana;BA;184;Privada;;;72;19.86;137;4.55;28;7.31;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário São Judas Tadeu;SP;185;Privada;;;73;19.68;62;6.45;110;5.23;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdades Integradas de Três Lagoas;MS;186;Privada;;;75;19.56;151;4.19;26;7.37;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdades Integradas de Bauru;SP;187;Privada;;;76;19.41;131;4.7;52;6.71;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Marília;SP;188;Privada;;;79;18.84;164;3.86;41;6.98;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Curitiba;PR;189;Privada;;;80;18.54;151;4.19;66;6.35;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Unicuritiba;PR;189;Privada;;;80;18.54;1;8;201-250;2.54;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Excelência de Vitória da Conquista;BA;191;Privada;;;82;18.29;66;6.35;161;3.94;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Comunicação Anhanguera Unidade Guarapari;ES;192;Privada;;;86;18.02;38;7.06;63;6.43;;;136;4.53;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Campinas;SP;193;Privada;;;87;17.81;17;7.59;107;5.31;;;121;4.91;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Uniasselvi de Brusque;SC;194;Privada;;;89;17.71;87;5.82;163;3.89;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Uniasselvi de Guaramirim;SC;195;Privada;;;90;17.53;83;5.92;174;3.61;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Internacional da Paraíba;PB;196;Privada;;;91;17.32;1;8;251-300;1.32;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Guarulhos;SP;197;Privada;;;93;17.3;65;6.38;102;5.44;;;99;5.48;;;;;;;;;
+2023;propaganda-e-marketing;Strong Business School;SP;198;Privada;;;96;17.14;77;6.07;7;7.85;;;187;3.22;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Católica de Santos;SP;199;Privada;;;97;17.03;58;6.55;117;5.05;;;101;5.43;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Pitágoras Unopar Anhanguera de Londrina;PR;200;Privada;;;102;16.75;82;5.94;36;7.11;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Uninorte;AM;201;Privada;;;126;15.59;66;6.35;251-300;1.24;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Limeira;SP;201;Privada;;;165;13.69;46;6.86;201-250;2.87;;;158;3.96;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Mais de Ituiutaba;MG;201;Privada;;;189;12.11;195;3.07;251-300;1.04;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio de Brasília;DF;201;Privada;;;200;11.6;35;7.14;251-300;0.76;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio de São Luís;MA;201;Privada;;;155;14.07;143;4.39;201-250;1.68;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Vale do Taquari;RS;201;Privada;;;114;16.07;106;5.33;201-250;2.74;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Autônomo do Brasil;PR;201;Privada;;;197;11.84;111;5.21;134;4.62;;;201-250;2.01;;;;;;;;;
+2023;propaganda-e-marketing;Universidade de Passo Fundo;RS;201;Privada;;;193;11.96;141;4.44;109;5.26;;;201-250;2.26;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Univel;PR;201;Privada;;;162;13.83;201-250;2.08;4;7.92;;;163;3.83;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Franciscana;RS;201;Privada;;;111;16.13;111;5.21;201-250;2.92;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Ítalo-brasileiro;SP;201;Privada;;;103;16.66;1;8;251-300;0.66;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Paulus de Tecnologia e Comunicação;SP;201;Privada;;;184;12.72;184;3.35;20;7.52;;;201-250;1.85;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Distrito Federal;DF;201;Privada;;;143;14.45;66;6.35;301-350;0.1;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio da Amazônia;RR;201;Privada;;;180;12.87;201-250;2.08;201-250;2.79;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Piauí;PI;201;Privada;;;195;11.93;201-250;2.08;201-250;1.85;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Sant'Anna;SP;201;Privada;;;104;16.61;66;6.35;201-250;2.26;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Osasco;SP;201;Privada;;;187;12.64;79;6.02;188;3.25;;;181;3.37;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Estácio de Sá de Campo Grande;MS;201;Privada;;;181;12.8;87;5.82;187;3.28;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Oeste da Bahia;BA;201;Federal;;;109;16.18;108;5.28;201-250;2.9;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Unirb;BA;201;Privada;;;141;14.66;111;5.21;251-300;1.45;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Estácio Macapá;AP;201;Privada;;;201-250;10.99;201-250;2.08;251-300;0.91;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Claretiano - Centro Universitário de Rio Claro;SP;201;Privada;;;119;15.75;192;3.15;135;4.6;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Brasília;DF;201;Privada;;;122;15.69;17;7.59;301-350;0.1;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Unibras do Sudoeste Goiano;GO;201;Privada;;;124;15.6;148;4.27;185;3.33;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Santo Amaro;SP;201;Privada;;;144;14.44;172;3.66;81;5.97;;;125;4.81;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Uniasselvi de Blumenau ;SC;201;Privada;;;127;15.47;99;5.51;201-250;1.96;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anísio Teixeira de Feira de Santana;BA;201;Privada;;;147;14.3;251-300;0.89;103;5.41;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário do Paraná;PR;201;Privada;;;190;12.06;87;5.82;201-250;2.54;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Estácio do Rio Grande do Norte;RN;201;Privada;;;198;11.81;201-250;2.08;201-250;1.73;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade JK - Guará;DF;201;Privada;;;188;12.29;151;4.19;301-350;0.1;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Unic;MT;201;Privada;;;176;13.08;73;6.17;196;3.05;;;162;3.86;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Taubaté;SP;201;Privada;;;118;15.84;41;6.98;130;4.72;;;151;4.14;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Interamericana de Porto Velho;RO;201;Privada;;;168;13.51;301-350;0.15;105;5.36;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de São José-SC;SC;201;Privada;;;201-250;11.54;46;6.86;301-350;0.15;;;136;4.53;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;201;Privada;;;135;14.95;74;6.15;169;3.73;;;115;5.07;;;;;;;;;
+2023;propaganda-e-marketing;Instituto Superior do Litoral do Paraná;PR;201;Privada;;;146;14.4;251-300;0.51;84;5.89;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de Jacareí;SP;201;Privada;;;128;15.42;43;6.93;162;3.91;;;134;4.58;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;148;14.29;201-250;2.51;167;3.78;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio de Ribeirão Preto;SP;201;Privada;;;174;13.15;87;5.82;173;3.63;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Federal do Recôncavo da Bahia;BA;201;Federal;;;129;15.22;148;4.27;200;2.95;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade São Francisco de Assis;RS;201;Privada;;;201-250;11.03;201-250;2.24;37;7.09;;;201-250;1.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário União das Américas Descomplica;PR;201;Privada;;;145;14.4;164;3.86;201-250;2.54;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Zarns;BA;201;Privada;;;134;15.04;96;5.59;251-300;1.45;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Paulista de Comunicação;SP;201;Privada;;;160;13.87;111;5.21;251-300;0.66;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdades Integradas de Jahu;SP;201;Privada;;;201-250;10.82;136;4.57;142;4.42;;;201-250;1.83;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Anhanguera de São José;SP;201;Privada;;;105;16.59;40;7.01;123;4.9;;;130;4.68;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente;SP;201;Privada;;;133;15.09;63;6.43;251-300;0.66;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;201;Privada;;;151;14.22;129;4.75;148;4.27;;;110;5.2;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Uniftc;BA;201;Privada;;;131;15.21;93;5.66;251-300;1.55;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Palmas;TO;201;Privada;;;201-250;10.99;201-250;2.08;251-300;0.91;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Módulo;SP;251;Privada;;;251-300;5.61;134;4.62;251-300;0.66;;;251-300;0.33;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Teresa D'ávila;SP;251;Privada;;;251-300;6.6;251-300;1.24;111;5.21;;;301-350;0.15;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Cnec de Bento Gonçalves;RS;251;Privada;;;201-250;8.1;201-250;2.77;106;5.33;;;;;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Regional de Blumenau;SC;251;Municipal;;;201-250;10.09;104;5.38;201-250;1.8;;;199;2.91;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Municipal de São Caetano do Sul;SP;251;Municipal;;;201-250;9.06;107;5.31;198;3;;;251-300;0.75;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Vale do Cricaré;ES;251;Privada;;;251-300;7.01;195;3.07;201-250;2.34;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Padre Anchieta;SP;251;Privada;;;201-250;8.52;195;3.07;147;4.29;;;251-300;1.16;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Esamc Santos;SP;251;Privada;;;201-250;8.46;301-350;0.25;83;5.92;;;201-250;2.29;;;;;;;;;
+2023;propaganda-e-marketing;Faculdades de Campinas;SP;251;Privada;;;251-300;5.88;139;4.5;251-300;0.66;;;251-300;0.72;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Fortaleza;CE;251;Privada;;;201-250;9.08;169;3.73;201-250;2.11;;;186;3.24;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;251;Privada;;;201-250;8.88;186;3.3;201-250;2.54;;;194;3.04;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Esamc Sorocaba;SP;251;Privada;;;201-250;8.75;251-300;0.79;118;5.03;;;198;2.93;;;;;;;;;
+2023;propaganda-e-marketing;Universidade do Vale do Paraíba;SP;251;Privada;;;201-250;8.23;201-250;2.67;164;3.86;;;201-250;1.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário das Faculdades Associadas de Ensino;SP;251;Municipal;;;251-300;6.89;201-250;2.08;201-250;1.98;;;201-250;2.83;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Satc;SC;251;Privada;;;201-250;10.12;201-250;2.16;38;7.06;;;251-300;0.9;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário da Amazônia;PA;251;Privada;;;201-250;10.74;185;3.33;180;3.45;;;158;3.96;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Araguaia;GO;251;Privada;;;201-250;9.42;201-250;2.08;76;6.1;;;251-300;1.24;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;251;Privada;;;251-300;7.8;111;5.21;251-300;0.99;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Eduvale de Avaré;SP;251;Privada;;;201-250;10.66;186;3.3;146;4.32;;;194;3.04;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Aeso - Barros Melo;PE;251;Privada;;;201-250;10.14;201-250;2.21;114;5.13;;;201-250;2.8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Estácio de Cotia;SP;251;Privada;;;201-250;10.74;201-250;2.08;251-300;0.66;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Uberlandense de Núcleos Integrados de Ensino, Serviço Social e Aprendizagem;MG;251;Privada;;;251-300;6.18;251-300;1.12;301-350;0.25;;;125;4.81;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Sul-americana;GO;251;Privada;;;251-300;7.6;251-300;1.04;151;4.19;;;201-250;2.37;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio Meta de Rio Branco Estácio;AC;251;Privada;;;251-300;5.47;251-300;0.86;251-300;0.91;;;168;3.7;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Central Paulista;SP;251;Privada;;;201-250;10.37;79;6.02;251-300;1.6;;;201-250;2.75;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;201-250;8.72;201-250;2.08;65;6.38;;;301-350;0.26;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Salvador;BA;251;Privada;;;201-250;9.76;301-350;0.31;251-300;1.45;;;1;8;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Dom Bosco do Rio de Janeiro;RJ;251;Privada;;;251-300;4.58;251-300;1.17;191;3.18;;;301-350;0.23;;;;;;;;;
+2023;propaganda-e-marketing;Faculdades Integradas Adventistas de Minas Gerais;MG;251;Privada;;;251-300;7.74;201-250;2.29;301-350;0.25;;;110;5.2;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Santa Cecília;SP;251;Privada;;;201-250;9.68;179;3.48;156;4.06;;;201-250;2.14;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Excelência Eniac;SP;251;Privada;;;251-300;6.88;182;3.4;251-300;1.47;;;201-250;2.01;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Tecnologia de Curitiba;PR;251;Privada;;;251-300;4.85;201-250;2.08;201-250;2.54;;;301-350;0.23;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Fundação Santo André;SP;251;Privada;;;251-300;5.9;201-250;2.62;251-300;0.66;;;201-250;2.62;;;;;;;;;
+2023;propaganda-e-marketing;Instituto de Ensino Superior de Teresina;PI;251;Privada;;;251-300;6.97;201-250;2.08;201-250;1.85;;;194;3.04;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Maringá;PR;251;Privada;;;251-300;6.63;201-250;2.08;201-250;2.54;;;201-250;2.01;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade JK - Unidade II - Gama;DF;251;Privada;;;201-250;9.49;172;3.66;251-300;1.02;;;125;4.81;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Opet;PR;251;Privada;;;251-300;7.51;251-300;0.56;91;5.71;;;251-300;1.24;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Estácio de Santa Catarina;SC;251;Privada;;;201-250;10.75;15;7.64;201-250;2.57;;;251-300;0.54;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Novo Milênio;ES;251;Privada;;;201-250;8.15;251-300;0.91;94;5.64;;;201-250;1.6;;;;;;;;;
+2023;propaganda-e-marketing;Instituto Municipal de Ensino Superior de Assis;SP;251;Municipal;;;251-300;5.45;251-300;1.22;251-300;1.19;;;194;3.04;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Fadergs;RS;251;Privada;;;251-300;4.79;201-250;2.57;251-300;1.09;;;251-300;1.13;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Esamc São Paulo;SP;251;Privada;;;251-300;5.35;251-300;1.4;251-300;0.66;;;184;3.29;;;;;;;;;
+2023;propaganda-e-marketing;"Faculdade de Comunicação e Design ""Oswaldo Cruz""";SP;251;Privada;;;251-300;4.47;251-300;0.76;251-300;1.65;;;201-250;2.06;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Metodista;RS;251;Privada;;;201-250;10.42;195;3.07;62;6.45;;;251-300;0.9;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Educação São Luís;SP;251;Privada;;;251-300;4.46;301-350;0.33;194;3.1;;;251-300;1.03;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Promove de Sete Lagoas;MG;251;Privada;;;251-300;7.24;251-300;0.58;57;6.58;;;301-350;0.08;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Unibras da Bahia;BA;251;Privada;;;251-300;5.09;251-300;0.66;251-300;1.52;;;199;2.91;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade do Litoral Sul Paulista;SP;251;Privada;;;251-300;7.39;201-250;2.77;251-300;0.66;;;158;3.96;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Campo Limpo Paulista;SP;251;Privada;;;251-300;5.14;251-300;0.66;201-250;1.93;;;201-250;2.55;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Zumbi dos Palmares;SP;251;Privada;;;201-250;9.03;251-300;0.74;168;3.76;;;136;4.53;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Viçosa;MG;301;Privada;;;301-350;3.84;201-250;2.41;251-300;0.79;;;251-300;0.64;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade de Ribeirão Preto;SP;301;Privada;;;301-350;1.97;251-300;0.41;251-300;0.66;;;251-300;0.9;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Esamc Jundiaí;SP;301;Privada;;;301-350;0.74;301-350;0.05;251-300;0.66;;;301-350;0.03;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Metropolitano de Maringá;PR;301;Privada;;;251-300;4.04;251-300;0.74;195;3.07;;;301-350;0.23;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário de Adamantina;SP;301;Municipal;;;301-350;3.4;201-250;2.08;251-300;1.19;;;301-350;0.13;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Farias Brito;CE;301;Privada;;;251-300;4.31;201-250;2.11;251-300;0.84;;;251-300;1.36;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Fieo;SP;301;Privada;;;301-350;1.88;301-350;0.2;251-300;1.58;;;301-350;0.1;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Cearense;CE;301;Privada;;;301-350;1.15;301-350;0.31;251-300;0.84;;;;;;;;;;;;;
+2023;propaganda-e-marketing;Instituto Superior de Ciências Aplicadas;SP;301;Privada;;;301-350;3.91;251-300;0.97;201-250;1.91;;;251-300;1.03;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Egas Moniz;PE;301;Privada;;;301-350;2.29;251-300;0.51;201-250;1.78;;;;;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Nilton Lins;AM;301;Privada;;;301-350;3.97;301-350;0.15;251-300;1.27;;;201-250;2.55;;;;;;;;;
+2023;propaganda-e-marketing;Faculdade Cesumar de Ponta Grossa;PR;301;Privada;;;251-300;4.32;251-300;1.14;201-250;2.54;;;251-300;0.64;;;;;;;;;
+2023;propaganda-e-marketing;Centro Universitário Eurípedes de Marília;SP;301;Privada;;;301-350;2.81;251-300;0.86;251-300;0.66;;;251-300;1.29;;;;;;;;;
+2023;propaganda-e-marketing;Universidade Salgado de Oliveira;RJ;301;Privada;;;301-350;3.01;251-300;1.12;251-300;0.99;;;251-300;0.9;;;;;;;;;
+2023;propaganda-e-marketing;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;301;Privada;;;301-350;2.67;201-250;2.49;301-350;0.1;;;301-350;0.08;;;;;;;;;
+2024;propaganda-e-marketing;Universidade Federal de Minas Gerais;MG;1;Federal;5;35.13;1;62.59;;;3;7.95;;;1;8;;;3;7.95;3;38.69;;;
+2024;propaganda-e-marketing;Universidade Federal do Rio de Janeiro;RJ;2;Federal;5;35.13;3;62.2;;;9;7.79;;;1;8;;;12;7.72;3;38.69;;;
+2024;propaganda-e-marketing;Universidade Federal do Rio Grande do Sul;RS;3;Federal;22;31.42;2;62.54;;;1;8;;;1;8;;;7;7.85;3;38.69;;;
+2024;propaganda-e-marketing;Universidade de São Paulo;SP;4;Estadual;2;35.78;4;57.34;;;201-250;2.03;;;1;8;;;2;7.97;2;39.34;;;
+2024;propaganda-e-marketing;Universidade Federal de Pernambuco;PE;5;Federal;5;35.13;7;57.13;;;21;7.49;;;1;8;;;19;7.54;10;34.1;;;
+2024;propaganda-e-marketing;Universidade Federal do Paraná;PR;6;Federal;5;35.13;8;56.4;;;5;7.9;;;60;6.48;;;4;7.92;10;34.1;;;
+2024;propaganda-e-marketing;Escola Superior de Propaganda e Marketing;SP;7;Privada;1;36;10;53.2;;;119;4.97;;;201-250;1.75;;;60;6.48;1;40;;;
+2024;propaganda-e-marketing;Universidade de Brasília;DF;8;Federal;22;31.42;6;57.23;;;22;7.46;;;1;8;;;14;7.67;10;34.1;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica do Rio Grande do Sul;RS;9;Privada;5;35.13;9;53.45;;;116;5.04;;;172;3.6;;;74;6.12;3;38.69;;;
+2024;propaganda-e-marketing;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;10;Privada;5;35.13;11;53.05;;;89;5.74;;;201-250;2.37;;;69;6.25;3;38.69;;;
+2024;propaganda-e-marketing;Universidade Presbiteriana Mackenzie;SP;11;Privada;2;35.78;14;50.78;;;188;3.19;;;201-250;2.75;;;73;6.15;3;38.69;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica de São Paulo;SP;12;Privada;5;35.13;12;51.26;;;179;3.42;;;63;6.41;;;27;7.33;10;34.1;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica de Minas Gerais;MG;13;Privada;5;35.13;17;48.67;;;91;5.69;;;171;3.63;;;108;5.25;10;34.1;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica do Paraná;PR;14;Privada;5;35.13;20;47.92;;;63;6.41;;;201-250;2.8;;;133;4.61;10;34.1;;;
+2024;propaganda-e-marketing;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;15;Privada;22;31.42;13;51.13;;;6;7.87;;;184;3.29;;;84;5.87;10;34.1;;;
+2024;propaganda-e-marketing;Centro Universitário Belas Artes de São Paulo;SP;16;Privada;22;31.42;15;50.59;;;149;4.19;;;87;5.79;;;59;6.51;10;34.1;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica do Rio de Janeiro;RJ;17;Privada;22;31.42;16;50.58;;;64;6.38;;;251-300;0.39;;;113;5.12;3;38.69;;;
+2024;propaganda-e-marketing;Universidade Federal do Ceará;CE;18;Federal;5;35.13;24;46.51;;;14;7.67;;;1;8;;;82;5.92;24;24.92;;;
+2024;propaganda-e-marketing;Universidade do Vale do Rio dos Sinos;RS;19;Privada;5;35.13;27;45.63;;;40;7;;;76;6.07;;;15;7.64;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Anhembi Morumbi;SP;20;Privada;5;35.13;29;44.41;;;162;3.86;;;201-250;2.08;;;142;4.37;10;34.1;;;
+2024;propaganda-e-marketing;Universidade Federal do Rio Grande do Norte;RN;21;Federal;22;31.42;21;47.43;;;39;7.02;;;1;8;;;21;7.49;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Federal de Goiás;GO;22;Federal;22;31.42;23;47.04;;;34;7.15;;;1;8;;;41;6.97;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Armando Alvares Penteado;SP;23;Privada;5;35.13;35;40.81;;;201-250;2.11;;;301-350;0.28;;;144;4.32;10;34.1;;;
+2024;propaganda-e-marketing;Faculdade Cásper Líbero;SP;24;Privada;22;31.42;31;43.13;;;199;2.91;;;251-300;0.31;;;86;5.81;10;34.1;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica de Campinas;SP;25;Privada;22;31.42;32;42.11;;;201-250;1.78;;;251-300;0.88;;;104;5.35;10;34.1;;;
+2024;propaganda-e-marketing;Universidade Federal Fluminense;RJ;26;Federal;55;24.22;18;48.53;;;9;7.79;;;1;8;;;8;7.82;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Federal do Pará;PA;27;Federal;55;24.22;19;48.1;;;28;7.31;;;1;8;;;6;7.87;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Estácio de Sá;RJ;28;Privada;5;35.13;44;36.78;;;160;3.91;;;201-250;2.16;;;87;5.79;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Leonardo da Vinci;SC;29;Privada;22;31.42;36;40.43;;;251-300;1.16;;;1;8;;;65;6.35;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Ibmec;RJ;30;Privada;55;24.22;22;47.17;;;150;4.17;;;251-300;1.47;;;23;7.43;10;34.1;;;
+2024;propaganda-e-marketing;Universidade de Cuiabá;MT;31;Privada;55;24.22;26;46.08;;;46;6.84;;;58;6.53;;;9;7.79;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Nove de Julho;SP;32;Privada;5;35.13;51;34.7;;;251-300;0.9;;;199;2.91;;;80;5.97;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Paulista;SP;33;Privada;2;35.78;55;34.03;;;182;3.34;;;136;4.53;;;251-300;1.24;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Cesumar;PR;34;Privada;22;31.42;40;37.84;;;108;5.25;;;201-250;2.47;;;110;5.2;24;24.92;;;
+2024;propaganda-e-marketing;Universidade do Oeste de Santa Catarina;SC;35;Privada;55;24.22;28;44.44;;;88;5.76;;;1;8;;;88;5.76;24;24.92;;;
+2024;propaganda-e-marketing;Universidade do Vale do Itajaí;SC;36;Privada;22;31.42;43;36.99;;;99;5.48;;;164;3.81;;;201-250;2.78;24;24.92;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Divinópolis;MG;37;Privada;55;24.22;30;43.75;;;32;7.2;;;120;4.94;;;52;6.69;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário de Brasília;DF;38;Privada;22;31.42;49;35.39;;;118;4.99;;;251-300;0.82;;;131;4.66;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Álvares Penteado;SP;39;Privada;55;24.22;33;41.67;;;59;6.51;;;194;3.04;;;32;7.2;24;24.92;;;
+2024;propaganda-e-marketing;Universidade de Santa Cruz do Sul;RS;40;Privada;55;24.22;34;41.59;;;95;5.58;;;155;4.04;;;38;7.05;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Salvador;BA;41;Privada;22;31.42;54;34.05;;;101;5.43;;;201-250;2.52;;;251-300;1.18;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário de Várzea Grande;MT;42;Privada;55;24.22;38;39.04;;;46;6.84;;;121;4.91;;;201-250;2.37;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Assis Gurgacz;PR;43;Privada;55;24.22;39;38.61;;;2;7.97;;;105;5.33;;;251-300;0.39;24;24.92;;;
+2024;propaganda-e-marketing;FAE Centro Universitário;PR;44;Privada;55;24.22;41;37.51;;;75;6.1;;;201-250;2.14;;;143;4.35;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Metodista de São Paulo;SP;45;Privada;55;24.22;42;37.36;;;121;4.91;;;149;4.19;;;182;3.34;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Ritter dos Reis;RS;46;Privada;55;24.22;45;36.41;;;201-250;2.39;;;154;4.06;;;116;5.04;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Internacional;PR;47;Privada;55;24.22;50;34.88;;;201-250;1.72;;;91;5.69;;;201-250;2.55;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Fumec;MG;48;Privada;55;24.22;52;34.63;;;187;3.22;;;166;3.76;;;201-250;2.73;24;24.92;;;
+2024;propaganda-e-marketing;Faculdades Integradas Hélio Alonso;RJ;49;Privada;55;24.22;53;34.55;;;126;4.79;;;201-250;2.34;;;201-250;2.5;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Federal de Santa Maria;RS;50;Federal;;;5;57.25;;;30;7.25;;;1;8;;;5;7.9;10;34.1;;;
+2024;propaganda-e-marketing;Universidade Cruzeiro do Sul;SP;51;Privada;55;24.22;58;32.41;;;251-300;1.31;;;201-250;2.42;;;166;3.76;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Alves Faria;GO;52;Privada;55;24.22;59;31.59;;;110;5.2;;;251-300;0.75;;;251-300;0.72;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Federal do Espírito Santo;ES;53;Federal;22;31.42;62;22.97;;;11;7.74;;;1;8;;;31;7.23;;;;;
+2024;propaganda-e-marketing;Universidade Metodista de Piracicaba;SP;54;Privada;55;24.22;61;29.32;;;251-300;0.59;;;251-300;1.34;;;201-250;2.47;24;24.92;;;
+2024;propaganda-e-marketing;Universidade Positivo;PR;55;Privada;22;31.42;82;17.93;;;33;7.18;;;113;5.12;;;93;5.63;;;;;
+2024;propaganda-e-marketing;Universidade de Fortaleza;CE;56;Privada;5;35.13;137;14.1;;;68;6.28;;;141;4.4;;;179;3.42;;;;;
+2024;propaganda-e-marketing;Centro Universitário Una;MG;57;Privada;22;31.42;85;17.57;;;51;6.71;;;146;4.27;;;56;6.59;;;;;
+2024;propaganda-e-marketing;Universidade do Estado de Minas Gerais;MG;58;Estadual;22;31.42;88;17.14;;;98;5.51;;;1;8;;;171;3.63;;;;;
+2024;propaganda-e-marketing;Centro Universitário Maurício de Nassau;PE;59;Privada;5;35.13;154;13.09;;;167;3.73;;;106;5.3;;;154;4.06;;;;;
+2024;propaganda-e-marketing;Universidade São Judas Tadeu;SP;60;Privada;22;31.42;105;16.14;;;138;4.48;;;117;5.02;;;54;6.64;;;;;
+2024;propaganda-e-marketing;Centro Universitário Faesa;ES;61;Privada;22;31.42;108;16.08;;;26;7.36;;;62;6.43;;;201-250;2.29;;;;;
+2024;propaganda-e-marketing;Universidade Veiga de Almeida;RJ;62;Privada;22;31.42;110;16;;;12;7.72;;;196;2.98;;;106;5.3;;;;;
+2024;propaganda-e-marketing;Universidade Feevale;RS;63;Privada;22;31.42;114;15.87;;;31;7.23;;;177;3.47;;;111;5.17;;;;;
+2024;propaganda-e-marketing;Fundação Universidade Federal do Pampa;RS;64;Federal;;;25;46.34;;;72;6.17;;;1;8;;;30;7.25;24;24.92;;;
+2024;propaganda-e-marketing;Universidade da Região de Joinville;SC;65;Privada;22;31.42;126;14.77;;;193;3.06;;;73;6.15;;;96;5.56;;;;;
+2024;propaganda-e-marketing;Universidade de Caxias do Sul;RS;66;Privada;22;31.42;147;13.66;;;129;4.71;;;191;3.11;;;85;5.84;;;;;
+2024;propaganda-e-marketing;Universidade Federal de Mato Grosso;MT;67;Federal;55;24.22;67;20.76;;;117;5.02;;;1;8;;;11;7.74;;;;;
+2024;propaganda-e-marketing;Universidade Católica Dom Bosco;MS;68;Privada;55;24.22;68;20.32;;;53;6.66;;;1;8;;;92;5.66;;;;;
+2024;propaganda-e-marketing;Centro Universitário FBV Wyden;PE;69;Privada;55;24.22;69;19.99;;;122;4.89;;;1;8;;;36;7.1;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Estado do Pará;PA;70;Privada;55;24.22;74;19.16;;;8;7.82;;;65;6.35;;;118;4.99;;;;;
+2024;propaganda-e-marketing;Centro Universitário Sociesc;SC;71;Privada;55;24.22;76;19.07;;;96;5.56;;;1;8;;;98;5.51;;;;;
+2024;propaganda-e-marketing;Universidade Vila Velha;ES;72;Privada;22;31.42;183;11.81;;;36;7.1;;;198;2.93;;;201-250;1.78;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Belo Horizonte;MG;73;Privada;55;24.22;77;18.96;;;53;6.66;;;118;4.99;;;28;7.31;;;;;
+2024;propaganda-e-marketing;Universidade da Amazônia;PA;74;Privada;22;31.42;191;11.65;;;146;4.27;;;161;3.88;;;176;3.5;;;;;
+2024;propaganda-e-marketing;Universidade Católica de Brasília;DF;75;Privada;55;24.22;78;18.81;;;38;7.05;;;131;4.66;;;36;7.1;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Norte;AM;76;Privada;22;31.42;196;11.27;;;172;3.6;;;152;4.12;;;174;3.55;;;;;
+2024;propaganda-e-marketing;Pontifícia Universidade Católica de Goiás;GO;77;Privada;22;31.42;201-250;10.93;;;80;5.97;;;251-300;1.13;;;163;3.83;;;;;
+2024;propaganda-e-marketing;Centro Universitário Una de Contagem;MG;78;Privada;55;24.22;80;18.09;;;35;7.13;;;74;6.12;;;124;4.84;;;;;
+2024;propaganda-e-marketing;Universidade Franciscana;RS;79;Privada;55;24.22;81;18.03;;;76;6.07;;;59;6.51;;;100;5.45;;;;;
+2024;propaganda-e-marketing;Universidade do Grande Rio Professor José de Souza Herdy;RJ;80;Privada;55;24.22;84;17.78;;;125;4.81;;;1;8;;;119;4.97;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Instituto de Educação Superior de Brasília;DF;81;Privada;22;31.42;201-250;10.42;;;107;5.27;;;192;3.09;;;201-250;2.06;;;;;
+2024;propaganda-e-marketing;Universidade do Sul de Santa Catarina;SC;82;Privada;22;31.42;201-250;9.98;;;100;5.45;;;201-250;1.62;;;199;2.91;;;;;
+2024;propaganda-e-marketing;Faculdade Promove de Minas Gerais;MG;83;Privada;55;24.22;89;17.06;;;195;3.01;;;1;8;;;77;6.05;;;;;
+2024;propaganda-e-marketing;Universidade Católica de Santos;SP;84;Privada;55;24.22;91;16.95;;;170;3.65;;;61;6.46;;;46;6.84;;;;;
+2024;propaganda-e-marketing;União das Faculdades dos Grandes Lagos;SP;85;Privada;55;24.22;96;16.67;;;19;7.54;;;1;8;;;251-300;1.13;;;;;
+2024;propaganda-e-marketing;Centro Universitário da Grande Dourados;MS;86;Privada;55;24.22;97;16.65;;;24;7.41;;;82;5.92;;;183;3.32;;;;;
+2024;propaganda-e-marketing;Universidade do Vale do Taquari;RS;87;Privada;55;24.22;100;16.47;;;139;4.45;;;66;6.33;;;91;5.69;;;;;
+2024;propaganda-e-marketing;Universidade Pitágoras Unopar Anhanguera;PR;88;Privada;55;24.22;102;16.36;;;111;5.17;;;142;4.37;;;47;6.82;;;;;
+2024;propaganda-e-marketing;Faculdades Integradas de Taquara;RS;89;Privada;22;31.42;201-250;9.06;;;159;3.94;;;251-300;1.16;;;158;3.96;;;;;
+2024;propaganda-e-marketing;Centro Universitário Sagrado Coração;SP;89;Privada;55;24.22;104;16.26;;;81;5.94;;;126;4.79;;;97;5.53;;;;;
+2024;propaganda-e-marketing;Centro Universitário Católica do Leste de Minas Gerais;MG;91;Privada;55;24.22;106;16.13;;;82;5.92;;;137;4.5;;;90;5.71;;;;;
+2024;propaganda-e-marketing;Universidade Potiguar;RN;92;Privada;22;31.42;201-250;8.8;;;201-250;2.08;;;183;3.32;;;180;3.4;;;;;
+2024;propaganda-e-marketing;Centro Universitário Toledo Wyden;SP;93;Privada;55;24.22;111;15.98;;;103;5.38;;;148;4.22;;;64;6.38;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio Juiz de Fora;MG;94;Privada;55;24.22;112;15.95;;;92;5.66;;;190;3.14;;;34;7.15;;;;;
+2024;propaganda-e-marketing;Centro Universitário Jorge Amado;BA;95;Privada;55;24.22;116;15.69;;;85;5.84;;;160;3.91;;;81;5.94;;;;;
+2024;propaganda-e-marketing;Universidade Regional de Blumenau;SC;96;Municipal;;;37;39.84;;;72;6.17;;;201-250;2.73;;;78;6.02;24;24.92;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Santa Bárbara;SP;97;Privada;55;24.22;117;15.56;;;201-250;2.83;;;90;5.71;;;39;7.02;;;;;
+2024;propaganda-e-marketing;Faculdade Unime de Ciências Sociais;BA;98;Privada;55;24.22;118;15.54;;;201-250;2.65;;;94;5.61;;;29;7.28;;;;;
+2024;propaganda-e-marketing;Universidade de Ribeirão Preto;SP;99;Privada;55;24.22;121;15.17;;;158;3.96;;;79;5.99;;;109;5.22;;;;;
+2024;propaganda-e-marketing;Centro Universitário Unifaat;SP;100;Privada;55;24.22;122;15.04;;;74;6.12;;;163;3.83;;;114;5.09;;;;;
+2024;propaganda-e-marketing;Universidade Tuiuti do Paraná;PR;101;Privada;55;24.22;124;14.87;;;105;5.33;;;128;4.73;;;125;4.81;;;;;
+2024;propaganda-e-marketing;Universidade Comunitária da Região de Chapecó;SC;102;Privada;55;24.22;127;14.76;;;29;7.28;;;107;5.27;;;201-250;2.21;;;;;
+2024;propaganda-e-marketing;Universidade de Taubaté;SP;103;Municipal;55;24.22;128;14.64;;;93;5.63;;;80;5.97;;;194;3.04;;;;;
+2024;propaganda-e-marketing;Centro Universitário Dinâmica das Cataratas;PR;104;Privada;55;24.22;129;14.57;;;56;6.59;;;78;6.02;;;201-250;1.96;;;;;
+2024;propaganda-e-marketing;Universidade Católica de Pernambuco;PE;105;Privada;22;31.42;251-300;7.23;;;201-250;2.06;;;251-300;0.72;;;139;4.45;;;;;
+2024;propaganda-e-marketing;Universidade Evangélica de Goiás;GO;106;Privada;55;24.22;132;14.36;;;49;6.77;;;139;4.45;;;190;3.14;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio de Belo Horizonte;MG;107;Privada;55;24.22;136;14.15;;;69;6.25;;;124;4.84;;;193;3.06;;;;;
+2024;propaganda-e-marketing;Universidade Anhanguera;MS;108;Privada;55;24.22;139;14.05;;;169;3.68;;;150;4.17;;;71;6.2;;;;;
+2024;propaganda-e-marketing;Faculdade Estácio de Sá de Vitória;ES;109;Privada;55;24.22;145;13.81;;;201-250;2.44;;;1;8;;;181;3.37;;;;;
+2024;propaganda-e-marketing;Centro Universitário Anhanguera de São Paulo;SP;110;Privada;55;24.22;148;13.51;;;201-250;2.8;;;103;5.38;;;105;5.33;;;;;
+2024;propaganda-e-marketing;Centro Universitário Municipal de Franca;SP;111;Municipal;55;24.22;150;13.43;;;102;5.4;;;159;3.94;;;153;4.09;;;;;
+2024;propaganda-e-marketing;Universidade Santa Cecília;SP;112;Privada;55;24.22;156;13.08;;;112;5.15;;;178;3.45;;;138;4.48;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Belo Horizonte;MG;113;Privada;55;24.22;157;13.02;;;134;4.58;;;174;3.55;;;122;4.89;;;;;
+2024;propaganda-e-marketing;Centro Universitário Central Paulista;SP;114;Privada;55;24.22;160;12.94;;;180;3.4;;;170;3.65;;;83;5.89;;;;;
+2024;propaganda-e-marketing;Faculdade Estácio do Pará;PA;114;Privada;55;24.22;159;12.94;;;57;6.56;;;201-250;1.98;;;141;4.4;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio da Bahia;BA;116;Privada;55;24.22;161;12.91;;;186;3.24;;;97;5.53;;;151;4.14;;;;;
+2024;propaganda-e-marketing;Centro Universitário da Serra Gaúcha;RS;117;Privada;55;24.22;163;12.87;;;61;6.46;;;201-250;2.24;;;150;4.17;;;;;
+2024;propaganda-e-marketing;Universidade Anhanguera de São Paulo;SP;118;Privada;55;24.22;166;12.58;;;251-300;0.59;;;110;5.2;;;48;6.79;;;;;
+2024;propaganda-e-marketing;Universidade Ceuma;MA;119;Privada;55;24.22;169;12.48;;;123;4.86;;;101;5.43;;;201-250;2.19;;;;;
+2024;propaganda-e-marketing;Centro Universitário Barão de Mauá;SP;120;Privada;55;24.22;173;12.24;;;13;7.69;;;201-250;2.7;;;201-250;1.85;;;;;
+2024;propaganda-e-marketing;Centro Universitário Ruy Barbosa Wyden;BA;121;Privada;55;24.22;175;12.15;;;145;4.3;;;301-350;0.26;;;17;7.59;;;;;
+2024;propaganda-e-marketing;Centro Universitário Maurício de Nassau de João Pessoa;PB;122;Privada;55;24.22;176;12.12;;;251-300;1.47;;;81;5.94;;;129;4.71;;;;;
+2024;propaganda-e-marketing;Universidade Tiradentes;SE;123;Privada;;;46;36.28;;;168;3.7;;;140;4.42;;;186;3.24;24;24.92;;;
+2024;propaganda-e-marketing;Universidade de Franca;SP;123;Privada;55;24.22;177;12.06;;;161;3.88;;;157;3.99;;;149;4.19;;;;;
+2024;propaganda-e-marketing;Faculdades de Campinas;SP;125;Privada;;;47;36.11;;;58;6.53;;;251-300;0.93;;;167;3.73;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Aeso - Barros Melo;PE;126;Privada;55;24.22;187;11.68;;;25;7.38;;;201-250;2.06;;;201-250;2.24;;;;;
+2024;propaganda-e-marketing;Centro Universitário Univel;PR;126;Privada;55;24.22;187;11.68;;;15;7.64;;;201-250;2.57;;;251-300;1.47;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Brusque;SC;128;Privada;55;24.22;189;11.66;;;201-250;2.37;;;115;5.07;;;148;4.22;;;;;
+2024;propaganda-e-marketing;Universidade de Uberaba;MG;128;Privada;55;24.22;189;11.66;;;87;5.79;;;143;4.35;;;251-300;1.52;;;;;
+2024;propaganda-e-marketing;Universidade de Mogi das Cruzes;SP;130;Privada;55;24.22;192;11.53;;;104;5.35;;;112;5.15;;;251-300;1.03;;;;;
+2024;propaganda-e-marketing;Faculdade de Estudos Avançados do Pará;PA;131;Privada;;;48;35.7;;;146;4.27;;;201-250;2.83;;;169;3.68;24;24.92;;;
+2024;propaganda-e-marketing;Instituto Superior e Centro Educacional Luterano;SC;132;Privada;55;24.22;197;11.22;;;127;4.76;;;201-250;1.83;;;132;4.63;;;;;
+2024;propaganda-e-marketing;Centro Universitário Ibmr;RJ;132;Privada;55;24.22;197;11.22;;;155;4.04;;;201-250;2.65;;;136;4.53;;;;;
+2024;propaganda-e-marketing;Centro Universitário Sete de Setembro;CE;134;Privada;55;24.22;201-250;11.14;;;171;3.63;;;132;4.63;;;200;2.88;;;;;
+2024;propaganda-e-marketing;Centro Universitário Fanor Wyden;CE;134;Privada;55;24.22;201-250;11.14;;;183;3.32;;;175;3.52;;;145;4.3;;;;;
+2024;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Maceió;AL;136;Privada;55;24.22;201-250;11.07;;;197;2.96;;;145;4.3;;;164;3.81;;;;;
+2024;propaganda-e-marketing;Centro Universitário das Américas;SP;137;Privada;55;24.22;201-250;10.99;;;142;4.37;;;201-250;1.6;;;117;5.02;;;;;
+2024;propaganda-e-marketing;Universidade Católica de Petrópolis;RJ;138;Privada;55;24.22;201-250;10.96;;;71;6.2;;;251-300;0.85;;;160;3.91;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio do Ceará;CE;139;Privada;55;24.22;201-250;10.7;;;135;4.55;;;167;3.73;;;201-250;2.42;;;;;
+2024;propaganda-e-marketing;Universidade de Passo Fundo;RS;140;Privada;55;24.22;201-250;10.67;;;201-250;2.26;;;162;3.86;;;135;4.55;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Sul de Minas;MG;141;Privada;55;24.22;201-250;10.62;;;62;6.43;;;201-250;1.8;;;201-250;2.39;;;;;
+2024;propaganda-e-marketing;Universidade Vale do Rio Doce;MG;142;Privada;55;24.22;201-250;10.6;;;43;6.92;;;251-300;1.24;;;201-250;2.44;;;;;
+2024;propaganda-e-marketing;Universidade do Vale do Sapucaí;MG;143;Privada;55;24.22;201-250;10.16;;;153;4.09;;;168;3.7;;;201-250;2.37;;;;;
+2024;propaganda-e-marketing;Universidade Cidade de São Paulo;SP;144;Privada;55;24.22;201-250;10.06;;;251-300;0.98;;;137;4.5;;;134;4.58;;;;;
+2024;propaganda-e-marketing;Universidade Católica do Salvador;BA;145;Privada;55;24.22;201-250;9.98;;;106;5.3;;;201-250;1.93;;;201-250;2.75;;;;;
+2024;propaganda-e-marketing;Faculdade Esamc Uberlândia;MG;146;Privada;55;24.22;201-250;9.93;;;97;5.53;;;158;3.96;;;251-300;0.44;;;;;
+2024;propaganda-e-marketing;Faculdade Esamc Campinas;SP;146;Privada;55;24.22;201-250;9.93;;;37;7.07;;;201-250;2.19;;;251-300;0.67;;;;;
+2024;propaganda-e-marketing;Centro Universitário Favip Wyden;PE;148;Privada;55;24.22;201-250;9.83;;;251-300;1.52;;;181;3.37;;;120;4.94;;;;;
+2024;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Fortaleza;CE;149;Privada;55;24.22;201-250;9.65;;;251-300;1.42;;;147;4.24;;;157;3.99;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Goiás;GO;150;Privada;55;24.22;201-250;9.64;;;165;3.78;;;200;2.88;;;196;2.98;;;;;
+2024;propaganda-e-marketing;Centro Universitário Fip-moc;MG;151;Privada;55;24.22;201-250;9.36;;;201-250;2.75;;;175;3.52;;;192;3.09;;;;;
+2024;propaganda-e-marketing;Faculdade Estácio de Teresina;PI;152;Privada;55;24.22;201-250;9.33;;;201-250;1.85;;;165;3.78;;;168;3.7;;;;;
+2024;propaganda-e-marketing;Faculdade Martha Falcão Wyden;AM;153;Privada;55;24.22;201-250;9.16;;;201-250;2.57;;;251-300;1.11;;;99;5.48;;;;;
+2024;propaganda-e-marketing;Centro Universitário Augusto Motta;RJ;154;Privada;55;24.22;201-250;8.88;;;174;3.55;;;201-250;2.32;;;195;3.01;;;;;
+2024;propaganda-e-marketing;Centro Universitário Nossa Senhora do Patrocínio;SP;155;Privada;55;24.22;201-250;8.86;;;164;3.81;;;201-250;1.6;;;178;3.45;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;156;Privada;;;56;33.02;;;201-250;1.72;;;185;3.27;;;191;3.11;24;24.92;;;
+2024;propaganda-e-marketing;Faculdade Zumbi dos Palmares;SP;157;Privada;;;57;32.98;;;251-300;0.62;;;70;6.23;;;251-300;1.21;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Católico Salesiano Auxilium;SP;158;Privada;55;24.22;201-250;8.28;;;90;5.71;;;251-300;0.9;;;201-250;1.67;;;;;
+2024;propaganda-e-marketing;Universidade de Sorocaba;SP;159;Privada;55;24.22;201-250;8.02;;;201-250;2.7;;;251-300;0.64;;;130;4.68;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Maceió;AL;160;Privada;55;24.22;201-250;8;;;197;2.96;;;201-250;1.88;;;189;3.16;;;;;
+2024;propaganda-e-marketing;Claretiano - Centro Universitário de Rio Claro;SP;161;Privada;55;24.22;251-300;7.97;;;251-300;0.59;;;104;5.35;;;201-250;2.03;;;;;
+2024;propaganda-e-marketing;Centro Universitário - Uniesp;PB;162;Privada;55;24.22;251-300;7.16;;;183;3.32;;;201-250;2.55;;;251-300;1.29;;;;;
+2024;propaganda-e-marketing;Universidade de Araraquara;SP;163;Privada;55;24.22;251-300;7.12;;;140;4.42;;;251-300;1.44;;;251-300;1.26;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Rio Preto;SP;164;Privada;55;24.22;251-300;6.97;;;251-300;0.59;;;69;6.25;;;301-350;0.13;;;;;
+2024;propaganda-e-marketing;Centro Universitário dos Guararapes;PE;165;Privada;55;24.22;251-300;6.95;;;201-250;1.88;;;188;3.19;;;201-250;1.88;;;;;
+2024;propaganda-e-marketing;Centro Universitário Senac;SP;166;Privada;55;24.22;251-300;6.67;;;201-250;2.86;;;251-300;1.21;;;201-250;2.6;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Votuporanga;SP;167;Privada;55;24.22;251-300;6.36;;;201-250;2.42;;;201-250;2.11;;;201-250;1.83;;;;;
+2024;propaganda-e-marketing;Centro Universitário da Fundação Educacional Guaxupé;MG;168;Privada;55;24.22;251-300;5.79;;;156;4.01;;;251-300;0.7;;;251-300;1.08;;;;;
+2024;propaganda-e-marketing;Centro Universitário Multivix Vitória;ES;169;Privada;55;24.22;251-300;5.59;;;251-300;0.88;;;193;3.06;;;201-250;1.65;;;;;
+2024;propaganda-e-marketing;Centro Universitário Metrocamp Wyden;SP;170;Privada;55;24.22;251-300;5.58;;;201-250;2.62;;;251-300;1.26;;;201-250;1.7;;;;;
+2024;propaganda-e-marketing;Universidade Castelo Branco;RJ;171;Privada;;;60;29.5;;;201-250;2.29;;;201-250;1.98;;;251-300;0.31;24;24.92;;;
+2024;propaganda-e-marketing;Centro Universitário Academia;MG;172;Privada;55;24.22;251-300;4.47;;;177;3.47;;;251-300;0.67;;;251-300;0.33;;;;;
+2024;propaganda-e-marketing;Centro Universitário Moura Lacerda;SP;173;Privada;55;24.22;301-350;2.55;;;251-300;0.59;;;251-300;1.06;;;251-300;0.9;;;;;
+2024;propaganda-e-marketing;Centro Universitário Braz Cubas;SP;174;Privada;55;24.22;301-350;1.29;;;251-300;0.59;;;251-300;0.62;;;301-350;0.08;;;;;
+2024;propaganda-e-marketing;Universidade Estadual do Centro Oeste;PR;175;Estadual;;;63;22.48;;;16;7.61;;;1;8;;;45;6.87;;;;;
+2024;propaganda-e-marketing;Universidade Federal de Sergipe;SE;176;Federal;;;64;21.66;;;50;6.74;;;1;8;;;43;6.92;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Volta Redonda;RJ;177;Privada;;;65;21.07;;;41;6.97;;;1;8;;;75;6.1;;;;;
+2024;propaganda-e-marketing;Centro Universitário Unicarioca;RJ;178;Privada;;;66;20.91;;;109;5.22;;;1;8;;;13;7.69;;;;;
+2024;propaganda-e-marketing;Universidade do Estado do Rio Grande do Norte;RN;179;Estadual;;;70;19.76;;;55;6.61;;;1;8;;;112;5.15;;;;;
+2024;propaganda-e-marketing;Faculdade de Ensino Superior da Cidade de Feira de Santana;BA;180;Privada;;;71;19.55;;;86;5.81;;;1;8;;;89;5.74;;;;;
+2024;propaganda-e-marketing;Centro Universitário Projeção;DF;181;Privada;;;72;19.27;;;152;4.12;;;1;8;;;34;7.15;;;;;
+2024;propaganda-e-marketing;Universidade Federal do Recôncavo da Bahia;BA;181;Federal;;;72;19.27;;;84;5.87;;;1;8;;;102;5.4;;;;;
+2024;propaganda-e-marketing;Universidade de Marília;SP;183;Privada;;;75;19.09;;;67;6.3;;;1;8;;;126;4.79;;;;;
+2024;propaganda-e-marketing;Faculdade JK - Guará;DF;184;Privada;;;79;18.31;;;76;6.07;;;1;8;;;147;4.24;;;;;
+2024;propaganda-e-marketing;Centro Universitário Unic;MT;185;Privada;;;83;17.82;;;46;6.84;;;144;4.32;;;53;6.66;;;;;
+2024;propaganda-e-marketing;Centro Universitário Uniftc;BA;186;Privada;;;86;17.44;;;196;2.98;;;1;8;;;61;6.46;;;;;
+2024;propaganda-e-marketing;Faculdades Integradas de Bauru;SP;187;Privada;;;87;17.39;;;131;4.66;;;1;8;;;128;4.73;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Brasília;DF;188;Privada;;;90;16.98;;;190;3.14;;;68;6.28;;;18;7.56;;;;;
+2024;propaganda-e-marketing;Instituto Infnet Rio de Janeiro;RJ;189;Privada;;;92;16.8;;;52;6.69;;;1;8;;;201-250;2.11;;;;;
+2024;propaganda-e-marketing;Centro Universitário São Judas Tadeu;SP;190;Privada;;;93;16.77;;;79;5.99;;;102;5.4;;;103;5.38;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Distrito Federal;DF;191;Privada;;;94;16.71;;;189;3.16;;;72;6.17;;;25;7.38;;;;;
+2024;propaganda-e-marketing;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;192;Privada;;;95;16.69;;;18;7.56;;;123;4.86;;;146;4.27;;;;;
+2024;propaganda-e-marketing;Centro Universitário Ítalo-brasileiro;SP;193;Privada;;;98;16.59;;;251-300;0.59;;;1;8;;;1;8;;;;;
+2024;propaganda-e-marketing;Faculdade Anísio Teixeira de Feira de Santana;BA;194;Privada;;;99;16.56;;;4;7.92;;;1;8;;;251-300;0.64;;;;;
+2024;propaganda-e-marketing;Strong Business School;SP;195;Privada;;;101;16.37;;;70;6.23;;;173;3.58;;;57;6.56;;;;;
+2024;propaganda-e-marketing;Faculdade Pitágoras Unopar Anhanguera de Londrina;PR;196;Privada;;;103;16.33;;;120;4.94;;;130;4.68;;;51;6.71;;;;;
+2024;propaganda-e-marketing;Centro Universitário Uniasselvi de Guaramirim;SC;197;Privada;;;107;16.13;;;136;4.53;;;111;5.17;;;62;6.43;;;;;
+2024;propaganda-e-marketing;Centro Universitário União das Américas Descomplica;PR;198;Privada;;;109;16.02;;;114;5.09;;;1;8;;;198;2.93;;;;;
+2024;propaganda-e-marketing;Centro Universitário Sant'Anna;SP;199;Privada;;;113;15.9;;;190;3.14;;;1;8;;;127;4.76;;;;;
+2024;propaganda-e-marketing;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;200;Privada;;;115;15.72;;;192;3.09;;;83;5.89;;;50;6.74;;;;;
+2024;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Juazeiro do Norte;CE;201;Privada;;;171;12.25;;;251-300;1.42;;;1;8;;;201-250;2.83;;;;;
+2024;propaganda-e-marketing;Universidade Federal do Oeste da Bahia;BA;201;Federal;;;133;14.27;;;251-300;1;;;1;8;;;107;5.27;;;;;
+2024;propaganda-e-marketing;Centro Universitário Unibras do Sudoeste Goiano;GO;201;Privada;;;153;13.27;;;144;4.32;;;66;6.33;;;201-250;2.62;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Osasco;SP;201;Privada;;;185;11.78;;;251-300;1.03;;;151;4.14;;;55;6.61;;;;;
+2024;propaganda-e-marketing;Faculdades Integradas Adventistas de Minas Gerais;MG;201;Privada;;;166;12.58;;;7;7.85;;;189;3.16;;;251-300;1.57;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Jundiaí;SP;201;Privada;;;165;12.79;;;251-300;0.59;;;108;5.25;;;42;6.95;;;;;
+2024;propaganda-e-marketing;Centro Universitário Uniasselvi de Blumenau ;SC;201;Privada;;;181;11.86;;;251-300;1.16;;;129;4.71;;;79;5.99;;;;;
+2024;propaganda-e-marketing;Centro Universitário Sociesc de Blumenau;SC;201;Privada;;;135;14.18;;;194;3.04;;;70;6.23;;;121;4.91;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio da Amazônia;RR;201;Privada;;;197;11.22;;;201-250;2.68;;;1;8;;;251-300;0.54;;;;;
+2024;propaganda-e-marketing;Faculdade Dois de Julho;BA;201;Privada;;;201-250;10.73;;;251-300;0.8;;;1;8;;;201-250;1.93;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Piauí;PI;201;Privada;;;195;11.32;;;201-250;1.85;;;1;8;;;251-300;1.47;;;;;
+2024;propaganda-e-marketing;Instituto Superior do Litoral do Paraná;PR;201;Privada;;;201-250;10.52;;;201-250;1.72;;;1;8;;;251-300;0.8;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio de Ribeirão Preto;SP;201;Privada;;;140;14.02;;;44;6.89;;;201-250;1.7;;;101;5.43;;;;;
+2024;propaganda-e-marketing;Centro Universitário Satc;SC;201;Privada;;;179;12.01;;;45;6.87;;;251-300;1.36;;;165;3.78;;;;;
+2024;propaganda-e-marketing;Faculdade Uberlandense de Núcleos Integrados de Ensino, Serviço Social e Aprendizagem;MG;201;Privada;;;149;13.48;;;27;7.33;;;109;5.22;;;251-300;0.93;;;;;
+2024;propaganda-e-marketing;Faculdades Integradas de Três Lagoas;MS;201;Privada;;;158;12.96;;;251-300;0.95;;;1;8;;;156;4.01;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Campinas;SP;201;Privada;;;146;13.81;;;251-300;0.59;;;100;5.45;;;10;7.77;;;;;
+2024;propaganda-e-marketing;Centro Universitário do Paraná;PR;201;Privada;;;186;11.75;;;201-250;1.72;;;97;5.53;;;137;4.5;;;;;
+2024;propaganda-e-marketing;Centro Universitário Presidente Antônio Carlos;MG;201;Privada;;;152;13.33;;;20;7.51;;;127;4.76;;;251-300;1.06;;;;;
+2024;propaganda-e-marketing;Universidade Santo Amaro;SP;201;Privada;;;171;12.25;;;201-250;2.32;;;86;5.81;;;152;4.12;;;;;
+2024;propaganda-e-marketing;Centro Universitário La Salle do Rio de Janeiro;RJ;201;Privada;;;150;13.43;;;201-250;1.98;;;153;4.09;;;26;7.36;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Limeira;SP;201;Privada;;;178;12.03;;;251-300;0.59;;;135;4.55;;;44;6.89;;;;;
+2024;propaganda-e-marketing;Faculdade Estácio de Sá de Campo Grande;MS;201;Privada;;;164;12.81;;;133;4.61;;;201-250;1.9;;;67;6.3;;;;;
+2024;propaganda-e-marketing;Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente;SP;201;Privada;;;125;14.82;;;251-300;0.59;;;1;8;;;70;6.23;;;;;
+2024;propaganda-e-marketing;Centro Universitário Zarns;BA;201;Privada;;;123;14.97;;;251-300;0.8;;;1;8;;;72;6.17;;;;;
+2024;propaganda-e-marketing;Faculdade Esamc Santos;SP;201;Privada;;;201-250;11;;;23;7.43;;;179;3.42;;;301-350;0.15;;;;;
+2024;propaganda-e-marketing;Centro Universitário Araguaia;GO;201;Privada;;;193;11.44;;;78;6.02;;;182;3.34;;;201-250;2.08;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Linhares;ES;201;Privada;;;131;14.39;;;251-300;0.88;;;77;6.05;;;22;7.46;;;;;
+2024;propaganda-e-marketing;Faculdade Interamericana de Porto Velho;RO;201;Privada;;;201-250;10.47;;;130;4.68;;;124;4.84;;;251-300;0.95;;;;;
+2024;propaganda-e-marketing;Faculdade de Comunicação Anhanguera Unidade Guarapari;ES;201;Privada;;;143;13.85;;;251-300;0.88;;;96;5.56;;;24;7.41;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Taubaté;SP;201;Privada;;;180;11.94;;;251-300;0.59;;;134;4.58;;;49;6.77;;;;;
+2024;propaganda-e-marketing;Faculdade Mais de Ituiutaba;MG;201;Privada;;;161;12.91;;;201-250;2.75;;;1;8;;;201-250;2.16;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Piracicaba;SP;201;Privada;;;174;12.2;;;251-300;0.59;;;133;4.61;;;40;7;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio de Brasília;DF;201;Privada;;;184;11.78;;;141;4.4;;;251-300;1.31;;;76;6.07;;;;;
+2024;propaganda-e-marketing;Centro Universitário Adventista de São Paulo;SP;201;Privada;;;201-250;10.76;;;113;5.12;;;201-250;2.78;;;201-250;2.86;;;;;
+2024;propaganda-e-marketing;Centro Universitário Unirb;BA;201;Privada;;;130;14.41;;;251-300;0.8;;;1;8;;;94;5.61;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de São José;SP;201;Privada;;;154;13.09;;;251-300;0.59;;;122;4.89;;;16;7.61;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de São José-SC;SC;201;Privada;;;134;14.21;;;251-300;1.16;;;84;5.87;;;33;7.18;;;;;
+2024;propaganda-e-marketing;Faculdade Anhanguera de Jacareí;SP;201;Privada;;;141;13.94;;;251-300;0.59;;;85;5.84;;;20;7.51;;;;;
+2024;propaganda-e-marketing;Centro Universitário Uniasselvi de Brusque;SC;201;Privada;;;166;12.58;;;251-300;1.16;;;114;5.09;;;66;6.33;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Excelência de Vitória da Conquista;BA;201;Privada;;;120;15.21;;;251-300;0.8;;;1;8;;;63;6.41;;;;;
+2024;propaganda-e-marketing;Centro Universitário Facvest;SC;201;Privada;;;182;11.84;;;251-300;1.16;;;1;8;;;201-250;2.68;;;;;
+2024;propaganda-e-marketing;Universidade Luterana do Brasil;RS;201;Privada;;;138;14.08;;;124;4.84;;;92;5.66;;;173;3.58;;;;;
+2024;propaganda-e-marketing;Centro Universitário Curitiba;PR;201;Privada;;;170;12.45;;;201-250;1.75;;;93;5.63;;;115;5.07;;;;;
+2024;propaganda-e-marketing;Centro Universitário Campo Real;PR;201;Privada;;;144;13.84;;;60;6.48;;;116;5.04;;;201-250;2.32;;;;;
+2024;propaganda-e-marketing;Universidade do Oeste Paulista;SP;201;Privada;;;119;15.44;;;173;3.58;;;95;5.58;;;68;6.28;;;;;
+2024;propaganda-e-marketing;Faculdade Paulus de Tecnologia e Comunicação;SP;201;Privada;;;200;11.16;;;66;6.33;;;251-300;1.18;;;170;3.65;;;;;
+2024;propaganda-e-marketing;Faculdades Integradas de Jahu;SP;201;Privada;;;142;13.87;;;42;6.95;;;201-250;2.5;;;140;4.42;;;;;
+2024;propaganda-e-marketing;Centro Universitário Unicuritiba;PR;201;Privada;;;194;11.36;;;201-250;1.72;;;88;5.76;;;161;3.88;;;;;
+2024;propaganda-e-marketing;Faculdade JK - Unidade II - Gama;DF;201;Privada;;;201-250;10.42;;;251-300;1.29;;;97;5.53;;;172;3.6;;;;;
+2024;propaganda-e-marketing;Centro Universitário Fundação Santo André;SP;251;Privada;;;251-300;6.74;;;251-300;0.59;;;201-250;2.86;;;184;3.29;;;;;
+2024;propaganda-e-marketing;Centro Universitário Opet;PR;251;Privada;;;251-300;5.83;;;201-250;1.72;;;201-250;2.39;;;201-250;1.72;;;;;
+2024;propaganda-e-marketing;Universidade Municipal de São Caetano do Sul;SP;251;Municipal;;;201-250;8.1;;;201-250;2.03;;;251-300;0.49;;;95;5.58;;;;;
+2024;propaganda-e-marketing;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;251;Privada;;;251-300;7.82;;;201-250;1.98;;;251-300;0.98;;;123;4.86;;;;;
+2024;propaganda-e-marketing;Centro Universitário Fadergs;RS;251;Privada;;;251-300;4.81;;;201-250;2.26;;;251-300;0.41;;;201-250;2.14;;;;;
+2024;propaganda-e-marketing;Centro Universitário Padre Anchieta;SP;251;Privada;;;201-250;9.14;;;132;4.63;;;251-300;1.29;;;187;3.22;;;;;
+2024;propaganda-e-marketing;Centro Universitário Dom Bosco do Rio de Janeiro;RJ;251;Privada;;;251-300;7.51;;;83;5.89;;;251-300;0.51;;;251-300;1.11;;;;;
+2024;propaganda-e-marketing;Centro Universitário Vale do Cricaré;ES;251;Privada;;;251-300;7.05;;;201-250;2.34;;;197;2.96;;;201-250;1.75;;;;;
+2024;propaganda-e-marketing;Centro Universitário Fieo;SP;251;Privada;;;251-300;4.88;;;128;4.73;;;301-350;0.05;;;301-350;0.1;;;;;
+2024;propaganda-e-marketing;Centro Universitário Campo Limpo Paulista;SP;251;Privada;;;251-300;6.09;;;200;2.88;;;201-250;2.62;;;251-300;0.59;;;;;
+2024;propaganda-e-marketing;Instituto de Ensino Superior de Teresina;PI;251;Privada;;;201-250;9.08;;;201-250;1.85;;;88;5.76;;;251-300;1.47;;;;;
+2024;propaganda-e-marketing;Centro Universitário Eurípedes de Marília;SP;251;Privada;;;251-300;6.13;;;163;3.83;;;251-300;1.42;;;251-300;0.88;;;;;
+2024;propaganda-e-marketing;Centro Universitário Metodista;RS;251;Privada;;;251-300;5.53;;;201-250;2.26;;;251-300;0.44;;;201-250;2.83;;;;;
+2024;propaganda-e-marketing;Faculdade do Litoral Sul Paulista;SP;251;Privada;;;201-250;9.75;;;251-300;0.93;;;74;6.12;;;201-250;2.7;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio de Santa Catarina;SC;251;Privada;;;201-250;8.85;;;201-250;2.14;;;301-350;0.18;;;58;6.53;;;;;
+2024;propaganda-e-marketing;Faculdade Cesumar de Ponta Grossa;PR;251;Privada;;;251-300;7.92;;;174;3.55;;;201-250;1.72;;;201-250;2.65;;;;;
+2024;propaganda-e-marketing;Centro Universitário Módulo;SP;251;Privada;;;251-300;4.96;;;251-300;1.18;;;301-350;0.26;;;175;3.52;;;;;
+2024;propaganda-e-marketing;Faculdade Promove de Sete Lagoas;MG;251;Privada;;;201-250;8.11;;;17;7.59;;;301-350;0.03;;;251-300;0.49;;;;;
+2024;propaganda-e-marketing;Faculdade Estácio Macapá;AP;251;Privada;;;251-300;6.12;;;201-250;2.57;;;185;3.27;;;301-350;0.28;;;;;
+2024;propaganda-e-marketing;Centro Universitário da Amazônia;PA;251;Privada;;;251-300;7.62;;;146;4.27;;;201-250;2.6;;;251-300;0.75;;;;;
+2024;propaganda-e-marketing;Faculdade de Palmas;TO;251;Privada;;;251-300;6.05;;;201-250;2.57;;;185;3.27;;;301-350;0.21;;;;;
+2024;propaganda-e-marketing;Universidade do Vale do Paraíba;SP;251;Privada;;;251-300;4.68;;;201-250;1.9;;;251-300;0.8;;;201-250;1.98;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio de São Luís;MA;251;Privada;;;201-250;9.49;;;166;3.76;;;201-250;1.85;;;161;3.88;;;;;
+2024;propaganda-e-marketing;Universidade Nilton Lins;AM;251;Privada;;;251-300;4.91;;;201-250;2.57;;;201-250;2.29;;;301-350;0.05;;;;;
+2024;propaganda-e-marketing;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;251-300;6.38;;;115;5.07;;;301-350;0.15;;;251-300;1.16;;;;;
+2024;propaganda-e-marketing;Fiam-faam - Centro Universitário;SP;251;Privada;;;251-300;6.48;;;251-300;1.49;;;251-300;1.52;;;177;3.47;;;;;
+2024;propaganda-e-marketing;Faculdade Eduvale de Avaré;SP;251;Privada;;;251-300;7.46;;;136;4.53;;;251-300;1.39;;;251-300;1.54;;;;;
+2024;propaganda-e-marketing;Centro Universitário Teresa D'ávila;SP;251;Privada;;;251-300;5.91;;;154;4.06;;;251-300;0.36;;;251-300;1.49;;;;;
+2024;propaganda-e-marketing;Faculdade Esamc São Paulo;SP;251;Privada;;;251-300;4.74;;;251-300;0.59;;;201-250;2.68;;;251-300;1.47;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Salvador;BA;251;Privada;;;251-300;7.36;;;251-300;0.8;;;64;6.38;;;301-350;0.18;;;;;
+2024;propaganda-e-marketing;Centro Universitário das Faculdades Associadas de Ensino;SP;251;Municipal;;;201-250;10.06;;;201-250;2.78;;;156;4.01;;;185;3.27;;;;;
+2024;propaganda-e-marketing;Faculdade São Francisco de Assis;RS;251;Privada;;;251-300;5.55;;;201-250;2.26;;;251-300;1.03;;;201-250;2.26;;;;;
+2024;propaganda-e-marketing;Faculdade de Americana;SP;251;Privada;;;251-300;4.96;;;151;4.14;;;251-300;0.59;;;301-350;0.23;;;;;
+2024;propaganda-e-marketing;Faculdade Unibras da Bahia;BA;251;Privada;;;251-300;6.23;;;251-300;0.8;;;119;4.97;;;251-300;0.46;;;;;
+2024;propaganda-e-marketing;Faculdade Paulista de Comunicação;SP;251;Privada;;;201-250;10.03;;;181;3.37;;;168;3.7;;;197;2.96;;;;;
+2024;propaganda-e-marketing;Centro Universitário Sul-americana;GO;251;Privada;;;251-300;6.1;;;143;4.35;;;251-300;0.77;;;251-300;0.98;;;;;
+2024;propaganda-e-marketing;Centro Universitário Autônomo do Brasil;PR;251;Privada;;;201-250;10.37;;;157;3.99;;;201-250;2.44;;;159;3.94;;;;;
+2024;propaganda-e-marketing;Centro Universitário Farias Brito;CE;251;Privada;;;251-300;5.05;;;251-300;1.42;;;201-250;2.01;;;201-250;1.62;;;;;
+2024;propaganda-e-marketing;Faculdade Maringá;PR;251;Privada;;;251-300;5.25;;;176;3.5;;;251-300;0.98;;;251-300;0.77;;;;;
+2024;propaganda-e-marketing;Faculdade Esamc Sorocaba;SP;251;Privada;;;201-250;9.98;;;65;6.35;;;195;3.01;;;251-300;0.62;;;;;
+2024;propaganda-e-marketing;Universidade Salgado de Oliveira;RJ;251;Privada;;;251-300;5.56;;;201-250;1.98;;;201-250;1.78;;;201-250;1.8;;;;;
+2024;propaganda-e-marketing;Faculdade de Viçosa;MG;251;Privada;;;251-300;6.12;;;185;3.27;;;251-300;0.33;;;201-250;2.52;;;;;
+2024;propaganda-e-marketing;"Faculdade de Comunicação e Design ""Oswaldo Cruz""";SP;251;Privada;;;251-300;4.71;;;201-250;2.6;;;251-300;1.54;;;251-300;0.57;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Tecnologia de Curitiba;PR;251;Privada;;;251-300;4.86;;;201-250;1.72;;;251-300;0.57;;;201-250;2.57;;;;;
+2024;propaganda-e-marketing;Faculdade Estácio do Rio Grande do Norte;RN;251;Privada;;;201-250;8.75;;;94;5.61;;;201-250;2.29;;;251-300;0.85;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio Meta de Rio Branco Estácio;AC;251;Privada;;;251-300;4.68;;;201-250;2.57;;;201-250;1.7;;;251-300;0.41;;;;;
+2024;propaganda-e-marketing;Faculdade Hélio Rocha;BA;251;Privada;;;201-250;9.08;;;251-300;0.8;;;1;8;;;301-350;0.28;;;;;
+2024;propaganda-e-marketing;Faculdade Internacional da Paraíba;PB;251;Privada;;;251-300;7.54;;;251-300;1.47;;;201-250;2.03;;;155;4.04;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Excelência Eniac;SP;251;Privada;;;251-300;7.18;;;251-300;0.59;;;180;3.4;;;188;3.19;;;;;
+2024;propaganda-e-marketing;Centro Universitário Estácio de São Paulo;SP;251;Privada;;;201-250;10.06;;;251-300;0.59;;;1;8;;;251-300;1.47;;;;;
+2024;propaganda-e-marketing;Centro Universitário de Adamantina;SP;301;Municipal;;;301-350;2.01;;;251-300;0.59;;;301-350;0.08;;;251-300;1.34;;;;;
+2024;propaganda-e-marketing;Faculdade Esamc Jundiaí;SP;301;Privada;;;301-350;2.35;;;251-300;1.24;;;251-300;1.08;;;301-350;0.03;;;;;
+2024;propaganda-e-marketing;Instituto Municipal de Ensino Superior de Assis;SP;301;Municipal;;;301-350;3.8;;;251-300;0.59;;;201-250;2.21;;;251-300;1;;;;;
+2024;propaganda-e-marketing;Faculdade de Educação São Luís;SP;301;Privada;;;301-350;1.95;;;251-300;0.59;;;251-300;1;;;251-300;0.36;;;;;
+2024;propaganda-e-marketing;Centro Universitário Cearense;CE;301;Privada;;;301-350;2.22;;;251-300;1.42;;;301-350;0.1;;;251-300;0.7;;;;;
+2024;propaganda-e-marketing;Centro Universitário Metropolitano de Maringá;PR;301;Privada;;;301-350;3.08;;;201-250;1.72;;;251-300;0.54;;;251-300;0.82;;;;;
+2024;propaganda-e-marketing;Centro Universitário Cnec de Bento Gonçalves;RS;301;Privada;;;251-300;4.4;;;201-250;2.26;;;301-350;0.13;;;201-250;2.01;;;;;
+2024;propaganda-e-marketing;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;301;Privada;;;301-350;3.1;;;251-300;1.29;;;301-350;0.21;;;201-250;1.6;;;;;
+2024;propaganda-e-marketing;Faculdade Novo Milênio;ES;301;Privada;;;301-350;4.01;;;251-300;1.21;;;251-300;1.49;;;251-300;1.31;;;;;
+2024;propaganda-e-marketing;Instituto Superior de Ciências Aplicadas;SP;301;Privada;;;251-300;4.44;;;177;3.47;;;251-300;0.46;;;251-300;0.51;;;;;
+2024;propaganda-e-marketing;Faculdades Integradas de Fernandópolis;SP;301;Privada;;;301-350;4.22;;;251-300;0.59;;;201-250;1.7;;;201-250;1.93;;;;;
+2025;propaganda-e-marketing;Universidade Federal do Rio de Janeiro;RJ;1;Federal;5;29.12;1;67.75;;;9;7.78;;;1;8;;;18;7.54;3;38.43;1;1;6
+2025;propaganda-e-marketing;Universidade Federal de Minas Gerais;MG;2;Federal;5;29.12;4;65.78;;;3;7.95;;;1;8;;;3;7.95;3;38.43;2;115;3.45
+2025;propaganda-e-marketing;Universidade de São Paulo;SP;3;Estadual;1;30;5;63.19;;;201-250;1.89;;;1;8;;;2;7.97;1;40;3;31;5.33
+2025;propaganda-e-marketing;Universidade Federal do Paraná;PR;4;Federal;23;25.18;2;67.58;;;5;7.89;;;1;8;;;1;8;3;38.43;4;34;5.26
+2025;propaganda-e-marketing;Universidade Federal do Rio Grande do Sul;RS;5;Federal;23;25.18;3;66.86;;;1;8;;;1;8;;;11;7.73;3;38.43;5;59;4.7
+2025;propaganda-e-marketing;Universidade Federal de Pernambuco;PE;6;Federal;5;29.12;6;60.1;;;21;7.46;;;1;8;;;28;7.27;12;31.37;6;1;6
+2025;propaganda-e-marketing;Pontifícia Universidade Católica de São Paulo;SP;7;Privada;5;29.12;8;59.58;;;175;3.3;;;71;6.11;;;29;7.24;3;38.43;1;68;4.5
+2025;propaganda-e-marketing;Escola Superior de Propaganda e Marketing;SP;8;Privada;1;30;11;58.25;;;118;4.84;;;201-250;1.54;;;63;6.32;1;40;2;21;5.55
+2025;propaganda-e-marketing;Pontifícia Universidade Católica do Rio Grande do Sul;RS;9;Privada;5;29.12;10;58.89;;;115;4.92;;;134;4.41;;;74;6.03;3;38.43;3;41;5.1
+2025;propaganda-e-marketing;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;10;Privada;5;29.12;12;58.11;;;88;5.65;;;201-250;2.11;;;60;6.41;3;38.43;4;23;5.51
+2025;propaganda-e-marketing;Universidade Presbiteriana Mackenzie;SP;11;Privada;3;29.56;14;55.99;;;184;3.05;;;179;3.19;;;68;6.19;3;38.43;5;40;5.13
+2025;propaganda-e-marketing;Universidade de Brasília;DF;12;Federal;23;25.18;7;59.62;;;22;7.43;;;1;8;;;14;7.65;12;31.37;7;38;5.17
+2025;propaganda-e-marketing;Universidade Federal de Goiás;GO;13;Federal;23;25.18;13;57.02;;;34;7.11;;;1;8;;;33;7.14;12;31.37;8;117;3.4
+2025;propaganda-e-marketing;Pontifícia Universidade Católica de Minas Gerais;MG;14;Privada;5;29.12;17;51.09;;;90;5.6;;;144;4.14;;;95;5.46;12;31.37;6;67;4.52
+2025;propaganda-e-marketing;Pontifícia Universidade Católica do Paraná;PR;15;Privada;5;29.12;18;50.81;;;63;6.32;;;160;3.7;;;107;5.14;12;31.37;7;78;4.28
+2025;propaganda-e-marketing;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;16;Privada;23;25.18;15;52.94;;;6;7.87;;;157;3.78;;;83;5.78;12;31.37;8;84;4.14
+2025;propaganda-e-marketing;Universidade Federal do Rio Grande do Norte;RN;17;Federal;5;29.12;23;48.96;;;39;6.97;;;1;8;;;21;7.46;24;21.96;9;65;4.57
+2025;propaganda-e-marketing;Pontifícia Universidade Católica de Campinas;SP;18;Privada;23;25.18;19;50.65;;;201-250;1.68;;;251-300;0.68;;;117;4.87;3;38.43;9;46;4.99
+2025;propaganda-e-marketing;Centro Universitário Belas Artes de São Paulo;SP;19;Privada;23;25.18;20;50.64;;;146;4.08;;;87;5.68;;;48;6.73;12;31.37;10;145;2.78
+2025;propaganda-e-marketing;Universidade Federal de Santa Maria;RS;20;Federal;68;15.33;9;59.32;;;30;7.22;;;1;8;;;5;7.89;12;31.37;10;53;4.84
+2025;propaganda-e-marketing;Universidade Federal Fluminense;RJ;21;Federal;23;25.18;22;49;;;9;7.78;;;1;8;;;12;7.7;24;21.96;11;110;3.56
+2025;propaganda-e-marketing;Faculdade Cásper Líbero;SP;22;Privada;5;29.12;27;44.79;;;196;2.73;;;251-300;0.46;;;87;5.68;12;31.37;11;66;4.55
+2025;propaganda-e-marketing;Pontifícia Universidade Católica do Rio de Janeiro;RJ;23;Privada;23;25.18;24;48.33;;;64;6.3;;;251-300;0.35;;;98;5.38;12;31.37;12;49;4.93
+2025;propaganda-e-marketing;Universidade do Vale do Rio dos Sinos;RS;24;Privada;23;25.18;25;46.72;;;40;6.95;;;75;6;;;16;7.6;24;21.96;13;81;4.21
+2025;propaganda-e-marketing;Universidade Estácio de Sá;RJ;25;Privada;5;29.12;31;40.53;;;156;3.81;;;117;4.87;;;85;5.73;24;21.96;14;83;4.16
+2025;propaganda-e-marketing;Centro Universitário Armando Alvares Penteado;SP;26;Privada;5;29.12;34;39.95;;;201-250;1.97;;;251-300;0.41;;;139;4.27;12;31.37;15;183;1.93
+2025;propaganda-e-marketing;Universidade Veiga de Almeida;RJ;27;Privada;23;25.18;29;43.69;;;12;7.7;;;150;3.97;;;112;5;24;21.96;16;43;5.06
+2025;propaganda-e-marketing;Universidade Federal do Pará;PA;28;Federal;68;15.33;16;51.15;;;28;7.27;;;1;8;;;4;7.92;24;21.96;12;1;6
+2025;propaganda-e-marketing;Centro Universitário de Várzea Grande;MT;29;Privada;23;25.18;33;40.24;;;46;6.78;;;123;4.7;;;157;3.78;24;21.96;17;134;3.02
+2025;propaganda-e-marketing;Centro Universitário Ibmec;RJ;30;Privada;68;15.33;21;49.64;;;147;4.05;;;251-300;0.6;;;15;7.62;12;31.37;18;1;6
+2025;propaganda-e-marketing;Pontifícia Universidade Católica de Goiás;GO;31;Privada;23;25.18;38;38.39;;;79;5.89;;;201-250;1.38;;;124;4.68;24;21.96;19;69;4.48
+2025;propaganda-e-marketing;Universidade Anhembi Morumbi;SP;32;Privada;5;29.12;46;34.15;;;159;3.73;;;201-250;2.6;;;145;4.11;24;21.96;20;191;1.75
+2025;propaganda-e-marketing;Universidade Nove de Julho;SP;33;Privada;23;25.18;43;37.21;;;251-300;0.84;;;192;2.84;;;71;6.11;24;21.96;21;25;5.46
+2025;propaganda-e-marketing;Universidade Cesumar;PR;34;Privada;23;25.18;44;36.92;;;107;5.14;;;201-250;1.92;;;186;3;24;21.96;22;50;4.9
+2025;propaganda-e-marketing;Universidade Paulista;SP;35;Privada;3;29.56;49;31.73;;;178;3.22;;;137;4.32;;;251-300;1.11;24;21.96;23;201-250;1.12
+2025;propaganda-e-marketing;Universidade do Vale do Itajaí;SC;36;Privada;23;25.18;45;36.06;;;98;5.38;;;186;3;;;155;3.84;24;21.96;24;185;1.88
+2025;propaganda-e-marketing;Centro Universitário Leonardo da Vinci;SC;37;Privada;68;15.33;28;43.88;;;251-300;1.11;;;1;8;;;45;6.81;24;21.96;25;1;6
+2025;propaganda-e-marketing;Universidade do Oeste de Santa Catarina;SC;38;Privada;68;15.33;30;43.41;;;87;5.68;;;1;8;;;70;6.14;24;21.96;26;196;1.63
+2025;propaganda-e-marketing;Universidade Federal do Ceará;CE;39;Federal;5;29.12;53;27.2;;;14;7.65;;;1;8;;;66;6.24;;;13;32;5.31
+2025;propaganda-e-marketing;Centro Universitário Álvares Penteado;SP;40;Privada;68;15.33;32;40.26;;;59;6.43;;;181;3.14;;;27;7.3;24;21.96;27;201-250;1.43
+2025;propaganda-e-marketing;Universidade Cruzeiro do Sul;SP;41;Privada;23;25.18;50;30.29;;;251-300;1.22;;;201-250;2.46;;;165;3.57;24;21.96;28;201-250;1.08
+2025;propaganda-e-marketing;Faculdade Esamc Uberlândia;MG;42;Privada;68;15.33;35;39.42;;;96;5.43;;;1;8;;;251-300;0.43;24;21.96;29;108;3.6
+2025;propaganda-e-marketing;Universidade Regional de Blumenau;SC;43;Municipal;68;15.33;36;39.06;;;72;6.08;;;200;2.62;;;94;5.49;24;21.96;14;139;2.91
+2025;propaganda-e-marketing;Faculdades Integradas Hélio Alonso;RJ;44;Privada;68;15.33;37;38.53;;;124;4.68;;;172;3.38;;;182;3.11;24;21.96;30;28;5.4
+2025;propaganda-e-marketing;FAE Centro Universitário;PR;45;Privada;68;15.33;39;38.25;;;75;6;;;201-250;2.16;;;142;4.19;24;21.96;31;93;3.94
+2025;propaganda-e-marketing;Centro Universitário Assis Gurgacz;PR;46;Privada;68;15.33;40;38.13;;;2;7.97;;;67;6.22;;;251-300;0.32;24;21.96;32;195;1.66
+2025;propaganda-e-marketing;Centro Universitário Ibmr;RJ;47;Privada;68;15.33;42;37.4;;;152;3.92;;;196;2.73;;;131;4.49;24;21.96;33;77;4.3
+2025;propaganda-e-marketing;Universidade Federal do Espírito Santo;ES;48;Federal;23;25.18;52;27.21;;;11;7.73;;;1;8;;;34;7.11;;;15;74;4.37
+2025;propaganda-e-marketing;Universidade de Fortaleza;CE;49;Privada;5;29.12;117;17.55;;;68;6.19;;;121;4.76;;;172;3.38;;;34;125;3.22
+2025;propaganda-e-marketing;Universidade do Estado de Minas Gerais;MG;50;Estadual;23;25.18;69;21.47;;;97;5.41;;;1;8;;;156;3.81;;;16;79;4.25
+2025;propaganda-e-marketing;Universidade Católica de Brasília;DF;51;Privada;23;25.18;71;21.41;;;38;7;;;86;5.7;;;55;6.54;;;35;172;2.17
+2025;propaganda-e-marketing;Fundação Universidade Federal do Pampa;RS;52;Federal;;;26;45.17;;;72;6.08;;;1;8;;;23;7.41;24;21.96;17;192;1.72
+2025;propaganda-e-marketing;Centro Universitário de Brasília;DF;53;Privada;5;29.12;139;15.87;;;117;4.87;;;251-300;0.7;;;119;4.81;;;36;24;5.49
+2025;propaganda-e-marketing;Universidade Santa Cecília;SP;54;Privada;23;25.18;85;19.65;;;110;5.05;;;124;4.68;;;114;4.95;;;37;47;4.97
+2025;propaganda-e-marketing;Universidade de Ribeirão Preto;SP;55;Privada;23;25.18;86;19.6;;;155;3.84;;;84;5.76;;;92;5.54;;;38;70;4.46
+2025;propaganda-e-marketing;Universidade Católica de Santos;SP;55;Privada;23;25.18;86;19.6;;;167;3.51;;;59;6.43;;;40;6.95;;;38;148;2.71
+2025;propaganda-e-marketing;Centro Universitário Faesa;ES;57;Privada;23;25.18;95;18.63;;;26;7.32;;;61;6.38;;;201-250;1.95;;;40;136;2.98
+2025;propaganda-e-marketing;Centro Universitário Maurício de Nassau;PE;58;Privada;5;29.12;158;14.67;;;164;3.6;;;99;5.35;;;141;4.22;;;41;201-250;1.5
+2025;propaganda-e-marketing;União das Faculdades dos Grandes Lagos;SP;59;Privada;23;25.18;98;18.38;;;19;7.51;;;1;8;;;201-250;1.41;;;42;201-250;1.46
+2025;propaganda-e-marketing;Universidade Comunitária da Região de Chapecó;SC;60;Privada;23;25.18;102;18.34;;;29;7.24;;;108;5.11;;;197;2.7;;;43;122;3.29
+2025;propaganda-e-marketing;Universidade de Caxias do Sul;RS;61;Privada;23;25.18;107;18.15;;;127;4.6;;;182;3.11;;;88;5.65;;;44;55;4.79
+2025;propaganda-e-marketing;Centro Universitário Una;MG;62;Privada;23;25.18;115;17.74;;;51;6.65;;;185;3.03;;;56;6.51;;;45;200;1.55
+2025;propaganda-e-marketing;Universidade São Judas Tadeu;SP;63;Privada;23;25.18;142;15.76;;;136;4.35;;;164;3.6;;;76;5.97;;;46;187;1.84
+2025;propaganda-e-marketing;Centro Universitário Central Paulista;SP;64;Privada;23;25.18;144;15.69;;;176;3.27;;;166;3.54;;;54;6.57;;;47;166;2.31
+2025;propaganda-e-marketing;Universidade Vila Velha;ES;65;Privada;23;25.18;145;15.6;;;36;7.05;;;189;2.92;;;201-250;2;;;48;107;3.63
+2025;propaganda-e-marketing;Universidade Federal de Mato Grosso;MT;66;Federal;68;15.33;56;25.42;;;116;4.89;;;1;8;;;10;7.76;;;18;56;4.77
+2025;propaganda-e-marketing;Centro Universitário Estácio do Ceará;CE;67;Privada;23;25.18;146;15.47;;;133;4.43;;;119;4.81;;;201-250;1.6;;;49;62;4.63
+2025;propaganda-e-marketing;Universidade Positivo;PR;68;Privada;68;15.33;58;25.3;;;33;7.14;;;58;6.46;;;86;5.7;;;50;1;6
+2025;propaganda-e-marketing;Universidade Católica Dom Bosco;MS;69;Privada;68;15.33;59;25.1;;;53;6.6;;;1;8;;;79;5.89;;;51;63;4.61
+2025;propaganda-e-marketing;Universidade de Marília;SP;70;Privada;68;15.33;62;24.41;;;67;6.22;;;1;8;;;118;4.84;;;52;30;5.35
+2025;propaganda-e-marketing;Centro Universitário do Instituto de Educação Superior de Brasília;DF;71;Privada;23;25.18;176;14.05;;;106;5.16;;;201-250;2.43;;;198;2.68;;;53;100;3.78
+2025;propaganda-e-marketing;Universidade da Amazônia;PA;72;Privada;23;25.18;177;14.01;;;144;4.14;;;153;3.89;;;184;3.05;;;54;138;2.93
+2025;propaganda-e-marketing;Universidade Católica de Pernambuco;PE;73;Privada;5;29.12;201-250;10.01;;;201-250;1.92;;;251-300;0.51;;;126;4.62;;;55;137;2.96
+2025;propaganda-e-marketing;Universidade de Passo Fundo;RS;74;Privada;23;25.18;182;13.8;;;201-250;2.11;;;146;4.08;;;113;4.97;;;56;151;2.64
+2025;propaganda-e-marketing;Centro Universitário - Uniesp;PB;75;Privada;23;25.18;185;13.65;;;179;3.19;;;120;4.78;;;201-250;1.76;;;57;94;3.92
+2025;propaganda-e-marketing;Universidade Salvador;BA;76;Privada;23;25.18;186;13.63;;;100;5.32;;;159;3.73;;;201-250;2.3;;;58;167;2.28
+2025;propaganda-e-marketing;Centro Universitário Univel;PR;77;Privada;23;25.18;196;13.16;;;15;7.62;;;201-250;2.49;;;251-300;0.97;;;59;176;2.08
+2025;propaganda-e-marketing;Faculdades de Campinas;SP;78;Privada;;;41;38.11;;;58;6.46;;;251-300;0.97;;;121;4.76;24;21.96;60;92;3.96
+2025;propaganda-e-marketing;Faculdade Eduvale de Avaré;SP;79;Privada;23;25.18;201-250;11.83;;;134;4.41;;;201-250;1.81;;;201-250;1.38;;;61;80;4.23
+2025;propaganda-e-marketing;Universidade Fumec;MG;80;Privada;23;25.18;201-250;11.47;;;183;3.08;;;184;3.05;;;201-250;2.16;;;62;127;3.18
+2025;propaganda-e-marketing;Universidade Potiguar;RN;81;Privada;23;25.18;201-250;11.24;;;201-250;1.95;;;165;3.57;;;140;4.24;;;63;201-250;1.48
+2025;propaganda-e-marketing;Universidade de Franca;SP;82;Privada;23;25.18;201-250;11.06;;;158;3.76;;;201-250;2.08;;;138;4.3;;;64;201-250;0.92
+2025;propaganda-e-marketing;Universidade de Sorocaba;SP;83;Privada;23;25.18;201-250;10.78;;;201-250;2.57;;;251-300;0.62;;;105;5.19;;;65;162;2.4
+2025;propaganda-e-marketing;Universidade do Oeste Paulista;SP;84;Privada;68;15.33;76;20.47;;;170;3.43;;;76;5.97;;;73;6.05;;;66;45;5.02
+2025;propaganda-e-marketing;Universidade Feevale;RS;85;Privada;68;15.33;78;20.31;;;31;7.19;;;126;4.62;;;115;4.92;;;67;109;3.58
+2025;propaganda-e-marketing;Universidade Franciscana;RS;86;Privada;68;15.33;79;20.28;;;76;5.97;;;1;8;;;109;5.08;;;68;201-250;1.23
+2025;propaganda-e-marketing;Universidade Evangélica de Goiás;GO;87;Privada;68;15.33;81;20.06;;;49;6.7;;;73;6.05;;;187;2.97;;;69;75;4.34
+2025;propaganda-e-marketing;Centro Universitário Dinâmica das Cataratas;PR;88;Privada;68;15.33;83;19.91;;;56;6.51;;;82;5.81;;;196;2.73;;;70;52;4.86
+2025;propaganda-e-marketing;Faculdade Anhanguera de Belo Horizonte;MG;89;Privada;68;15.33;88;19.44;;;53;6.6;;;103;5.24;;;20;7.49;;;71;251-300;0.11
+2025;propaganda-e-marketing;Centro Universitário FBV Wyden;PE;90;Privada;68;15.33;89;19.35;;;120;4.78;;;201-250;1.6;;;39;6.97;;;72;1;6
+2025;propaganda-e-marketing;Universidade de Santa Cruz do Sul;RS;91;Privada;68;15.33;91;19.3;;;94;5.49;;;149;4;;;35;7.08;;;73;147;2.73
+2025;propaganda-e-marketing;Centro Universitário Municipal de Franca;SP;92;Municipal;68;15.33;94;18.8;;;101;5.3;;;141;4.22;;;149;4;;;19;33;5.28
+2025;propaganda-e-marketing;Centro Universitário das Américas;SP;93;Privada;;;47;34.09;;;140;4.24;;;251-300;0.27;;;151;3.95;24;21.96;74;105;3.67
+2025;propaganda-e-marketing;Centro Universitário Sagrado Coração;SP;94;Privada;68;15.33;101;18.35;;;80;5.87;;;122;4.73;;;104;5.22;;;75;156;2.53
+2025;propaganda-e-marketing;Universidade do Vale do Taquari;RS;95;Privada;68;15.33;106;18.18;;;137;4.32;;;60;6.41;;;81;5.84;;;76;197;1.61
+2025;propaganda-e-marketing;Universidade Metodista de São Paulo;SP;96;Privada;68;15.33;109;18.1;;;119;4.81;;;151;3.95;;;152;3.92;;;77;27;5.42
+2025;propaganda-e-marketing;Universidade Pitágoras Unopar Anhanguera;PR;97;Privada;68;15.33;110;17.98;;;111;5.03;;;109;5.08;;;30;7.22;;;78;201-250;0.65
+2025;propaganda-e-marketing;Centro Universitário Uniftc;BA;98;Privada;68;15.33;112;17.94;;;193;2.81;;;1;8;;;64;6.3;;;79;201-250;0.83
+2025;propaganda-e-marketing;Centro Universitário de Ensino, Ciência e Tecnologia do Paraná;PR;99;Privada;;;48;33.26;;;201-250;1.62;;;106;5.16;;;201-250;2.08;24;21.96;80;160;2.44
+2025;propaganda-e-marketing;Centro Universitário Alves Faria;GO;100;Privada;23;25.18;251-300;7.94;;;109;5.08;;;251-300;1.14;;;251-300;1.03;;;81;201-250;0.69
+2025;propaganda-e-marketing;Faculdade Estácio do Pará;PA;101;Privada;68;15.33;116;17.67;;;57;6.49;;;187;2.97;;;143;4.16;;;82;88;4.05
+2025;propaganda-e-marketing;Centro Universitário Barão de Mauá;SP;102;Privada;68;15.33;118;17.5;;;13;7.68;;;175;3.3;;;201-250;2.11;;;83;72;4.41
+2025;propaganda-e-marketing;Centro Universitário Estácio de Belo Horizonte;MG;103;Privada;68;15.33;122;17.23;;;69;6.16;;;145;4.11;;;178;3.22;;;84;102;3.74
+2025;propaganda-e-marketing;Centro Universitário Una de Contagem;MG;104;Privada;68;15.33;123;17.09;;;35;7.08;;;180;3.16;;;133;4.43;;;85;161;2.42
+2025;propaganda-e-marketing;Centro Universitário do Distrito Federal;DF;105;Privada;68;15.33;127;16.61;;;185;3.03;;;80;5.87;;;49;6.7;;;86;201-250;1.01
+2025;propaganda-e-marketing;Centro Universitário São Judas Tadeu;SP;106;Privada;68;15.33;134;16.23;;;78;5.92;;;155;3.84;;;144;4.14;;;87;165;2.33
+2025;propaganda-e-marketing;Universidade de Taubaté;SP;107;Municipal;68;15.33;136;16.01;;;92;5.54;;;62;6.35;;;162;3.65;;;20;201-250;0.47
+2025;propaganda-e-marketing;Centro Universitário Estácio da Bahia;BA;108;Privada;68;15.33;137;15.99;;;182;3.11;;;97;5.41;;;173;3.35;;;88;85;4.12
+2025;propaganda-e-marketing;Universidade Ceuma;MA;109;Privada;68;15.33;139;15.87;;;121;4.76;;;65;6.27;;;176;3.27;;;89;199;1.57
+2025;propaganda-e-marketing;Centro Universitário Favip Wyden;PE;110;Privada;68;15.33;141;15.86;;;201-250;1.43;;;201-250;1.97;;;58;6.46;;;90;1;6
+2025;propaganda-e-marketing;Centro Universitário do Norte;AM;111;Privada;68;15.33;143;15.72;;;169;3.46;;;146;4.08;;;199;2.65;;;91;22;5.53
+2025;propaganda-e-marketing;Faculdade Martha Falcão Wyden;AM;112;Privada;68;15.33;147;15.41;;;201-250;2.46;;;251-300;1.03;;;78;5.92;;;92;1;6
+2025;propaganda-e-marketing;Centro Universitário Jorge Amado;BA;113;Privada;68;15.33;148;15.4;;;84;5.76;;;201-250;2.03;;;89;5.62;;;93;180;1.99
+2025;propaganda-e-marketing;Universidade Anhanguera;MS;114;Privada;68;15.33;150;15.33;;;166;3.54;;;129;4.54;;;52;6.62;;;94;201-250;0.63
+2025;propaganda-e-marketing;Universidade de Uberaba;MG;115;Privada;68;15.33;155;14.87;;;86;5.7;;;168;3.49;;;201-250;1.81;;;95;96;3.87
+2025;propaganda-e-marketing;Instituto Superior e Centro Educacional Luterano;SC;116;Privada;68;15.33;160;14.5;;;125;4.65;;;201-250;2.32;;;122;4.73;;;96;144;2.8
+2025;propaganda-e-marketing;Centro Universitário de Belo Horizonte;MG;117;Privada;68;15.33;162;14.49;;;132;4.46;;;169;3.46;;;106;5.16;;;97;201-250;1.41
+2025;propaganda-e-marketing;Universidade Vale do Rio Doce;MG;118;Privada;68;15.33;164;14.37;;;43;6.87;;;201-250;1.87;;;195;2.76;;;98;141;2.87
+2025;propaganda-e-marketing;Centro Universitário Anhanguera de São Paulo;SP;119;Privada;68;15.33;165;14.32;;;201-250;2.19;;;93;5.51;;;62;6.35;;;99;251-300;0.27
+2025;propaganda-e-marketing;Centro Universitário de Brusque;SC;120;Privada;68;15.33;171;14.21;;;201-250;2.24;;;67;6.22;;;101;5.3;;;100;201-250;0.45
+2025;propaganda-e-marketing;Faculdade Esamc Campinas;SP;121;Privada;68;15.33;172;14.2;;;37;7.03;;;148;4.03;;;251-300;0.54;;;101;153;2.6
+2025;propaganda-e-marketing;Faculdade Esamc Santos;SP;122;Privada;68;15.33;174;14.11;;;23;7.41;;;127;4.6;;;251-300;0.24;;;102;186;1.86
+2025;propaganda-e-marketing;Centro Universitário Multivix Vitória;ES;123;Privada;23;25.18;251-300;4.25;;;251-300;0.81;;;201-250;1.76;;;201-250;1.68;;;103;;
+2025;propaganda-e-marketing;Centro Universitário da Serra Gaúcha;RS;124;Privada;68;15.33;181;13.95;;;61;6.38;;;201-250;2.51;;;166;3.54;;;104;201-250;1.52
+2025;propaganda-e-marketing;Centro Universitário Sete de Setembro;CE;125;Privada;68;15.33;189;13.48;;;168;3.49;;;154;3.87;;;194;2.78;;;105;120;3.34
+2025;propaganda-e-marketing;Universidade Católica do Salvador;BA;126;Privada;68;15.33;197;12.92;;;105;5.19;;;201-250;1.78;;;192;2.84;;;106;130;3.11
+2025;propaganda-e-marketing;Universidade Luterana do Brasil;RS;126;Privada;68;15.33;197;12.92;;;122;4.73;;;110;5.05;;;181;3.14;;;106;;
+2025;propaganda-e-marketing;Faculdade Zumbi dos Palmares;SP;128;Privada;;;51;28.23;;;251-300;0.54;;;177;3.24;;;201-250;1.35;24;21.96;108;201-250;1.14
+2025;propaganda-e-marketing;Centro Universitário Aeso - Barros Melo;PE;129;Privada;68;15.33;201-250;12.69;;;25;7.35;;;201-250;1.68;;;201-250;2.27;;;109;201-250;1.39
+2025;propaganda-e-marketing;Universidade de Cuiabá;MT;130;Privada;68;15.33;201-250;12.49;;;46;6.78;;;201-250;2.41;;;175;3.3;;;110;;
+2025;propaganda-e-marketing;Centro Universitário Padre Anchieta;SP;131;Privada;68;15.33;201-250;11.7;;;130;4.51;;;251-300;1.19;;;168;3.49;;;111;157;2.51
+2025;propaganda-e-marketing;Universidade Cidade de São Paulo;SP;132;Privada;68;15.33;201-250;11.68;;;251-300;0.92;;;174;3.32;;;84;5.76;;;112;194;1.68
+2025;propaganda-e-marketing;Centro Universitário Ritter dos Reis;RS;133;Privada;68;15.33;201-250;11.39;;;201-250;2.27;;;197;2.7;;;135;4.38;;;113;178;2.04
+2025;propaganda-e-marketing;Universidade Estadual do Centro Oeste;PR;134;Estadual;;;54;26.39;;;16;7.6;;;1;8;;;22;7.43;;;21;119;3.36
+2025;propaganda-e-marketing;Universidade do Sul de Santa Catarina;SC;135;Privada;68;15.33;201-250;10.92;;;99;5.35;;;201-250;1.43;;;201-250;2.35;;;114;189;1.79
+2025;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Fortaleza;CE;136;Privada;68;15.33;201-250;10.64;;;201-250;1.32;;;125;4.65;;;167;3.51;;;115;201-250;1.16
+2025;propaganda-e-marketing;Universidade Federal de Sergipe;SE;137;Federal;;;55;25.71;;;50;6.68;;;1;8;;;44;6.84;;;22;82;4.19
+2025;propaganda-e-marketing;Centro Universitário Unicarioca;RJ;138;Privada;;;57;25.38;;;108;5.11;;;1;8;;;13;7.68;;;116;64;4.59
+2025;propaganda-e-marketing;Centro Universitário Nossa Senhora do Patrocínio;SP;139;Privada;68;15.33;201-250;9.84;;;161;3.68;;;251-300;0.78;;;127;4.6;;;117;201-250;0.78
+2025;propaganda-e-marketing;Centro Universitário Uniasselvi de Guaramirim;SC;140;Privada;;;60;24.98;;;134;4.41;;;1;8;;;25;7.35;;;118;36;5.22
+2025;propaganda-e-marketing;Centro Universitário Metrocamp Wyden;SP;141;Privada;68;15.33;251-300;9.38;;;201-250;2.51;;;251-300;0.11;;;251-300;0.76;;;119;1;6
+2025;propaganda-e-marketing;Faculdade de Ensino Superior da Cidade de Feira de Santana;BA;142;Privada;;;61;24.48;;;85;5.73;;;1;8;;;80;5.87;;;120;51;4.88
+2025;propaganda-e-marketing;Centro Universitário Sul-americana;GO;143;Privada;68;15.33;251-300;8.78;;;141;4.22;;;201-250;2.54;;;251-300;0.81;;;121;201-250;1.21
+2025;propaganda-e-marketing;Claretiano - Centro Universitário de Rio Claro;SP;144;Privada;68;15.33;251-300;8.43;;;251-300;0.54;;;89;5.62;;;201-250;1.89;;;122;251-300;0.38
+2025;propaganda-e-marketing;Centro Universitário dos Guararapes;PE;145;Privada;68;15.33;251-300;7.66;;;201-250;1.76;;;161;3.68;;;201-250;1.62;;;123;201-250;0.6
+2025;propaganda-e-marketing;Universidade do Estado do Rio Grande do Norte;RN;146;Estadual;;;63;22.4;;;55;6.54;;;1;8;;;123;4.7;;;23;128;3.16
+2025;propaganda-e-marketing;Centro Universitário Campo Real;PR;147;Privada;;;64;22.36;;;60;6.41;;;62;6.35;;;164;3.6;;;124;1;6
+2025;propaganda-e-marketing;Centro Universitário Moura Lacerda;SP;148;Privada;68;15.33;251-300;6.87;;;251-300;0.54;;;176;3.27;;;201-250;2.32;;;125;201-250;0.74
+2025;propaganda-e-marketing;Centro Universitário do Estado do Pará;PA;149;Privada;;;65;22.01;;;8;7.81;;;72;6.08;;;96;5.43;;;126;149;2.69
+2025;propaganda-e-marketing;Strong Business School;SP;150;Privada;;;66;21.95;;;70;6.14;;;162;3.65;;;69;6.16;;;127;1;6
+2025;propaganda-e-marketing;Universidade Federal do Recôncavo da Bahia;BA;151;Federal;;;67;21.86;;;83;5.78;;;1;8;;;65;6.27;;;24;188;1.81
+2025;propaganda-e-marketing;Centro Universitário Estácio Juiz de Fora;MG;152;Privada;;;68;21.56;;;91;5.57;;;101;5.3;;;38;7;;;128;104;3.69
+2025;propaganda-e-marketing;Faculdade Promove de Minas Gerais;MG;153;Privada;;;70;21.43;;;192;2.84;;;1;8;;;57;6.49;;;129;86;4.1
+2025;propaganda-e-marketing;Centro Universitário Projeção;DF;154;Privada;;;72;21.27;;;149;4;;;1;8;;;35;7.08;;;130;171;2.19
+2025;propaganda-e-marketing;Centro Universitário de Volta Redonda;RJ;155;Privada;;;73;21.11;;;41;6.92;;;65;6.27;;;77;5.95;;;131;181;1.97
+2025;propaganda-e-marketing;Centro Universitário Estácio de Ribeirão Preto;SP;156;Privada;;;74;20.93;;;44;6.84;;;171;3.41;;;53;6.6;;;132;87;4.08
+2025;propaganda-e-marketing;Faculdade Anísio Teixeira de Feira de Santana;BA;157;Privada;;;75;20.68;;;4;7.92;;;1;8;;;251-300;0.73;;;133;89;4.03
+2025;propaganda-e-marketing;Centro Universitário Sant'Anna;SP;158;Privada;;;77;20.43;;;186;3;;;1;8;;;170;3.43;;;134;1;6
+2025;propaganda-e-marketing;Centro Universitário de Rio Preto;SP;159;Privada;68;15.33;251-300;4.81;;;251-300;0.54;;;163;3.62;;;251-300;0.16;;;135;201-250;0.49
+2025;propaganda-e-marketing;Faculdade Anhanguera de Divinópolis;MG;160;Privada;;;80;20.13;;;32;7.16;;;98;5.38;;;37;7.03;;;136;201-250;0.56
+2025;propaganda-e-marketing;Centro Universitário União das Américas Descomplica;PR;161;Privada;;;82;20.02;;;113;4.97;;;85;5.73;;;174;3.32;;;137;1;6
+2025;propaganda-e-marketing;Faculdades Integradas de Bauru;SP;162;Privada;;;84;19.69;;;129;4.54;;;1;8;;;116;4.89;;;138;168;2.26
+2025;propaganda-e-marketing;Centro Universitário Uniasselvi de Brusque;SC;163;Privada;;;90;19.32;;;251-300;1.11;;;1;8;;;46;6.78;;;139;116;3.43
+2025;propaganda-e-marketing;Centro Universitário Uniasselvi de Blumenau ;SC;164;Privada;;;92;19.08;;;251-300;1.11;;;1;8;;;127;4.6;;;140;29;5.37
+2025;propaganda-e-marketing;Faculdade Anhanguera de Brasília;DF;165;Privada;;;93;19.05;;;186;3;;;1;8;;;6;7.87;;;141;251-300;0.18
+2025;propaganda-e-marketing;Centro Universitário da Grande Dourados;MS;166;Privada;;;96;18.51;;;24;7.38;;;94;5.49;;;163;3.62;;;142;179;2.02
+2025;propaganda-e-marketing;Universidade Tuiuti do Paraná;PR;167;Privada;;;97;18.39;;;104;5.22;;;116;4.89;;;111;5.03;;;143;124;3.25
+2025;propaganda-e-marketing;Universidade Federal do Oeste da Bahia;BA;168;Federal;;;99;18.37;;;251-300;0.95;;;1;8;;;67;6.22;;;25;126;3.2
+2025;propaganda-e-marketing;Faculdades Integradas de Jahu;SP;169;Privada;;;100;18.36;;;42;6.89;;;133;4.43;;;50;6.68;;;144;251-300;0.36
+2025;propaganda-e-marketing;Centro Universitário Unibras Rio Verde;GO;170;Privada;;;103;18.31;;;142;4.19;;;70;6.14;;;72;6.08;;;145;184;1.9
+2025;propaganda-e-marketing;Centro Universitário Unifaat;SP;171;Privada;;;104;18.3;;;74;6.03;;;173;3.35;;;159;3.73;;;146;37;5.19
+2025;propaganda-e-marketing;Instituto Infnet Rio de Janeiro;RJ;172;Privada;;;105;18.29;;;52;6.62;;;1;8;;;188;2.95;;;147;201-250;0.72
+2025;propaganda-e-marketing;Centro Universitário de Excelência de Vitória da Conquista;BA;173;Privada;;;108;18.14;;;251-300;0.73;;;1;8;;;90;5.6;;;148;99;3.81
+2025;propaganda-e-marketing;Centro Universitário Ruy Barbosa Wyden;BA;174;Privada;;;111;17.95;;;143;4.16;;;251-300;0.92;;;43;6.87;;;149;1;6
+2025;propaganda-e-marketing;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;175;Privada;;;113;17.89;;;18;7.54;;;100;5.32;;;130;4.51;;;150;201-250;0.52
+2025;propaganda-e-marketing;Centro Universitário Católica do Leste de Minas Gerais;MG;176;Privada;;;114;17.83;;;81;5.84;;;135;4.38;;;103;5.24;;;151;163;2.37
+2025;propaganda-e-marketing;Universidade do Grande Rio Professor José de Souza Herdy;RJ;177;Privada;;;119;17.42;;;123;4.7;;;1;8;;;200;2.62;;;152;175;2.1
+2025;propaganda-e-marketing;Faculdade Estácio de Sá de Campo Grande;MS;178;Privada;;;120;17.29;;;131;4.49;;;136;4.35;;;132;4.46;;;153;91;3.99
+2025;propaganda-e-marketing;Universidade de Mogi das Cruzes;SP;179;Privada;;;121;17.25;;;103;5.24;;;91;5.57;;;251-300;1;;;154;26;5.44
+2025;propaganda-e-marketing;Centro Universitário Anhanguera Pitágoras Unopar de Niterói;RJ;180;Privada;;;124;16.98;;;189;2.92;;;62;6.35;;;19;7.51;;;155;251-300;0.2
+2025;propaganda-e-marketing;Centro Universitário Toledo Wyden;SP;181;Privada;;;125;16.91;;;102;5.27;;;201-250;1.65;;;102;5.27;;;156;58;4.72
+2025;propaganda-e-marketing;Centro Universitário Unicuritiba;PR;182;Privada;;;126;16.88;;;201-250;1.62;;;89;5.62;;;82;5.81;;;157;98;3.83
+2025;propaganda-e-marketing;Universidade Católica de Petrópolis;RJ;183;Privada;;;128;16.5;;;71;6.11;;;251-300;0.89;;;108;5.11;;;158;73;4.39
+2025;propaganda-e-marketing;Centro Universitário Unic;MT;184;Privada;;;129;16.48;;;46;6.78;;;190;2.89;;;61;6.38;;;159;201-250;0.43
+2025;propaganda-e-marketing;Centro Universitário Presidente Antônio Carlos;MG;185;Privada;;;130;16.44;;;20;7.49;;;73;6.05;;;201-250;1.87;;;160;201-250;1.03
+2025;propaganda-e-marketing;Faculdade Adventista de Minas Gerais;MG;186;Privada;;;131;16.35;;;7;7.84;;;142;4.19;;;201-250;1.43;;;161;140;2.89
+2025;propaganda-e-marketing;Faculdade Anhanguera de Santa Bárbara;SP;187;Privada;;;132;16.3;;;199;2.65;;;77;5.95;;;17;7.57;;;162;251-300;0.13
+2025;propaganda-e-marketing;Centro Universitário das Faculdades Associadas de Ensino;SP;188;Municipal;;;133;16.27;;;200;2.62;;;128;4.57;;;183;3.08;;;26;1;6
+2025;propaganda-e-marketing;Centro Universitário Sociesc;SC;189;Privada;;;135;16.15;;;95;5.46;;;139;4.27;;;91;5.57;;;163;201-250;0.85
+2025;propaganda-e-marketing;Universidade Tiradentes;SE;190;Privada;;;138;15.98;;;165;3.57;;;131;4.49;;;125;4.65;;;164;123;3.27
+2025;propaganda-e-marketing;Faculdade Paulista de Comunicação;SP;191;Privada;;;149;15.39;;;177;3.24;;;1;8;;;179;3.19;;;165;201-250;0.96
+2025;propaganda-e-marketing;Centro Universitário Católico Salesiano Auxilium;SP;192;Privada;;;151;15.21;;;89;5.62;;;201-250;1.35;;;201-250;2.24;;;166;1;6
+2025;propaganda-e-marketing;Universidade da Região de Joinville;SC;193;Privada;;;152;15.2;;;190;2.89;;;88;5.65;;;97;5.41;;;167;201-250;1.25
+2025;propaganda-e-marketing;Centro Universitário Araguaia;GO;194;Privada;;;153;14.96;;;77;5.95;;;156;3.81;;;201-250;1.68;;;168;112;3.52
+2025;propaganda-e-marketing;Centro Universitário Adventista de São Paulo;SP;195;Privada;;;154;14.91;;;112;5;;;194;2.78;;;193;2.81;;;169;76;4.32
+2025;propaganda-e-marketing;Faculdade de Comunicação Anhanguera Unidade Guarapari;ES;196;Privada;;;156;14.85;;;251-300;0.81;;;78;5.92;;;8;7.81;;;170;251-300;0.31
+2025;propaganda-e-marketing;Faculdade Estácio de Teresina;PI;197;Privada;;;157;14.68;;;201-250;1.73;;;113;4.97;;;150;3.97;;;171;90;4.01
+2025;propaganda-e-marketing;Faculdade Estácio Macapá;AP;198;Privada;;;159;14.52;;;201-250;2.46;;;1;8;;;251-300;1.24;;;172;143;2.82
+2025;propaganda-e-marketing;Faculdade Anhanguera de Campinas;SP;199;Privada;;;160;14.5;;;251-300;0.54;;;83;5.78;;;7;7.84;;;173;251-300;0.34
+2025;propaganda-e-marketing;Universidade do Vale do Sapucaí;MG;200;Privada;;;163;14.42;;;150;3.97;;;114;4.95;;;189;2.92;;;174;154;2.58
+2025;propaganda-e-marketing;Faculdade de Americana;SP;201;Privada;;;201-250;11.15;;;148;4.03;;;201-250;1.46;;;251-300;0.62;;;201-250;44;5.04
+2025;propaganda-e-marketing;Faculdade Cesumar de Ponta Grossa;PR;201;Privada;;;199;12.9;;;171;3.41;;;251-300;1.22;;;185;3.03;;;194;35;5.24
+2025;propaganda-e-marketing;Centro Universitário Autônomo do Brasil;PR;201;Privada;;;190;13.47;;;154;3.87;;;201-250;2.19;;;134;4.41;;;188;135;3
+2025;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Maceió;AL;201;Privada;;;201-250;11.87;;;194;2.78;;;101;5.3;;;201-250;2.6;;;201-250;201-250;1.19
+2025;propaganda-e-marketing;Centro Universitário de Maceió;AL;201;Privada;;;201-250;12.32;;;194;2.78;;;188;2.95;;;136;4.35;;;200;169;2.24
+2025;propaganda-e-marketing;Faculdade Anhanguera de Osasco;SP;201;Privada;;;200;12.85;;;251-300;0.97;;;111;5.03;;;47;6.76;;;195;251-300;0.09
+2025;propaganda-e-marketing;Centro Universitário de Salvador;BA;201;Privada;;;201-250;11.14;;;251-300;0.73;;;1;8;;;201-250;2.41;;;201-250;;
+2025;propaganda-e-marketing;Centro Universitário do Sul de Minas;MG;201;Privada;;;201-250;12.4;;;62;6.35;;;201-250;1.95;;;201-250;1.97;;;198;174;2.13
+2025;propaganda-e-marketing;Faculdade Esamc Sorocaba;SP;201;Privada;;;201-250;10.54;;;65;6.27;;;195;2.76;;;251-300;0.57;;;201-250;201-250;0.94
+2025;propaganda-e-marketing;Centro Universitário de Goiás;GO;201;Privada;;;201-250;10.79;;;162;3.65;;;198;2.68;;;171;3.41;;;201-250;201-250;1.05
+2025;propaganda-e-marketing;Centro Universitário Metropolitano de Maringá;PR;201;Privada;;;201-250;10.57;;;201-250;1.62;;;201-250;1.6;;;189;2.92;;;201-250;71;4.43
+2025;propaganda-e-marketing;Faculdade Estácio do Rio Grande do Norte;RN;201;Privada;;;201-250;12.12;;;93;5.51;;;201-250;2.3;;;251-300;1.24;;;201-250;132;3.07
+2025;propaganda-e-marketing;Faculdade Paulus de Tecnologia e Comunicação;SP;201;Privada;;;201-250;12.34;;;66;6.24;;;251-300;0.95;;;154;3.87;;;199;201-250;1.28
+2025;propaganda-e-marketing;Faculdade Maringá;PR;201;Privada;;;201-250;11.11;;;173;3.35;;;251-300;1.11;;;251-300;0.65;;;201-250;1;6
+2025;propaganda-e-marketing;Faculdade Anhanguera de Taubaté;SP;201;Privada;;;201-250;11.68;;;251-300;0.54;;;132;4.46;;;59;6.43;;;201-250;251-300;0.25
+2025;propaganda-e-marketing;Faculdades Integradas de Três Lagoas;MS;201;Privada;;;184;13.67;;;251-300;0.89;;;1;8;;;120;4.78;;;185;;
+2025;propaganda-e-marketing;Faculdade de Palmas;TO;201;Privada;;;201-250;11.72;;;201-250;2.46;;;1;8;;;251-300;1.24;;;201-250;251-300;0.02
+2025;propaganda-e-marketing;Faculdade Uberlandense de Núcleos Integrados de Ensino, Serviço Social e Aprendizagem;MG;201;Privada;;;191;13.46;;;27;7.3;;;118;4.84;;;251-300;0.78;;;189;201-250;0.54
+2025;propaganda-e-marketing;Centro Universitário Unime;BA;201;Privada;;;180;13.96;;;251-300;0.73;;;95;5.46;;;31;7.19;;;183;201-250;0.58
+2025;propaganda-e-marketing;Centro Universitário Católico Ítalo Brasileiro;SP;201;Privada;;;201-250;10.79;;;251-300;0.54;;;191;2.87;;;24;7.38;;;201-250;;
+2025;propaganda-e-marketing;Centro Universitário Satc;SC;201;Privada;;;195;13.22;;;45;6.81;;;201-250;1.84;;;191;2.87;;;193;193;1.7
+2025;propaganda-e-marketing;Faculdade Estácio de Sá de Vitória;ES;201;Privada;;;193;13.32;;;201-250;2.32;;;112;5;;;201-250;2.51;;;191;113;3.49
+2025;propaganda-e-marketing;Centro Universitário Curitiba;PR;201;Privada;;;201-250;10.65;;;201-250;1.65;;;201-250;2.35;;;148;4.03;;;201-250;152;2.62
+2025;propaganda-e-marketing;Centro Universitário Dom Bosco do Rio de Janeiro;RJ;201;Privada;;;201-250;12.04;;;82;5.81;;;251-300;0.43;;;251-300;1.05;;;201-250;57;4.75
+2025;propaganda-e-marketing;Centro Universitário Augusto Motta;RJ;201;Privada;;;173;14.11;;;171;3.41;;;183;3.08;;;201-250;2.54;;;180;42;5.08
+2025;propaganda-e-marketing;Centro Universitário Maurício de Nassau de João Pessoa;PB;201;Privada;;;201-250;11.95;;;201-250;1.38;;;104;5.22;;;99;5.35;;;201-250;;
+2025;propaganda-e-marketing;Universidade Castelo Branco;RJ;201;Privada;;;201-250;10.98;;;201-250;2.14;;;167;3.51;;;251-300;0.38;;;201-250;48;4.95
+2025;propaganda-e-marketing;Faculdade Anhanguera de São José;SP;201;Privada;;;201-250;12.72;;;251-300;0.54;;;114;4.95;;;32;7.16;;;196;251-300;0.07
+2025;propaganda-e-marketing;Centro Universitário da Amazônia;PA;201;Privada;;;201-250;10.61;;;144;4.14;;;138;4.3;;;201-250;1.27;;;201-250;201-250;0.9
+2025;propaganda-e-marketing;Centro Universitário La Salle do Rio de Janeiro;RJ;201;Privada;;;201-250;10.81;;;201-250;1.84;;;201-250;2.08;;;42;6.89;;;201-250;;
+2025;propaganda-e-marketing;Faculdade Promove de Sete Lagoas;MG;201;Privada;;;201-250;10.66;;;17;7.57;;;251-300;0.03;;;251-300;0.51;;;201-250;155;2.55
+2025;propaganda-e-marketing;Faculdade Dois de Julho;BA;201;Privada;;;201-250;10.22;;;251-300;0.73;;;1;8;;;201-250;1.49;;;201-250;;
+2025;propaganda-e-marketing;Centro Universitário Sociesc de Blumenau;SC;201;Privada;;;201-250;12.63;;;191;2.87;;;152;3.92;;;129;4.54;;;197;201-250;1.3
+2025;propaganda-e-marketing;Universidade Municipal de São Caetano do Sul;SP;201;Municipal;;;179;13.97;;;201-250;1.89;;;251-300;0.57;;;93;5.51;;;27;1;6
+2025;propaganda-e-marketing;Centro Universitário do Paraná;PR;201;Privada;;;201-250;11.78;;;201-250;1.62;;;143;4.16;;;75;6;;;201-250;;
+2025;propaganda-e-marketing;Faculdade do Litoral Sul Paulista;SP;201;Privada;;;166;14.28;;;251-300;0.87;;;80;5.87;;;153;3.89;;;175;106;3.65
+2025;propaganda-e-marketing;Faculdades Integradas de Taquara;RS;201;Privada;;;193;13.32;;;157;3.78;;;201-250;1.7;;;146;4.08;;;191;101;3.76
+2025;propaganda-e-marketing;Centro Universitário Estácio de Brasília;DF;201;Privada;;;178;14;;;139;4.27;;;178;3.22;;;147;4.05;;;182;159;2.46
+2025;propaganda-e-marketing;Faculdade Anhanguera de São José-SC;SC;201;Privada;;;168;14.26;;;251-300;1.11;;;92;5.54;;;26;7.32;;;176;251-300;0.29
+2025;propaganda-e-marketing;Centro Universitário Estácio de São Luís;MA;201;Privada;;;170;14.22;;;163;3.62;;;130;4.51;;;201-250;2.19;;;179;95;3.9
+2025;propaganda-e-marketing;Centro Universitário Facvest;SC;201;Privada;;;201-250;10.81;;;251-300;1.11;;;1;8;;;201-250;1.7;;;201-250;;
+2025;propaganda-e-marketing;Centro Universitário Unirb;BA;201;Privada;;;175;14.08;;;251-300;0.73;;;1;8;;;99;5.35;;;181;;
+2025;propaganda-e-marketing;Centro Universitário Antônio Eufrásio de Toledo de Presidente Prudente;SP;201;Privada;;;187;13.59;;;251-300;0.54;;;1;8;;;110;5.05;;;186;;
+2025;propaganda-e-marketing;Centro Universitário Estácio de Santa Catarina;SC;201;Privada;;;192;13.37;;;201-250;2;;;251-300;0.87;;;51;6.65;;;190;97;3.85
+2025;propaganda-e-marketing;Faculdade Anhanguera de Piracicaba;SP;201;Privada;;;188;13.52;;;251-300;0.54;;;105;5.19;;;41;6.92;;;187;201-250;0.87
+2025;propaganda-e-marketing;Centro Universitário Fanor Wyden;CE;201;Privada;;;169;14.24;;;179;3.19;;;201-250;1.27;;;157;3.78;;;178;1;6
+2025;propaganda-e-marketing;Universidade Santo Amaro;SP;201;Privada;;;183;13.78;;;201-250;2.16;;;69;6.16;;;177;3.24;;;184;170;2.22
+2025;propaganda-e-marketing;Centro Universitário Estácio da Amazônia;RR;201;Privada;;;201-250;11.78;;;201-250;2.54;;;1;8;;;251-300;1.24;;;201-250;;
+2025;propaganda-e-marketing;Faculdade Anhanguera de Jundiaí;SP;201;Privada;;;167;14.26;;;251-300;0.54;;;79;5.89;;;9;7.78;;;176;251-300;0.05
+2025;propaganda-e-marketing;Centro Universitário Fip-moc;MG;201;Privada;;;201-250;10.63;;;201-250;2.6;;;158;3.76;;;201-250;1.78;;;201-250;158;2.49
+2025;propaganda-e-marketing;Faculdade Internacional da Paraíba;PB;251;Privada;;;251-300;6.97;;;201-250;1.38;;;201-250;1.51;;;161;3.68;;;201-250;251-300;0.4
+2025;propaganda-e-marketing;Faculdade Anhanguera de Linhares;ES;251;Privada;;;251-300;6.33;;;251-300;0.81;;;201-250;2.14;;;180;3.16;;;251-300;251-300;0.22
+2025;propaganda-e-marketing;Universidade Nilton Lins;AM;251;Privada;;;251-300;5.8;;;201-250;2.46;;;201-250;2.3;;;251-300;0.05;;;251-300;201-250;0.99
+2025;propaganda-e-marketing;Centro Universitário de Votuporanga;SP;251;Privada;;;201-250;9.96;;;201-250;2.3;;;193;2.81;;;201-250;1.54;;;201-250;121;3.31
+2025;propaganda-e-marketing;Centro Universitário da Fundação Educacional Guaxupé;MG;251;Privada;;;251-300;6.59;;;153;3.89;;;251-300;0.73;;;251-300;0.87;;;251-300;201-250;1.1
+2025;propaganda-e-marketing;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;251;Privada;;;251-300;6.08;;;186;3;;;251-300;1.05;;;201-250;2.03;;;251-300;;
+2025;propaganda-e-marketing;Instituto Municipal de Ensino Superior de Assis;SP;251;Municipal;;;251-300;2.98;;;251-300;0.54;;;251-300;0.84;;;251-300;0.84;;;29;201-250;0.76
+2025;propaganda-e-marketing;Centro Universitário Vale do Cricaré;ES;251;Privada;;;201-250;9.93;;;201-250;2.22;;;201-250;2.3;;;201-250;2.57;;;201-250;142;2.84
+2025;propaganda-e-marketing;"Faculdade de Comunicação e Design ""Oswaldo Cruz""";SP;251;Privada;;;201-250;10.13;;;201-250;2.49;;;201-250;2.22;;;251-300;0.27;;;201-250;39;5.15
+2025;propaganda-e-marketing;Universidade do Vale do Paraíba;SP;251;Privada;;;251-300;8.76;;;201-250;1.78;;;251-300;1.08;;;201-250;2.43;;;201-250;114;3.47
+2025;propaganda-e-marketing;Universidade Salgado de Oliveira;RJ;251;Privada;;;251-300;7.07;;;201-250;1.84;;;251-300;1;;;201-250;1.57;;;201-250;150;2.66
+2025;propaganda-e-marketing;Faculdade Esamc Jundiaí;SP;251;Privada;;;251-300;4.33;;;251-300;1.19;;;251-300;1.16;;;251-300;0.03;;;251-300;182;1.95
+2025;propaganda-e-marketing;Centro Universitário Farias Brito;CE;251;Privada;;;251-300;7.8;;;201-250;1.32;;;170;3.43;;;201-250;1.73;;;201-250;201-250;1.32
+2025;propaganda-e-marketing;Centro Universitário Teresa D'ávila;SP;251;Privada;;;201-250;9.85;;;151;3.95;;;251-300;0.14;;;251-300;0.95;;;201-250;54;4.81
+2025;propaganda-e-marketing;Faculdade Interamericana de Porto Velho;RO;251;Privada;;;201-250;10.03;;;128;4.57;;;201-250;2.57;;;251-300;0.14;;;201-250;146;2.75
+2025;propaganda-e-marketing;Faculdade Católica Salesiana de Macaé;RJ;251;Privada;;;201-250;9.75;;;114;4.95;;;251-300;0.19;;;251-300;0.89;;;201-250;103;3.72
+2025;propaganda-e-marketing;Instituto Superior do Litoral do Paraná;PR;251;Privada;;;201-250;10.11;;;201-250;1.62;;;1;8;;;251-300;0.49;;;201-250;;
+2025;propaganda-e-marketing;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;251-300;3.65;;;251-300;0.54;;;201-250;1.62;;;201-250;1.49;;;251-300;;
+2025;propaganda-e-marketing;Centro Universitário Estácio de São Paulo;SP;251;Privada;;;251-300;8.73;;;251-300;0.54;;;1;8;;;251-300;0.19;;;201-250;;
+2025;propaganda-e-marketing;Centro Universitário Maurício de Nassau de Juazeiro do Norte;CE;251;Privada;;;251-300;8.89;;;201-250;1.32;;;96;5.43;;;201-250;2.14;;;201-250;;
+2025;propaganda-e-marketing;Faculdade de Educação São Luís;SP;251;Privada;;;251-300;1.14;;;251-300;0.54;;;251-300;0.38;;;251-300;0.22;;;251-300;;
+2025;propaganda-e-marketing;Centro Universitário Academia;MG;251;Privada;;;251-300;6.27;;;174;3.32;;;251-300;0.76;;;251-300;0.6;;;251-300;198;1.59
+2025;propaganda-e-marketing;Instituto de Ensino Superior de Teresina;PI;251;Privada;;;251-300;8.29;;;201-250;1.73;;;106;5.16;;;251-300;1.24;;;201-250;251-300;0.16
+2025;propaganda-e-marketing;Centro Universitário Campo Limpo Paulista;SP;251;Privada;;;201-250;10.15;;;197;2.7;;;201-250;2.38;;;251-300;0.41;;;201-250;61;4.66
+2025;propaganda-e-marketing;Centro Universitário Opet;PR;251;Privada;;;251-300;8.26;;;201-250;1.62;;;199;2.65;;;201-250;1.84;;;201-250;173;2.15
+2025;propaganda-e-marketing;Centro Universitário Braz Cubas;SP;251;Privada;;;251-300;0.94;;;251-300;0.54;;;251-300;0.32;;;251-300;0.08;;;251-300;;
+2025;propaganda-e-marketing;Centro Universitário Módulo;SP;251;Privada;;;251-300;6.67;;;251-300;1.14;;;251-300;0.54;;;137;4.32;;;201-250;201-250;0.67
+2025;propaganda-e-marketing;Centro Universitário Cearense;CE;251;Privada;;;251-300;5.29;;;201-250;1.32;;;251-300;0.08;;;251-300;0.35;;;251-300;111;3.54
+2025;propaganda-e-marketing;Centro Universitário Cnec de Bento Gonçalves;RS;251;Privada;;;251-300;3.95;;;201-250;2.11;;;251-300;0.3;;;201-250;1.54;;;251-300;;
+2025;propaganda-e-marketing;Faculdade Esamc São Paulo;SP;251;Privada;;;251-300;7.28;;;251-300;0.54;;;139;4.27;;;251-300;0.7;;;201-250;190;1.77
+2025;propaganda-e-marketing;Centro Universitário Fieo;SP;251;Privada;;;251-300;8.6;;;126;4.62;;;251-300;0.49;;;251-300;0.11;;;201-250;118;3.38
+2025;propaganda-e-marketing;Centro Universitário Senac;SP;251;Privada;;;251-300;8.96;;;198;2.68;;;251-300;0.81;;;201-250;2.38;;;201-250;131;3.09
+2025;propaganda-e-marketing;Faculdade Novo Milênio;ES;251;Privada;;;251-300;5.7;;;251-300;1.16;;;201-250;1.27;;;251-300;0.92;;;251-300;164;2.35
+2025;propaganda-e-marketing;Centro Universitário Eurípedes de Marília;SP;251;Privada;;;251-300;5.79;;;160;3.7;;;201-250;1.41;;;251-300;0.68;;;251-300;;
+2025;propaganda-e-marketing;Centro Universitário Fadergs;RS;251;Privada;;;251-300;7.76;;;201-250;2.11;;;251-300;0.65;;;201-250;1.95;;;201-250;133;3.05
+2025;propaganda-e-marketing;Centro Universitário Estácio Meta de Rio Branco Estácio;AC;251;Privada;;;251-300;5.03;;;201-250;2.46;;;201-250;1.3;;;251-300;0.46;;;251-300;201-250;0.81
+2025;propaganda-e-marketing;Faculdade de Viçosa;MG;251;Privada;;;251-300;9.36;;;181;3.14;;;251-300;0.22;;;201-250;1.32;;;201-250;60;4.68
+2025;propaganda-e-marketing;Universidade de Araraquara;SP;251;Privada;;;251-300;9.33;;;138;4.3;;;201-250;1.89;;;251-300;1.08;;;201-250;177;2.06
+2025;propaganda-e-marketing;Centro Universitário de Tecnologia de Curitiba;PR;251;Privada;;;251-300;3.16;;;201-250;1.62;;;251-300;0.24;;;201-250;1.3;;;251-300;;
+2025;propaganda-e-marketing;Instituto Universitário São Judas de São Bernardo do Campo;SP;251;Privada;;;251-300;2.67;;;251-300;0.54;;;251-300;0.05;;;201-250;2.08;;;251-300;;
+2025;propaganda-e-marketing;Centro Universitário de Adamantina;SP;251;Municipal;;;251-300;3.19;;;251-300;0.54;;;251-300;0.16;;;201-250;2.49;;;28;;
+2025;propaganda-e-marketing;Faculdade Unibras Juazeiro;BA;251;Privada;;;251-300;7.81;;;251-300;0.73;;;201-250;1.49;;;201-250;2.46;;;201-250;129;3.13
+2025;propaganda-e-marketing;Faculdade São Francisco de Assis;RS;251;Privada;;;251-300;6.99;;;201-250;2.11;;;201-250;1.32;;;201-250;2.22;;;201-250;201-250;1.34
+2025;propaganda-e-marketing;Fiam-faam - Centro Universitário;SP;251;Privada;;;251-300;7.97;;;201-250;1.41;;;201-250;1.73;;;169;3.46;;;201-250;201-250;1.37
+2025;propaganda-e-marketing;Faculdade Hélio Rocha;BA;251;Privada;;;251-300;9.03;;;251-300;0.73;;;1;8;;;251-300;0.3;;;201-250;;
+2025;propaganda-e-marketing;Centro Universitário Fundação Santo André;SP;251;Privada;;;251-300;6.24;;;251-300;0.54;;;201-250;2;;;160;3.7;;;251-300;;

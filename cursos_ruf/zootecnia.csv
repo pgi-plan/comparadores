@@ -1,0 +1,183 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes
+2019;zootecnia;Universidade de São Paulo;SP;1;Estadual;1;36;3;60.47;1;8;35;4.47;;;1;8;1;40;;;;
+2019;zootecnia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;2;Estadual;1;36;4;59.92;7;7.45;35;4.47;;;1;8;1;40;;;;
+2019;zootecnia;Universidade Federal de Viçosa;MG;3;Federal;3;27;1;62.43;9;7.26;9;7.17;;;1;8;1;40;;;;
+2019;zootecnia;Universidade Federal de Minas Gerais;MG;4;Federal;3;27;5;35.35;29;5.43;32;4.78;;;1;8;5;17.14;;;;
+2019;zootecnia;Universidade Federal de Lavras;MG;5;Federal;;;2;62.32;8;7.36;11;6.96;;;1;8;1;40;;;;
+2019;zootecnia;Universidade Federal de Santa Maria;RS;6;Federal;3;27;6;34.7;18;6.44;48;3.12;;;1;8;5;17.14;;;;
+2019;zootecnia;Universidade Federal de Uberlândia;MG;7;Federal;3;27;15;20.38;20;6.25;19;6.13;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal Rural do Rio de Janeiro;RJ;8;Federal;3;27;16;20.36;27;5.61;13;6.75;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal da Bahia;BA;9;Federal;3;27;17;20.35;26;5.7;14;6.65;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Maringá;PR;10;Estadual;;;7;31.97;42;4.23;53;2.6;;;1;8;5;17.14;;;;
+2019;zootecnia;Universidade Federal do Rio Grande do Sul;RS;11;Federal;;;8;23.17;10;7.17;1;8;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Paraná;PR;12;Federal;;;9;22.59;13;6.9;4;7.69;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Ceará;CE;13;Federal;;;10;22.26;12;6.99;8;7.27;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Rio Grande do Norte;RN;14;Federal;;;11;21.78;15;6.71;10;7.07;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Londrina;PR;15;Estadual;;;12;21.17;25;5.79;7;7.38;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de São João Del Rei;MG;16;Federal;;;13;20.99;1;8;30;4.99;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Santa Catarina;SC;17;Federal;;;14;20.76;17;6.53;18;6.23;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;18;Estadual;;;18;20.26;1;8;37;4.26;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Ponta Grossa;PR;19;Estadual;;;19;19.89;40;4.41;6;7.48;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Pelotas;RS;20;Federal;;;20;19.65;19;6.35;27;5.3;;;1;8;;;;;;
+2019;zootecnia;Fundação Universidade Federal do Vale do São Francisco;PE;21;Federal;;;21;19.52;34;4.97;15;6.55;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Espírito Santo;ES;22;Federal;;;22;19.24;11;7.08;38;4.16;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Roraima;RR;23;Federal;;;23;19.07;23;5.98;29;5.09;;;1;8;;;;;;
+2019;zootecnia;Universidade Tecnológica Federal do Paraná;PR;24;Federal;;;24;19.04;30;5.33;23;5.71;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Goiás;GO;25;Federal;;;25;18.94;38;4.6;17;6.34;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal da Paraíba;PB;26;Federal;;;26;18.93;20;6.25;33;4.68;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;27;Federal;;;27;18.9;35;4.87;20;6.03;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual do Oeste do Paraná;PR;28;Estadual;;;28;18.86;23;5.98;31;4.88;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Oeste do Pará;PA;29;Federal;;;29;18.45;14;6.81;43;3.64;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Mato Grosso;MT;30;Federal;;;30;17.91;39;4.51;26;5.4;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;31;Federal;;;31;17.66;53;3.22;16;6.44;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal Rural do Semi-árido;RN;32;Federal;;;32;17.26;37;4.69;34;4.57;;;1;8;;;;;;
+2019;zootecnia;Fundação Universidade Federal do Tocantins;TO;33;Federal;;;33;17.25;1;8;66;1.25;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal Rural de Pernambuco;PE;34;Federal;;;34;16.99;32;5.15;41;3.84;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Sergipe;SE;35;Federal;;;35;16.88;22;6.07;51;2.81;;;1;8;;;;;;
+2019;zootecnia;Fundação Universidade Federal do Pampa;RS;36;Federal;;;36;16.62;1;8;72;0.62;;;1;8;;;;;;
+2019;zootecnia;Fundação Universidade Federal da Grande Dourados;MS;37;Federal;;;37;16.31;36;4.78;44;3.53;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;38;Federal;;;38;16.07;85;0.28;3;7.79;;;1;8;;;;;;
+2019;zootecnia;Faculdade Terra Nordeste;CE;39;Privada;;;39;16;1;8;;;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;40;Federal;;;40;15.5;63;2.3;28;5.2;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Amazonas;AM;41;Federal;;;41;15.11;48;3.68;45;3.43;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;42;Federal;;;42;14.9;31;5.24;62;1.66;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Maranhão;MA;43;Federal;;;43;14.87;54;3.13;42;3.74;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Montes Claros;MG;44;Estadual;;;44;14.68;47;3.77;50;2.91;;;1;8;;;;;;
+2019;zootecnia;Fundação Universidade Federal de Rondônia;RO;45;Federal;;;45;14.62;16;6.62;;;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;46;Federal;;;46;14.53;60;2.58;40;3.95;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual do Sudoeste da Bahia;BA;47;Estadual;;;47;13.65;48;3.68;59;1.97;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Recôncavo da Bahia;BA;48;Federal;;;48;13.61;62;2.39;47;3.22;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Goiás;GO;49;Estadual;;;49;13.31;63;2.3;49;3.01;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;50;Federal;;;50;13.25;75;1.2;39;4.05;;;1;8;;;;;;
+2019;zootecnia;Universidade do Oeste Paulista;SP;51;Privada;;;51;12.97;45;3.95;2;7.9;;;75;1.12;;;;;;
+2019;zootecnia;Universidade Federal de Alagoas;AL;52;Federal;;;52;12.84;41;4.32;73;0.52;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;53;Federal;;;53;12.72;66;2.02;52;2.7;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal de Mato Grosso do Sul;MS;54;Federal;;;54;12.56;33;5.06;21;5.92;;;70;1.58;;;;;;
+2019;zootecnia;Faculdade de Ensino Superior da Amazônia Reunida;PA;55;Privada;;;55;12.22;58;2.76;64;1.46;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;56;Federal;;;56;12.15;70;1.66;54;2.49;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;57;Federal;;;57;12.13;68;1.84;56;2.29;;;1;8;;;;;;
+2019;zootecnia;Universidade Federal do Piauí;PI;58;Federal;;;58;12.04;61;2.48;63;1.56;;;1;8;;;;;;
+2019;zootecnia;Fundação Universidade do Estado de Santa Catarina;SC;59;Estadual;;;59;11.63;50;3.49;5;7.58;;;81;0.56;;;;;;
+2019;zootecnia;Universidade do Estado de Mato Grosso;MT;60;Estadual;;;60;11.34;55;3.03;75;0.31;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;61;Federal;;;61;11.31;52;3.31;;;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Alagoas;AL;62;Estadual;;;62;11.13;63;2.3;70;0.83;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual do Piauí;PI;63;Estadual;;;63;10.88;59;2.67;76;0.21;;;1;8;;;;;;
+2019;zootecnia;Faculdade de Ciências Sociais Aplicadas do Vale do São Lourenço;MT;64;Privada;;;64;10.85;57;2.85;;;;;1;8;;;;;;
+2019;zootecnia;Centro Universitário Aparício Carvalho;RO;65;Privada;;;65;9.78;81;0.64;67;1.14;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;66;Federal;;;66;9.75;69;1.75;;;;;1;8;;;;;;
+2019;zootecnia;Instituto de Ensino Superior Múltiplo;MA;67;Privada;;;67;9.34;78;0.92;74;0.42;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;68;Federal;;;68;8.74;80;0.74;;;;;1;8;;;;;;
+2019;zootecnia;Faculdade de Estudos Superiores de Minas Gerais;MG;69;Privada;;;69;8.73;55;3.03;25;5.51;;;85;0.19;;;;;;
+2019;zootecnia;Centro Universitário de Patos de Minas;MG;70;Privada;;;70;8.61;72;1.47;12;6.86;;;84;0.28;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;71;Federal;;;71;8.55;82;0.55;;;;;1;8;;;;;;
+2019;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;72;Federal;;;72;8.46;83;0.46;;;;;1;8;;;;;;
+2019;zootecnia;Universidade Estadual de Mato Grosso do Sul;MS;73;Estadual;;;73;8.34;28;5.52;58;2.08;;;79;0.74;;;;;;
+2019;zootecnia;Universidade Estadual Vale do Acaraú;CE;74;Estadual;;;74;8.31;44;4.05;46;3.33;;;77;0.93;;;;;;
+2019;zootecnia;Faculdade da Amazônia;RO;75;Privada;;;75;8.19;87;0.09;77;0.1;;;1;8;;;;;;
+2019;zootecnia;Universidade do Oeste de Santa Catarina;SC;76;Privada;;;76;8.11;76;1.1;24;5.61;;;72;1.4;;;;;;
+2019;zootecnia;Universidade Federal Rural da Amazônia;PA;77;Federal;;;77;7.71;46;3.86;57;2.18;;;69;1.67;;;;;;
+2019;zootecnia;Faculdades Associadas de Uberaba;MG;78;Privada;;;78;7.2;77;1.01;22;5.82;;;83;0.37;;;;;;
+2019;zootecnia;Centro Universitário da Fundação Educacional de Barretos;SP;79;Privada;;;79;6.14;42;4.23;65;1.35;;;81;0.56;;;;;;
+2019;zootecnia;Universidade Católica Dom Bosco;MS;80;Privada;;;80;5.62;67;1.93;55;2.39;;;73;1.3;;;;;;
+2019;zootecnia;Universidade Estadual do Maranhão;MA;81;Estadual;;;81;4.92;71;1.56;60;1.87;;;71;1.49;;;;;;
+2019;zootecnia;Faculdade Eduvale de Avaré;SP;82;Privada;;;82;4.42;50;3.49;;;;;77;0.93;;;;;;
+2019;zootecnia;Centro Universitário Católica do Tocantins;TO;83;Privada;;;83;3.81;79;0.83;61;1.77;;;74;1.21;;;;;;
+2019;zootecnia;Faculdades Integradas da Upis;DF;84;Privada;;;84;3.34;73;1.38;69;0.94;;;76;1.02;;;;;;
+2019;zootecnia;Pontifícia Universidade Católica de Goiás;GO;85;Privada;;;85;2.98;74;1.29;68;1.04;;;80;0.65;;;;;;
+2019;zootecnia;Centro Universitário do Vale do Araguaia;MT;86;Privada;;;86;1.29;84;0.37;71;0.73;;;85;0.19;;;;;;
+2019;zootecnia;Universidade da Amazônia;PA;87;Privada;;;87;0.18;86;0.18;;;;;;;;;;;;
+2024;zootecnia;Universidade Federal de Viçosa;MG;1;Federal;3;34.4;1;63.5;;;1;8;;;1;8;;;7;7.5;1;40
+2024;zootecnia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;2;Estadual;1;36;2;60.88;;;36;5.05;;;1;8;;;3;7.83;1;40
+2024;zootecnia;Universidade de São Paulo;SP;3;Estadual;1;36;4;58.63;;;36;5.05;;;1;8;;;1;8;3;37.58
+2024;zootecnia;Universidade Federal de Minas Gerais;MG;4;Federal;3;34.4;6;56.54;;;9;7.33;;;1;8;;;24;6.06;5;35.15
+2024;zootecnia;Universidade Federal de Santa Maria;RS;5;Federal;3;34.4;7;54.86;;;39;4.8;;;1;8;;;14;6.91;5;35.15
+2024;zootecnia;Universidade Federal Rural do Rio de Janeiro;RJ;6;Federal;3;34.4;13;50.93;;;8;7.41;;;1;8;;;34;5.22;9;30.3
+2024;zootecnia;Universidade Federal de Lavras;MG;7;Federal;14;25.6;3;59.43;;;3;7.83;;;1;8;;;10;7.24;4;36.36
+2024;zootecnia;Universidade Federal do Rio Grande do Sul;RS;8;Federal;14;25.6;5;57.8;;;6;7.58;;;1;8;;;12;7.07;5;35.15
+2024;zootecnia;Universidade Federal de Goiás;GO;9;Federal;14;25.6;8;52.78;;;15;6.82;;;1;8;;;5;7.66;9;30.3
+2024;zootecnia;Universidade Estadual de Londrina;PR;10;Estadual;14;25.6;10;52.44;;;5;7.66;;;1;8;;;19;6.48;9;30.3
+2024;zootecnia;Universidade Estadual de Maringá;PR;11;Estadual;14;25.6;11;51.57;;;55;3.45;;;1;8;;;37;4.97;5;35.15
+2024;zootecnia;Universidade Federal da Bahia;BA;12;Federal;14;25.6;12;51.1;;;2;7.92;;;1;8;;;38;4.88;9;30.3
+2024;zootecnia;Universidade Federal da Paraíba;PB;13;Federal;14;25.6;14;50.09;;;19;6.48;;;1;8;;;33;5.31;9;30.3
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;14;Federal;3;34.4;21;40.99;;;65;2.61;;;1;8;;;95;0.08;9;30.3
+2024;zootecnia;Universidade Federal Rural de Pernambuco;PE;15;Federal;14;25.6;15;48.41;;;49;3.96;;;1;8;;;23;6.15;9;30.3
+2024;zootecnia;Universidade Federal de Mato Grosso;MT;16;Federal;14;25.6;16;47.9;;;35;5.14;;;1;8;;;43;4.46;9;30.3
+2024;zootecnia;Universidade Federal de Pelotas;RS;17;Federal;14;25.6;17;45.79;;;24;6.06;;;1;8;;;79;1.43;9;30.3
+2024;zootecnia;Universidade Federal do Paraná;PR;18;Federal;14;25.6;18;45.63;;;23;6.15;;;70;2.19;;;13;6.99;9;30.3
+2024;zootecnia;Universidade Federal de Mato Grosso do Sul;MS;19;Federal;14;25.6;19;43.26;;;38;4.88;;;76;1.68;;;20;6.4;9;30.3
+2024;zootecnia;Universidade Federal do Ceará;CE;20;Federal;3;34.4;23;34.13;;;12;7.07;;;1;8;;;28;5.73;23;13.33
+2024;zootecnia;Fundação Universidade do Estado de Santa Catarina;SC;21;Estadual;14;25.6;20;42.09;;;20;6.4;;;79;1.43;;;49;3.96;9;30.3
+2024;zootecnia;Universidade Estadual de Mato Grosso do Sul;MS;22;Estadual;3;34.4;31;24.1;;;48;4.04;;;81;1.26;;;31;5.47;23;13.33
+2024;zootecnia;Fundação Universidade Federal do Tocantins;TO;23;Federal;14;25.6;25;32.2;;;59;3.12;;;1;8;;;4;7.75;23;13.33
+2024;zootecnia;Universidade Federal de Uberlândia;MG;24;Federal;3;34.4;39;19.54;;;40;4.72;;;1;8;;;15;6.82;;
+2024;zootecnia;Fundação Universidade Federal da Grande Dourados;MS;25;Federal;3;34.4;45;18.28;;;45;4.3;;;1;8;;;25;5.98;;
+2024;zootecnia;Universidade Federal de Santa Catarina;SC;26;Federal;;;9;52.62;;;16;6.74;;;1;8;;;6;7.58;9;30.3
+2024;zootecnia;Universidade Federal do Rio Grande do Norte;RN;27;Federal;14;25.6;34;21.65;;;14;6.91;;;1;8;;;16;6.74;;
+2024;zootecnia;Universidade Federal de São João Del Rei;MG;28;Federal;14;25.6;36;19.79;;;41;4.63;;;1;8;;;11;7.16;;
+2024;zootecnia;Universidade Estadual do Oeste do Paraná;PR;29;Estadual;14;25.6;38;19.62;;;32;5.39;;;1;8;;;22;6.23;;
+2024;zootecnia;Universidade Federal do Espírito Santo;ES;30;Federal;14;25.6;40;19.46;;;30;5.56;;;1;8;;;26;5.9;;
+2024;zootecnia;Universidade do Estado de Mato Grosso;MT;31;Estadual;3;34.4;76;9.27;;;94;0.17;;;1;8;;;83;1.1;;
+2024;zootecnia;Universidade Federal do Recôncavo da Bahia;BA;32;Federal;3;34.4;79;8.76;;;53;3.62;;;73;1.94;;;58;3.2;;
+2024;zootecnia;Universidade Federal de Sergipe;SE;33;Federal;14;25.6;47;17.27;;;47;4.13;;;1;8;;;35;5.14;;
+2024;zootecnia;Universidade Federal do Piauí;PI;34;Federal;14;25.6;48;17.01;;;56;3.37;;;1;8;;;29;5.64;;
+2024;zootecnia;Universidade Federal do Amazonas;AM;35;Federal;14;25.6;54;15.41;;;58;3.2;;;1;8;;;46;4.21;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;36;Federal;14;25.6;56;14.74;;;42;4.55;;;1;8;;;70;2.19;;
+2024;zootecnia;Universidade Federal de Alagoas;AL;37;Federal;14;25.6;63;13.73;;;84;1.01;;;1;8;;;40;4.72;;
+2024;zootecnia;Faculdades Associadas de Uberaba;MG;38;Privada;;;22;37.38;;;28;5.73;;;90;0.51;;;86;0.84;9;30.3
+2024;zootecnia;Centro Universitário de Patos de Minas;MG;39;Privada;14;25.6;68;11.63;;;7;7.5;;;91;0.42;;;52;3.71;;
+2024;zootecnia;Universidade Estadual de Goiás;GO;40;Estadual;14;25.6;70;11.37;;;85;0.93;;;1;8;;;67;2.44;;
+2024;zootecnia;Universidade Católica Dom Bosco;MS;41;Privada;14;25.6;80;8.76;;;46;4.21;;;75;1.77;;;63;2.78;;
+2024;zootecnia;Universidade Federal Rural do Semi-árido;RN;42;Federal;;;24;34.05;;;11;7.16;;;1;8;;;30;5.56;23;13.33
+2024;zootecnia;Universidade Tecnológica Federal do Paraná;PR;43;Federal;42;3.2;27;30.68;;;54;3.54;;;1;8;;;27;5.81;23;13.33
+2024;zootecnia;Universidade Estadual do Maranhão;MA;44;Estadual;14;25.6;86;6.48;;;88;0.67;;;72;2.02;;;51;3.79;;
+2024;zootecnia;Universidade Estadual de Montes Claros;MG;45;Estadual;;;26;31.52;;;18;6.57;;;1;8;;;53;3.62;23;13.33
+2024;zootecnia;Centro Universitário Católica do Tocantins;TO;46;Privada;14;25.6;92;3.7;;;91;0.42;;;88;0.67;;;65;2.61;;
+2024;zootecnia;Universidade Federal do Maranhão;MA;47;Federal;;;28;28.74;;;72;2.02;;;1;8;;;32;5.39;23;13.33
+2024;zootecnia;Universidade Estadual do Piauí;PI;48;Estadual;;;29;28.32;;;34;5.22;;;1;8;;;75;1.77;23;13.33
+2024;zootecnia;Universidade Estadual do Sudoeste da Bahia;BA;49;Estadual;;;30;25.63;;;80;1.35;;;1;8;;;61;2.95;23;13.33
+2024;zootecnia;Universidade do Oeste de Santa Catarina;SC;50;Privada;;;32;23.28;;;21;6.32;;;78;1.52;;;71;2.11;23;13.33
+2024;zootecnia;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;51;Estadual;;;33;22.65;;;17;6.65;;;1;8;;;1;8;;
+2024;zootecnia;Universidade Estadual de Ponta Grossa;PR;52;Estadual;42;3.2;41;19.03;;;4;7.75;;;1;8;;;57;3.28;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;53;Federal;;;35;20.49;;;75;1.77;;;74;1.85;;;54;3.54;23;13.33
+2024;zootecnia;Fundação Universidade Federal do Vale do São Francisco;PE;54;Federal;;;36;19.79;;;44;4.38;;;1;8;;;8;7.41;;
+2024;zootecnia;Fundação Universidade Federal de Rondônia;RO;55;Federal;;;42;18.86;;;24;6.06;;;1;8;;;39;4.8;;
+2024;zootecnia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;56;Federal;;;43;18.78;;;43;4.46;;;1;8;;;21;6.32;;
+2024;zootecnia;Universidade Federal do Agreste de Pernambuco;PE;57;Federal;;;44;18.53;;;49;3.96;;;1;8;;;18;6.57;;
+2024;zootecnia;Fundação Universidade Federal do Pampa;RS;58;Federal;;;46;17.43;;;63;2.78;;;1;8;;;17;6.65;;
+2024;zootecnia;Universidade Federal Rural da Amazônia;PA;59;Federal;;;49;16.76;;;52;3.71;;;1;8;;;36;5.05;;
+2024;zootecnia;Universidade Federal de Roraima;RR;59;Federal;;;50;16.76;;;22;6.23;;;1;8;;;66;2.53;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;61;Federal;;;51;16.67;;;27;5.81;;;1;8;;;62;2.86;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;62;Federal;;;52;16.26;;;30;5.56;;;1;8;;;64;2.7;;
+2024;zootecnia;Universidade Federal do Sul e Sudeste do Pará;PA;63;Federal;;;53;16.17;;;86;0.84;;;1;8;;;9;7.33;;
+2024;zootecnia;Universidade do Oeste Paulista;SP;64;Privada;42;3.2;67;12.13;;;13;6.99;;;83;1.1;;;48;4.04;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;65;Federal;;;55;15.24;;;62;2.86;;;1;8;;;44;4.38;;
+2024;zootecnia;Universidade Federal de Rondonópolis;MT;66;Federal;;;56;14.74;;;65;2.61;;;1;8;;;47;4.13;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;67;Federal;;;58;14.73;;;24;6.06;;;1;8;;;88;0.67;;
+2024;zootecnia;Universidade Federal de Jataí;GO;68;Federal;;;59;14.4;;;74;1.85;;;1;8;;;42;4.55;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;69;Federal;;;60;14.15;;;51;3.79;;;1;8;;;68;2.36;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;69;Federal;;;60;14.15;;;59;3.12;;;1;8;;;60;3.03;;
+2024;zootecnia;Faculdade Arnaldo Janssen;MG;71;Privada;;;62;13.9;;;28;5.73;;;1;8;;;94;0.17;;
+2024;zootecnia;Universidade Federal do Oeste do Pará;PA;72;Federal;;;64;13.47;;;86;0.84;;;1;8;;;41;4.63;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;73;Federal;;;65;12.72;;;56;3.37;;;1;8;;;80;1.35;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;73;Federal;;;65;12.72;;;64;2.7;;;1;8;;;72;2.02;;
+2024;zootecnia;Instituto de Ensino Superior Múltiplo;MA;75;Privada;;;69;11.46;;;78;1.52;;;1;8;;;73;1.94;;
+2024;zootecnia;Centro Universitário Unirb;BA;76;Privada;;;71;11.2;;;78;1.52;;;1;8;;;76;1.68;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;77;Federal;;;72;10.95;;;80;1.35;;;1;8;;;77;1.6;;
+2024;zootecnia;Faculdade de Ciências Sociais Aplicadas do Vale do São Lourenço;MT;78;Privada;;;73;10.36;;;82;1.18;;;1;8;;;82;1.18;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;79;Federal;;;74;10.28;;;33;5.31;;;77;1.6;;;56;3.37;;
+2024;zootecnia;Pontifícia Universidade Católica de Goiás;GO;80;Privada;42;3.2;87;6.39;;;76;1.68;;;86;0.84;;;50;3.87;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;81;Federal;;;75;9.52;;;90;0.51;;;1;8;;;84;1.01;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;82;Federal;;;77;9.01;;;89;0.59;;;1;8;;;91;0.42;;
+2024;zootecnia;Universidade Estadual de Alagoas;AL;83;Estadual;;;78;8.84;;;93;0.25;;;1;8;;;89;0.59;;
+2024;zootecnia;Centro Universitário Aparício Carvalho;RO;84;Privada;;;81;8.42;;;95;0.08;;;1;8;;;92;0.34;;
+2024;zootecnia;Faculdade Eduvale de Avaré;SP;85;Privada;;;82;8.17;;;10;7.24;;;94;0.17;;;87;0.76;;
+2024;zootecnia;Faculdade Anclivepa;SP;86;Privada;;;83;6.99;;;68;2.36;;;82;1.18;;;55;3.45;;
+2024;zootecnia;Universidade Estadual Vale do Acaraú;CE;87;Estadual;;;84;6.91;;;67;2.44;;;80;1.35;;;59;3.12;;
+2024;zootecnia;Centro Universitário da Fundação Educacional de Barretos;SP;88;Privada;;;85;6.74;;;68;2.36;;;95;0.08;;;45;4.3;;
+2024;zootecnia;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;89;Federal;;;88;5.65;;;72;2.02;;;71;2.11;;;78;1.52;;
+2024;zootecnia;Centro Universitário de Rio Preto;SP;90;Privada;;;89;4.88;;;68;2.36;;;93;0.25;;;69;2.27;;
+2024;zootecnia;Centro Universitário Sudoeste Paulista;SP;91;Privada;;;90;4.8;;;68;2.36;;;89;0.59;;;74;1.85;;
+2024;zootecnia;Faculdade de Ensino Superior da Amazônia Reunida;PA;92;Privada;;;91;4.55;;;61;2.95;;;92;0.34;;;81;1.26;;
+2024;zootecnia;Faculdades Integradas da Upis;DF;93;Privada;;;93;3.54;;;77;1.6;;;84;1.01;;;85;0.93;;
+2024;zootecnia;Centro Universitário do Vale do Araguaia;MT;94;Privada;;;94;2.45;;;82;1.18;;;87;0.76;;;90;0.51;;
+2024;zootecnia;Faculdade Guaraí;TO;95;Privada;;;95;1.6;;;91;0.42;;;85;0.93;;;93;0.25;;

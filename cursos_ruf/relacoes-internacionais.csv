@@ -1,0 +1,439 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;relacoes-internacionais;Universidade de São Paulo;SP;1;Estadual;1;36;2;60.19;1;8;42;4.19;;;1;8;1;40;;;;;;;
+2019;relacoes-internacionais;Universidade de Brasília;DF;2;Federal;3;33.23;1;60.3;14;7.06;2;7.91;;;1;8;2;37.33;;;;;;;
+2019;relacoes-internacionais;Universidade Federal do Rio de Janeiro;RJ;3;Federal;3;33.23;3;57.1;11;7.27;10;7.16;;;1;8;3;34.67;;;;;;;
+2019;relacoes-internacionais;Pontifícia Universidade Católica de São Paulo;SP;4;Privada;1;36;5;49.73;18;6.76;30;5.3;;;33;5.67;4;32;;;;;;;
+2019;relacoes-internacionais;Universidade Federal do Rio Grande do Sul;RS;5;Federal;8;26.31;4;55.49;8;7.49;1;8;;;1;8;4;32;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Minas Gerais;MG;6;Federal;3;33.23;7;43.45;9;7.42;15;6.7;;;1;8;8;21.33;;;;;;;
+2019;relacoes-internacionais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;7;Estadual;8;26.31;6;49.21;7;7.56;42;4.19;;;36;5.46;4;32;;;;;;;
+2019;relacoes-internacionais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;8;Privada;3;33.23;9;39.27;23;6.4;;;;;99;0.87;4;32;;;;;;;
+2019;relacoes-internacionais;Pontifícia Universidade Católica de Minas Gerais;MG;9;Privada;3;33.23;10;36.61;43;4.95;26;5.67;;;47;4.66;8;21.33;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Uberlândia;MG;10;Federal;8;26.31;8;42.68;22;6.47;13;6.88;;;1;8;8;21.33;;;;;;;
+2019;relacoes-internacionais;Universidade Federal Fluminense;RJ;11;Federal;8;26.31;11;36.4;10;7.35;4;7.72;;;1;8;11;13.33;;;;;;;
+2019;relacoes-internacionais;Universidade do Vale do Rio dos Sinos;RS;12;Privada;8;26.31;13;32.48;24;6.33;7;7.44;;;37;5.38;11;13.33;;;;;;;
+2019;relacoes-internacionais;Universidade do Estado do Rio de Janeiro;RJ;13;Estadual;8;26.31;14;26.64;5;7.71;;;;;34;5.6;11;13.33;;;;;;;
+2019;relacoes-internacionais;Universidade Federal da Paraíba;PB;14;Federal;8;26.31;19;21.61;25;6.26;8;7.35;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Vila Velha;ES;15;Privada;8;26.31;28;15.45;39;5.24;25;5.77;;;50;4.44;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Jorge Amado;BA;16;Privada;8;26.31;29;15.27;61;3.64;5;7.63;;;56;4;;;;;;;;;
+2019;relacoes-internacionais;Universidade Potiguar;RN;17;Privada;8;26.31;41;13.56;36;5.46;57;2.79;;;38;5.31;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;18;Privada;8;26.31;46;12.62;70;2.98;24;5.86;;;59;3.78;;;;;;;;;
+2019;relacoes-internacionais;Universidade Anhembi Morumbi;SP;19;Privada;8;26.31;48;12.37;46;4.73;40;4.37;;;66;3.27;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Ibmec;RJ;20;Privada;8;26.31;49;12.36;41;5.09;16;6.61;;;102;0.66;;;;;;;;;
+2019;relacoes-internacionais;Universidade Paulista;SP;21;Privada;8;26.31;54;11.8;101;0.73;22;6.05;;;42;5.02;;;;;;;;;
+2019;relacoes-internacionais;Escola Superior de Propaganda e Marketing;SP;22;Privada;8;26.31;69;9.14;62;3.56;49;3.54;;;83;2.04;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Santa Catarina;SC;23;Federal;;;12;35.38;15;6.98;11;7.07;;;1;8;11;13.33;;;;;;;
+2019;relacoes-internacionais;Pontifícia Universidade Católica de Goiás;GO;24;Privada;8;26.31;70;8.83;67;3.2;68;1.77;;;58;3.86;;;;;;;;;
+2019;relacoes-internacionais;Universidade do Sul de Santa Catarina;SC;25;Privada;8;26.31;71;8.58;85;1.89;62;2.33;;;51;4.36;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário do Norte;AM;26;Privada;8;26.31;89;6.28;98;0.95;72;1.4;;;57;3.93;;;;;;;;;
+2019;relacoes-internacionais;Faculdade de Economia da Fundação Armando Alvares Penteado;SP;27;Privada;8;26.31;91;6.25;72;2.84;52;3.26;;;109;0.15;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Álvares Penteado;SP;28;Privada;;;15;25.22;31;5.82;39;4.47;;;89;1.6;11;13.33;;;;;;;
+2019;relacoes-internacionais;Fundação Universidade Federal do ABC;SP;29;Federal;;;16;23.81;1;8;3;7.81;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de São Paulo;SP;30;Federal;;;17;23.18;6;7.64;6;7.54;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Pelotas;RS;31;Federal;;;18;21.64;13;7.13;17;6.51;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Santa Maria;RS;32;Federal;;;20;21.02;28;6.04;12;6.98;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Fundação Universidade Federal do Pampa;RS;33;Federal;;;21;20.39;34;5.6;14;6.79;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Estadual da Paraíba;PB;34;Estadual;;;22;19.96;17;6.84;32;5.12;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal Rural do Rio de Janeiro;RJ;35;Federal;;;23;19.94;12;7.2;36;4.74;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Sergipe;SE;36;Federal;;;24;17.95;42;5.02;34;4.93;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Fundação Universidade Federal da Grande Dourados;MS;37;Federal;;;25;16.01;38;5.31;58;2.7;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade do Estado do Pará;PA;38;Estadual;;;26;16;1;8;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;38;Federal;;;26;16;1;8;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;40;Privada;;;30;15.26;26;6.18;23;5.95;;;68;3.13;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal da Integração Latino-americana;PR;41;Federal;;;31;14.69;19;6.69;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal do Amapá;AP;42;Federal;;;32;14.64;94;1.24;29;5.4;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Fundação Universidade Federal do Tocantins;TO;43;Federal;;;33;14.62;20;6.62;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal do Rio Grande;RS;44;Federal;;;34;14.11;27;6.11;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade Católica de Santos;SP;45;Privada;;;35;13.97;21;6.55;69;1.67;;;32;5.75;;;;;;;;;
+2019;relacoes-internacionais;Universidade La Salle;RS;46;Privada;;;36;13.92;16;6.91;64;2.14;;;44;4.87;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Roraima;RR;47;Federal;;;37;13.88;57;3.93;66;1.95;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Faculdade de Ciências Econômicas;SP;48;Privada;;;38;13.85;59;3.78;28;5.49;;;48;4.58;;;;;;;;;
+2019;relacoes-internacionais;Universidade Federal de Goiás;GO;49;Federal;;;39;13.67;33;5.67;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário de Belo Horizonte;MG;50;Privada;;;40;13.65;52;4.29;38;4.56;;;45;4.8;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Ritter dos Reis;RS;51;Privada;;;42;13.28;40;5.16;31;5.21;;;71;2.91;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário do Instituto de Educação Superior de Brasília;DF;52;Privada;;;43;12.83;89;1.6;21;6.14;;;41;5.09;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Ideau de Bagé;RS;53;Privada;;;44;12.66;47;4.66;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Faculdades Integradas Rio Branco;SP;54;Privada;;;45;12.64;45;4.8;27;5.58;;;80;2.26;;;;;;;;;
+2019;relacoes-internacionais;Faculdade de Ciências Sociais Aplicadas Ibmec;RJ;55;Privada;;;47;12.6;30;5.89;18;6.42;;;107;0.29;;;;;;;;;
+2019;relacoes-internacionais;Universidade Católica de Brasília;DF;56;Privada;;;50;12.1;68;3.13;46;3.81;;;40;5.16;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário La Salle do Rio de Janeiro;RJ;57;Privada;;;51;12.07;32;5.75;37;4.65;;;88;1.67;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Curitiba;PR;58;Privada;;;52;12.05;58;3.86;35;4.84;;;65;3.35;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Ibmec;MG;59;Privada;;;53;11.85;51;4.36;19;6.33;;;95;1.16;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Santa Marcelina;SP;60;Privada;;;55;11.77;50;4.44;9;7.26;;;110;0.07;;;;;;;;;
+2019;relacoes-internacionais;Universidade do Vale do Taquari;RS;61;Privada;;;56;11.69;66;3.27;45;3.91;;;49;4.51;;;;;;;;;
+2019;relacoes-internacionais;Universidade do Vale do Itajaí;SC;62;Privada;;;57;10.99;78;2.4;51;3.35;;;39;5.24;;;;;;;;;
+2019;relacoes-internacionais;Universidade Metodista de Piracicaba;SP;63;Privada;;;58;10.83;44;4.87;44;4;;;84;1.96;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Dinâmica das Cataratas;PR;64;Privada;;;59;10.69;74;2.69;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Faculdade La Salle;AM;65;Privada;;;60;10.41;106;0.36;65;2.05;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Santa Rita de Chapecó;SC;66;Privada;;;61;10.33;79;2.33;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;67;Privada;;;62;10.05;35;5.53;47;3.72;;;100;0.8;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Sagrado Coração;SP;68;Privada;;;63;9.98;73;2.76;54;3.07;;;54;4.15;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Tabosa de Almeida;PE;69;Privada;;;64;9.68;97;1.02;33;5.02;;;61;3.64;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário do Distrito Federal;DF;70;Privada;;;65;9.51;53;4.22;70;1.58;;;60;3.71;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Ideau de Caxias do Sul;RS;71;Privada;;;66;9.38;92;1.38;;;;;1;8;;;;;;;;;
+2019;relacoes-internacionais;Universidade de Ribeirão Preto;SP;72;Privada;;;67;9.21;86;1.82;67;1.86;;;35;5.53;;;;;;;;;
+2019;relacoes-internacionais;Instituto de Ensino Superior de Bauru;SP;73;Privada;;;68;9.18;60;3.71;79;0.74;;;46;4.73;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Internacional;PR;74;Privada;;;72;8.34;81;2.18;74;1.21;;;43;4.95;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário dos Guararapes;PE;75;Privada;;;73;8.14;37;5.38;;;;;73;2.76;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário de Brasília;DF;75;Privada;;;73;8.14;55;4.07;59;2.61;;;91;1.46;;;;;;;;;
+2019;relacoes-internacionais;Faculdade do Instituto Nacional de Pós-graduação de São José Dos Campos;SP;77;Privada;;;75;8.05;96;1.09;20;6.23;;;101;0.73;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Ibmr;RJ;78;Privada;;;76;7.77;84;1.96;41;4.28;;;90;1.53;;;;;;;;;
+2019;relacoes-internacionais;Faculdades Integradas Rio Branco Granja Vianna;SP;79;Privada;;;77;7.64;47;4.66;;;;;70;2.98;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Estácio do Recife;PE;80;Privada;;;78;7.59;87;1.75;50;3.44;;;78;2.4;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Damas da Instrução Cristã;PE;81;Privada;;;79;7.54;54;4.15;56;2.88;;;104;0.51;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;82;Privada;;;80;7.42;47;4.66;;;;;73;2.76;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Moura Lacerda;SP;82;Privada;;;80;7.42;76;2.55;48;3.63;;;94;1.24;;;;;;;;;
+2019;relacoes-internacionais;Universidade Estácio de Sá;RJ;84;Privada;;;82;7.32;69;3.06;85;0.19;;;55;4.07;;;;;;;;;
+2019;relacoes-internacionais;Universidade Católica de Petrópolis;RJ;85;Privada;;;83;7.2;88;1.67;55;2.98;;;76;2.55;;;;;;;;;
+2019;relacoes-internacionais;Pontifícia Universidade Católica de Campinas;SP;86;Privada;;;84;7.05;29;5.96;;;;;96;1.09;;;;;;;;;
+2019;relacoes-internacionais;Universidade de Santa Cruz do Sul;RS;87;Privada;;;85;7.04;64;3.42;81;0.56;;;69;3.06;;;;;;;;;
+2019;relacoes-internacionais;Universidade Cândido Mendes;RJ;88;Privada;;;86;6.84;65;3.35;80;0.65;;;72;2.84;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Belas Artes de São Paulo;SP;89;Privada;;;87;6.82;56;4;77;0.93;;;85;1.89;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Esamc Sorocaba;SP;90;Privada;;;88;6.37;103;0.58;63;2.23;;;62;3.56;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Senac;SP;91;Privada;;;89;6.28;82;2.11;61;2.42;;;87;1.75;;;;;;;;;
+2019;relacoes-internacionais;Universidade da Amazônia;PA;92;Privada;;;92;6.21;99;0.87;53;3.16;;;81;2.18;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Esamc Santos;SP;93;Privada;;;93;6.15;109;0.15;60;2.51;;;63;3.49;;;;;;;;;
+2019;relacoes-internacionais;Universidade de Mogi das Cruzes;SP;94;Privada;;;94;6.05;91;1.46;83;0.37;;;53;4.22;;;;;;;;;
+2019;relacoes-internacionais;Faculdade São Francisco de Assis;RS;95;Privada;;;95;5.67;77;2.47;;;;;67;3.2;;;;;;;;;
+2019;relacoes-internacionais;Universidade Salvador;BA;96;Privada;;;96;4.95;75;2.62;;;;;79;2.33;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Newton Paiva;MG;97;Privada;;;97;4.9;93;1.31;75;1.12;;;77;2.47;;;;;;;;;
+2019;relacoes-internacionais;Universidade Veiga de Almeida;RJ;98;Privada;;;98;4.87;63;3.49;;;;;92;1.38;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Lusíada;SP;99;Privada;;;99;4.84;90;1.53;71;1.49;;;86;1.82;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário da Serra Gaúcha;RS;100;Privada;;;100;4.8;104;0.51;;;;;52;4.29;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Fundação Santo André;SP;101;Privada;;;101;4.79;71;2.91;73;1.3;;;103;0.58;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Esamc São Paulo;SP;102;Privada;;;102;4.58;95;1.16;;;;;64;3.42;;;;;;;;;
+2019;relacoes-internacionais;Universidade de Sorocaba;SP;103;Privada;;;103;4.37;80;2.26;;;;;82;2.11;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Erich Fromm;DF;104;Privada;;;104;3.51;102;0.66;86;0.09;;;73;2.76;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Esamc Campinas;SP;105;Privada;;;105;3.13;100;0.8;76;1.02;;;93;1.31;;;;;;;;;
+2019;relacoes-internacionais;Universidade Positivo;PR;106;Privada;;;106;2.48;83;2.04;;;;;105;0.44;;;;;;;;;
+2019;relacoes-internacionais;Centro Universitário Anhanguera Pitágoras Unopar de Campo Grande;MS;107;Privada;;;107;2.15;107;0.29;78;0.84;;;97;1.02;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Esamc Uberlândia;MG;108;Privada;;;108;1.86;105;0.44;82;0.47;;;98;0.95;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Anglo;SP;109;Privada;;;109;0.72;108;0.22;84;0.28;;;108;0.22;;;;;;;;;
+2019;relacoes-internacionais;Faculdade Stella Maris;CE;110;Privada;;;110;0.43;110;0.07;;;;;106;0.36;;;;;;;;;
+2023;relacoes-internacionais;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.3;1;8;24;6.3;;;1;8;1;40;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Minas Gerais;MG;2;Federal;2;35.38;4;59.65;13;7.11;22;6.44;;;1;8;3;38.1;;;;;;;
+2023;relacoes-internacionais;Pontifícia Universidade Católica de São Paulo;SP;3;Privada;2;35.38;5;58.77;21;6.52;26;6.15;;;1;8;3;38.1;;;;;;;
+2023;relacoes-internacionais;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.38;6;58.47;40;5.11;11;7.26;;;1;8;3;38.1;;;;;;;
+2023;relacoes-internacionais;Universidade de Brasília;DF;5;Federal;7;32.28;2;61.26;29;5.93;10;7.33;;;1;8;1;40;;;;;;;
+2023;relacoes-internacionais;Universidade Federal do Rio Grande do Sul;RS;6;Federal;7;32.28;3;60.69;20;6.59;1;8;;;1;8;3;38.1;;;;;;;
+2023;relacoes-internacionais;Pontifícia Universidade Católica de Minas Gerais;MG;7;Privada;2;35.38;12;52.82;49;4.44;15;6.96;;;63;3.32;3;38.1;;;;;;;
+2023;relacoes-internacionais;Universidade Federal Fluminense;RJ;8;Federal;7;32.28;8;54.01;16;6.89;18;6.74;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade Federal da Paraíba;PB;9;Federal;7;32.28;9;53.94;18;6.74;17;6.82;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;10;Estadual;7;32.28;10;53.87;12;7.19;24;6.3;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Uberlândia;MG;11;Federal;7;32.28;11;53.27;23;6.37;21;6.52;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;12;Privada;7;32.28;13;52.13;41;5.04;6;7.63;;;89;1.36;3;38.1;;;;;;;
+2023;relacoes-internacionais;Universidade do Estado do Rio de Janeiro;RJ;13;Estadual;7;32.28;15;50.91;28;6;3;7.85;;;45;4.68;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade do Vale do Rio dos Sinos;RS;14;Privada;7;32.28;17;49.64;33;5.63;4;7.78;;;56;3.85;9;32.38;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Armando Alvares Penteado;SP;15;Privada;7;32.28;20;43.08;65;3.26;30;5.85;;;86;1.59;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Santa Catarina;SC;16;Federal;30;18;7;54.46;14;7.04;14;7.04;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Goiás;GO;17;Federal;30;18;14;52.01;45;4.74;16;6.89;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Pontifícia Universidade Católica do Rio Grande do Sul;RS;18;Privada;7;32.28;29;35.01;1;8;76;2.44;;;59;3.62;21;20.95;;;;;;;
+2023;relacoes-internacionais;Faculdade Ibmec;MG;19;Privada;7;32.28;32;34;1;8;46;4.67;;;102;0.38;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade Anhembi Morumbi;SP;20;Privada;7;32.28;33;33.92;47;4.59;55;4;;;49;4.38;21;20.95;;;;;;;
+2023;relacoes-internacionais;Escola de Relações Internacionais;SP;21;Privada;7;32.28;37;28.67;27;6.07;98;0.82;;;96;0.83;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;22;Privada;7;32.28;38;28.23;91;1.33;48;4.52;;;88;1.43;21;20.95;;;;;;;
+2023;relacoes-internacionais;Escola Superior de Propaganda e Marketing;SP;23;Privada;30;18;23;41.16;52;4.22;75;2.52;;;80;2.04;9;32.38;;;;;;;
+2023;relacoes-internacionais;Pontifícia Universidade Católica de Campinas;SP;24;Privada;7;32.28;41;25.78;62;3.48;98;0.82;;;100;0.53;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Álvares Penteado;SP;25;Privada;30;18;25;37.39;30;5.85;12;7.19;;;62;3.4;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade do Vale do Itajaí;SC;26;Privada;30;18;26;36.8;76;2.44;36;5.41;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade Salvador;BA;27;Privada;30;18;28;35.11;80;2.15;7;7.56;;;48;4.45;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade do Estado do Pará;PA;28;Estadual;30;18;34;33.84;66;3.19;86;1.7;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Roraima;RR;29;Federal;;;16;50.08;1;8;86;1.7;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Escola Superior de Propaganda e Marketing do Rio de Janeiro;RJ;30;Privada;;;18;49.57;1;8;93;1.19;;;1;8;9;32.38;;;;;;;
+2023;relacoes-internacionais;Universidade Estácio de Sá;RJ;31;Privada;30;18;36;31.38;17;6.82;93;1.19;;;75;2.42;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Jorge Amado;BA;32;Privada;7;32.28;56;14.22;63;3.41;7;7.56;;;64;3.25;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário do Norte;AM;33;Privada;7;32.28;65;12.89;67;3.11;85;1.78;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Fundação Universidade Federal do ABC;SP;34;Federal;;;19;44.65;1;8;5;7.7;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Ibmec;RJ;35;Privada;7;32.28;68;12.16;24;6.3;33;5.63;;;104;0.23;;;;;;;;;
+2023;relacoes-internacionais;Universidade Potiguar;RN;36;Privada;7;32.28;69;11.93;99;0.74;13;7.11;;;53;4.08;;;;;;;;;
+2023;relacoes-internacionais;Universidade da Amazônia;PA;37;Privada;7;32.28;70;11.84;78;2.3;23;6.37;;;65;3.17;;;;;;;;;
+2023;relacoes-internacionais;Universidade Vila Velha;ES;38;Privada;7;32.28;72;11.54;60;3.63;44;4.82;;;66;3.09;;;;;;;;;
+2023;relacoes-internacionais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;39;Federal;;;21;42.95;1;8;28;6;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade Paulista;SP;40;Privada;2;35.38;95;6.72;100;0.67;64;3.33;;;71;2.72;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Santa Maria;RS;41;Federal;;;22;41.69;15;6.96;31;5.78;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Fundação Universidade Federal do Pampa;RS;42;Federal;;;24;39.62;24;6.3;50;4.37;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Pontifícia Universidade Católica de Goiás;GO;43;Privada;7;32.28;99;6.33;85;1.78;72;2.74;;;83;1.81;;;;;;;;;
+2023;relacoes-internacionais;Universidade La Salle;RS;44;Privada;30;18;45;18.44;1;8;76;2.44;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Católica de Santos;SP;45;Privada;30;18;46;18.37;19;6.67;59;3.7;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Estadual da Paraíba;PB;46;Estadual;30;18;47;18.15;53;4.15;28;6;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário do Distrito Federal;DF;47;Privada;;;27;35.99;34;5.56;89;1.48;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade de Ribeirão Preto;SP;48;Privada;30;18;48;17.77;59;3.7;27;6.07;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Pelotas;RS;49;Federal;;;30;34.65;94;1.11;47;4.59;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Ibmr;RJ;50;Privada;30;18;53;16.44;37;5.33;67;3.11;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal do Amapá;AP;51;Federal;;;31;34.36;93;1.19;52;4.22;;;1;8;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Ritter dos Reis;RS;52;Privada;;;35;32.96;77;2.37;40;5.11;;;47;4.53;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário de Belo Horizonte;MG;53;Privada;30;18;67;12.36;55;4;43;4.89;;;61;3.47;;;;;;;;;
+2023;relacoes-internacionais;Universidade Veiga de Almeida;RJ;54;Privada;30;18;71;11.75;58;3.78;35;5.48;;;74;2.49;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Esamc Uberlândia;MG;55;Privada;30;18;76;10.96;104;0.37;74;2.59;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Metodista de Piracicaba;SP;56;Privada;30;18;78;10.34;44;4.82;56;3.93;;;86;1.59;;;;;;;;;
+2023;relacoes-internacionais;Universidade Positivo;PR;57;Privada;30;18;79;10.15;54;4.07;83;1.93;;;52;4.15;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Esamc Campinas;SP;58;Privada;;;39;27.69;102;0.52;79;2.22;;;54;4;21;20.95;;;;;;;
+2023;relacoes-internacionais;Faculdade La Salle;AM;59;Privada;30;18;84;8.96;97;0.89;108;0.07;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade de Mogi das Cruzes;SP;60;Privada;30;18;85;8.88;67;3.11;80;2.15;;;59;3.62;;;;;;;;;
+2023;relacoes-internacionais;Universidade Católica de Brasília;DF;61;Privada;30;18;86;8.79;80;2.15;51;4.3;;;76;2.34;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Sagrado Coração;SP;62;Privada;30;18;88;8.57;71;2.82;63;3.41;;;76;2.34;;;;;;;;;
+2023;relacoes-internacionais;Faculdades de Campinas;SP;63;Privada;;;40;26.54;67;3.11;98;0.82;;;85;1.66;21;20.95;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Moura Lacerda;SP;64;Privada;30;18;90;7.74;101;0.59;38;5.26;;;82;1.89;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Fundação Santo André;SP;65;Privada;30;18;91;7.53;50;4.37;98;0.82;;;76;2.34;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Damas da Instrução Cristã;PE;66;Privada;30;18;93;7.42;61;3.56;58;3.78;;;106;0.08;;;;;;;;;
+2023;relacoes-internacionais;Universidade de Sorocaba;SP;67;Privada;30;18;94;6.98;72;2.74;62;3.48;;;97;0.76;;;;;;;;;
+2023;relacoes-internacionais;Universidade Cândido Mendes;RJ;68;Privada;30;18;100;6.1;92;1.26;60;3.63;;;91;1.21;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Lusíada;SP;69;Privada;;;42;23.78;90;1.41;98;0.82;;;99;0.6;21;20.95;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de São Paulo;SP;70;Federal;;;43;23.41;1;8;9;7.41;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade do Sul de Santa Catarina;SC;71;Privada;30;18;102;5.28;95;1.04;69;2.96;;;90;1.28;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Esamc São Paulo;SP;72;Privada;30;18;103;4.94;97;0.89;96;0.96;;;66;3.09;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal de Sergipe;SE;73;Federal;;;44;20.6;46;4.67;2;7.93;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal Rural do Rio de Janeiro;RJ;74;Federal;;;48;17.77;32;5.7;54;4.07;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Curitiba;PR;74;Privada;;;48;17.77;37;5.33;49;4.44;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Fundação Universidade Federal do Tocantins;TO;76;Federal;;;51;17.7;1;8;86;1.7;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Fundação Universidade Federal da Grande Dourados;MS;77;Federal;;;52;17.63;22;6.44;66;3.19;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal da Integração Latino-americana;PR;78;Federal;;;54;16.3;24;6.3;82;2;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Federal do Rio Grande;RS;79;Federal;;;55;14.59;48;4.52;81;2.07;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade São Judas Tadeu;SP;80;Privada;;;57;14.15;37;5.33;98;0.82;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário La Salle do Rio de Janeiro;RJ;81;Privada;;;58;14.11;31;5.78;20;6.59;;;84;1.74;;;;;;;;;
+2023;relacoes-internacionais;Universidade do Vale do Taquari;RS;82;Privada;;;59;13.79;50;4.37;45;4.74;;;45;4.68;;;;;;;;;
+2023;relacoes-internacionais;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;83;Privada;;;60;13.61;42;4.96;34;5.56;;;66;3.09;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Belas Artes de São Paulo;SP;84;Privada;;;61;13.27;43;4.89;53;4.15;;;51;4.23;;;;;;;;;
+2023;relacoes-internacionais;Universidade Comunitária da Região de Chapecó;SC;85;Privada;;;62;13.18;79;2.22;69;2.96;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Estácio do Recife;PE;86;Privada;;;63;13.09;34;5.56;39;5.19;;;76;2.34;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Dinâmica das Cataratas;PR;87;Privada;;;64;12.97;83;1.93;68;3.04;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Evangélica de Goiás;GO;88;Privada;;;66;12.44;86;1.7;72;2.74;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Universidade Católica de Petrópolis;RJ;89;Privada;;;73;11.46;73;2.67;32;5.7;;;66;3.09;;;;;;;;;
+2023;relacoes-internacionais;Universidade Anhanguera;MS;90;Privada;;;74;11.19;36;5.41;89;1.48;;;50;4.3;;;;;;;;;
+2023;relacoes-internacionais;Faculdades Integradas Rio Branco Granja Vianna;SP;91;Privada;;;75;10.99;67;3.11;19;6.67;;;91;1.21;;;;;;;;;
+2023;relacoes-internacionais;Universidade de Santa Cruz do Sul;RS;92;Privada;;;77;10.35;55;4;65;3.26;;;66;3.09;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Ibmec São Paulo;SP;93;Privada;;;80;10.03;1;8;98;0.82;;;91;1.21;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Internacional;PR;94;Privada;;;81;9.93;55;4;83;1.93;;;54;4;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário da Serra Gaúcha;RS;95;Privada;;;82;9.65;63;3.41;37;5.33;;;95;0.91;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Unità;SP;96;Privada;;;83;9.19;104;0.37;98;0.82;;;1;8;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Santa Rita de Chapecó;SC;97;Privada;;;87;8.66;83;1.93;69;2.96;;;57;3.77;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário de Brasília;DF;98;Privada;;;89;7.93;75;2.52;42;4.96;;;101;0.45;;;;;;;;;
+2023;relacoes-internacionais;Faculdade do Instituto Nacional de Pós-graduação de São José Dos Campos;SP;99;Privada;;;92;7.49;80;2.15;41;5.04;;;103;0.3;;;;;;;;;
+2023;relacoes-internacionais;Faculdade São Francisco de Assis;RS;100;Privada;;;96;6.64;88;1.56;76;2.44;;;72;2.64;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Tabosa de Almeida;PE;101;Privada;;;97;6.59;88;1.56;91;1.33;;;58;3.7;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Esamc Sorocaba;SP;102;Privada;;;98;6.57;103;0.44;61;3.56;;;73;2.57;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário do Instituto de Educação Superior de Brasília;DF;103;Privada;;;101;5.79;96;0.96;57;3.85;;;94;0.98;;;;;;;;;
+2023;relacoes-internacionais;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;104;Privada;;;104;3.57;86;1.7;93;1.19;;;98;0.68;;;;;;;;;
+2023;relacoes-internacionais;Universidade Cruzeiro do Sul;SP;105;Privada;;;105;3.41;74;2.59;98;0.82;;;;;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Esamc Santos;SP;106;Privada;;;106;3;107;0.15;97;0.89;;;81;1.96;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Stella Maris;CE;107;Privada;;;107;1.55;106;0.22;91;1.33;;;;;;;;;;;;;
+2023;relacoes-internacionais;Faculdade Esamc Jundiaí;SP;108;Privada;;;108;1.04;108;0.07;98;0.82;;;105;0.15;;;;;;;;;
+2024;relacoes-internacionais;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.27;;;22;6.49;;;1;8;;;4;7.78;1;40;;;
+2024;relacoes-internacionais;Universidade Federal de Minas Gerais;MG;2;Federal;1;36;3;59.92;;;13;7.14;;;1;8;;;6;7.64;4;37.14;;;
+2024;relacoes-internacionais;Universidade de Brasília;DF;3;Federal;5;33.52;2;61.99;;;3;7.86;;;1;8;;;27;6.13;1;40;;;
+2024;relacoes-internacionais;Pontifícia Universidade Católica de São Paulo;SP;4;Privada;1;36;8;55.78;;;25;6.27;;;33;5.67;;;19;6.7;4;37.14;;;
+2024;relacoes-internacionais;Universidade Federal do Rio de Janeiro;RJ;5;Federal;5;33.52;7;57.03;;;26;6.2;;;1;8;;;33;5.69;4;37.14;;;
+2024;relacoes-internacionais;Pontifícia Universidade Católica de Minas Gerais;MG;6;Privada;1;36;10;51.8;;;16;6.92;;;64;3.42;;;52;4.32;4;37.14;;;
+2024;relacoes-internacionais;Escola de Relações Internacionais;SP;7;Privada;5;33.52;9;53.95;;;2;7.93;;;90;1.53;;;10;7.35;4;37.14;;;
+2024;relacoes-internacionais;Universidade Federal do Rio Grande do Sul;RS;8;Federal;17;26.07;4;59.55;;;1;8;;;1;8;;;23;6.41;4;37.14;;;
+2024;relacoes-internacionais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;9;Estadual;17;26.07;5;59.2;;;22;6.49;;;1;8;;;7;7.57;4;37.14;;;
+2024;relacoes-internacionais;Universidade Federal Fluminense;RJ;10;Federal;17;26.07;6;58.91;;;18;6.78;;;1;8;;;15;6.99;4;37.14;;;
+2024;relacoes-internacionais;Universidade Federal da Paraíba;PB;11;Federal;5;33.52;12;51.43;;;7;7.57;;;1;8;;;24;6.34;12;29.52;;;
+2024;relacoes-internacionais;Universidade do Estado do Rio de Janeiro;RJ;12;Estadual;5;33.52;17;49.18;;;11;7.28;;;34;5.6;;;18;6.78;12;29.52;;;
+2024;relacoes-internacionais;Universidade Federal de Goiás;GO;13;Federal;5;33.52;19;47.65;;;8;7.5;;;1;8;;;36;5.48;15;26.67;;;
+2024;relacoes-internacionais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;14;Privada;17;26.07;11;51.66;;;12;7.21;;;101;0.73;;;34;5.62;3;38.1;;;
+2024;relacoes-internacionais;Universidade Federal de Uberlândia;MG;15;Federal;17;26.07;15;49.99;;;20;6.63;;;1;8;;;31;5.84;12;29.52;;;
+2024;relacoes-internacionais;Universidade Federal de Santa Catarina;SC;16;Federal;17;26.07;16;49.87;;;4;7.78;;;1;8;;;9;7.42;15;26.67;;;
+2024;relacoes-internacionais;Universidade Federal de Santa Maria;RS;17;Federal;17;26.07;18;47.94;;;27;6.13;;;1;8;;;13;7.14;15;26.67;;;
+2024;relacoes-internacionais;Pontifícia Universidade Católica do Rio Grande do Sul;RS;18;Privada;5;33.52;31;39.39;;;94;1.3;;;60;3.71;;;5;7.71;15;26.67;;;
+2024;relacoes-internacionais;Universidade do Vale do Rio dos Sinos;RS;19;Privada;17;26.07;23;44.16;;;15;6.99;;;46;4.73;;;32;5.77;15;26.67;;;
+2024;relacoes-internacionais;Pontifícia Universidade Católica de Campinas;SP;20;Privada;5;33.52;37;35.47;;;59;3.82;;;95;1.16;;;59;3.82;15;26.67;;;
+2024;relacoes-internacionais;Universidade do Vale do Taquari;RS;21;Privada;17;26.07;25;42.07;;;40;5.19;;;38;5.31;;;44;4.9;15;26.67;;;
+2024;relacoes-internacionais;Centro Universitário Álvares Penteado;SP;22;Privada;17;26.07;26;41.62;;;45;4.83;;;62;3.56;;;21;6.56;15;26.67;;;
+2024;relacoes-internacionais;Universidade Evangélica de Goiás;GO;23;Privada;17;26.07;33;37.52;;;48;4.61;;;49;4.51;;;88;1.73;15;26.67;;;
+2024;relacoes-internacionais;Universidade do Vale do Itajaí;SC;24;Privada;17;26.07;34;37.39;;;66;3.32;;;39;5.24;;;82;2.16;15;26.67;;;
+2024;relacoes-internacionais;Centro Universitário Armando Alvares Penteado;SP;25;Privada;17;26.07;35;36.34;;;43;4.97;;;98;0.95;;;60;3.75;15;26.67;;;
+2024;relacoes-internacionais;Universidade do Estado do Pará;PA;26;Estadual;17;26.07;36;36.23;;;91;1.51;;;35;5.53;;;77;2.52;15;26.67;;;
+2024;relacoes-internacionais;Universidade do Sul de Santa Catarina;SC;27;Privada;17;26.07;38;34.47;;;57;3.96;;;78;2.4;;;92;1.44;15;26.67;;;
+2024;relacoes-internacionais;Universidade Estácio de Sá;RJ;28;Privada;17;26.07;39;34.18;;;90;1.59;;;102;0.66;;;39;5.26;15;26.67;;;
+2024;relacoes-internacionais;Escola Superior de Propaganda e Marketing;SP;29;Privada;17;26.07;40;33.61;;;99;0.94;;;91;1.46;;;49;4.54;15;26.67;;;
+2024;relacoes-internacionais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;30;Privada;17;26.07;41;33.03;;;83;2.09;;;93;1.31;;;71;2.96;15;26.67;;;
+2024;relacoes-internacionais;Fundação Universidade Federal do ABC;SP;31;Federal;;;13;50.09;;;9;7.42;;;1;8;;;1;8;15;26.67;;;
+2024;relacoes-internacionais;Universidade Federal de São Paulo;SP;32;Federal;;;14;50.02;;;10;7.35;;;1;8;;;1;8;15;26.67;;;
+2024;relacoes-internacionais;Universidade La Salle;RS;33;Privada;17;26.07;43;21.26;;;28;6.05;;;1;8;;;12;7.21;;;;;
+2024;relacoes-internacionais;Fundação Universidade Federal do Pampa;RS;34;Federal;;;20;46.85;;;35;5.55;;;1;8;;;20;6.63;15;26.67;;;
+2024;relacoes-internacionais;Faculdade Ibmec;MG;35;Privada;5;33.52;61;13.2;;;34;5.62;;;96;1.09;;;22;6.49;;;;;
+2024;relacoes-internacionais;Universidade Federal da Integração Latino-americana;PR;36;Federal;;;21;46.27;;;49;4.54;;;1;8;;;14;7.06;15;26.67;;;
+2024;relacoes-internacionais;Pontifícia Universidade Católica de Goiás;GO;37;Privada;5;33.52;64;12.13;;;17;6.85;;;82;2.11;;;68;3.17;;;;;
+2024;relacoes-internacionais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;38;Federal;;;22;45.19;;;77;2.52;;;1;8;;;1;8;15;26.67;;;
+2024;relacoes-internacionais;Universidade Católica de Santos;SP;39;Privada;;;24;43.54;;;84;2.02;;;1;8;;;17;6.85;15;26.67;;;
+2024;relacoes-internacionais;Centro Universitário Jorge Amado;BA;40;Privada;17;26.07;50;16.4;;;5;7.71;;;57;3.93;;;46;4.76;;;;;
+2024;relacoes-internacionais;Centro Universitário Ibmec;RJ;41;Privada;17;26.07;54;15.36;;;14;7.06;;;97;1.02;;;11;7.28;;;;;
+2024;relacoes-internacionais;Centro Universitário do Distrito Federal;DF;42;Privada;;;27;41.14;;;74;2.74;;;32;5.75;;;29;5.98;15;26.67;;;
+2024;relacoes-internacionais;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;43;Privada;;;28;41.04;;;33;5.69;;;66;3.27;;;37;5.41;15;26.67;;;
+2024;relacoes-internacionais;Universidade Paulista;SP;44;Privada;5;33.52;90;7.17;;;70;3.03;;;63;3.49;;;103;0.65;;;;;
+2024;relacoes-internacionais;Universidade Positivo;PR;45;Privada;17;26.07;56;14.6;;;30;5.91;;;58;3.86;;;45;4.83;;;;;
+2024;relacoes-internacionais;Universidade de Ribeirão Preto;SP;46;Privada;17;26.07;57;14.24;;;39;5.26;;;41;5.09;;;58;3.89;;;;;
+2024;relacoes-internacionais;Universidade de Santa Cruz do Sul;RS;47;Privada;;;29;40.25;;;21;6.56;;;72;2.84;;;54;4.18;15;26.67;;;
+2024;relacoes-internacionais;Centro Universitário Belas Artes de São Paulo;SP;48;Privada;;;30;39.48;;;80;2.31;;;43;4.95;;;35;5.55;15;26.67;;;
+2024;relacoes-internacionais;Centro Universitário Estácio do Recife;PE;49;Privada;5;33.52;99;5.43;;;104;0.58;;;87;1.75;;;69;3.1;;;;;
+2024;relacoes-internacionais;Universidade Vila Velha;ES;50;Privada;17;26.07;66;12.01;;;71;2.96;;;50;4.44;;;48;4.61;;;;;
+2024;relacoes-internacionais;Faculdades de Campinas;SP;51;Privada;;;32;38.07;;;24;6.34;;;86;1.82;;;67;3.24;15;26.67;;;
+2024;relacoes-internacionais;Universidade São Judas Tadeu;SP;52;Privada;17;26.07;67;11.79;;;82;2.16;;;37;5.38;;;53;4.25;;;;;
+2024;relacoes-internacionais;Universidade da Amazônia;PA;53;Privada;17;26.07;68;11.5;;;37;5.41;;;61;3.64;;;78;2.45;;;;;
+2024;relacoes-internacionais;Universidade Veiga de Almeida;RJ;54;Privada;17;26.07;70;11.13;;;54;4.18;;;76;2.55;;;51;4.4;;;;;
+2024;relacoes-internacionais;Universidade Católica de Brasília;DF;54;Privada;17;26.07;69;11.13;;;55;4.11;;;71;2.91;;;55;4.11;;;;;
+2024;relacoes-internacionais;Universidade Salvador;BA;56;Privada;17;26.07;71;10.99;;;31;5.84;;;67;3.2;;;85;1.95;;;;;
+2024;relacoes-internacionais;Centro Universitário do Norte;AM;57;Privada;17;26.07;73;10.2;;;62;3.6;;;45;4.8;;;87;1.8;;;;;
+2024;relacoes-internacionais;Faculdade La Salle;AM;58;Privada;17;26.07;75;9.63;;;62;3.6;;;40;5.16;;;100;0.87;;;;;
+2024;relacoes-internacionais;Centro Universitário Sagrado Coração;SP;59;Privada;17;26.07;78;9.48;;;69;3.1;;;65;3.35;;;70;3.03;;;;;
+2024;relacoes-internacionais;Centro Universitário de Belo Horizonte;MG;60;Privada;17;26.07;79;9.19;;;86;1.87;;;56;4;;;66;3.32;;;;;
+2024;relacoes-internacionais;Universidade Potiguar;RN;61;Privada;17;26.07;80;8.84;;;64;3.46;;;54;4.15;;;95;1.23;;;;;
+2024;relacoes-internacionais;Universidade de Sorocaba;SP;62;Privada;17;26.07;82;8.3;;;42;5.05;;;104;0.51;;;74;2.74;;;;;
+2024;relacoes-internacionais;Universidade Cruzeiro do Sul;SP;63;Privada;17;26.07;84;8.18;;;106;0.43;;;51;4.36;;;65;3.39;;;;;
+2024;relacoes-internacionais;Faculdade Damas da Instrução Cristã;PE;64;Privada;17;26.07;85;7.85;;;53;4.25;;;110;0.07;;;63;3.53;;;;;
+2024;relacoes-internacionais;Universidade Anhembi Morumbi;SP;65;Privada;17;26.07;88;7.73;;;85;1.95;;;81;2.18;;;62;3.6;;;;;
+2024;relacoes-internacionais;Universidade de Mogi das Cruzes;SP;66;Privada;17;26.07;92;6.89;;;98;1.01;;;52;4.29;;;90;1.59;;;;;
+2024;relacoes-internacionais;Faculdade Esamc Uberlândia;MG;67;Privada;17;26.07;100;5.3;;;100;0.87;;;55;4.07;;;107;0.36;;;;;
+2024;relacoes-internacionais;Faculdade Esamc São Paulo;SP;68;Privada;17;26.07;101;5.14;;;79;2.38;;;85;1.89;;;100;0.87;;;;;
+2024;relacoes-internacionais;Universidade Cândido Mendes;RJ;69;Privada;17;26.07;104;4.76;;;68;3.17;;;99;0.87;;;102;0.72;;;;;
+2024;relacoes-internacionais;Centro Universitário Lusíada;SP;70;Privada;;;42;30.42;;;81;2.23;;;105;0.44;;;97;1.08;15;26.67;;;
+2024;relacoes-internacionais;Fundação Universidade Federal do Tocantins;TO;71;Federal;;;44;20.26;;;46;4.76;;;1;8;;;8;7.5;;;;;
+2024;relacoes-internacionais;Universidade Federal de Sergipe;SE;72;Federal;;;45;19.67;;;19;6.7;;;1;8;;;43;4.97;;;;;
+2024;relacoes-internacionais;Fundação Universidade Federal da Grande Dourados;MS;73;Federal;;;46;19.32;;;41;5.12;;;1;8;;;26;6.2;;;;;
+2024;relacoes-internacionais;Universidade Federal de Pelotas;RS;74;Federal;;;47;19.17;;;29;5.98;;;1;8;;;40;5.19;;;;;
+2024;relacoes-internacionais;Universidade Federal Rural do Rio de Janeiro;RJ;75;Federal;;;48;17.8;;;60;3.75;;;1;8;;;28;6.05;;;;;
+2024;relacoes-internacionais;Universidade Federal do Rio Grande;RS;76;Federal;;;49;17.44;;;52;4.32;;;1;8;;;41;5.12;;;;;
+2024;relacoes-internacionais;Universidade Estadual da Paraíba;PB;77;Estadual;;;51;15.85;;;58;3.89;;;1;8;;;57;3.96;;;;;
+2024;relacoes-internacionais;Centro Universitário Dinâmica das Cataratas;PR;78;Privada;;;52;15.79;;;36;5.48;;;1;8;;;80;2.31;;;;;
+2024;relacoes-internacionais;Universidade Federal de Roraima;RR;79;Federal;;;53;15.42;;;91;1.51;;;1;8;;;30;5.91;;;;;
+2024;relacoes-internacionais;Universidade Federal do Amapá;AP;80;Federal;;;55;15.29;;;47;4.69;;;1;8;;;76;2.6;;;;;
+2024;relacoes-internacionais;Centro Universitário Curitiba;PR;81;Privada;;;58;14.18;;;50;4.47;;;47;4.66;;;42;5.05;;;;;
+2024;relacoes-internacionais;Centro Universitário La Salle do Rio de Janeiro;RJ;82;Privada;;;59;14;;;32;5.77;;;84;1.96;;;25;6.27;;;;;
+2024;relacoes-internacionais;Centro Universitário Internacional;PR;83;Privada;;;60;13.52;;;50;4.47;;;48;4.58;;;50;4.47;;;;;
+2024;relacoes-internacionais;Universidade Anhanguera;MS;84;Privada;;;62;12.94;;;74;2.74;;;44;4.87;;;38;5.33;;;;;
+2024;relacoes-internacionais;Faculdades Integradas Rio Branco;SP;85;Privada;;;63;12.4;;;107;0.36;;;1;8;;;56;4.04;;;;;
+2024;relacoes-internacionais;Universidade Católica de Petrópolis;RJ;86;Privada;;;64;12.13;;;6;7.64;;;75;2.62;;;86;1.87;;;;;
+2024;relacoes-internacionais;Faculdade Ibmec São Paulo;SP;87;Privada;;;72;10.98;;;97;1.08;;;70;2.98;;;16;6.92;;;;;
+2024;relacoes-internacionais;Centro Universitário Una;MG;88;Privada;;;74;10.02;;;100;0.87;;;1;8;;;96;1.15;;;;;
+2024;relacoes-internacionais;Universidade Estadual do Maranhão;MA;89;Estadual;;;76;9.62;;;77;2.52;;;53;4.22;;;72;2.88;;;;;
+2024;relacoes-internacionais;Centro Universitário Tabosa de Almeida;PE;90;Privada;;;77;9.54;;;44;4.9;;;68;3.13;;;91;1.51;;;;;
+2024;relacoes-internacionais;Centro Universitário Ibmr;RJ;91;Privada;;;81;8.75;;;73;2.81;;;80;2.26;;;61;3.68;;;;;
+2024;relacoes-internacionais;Centro Universitário de Brasília;DF;92;Privada;;;83;8.22;;;38;5.33;;;108;0.22;;;75;2.67;;;;;
+2024;relacoes-internacionais;Faculdade Santa Rita de Chapecó;SC;93;Privada;;;86;7.84;;;102;0.72;;;36;5.46;;;89;1.66;;;;;
+2024;relacoes-internacionais;Universidade Comunitária da Região de Chapecó;SC;94;Privada;;;87;7.83;;;102;0.72;;;42;5.02;;;83;2.09;;;;;
+2024;relacoes-internacionais;Centro Universitário do Instituto de Educação Superior de Brasília;DF;95;Privada;;;89;7.52;;;65;3.39;;;73;2.76;;;93;1.37;;;;;
+2024;relacoes-internacionais;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;96;Privada;;;91;7;;;74;2.74;;;92;1.38;;;72;2.88;;;;;
+2024;relacoes-internacionais;Faculdade Unità;SP;97;Privada;;;93;6.8;;;56;4.04;;;77;2.47;;;108;0.29;;;;;
+2024;relacoes-internacionais;Universidade Metodista de Piracicaba;SP;98;Privada;;;94;6.65;;;107;0.36;;;89;1.6;;;47;4.69;;;;;
+2024;relacoes-internacionais;Centro Universitário Ritter dos Reis;RS;99;Privada;;;95;6.58;;;72;2.88;;;74;2.69;;;98;1.01;;;;;
+2024;relacoes-internacionais;Centro Universitário Moura Lacerda;SP;100;Privada;;;96;6.29;;;61;3.68;;;88;1.67;;;99;0.94;;;;;
+2024;relacoes-internacionais;Faculdade Esamc Campinas;SP;101;Privada;;;97;6.09;;;88;1.73;;;59;3.78;;;104;0.58;;;;;
+2024;relacoes-internacionais;Faculdades Integradas Rio Branco Granja Vianna;SP;102;Privada;;;98;5.91;;;67;3.24;;;107;0.29;;;79;2.38;;;;;
+2024;relacoes-internacionais;Centro Universitário da Serra Gaúcha;RS;103;Privada;;;102;5.12;;;94;1.3;;;106;0.36;;;64;3.46;;;;;
+2024;relacoes-internacionais;Faculdade São Francisco de Assis;RS;104;Privada;;;103;4.93;;;94;1.3;;;79;2.33;;;94;1.3;;;;;
+2024;relacoes-internacionais;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;105;Privada;;;105;4.69;;;89;1.66;;;100;0.8;;;81;2.23;;;;;
+2024;relacoes-internacionais;Faculdade Esamc Santos;SP;106;Privada;;;106;4.65;;;93;1.37;;;69;3.06;;;109;0.22;;;;;
+2024;relacoes-internacionais;Faculdade do Instituto Nacional de Pós-graduação de São José Dos Campos;SP;107;Privada;;;107;4.4;;;87;1.8;;;103;0.58;;;84;2.02;;;;;
+2024;relacoes-internacionais;Faculdade Esamc Sorocaba;SP;108;Privada;;;108;2.83;;;107;0.36;;;83;2.04;;;106;0.43;;;;;
+2024;relacoes-internacionais;Faculdade Esamc Jundiaí;SP;109;Privada;;;109;1.67;;;107;0.36;;;94;1.24;;;111;0.07;;;;;
+2024;relacoes-internacionais;Faculdade de Direito de Itu;SP;110;Privada;;;110;1.02;;;107;0.36;;;109;0.15;;;105;0.51;;;;;
+2024;relacoes-internacionais;Faculdade Stella Maris;CE;111;Privada;;;111;0.72;;;104;0.58;;;;;;;110;0.14;;;;;
+2025;relacoes-internacionais;Universidade de São Paulo;SP;1;Estadual;1;30;1;67.61;;;22;6.46;;;1;8;;;5;7.71;1;40;1;10;5.44
+2025;relacoes-internacionais;Universidade de Brasília;DF;2;Federal;6;27.83;2;66.51;;;3;7.85;;;1;8;;;28;6.02;1;40;2;23;4.64
+2025;relacoes-internacionais;Universidade Federal de Minas Gerais;MG;3;Federal;1;30;7;62.37;;;13;7.12;;;1;8;;;6;7.63;4;37.27;3;60;2.35
+2025;relacoes-internacionais;Universidade Federal do Rio Grande do Sul;RS;4;Federal;6;27.83;4;64.09;;;1;8;;;1;8;;;20;6.61;4;37.27;4;30;4.21
+2025;relacoes-internacionais;Pontifícia Universidade Católica de São Paulo;SP;5;Privada;1;30;10;60.26;;;26;6.17;;;32;5.73;;;23;6.39;4;37.27;1;22;4.7
+2025;relacoes-internacionais;Universidade Federal Fluminense;RJ;6;Federal;6;27.83;8;62.07;;;18;6.75;;;1;8;;;17;6.83;4;37.27;5;46;3.22
+2025;relacoes-internacionais;Universidade Federal do Rio de Janeiro;RJ;7;Federal;6;27.83;9;61.33;;;27;6.09;;;1;8;;;34;5.58;4;37.27;6;27;4.39
+2025;relacoes-internacionais;Pontifícia Universidade Católica de Minas Gerais;MG;8;Privada;1;30;12;57.18;;;16;6.9;;;54;4.11;;;41;5.06;4;37.27;2;36;3.84
+2025;relacoes-internacionais;Universidade Federal da Paraíba;PB;9;Federal;19;22.17;3;65;;;7;7.56;;;1;8;;;26;6.17;4;37.27;7;1;6
+2025;relacoes-internacionais;Universidade do Estado do Rio de Janeiro;RJ;10;Estadual;6;27.83;11;58.36;;;11;7.27;;;49;4.48;;;24;6.31;4;37.27;8;49;3.03
+2025;relacoes-internacionais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;11;Estadual;19;22.17;5;63.87;;;22;6.46;;;1;8;;;7;7.56;4;37.27;9;24;4.58
+2025;relacoes-internacionais;Universidade Federal de Uberlândia;MG;12;Federal;19;22.17;6;63.83;;;20;6.61;;;1;8;;;29;5.95;4;37.27;10;1;6
+2025;relacoes-internacionais;Escola de Relações Internacionais;SP;13;Privada;6;27.83;13;56.84;;;2;7.93;;;93;1.25;;;19;6.68;4;37.27;3;38;3.71
+2025;relacoes-internacionais;Universidade Federal de Goiás;GO;14;Federal;6;27.83;18;52.42;;;8;7.49;;;1;8;;;40;5.14;15;27.27;11;25;4.52
+2025;relacoes-internacionais;Pontifícia Universidade Católica do Rio de Janeiro;RJ;15;Privada;19;22.17;15;56.62;;;12;7.19;;;99;0.81;;;36;5.43;3;38.18;4;17;5.01
+2025;relacoes-internacionais;Universidade Federal de Santa Catarina;SC;16;Federal;19;22.17;16;55.74;;;4;7.78;;;1;8;;;8;7.49;15;27.27;12;14;5.2
+2025;relacoes-internacionais;Universidade do Vale do Rio dos Sinos;RS;17;Privada;6;27.83;23;48.91;;;15;6.97;;;43;4.92;;;32;5.73;15;27.27;5;33;4.02
+2025;relacoes-internacionais;Universidade Federal de Santa Maria;RS;18;Federal;19;22.17;19;51.6;;;28;6.02;;;1;8;;;10;7.34;15;27.27;13;50;2.97
+2025;relacoes-internacionais;Pontifícia Universidade Católica de Campinas;SP;19;Privada;6;27.83;35;40.09;;;58;3.82;;;98;0.88;;;60;3.67;15;27.27;6;26;4.45
+2025;relacoes-internacionais;Universidade do Vale do Itajaí;SC;20;Privada;6;27.83;38;39.69;;;65;3.3;;;41;5.06;;;74;2.64;15;27.27;7;75;1.42
+2025;relacoes-internacionais;Pontifícia Universidade Católica do Rio Grande do Sul;RS;21;Privada;6;27.83;40;38.79;;;92;1.32;;;66;3.23;;;15;6.97;15;27.27;8;;
+2025;relacoes-internacionais;Escola Superior de Propaganda e Marketing;SP;22;Privada;19;22.17;37;39.94;;;97;0.95;;;88;1.62;;;44;4.84;15;27.27;9;13;5.26
+2025;relacoes-internacionais;Universidade do Sul de Santa Catarina;SC;23;Privada;19;22.17;39;38.93;;;56;3.96;;;59;3.74;;;73;2.72;15;27.27;10;78;1.24
+2025;relacoes-internacionais;Centro Universitário Armando Alvares Penteado;SP;24;Privada;19;22.17;41;38.07;;;44;4.84;;;92;1.32;;;51;4.33;15;27.27;11;93;0.31
+2025;relacoes-internacionais;Universidade do Vale do Taquari;RS;25;Privada;47;10;24;46.77;;;41;5.06;;;34;5.58;;;39;5.21;15;27.27;12;39;3.65
+2025;relacoes-internacionais;Fundação Universidade Federal do ABC;SP;26;Federal;;;14;56.68;;;9;7.41;;;1;8;;;1;8;15;27.27;14;1;6
+2025;relacoes-internacionais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;27;Privada;19;22.17;44;34.46;;;82;2.06;;;86;1.76;;;75;2.57;15;27.27;13;85;0.8
+2025;relacoes-internacionais;Universidade Católica de Santos;SP;28;Privada;47;10;25;45.7;;;83;1.98;;;1;8;;;16;6.9;15;27.27;14;73;1.55
+2025;relacoes-internacionais;Universidade Evangélica de Goiás;GO;29;Privada;47;10;26;45.67;;;49;4.48;;;1;8;;;69;3.01;15;27.27;15;51;2.91
+2025;relacoes-internacionais;Universidade Federal de São Paulo;SP;30;Federal;;;17;54.14;;;10;7.34;;;1;8;;;1;8;15;27.27;15;41;3.53
+2025;relacoes-internacionais;Universidade Católica de Brasília;DF;31;Privada;47;10;29;43.7;;;55;4.04;;;50;4.4;;;66;3.23;15;27.27;16;21;4.76
+2025;relacoes-internacionais;Universidade do Estado do Pará;PA;32;Estadual;47;10;30;43.25;;;89;1.54;;;33;5.65;;;72;2.79;15;27.27;16;1;6
+2025;relacoes-internacionais;Universidade de Santa Cruz do Sul;RS;33;Privada;47;10;32;41.45;;;21;6.53;;;78;2.35;;;47;4.62;15;27.27;17;87;0.68
+2025;relacoes-internacionais;Universidade Federal da Integração Latino-americana;PR;34;Federal;;;20;51.22;;;50;4.4;;;1;8;;;9;7.41;15;27.27;17;31;4.14
+2025;relacoes-internacionais;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;35;Federal;;;21;50.9;;;76;2.5;;;1;8;;;1;8;15;27.27;18;15;5.13
+2025;relacoes-internacionais;Fundação Universidade Federal do Pampa;RS;36;Federal;;;22;50.42;;;36;5.43;;;1;8;;;13;7.12;15;27.27;19;56;2.6
+2025;relacoes-internacionais;Universidade Estácio de Sá;RJ;37;Privada;47;10;34;40.35;;;88;1.62;;;84;1.91;;;22;6.46;15;27.27;18;48;3.09
+2025;relacoes-internacionais;Centro Universitário Ibmr;RJ;38;Privada;47;10;36;40.07;;;73;2.72;;;70;2.94;;;59;3.74;15;27.27;19;43;3.4
+2025;relacoes-internacionais;Universidade Potiguar;RN;39;Privada;47;10;43;34.88;;;63;3.45;;;73;2.72;;;92;1.32;15;27.27;20;96;0.12
+2025;relacoes-internacionais;Faculdades de Campinas;SP;40;Privada;;;27;44.87;;;25;6.24;;;85;1.84;;;62;3.52;15;27.27;21;1;6
+2025;relacoes-internacionais;Escola Superior de Propaganda e Marketing de Porto Alegre;RS;41;Privada;;;28;44.82;;;34;5.58;;;63;3.45;;;37;5.36;15;27.27;22;47;3.16
+2025;relacoes-internacionais;Centro Universitário Ibmec;RJ;42;Privada;19;22.17;48;21.13;;;14;7.05;;;96;1.03;;;14;7.05;;;23;1;6
+2025;relacoes-internacionais;Pontifícia Universidade Católica de Goiás;GO;43;Privada;6;27.83;64;15.46;;;17;6.83;;;87;1.69;;;71;2.86;;;24;32;4.08
+2025;relacoes-internacionais;Faculdade Ibmec;MG;44;Privada;19;22.17;52;20.84;;;35;5.51;;;82;2.06;;;11;7.27;;;25;1;6
+2025;relacoes-internacionais;Centro Universitário Belas Artes de São Paulo;SP;45;Privada;;;31;41.8;;;79;2.28;;;42;4.99;;;33;5.65;15;27.27;26;72;1.61
+2025;relacoes-internacionais;Centro Universitário do Distrito Federal;DF;46;Privada;;;33;40.81;;;74;2.64;;;35;5.51;;;45;4.77;15;27.27;27;88;0.62
+2025;relacoes-internacionais;Universidade Positivo;PR;47;Privada;19;22.17;58;18.3;;;31;5.8;;;40;5.14;;;46;4.7;;;28;55;2.66
+2025;relacoes-internacionais;Universidade de Ribeirão Preto;SP;48;Privada;19;22.17;59;18.11;;;40;5.14;;;39;5.21;;;49;4.48;;;29;45;3.28
+2025;relacoes-internacionais;Universidade Veiga de Almeida;RJ;49;Privada;19;22.17;60;18.1;;;54;4.11;;;53;4.18;;;43;4.92;;;30;19;4.89
+2025;relacoes-internacionais;Centro Universitário Estácio do Recife;PE;50;Privada;6;27.83;76;11.95;;;102;0.59;;;47;4.62;;;57;3.89;;;31;52;2.85
+2025;relacoes-internacionais;Centro Universitário Jorge Amado;BA;51;Privada;19;22.17;63;16.72;;;5;7.71;;;58;3.82;;;52;4.26;;;32;83;0.93
+2025;relacoes-internacionais;Centro Universitário Lusíada;SP;52;Privada;;;42;37.23;;;80;2.2;;;103;0.51;;;93;1.25;15;27.27;33;1;6
+2025;relacoes-internacionais;Universidade Paulista;SP;53;Privada;1;30;96;7.03;;;69;3.01;;;75;2.57;;;97;0.95;;;34;90;0.5
+2025;relacoes-internacionais;Universidade Vila Velha;ES;54;Privada;19;22.17;68;14.76;;;70;2.94;;;56;3.96;;;50;4.4;;;35;42;3.46
+2025;relacoes-internacionais;Universidade da Amazônia;PA;55;Privada;19;22.17;71;13.51;;;38;5.28;;;57;3.89;;;67;3.16;;;36;79;1.18
+2025;relacoes-internacionais;Universidade Salvador;BA;56;Privada;19;22.17;73;13.19;;;32;5.73;;;55;4.04;;;87;1.69;;;37;70;1.73
+2025;relacoes-internacionais;Universidade de Mogi das Cruzes;SP;57;Privada;19;22.17;75;12.22;;;96;1.03;;;45;4.77;;;90;1.47;;;38;18;4.95
+2025;relacoes-internacionais;Universidade Federal de Sergipe;SE;58;Federal;47;10;45;23.86;;;19;6.68;;;1;8;;;38;5.28;;;20;35;3.9
+2025;relacoes-internacionais;Faculdade Esamc Uberlândia;MG;59;Privada;19;22.17;78;10.95;;;98;0.88;;;1;8;;;108;0.15;;;39;67;1.92
+2025;relacoes-internacionais;Universidade São Judas Tadeu;SP;60;Privada;19;22.17;80;10.48;;;81;2.13;;;62;3.52;;;56;3.96;;;40;84;0.87
+2025;relacoes-internacionais;Universidade de Sorocaba;SP;61;Privada;19;22.17;82;10.3;;;43;4.92;;;100;0.73;;;61;3.6;;;41;81;1.05
+2025;relacoes-internacionais;Universidade Anhembi Morumbi;SP;62;Privada;19;22.17;84;9.65;;;84;1.91;;;65;3.3;;;63;3.45;;;42;82;0.99
+2025;relacoes-internacionais;Centro Universitário do Norte;AM;63;Privada;19;22.17;88;8.66;;;61;3.6;;;51;4.33;;;100;0.73;;;43;;
+2025;relacoes-internacionais;Universidade Cândido Mendes;RJ;64;Privada;19;22.17;89;8.51;;;67;3.16;;;90;1.47;;;95;1.1;;;44;53;2.78
+2025;relacoes-internacionais;Universidade Cruzeiro do Sul;SP;65;Privada;19;22.17;102;5.53;;;103;0.51;;;97;0.95;;;58;3.82;;;45;94;0.25
+2025;relacoes-internacionais;Centro Universitário Una;MG;66;Privada;19;22.17;103;5.21;;;98;0.88;;;77;2.42;;;84;1.91;;;46;;
+2025;relacoes-internacionais;Centro Universitário de Brasília;DF;67;Privada;47;10;72;13.39;;;39;5.21;;;104;0.44;;;77;2.42;;;47;12;5.32
+2025;relacoes-internacionais;Fundação Universidade Federal da Grande Dourados;MS;68;Federal;;;46;23.12;;;42;4.99;;;1;8;;;31;5.8;;;21;28;4.33
+2025;relacoes-internacionais;Fundação Universidade Federal do Tocantins;TO;69;Federal;;;47;22.1;;;47;4.62;;;1;8;;;12;7.19;;;22;61;2.29
+2025;relacoes-internacionais;Centro Universitário Sagrado Coração;SP;70;Privada;47;10;77;11.78;;;68;3.08;;;71;2.86;;;76;2.5;;;48;44;3.34
+2025;relacoes-internacionais;Universidade Federal de Pelotas;RS;71;Federal;;;49;21.09;;;30;5.87;;;1;8;;;42;4.99;;;23;62;2.23
+2025;relacoes-internacionais;Universidade La Salle;RS;72;Privada;;;50;20.95;;;29;5.95;;;35;5.51;;;1;8;;;49;74;1.49
+2025;relacoes-internacionais;Universidade Federal de Roraima;RR;73;Federal;;;51;20.85;;;89;1.54;;;1;8;;;25;6.24;;;24;16;5.07
+2025;relacoes-internacionais;Universidade Estadual do Maranhão;MA;74;Estadual;47;10;83;10.28;;;76;2.5;;;46;4.7;;;68;3.08;;;25;;
+2025;relacoes-internacionais;Universidade Federal Rural do Rio de Janeiro;RJ;75;Federal;;;53;20;;;59;3.74;;;1;8;;;27;6.09;;;26;63;2.17
+2025;relacoes-internacionais;Universidade Estadual da Paraíba;PB;76;Estadual;;;54;19.89;;;57;3.89;;;1;8;;;55;4.04;;;27;34;3.96
+2025;relacoes-internacionais;Centro Universitário do Instituto de Educação Superior de Brasília;DF;77;Privada;47;10;86;9.51;;;64;3.38;;;80;2.2;;;91;1.39;;;50;57;2.54
+2025;relacoes-internacionais;Centro Universitário Ritter dos Reis;RS;78;Privada;47;10;87;9.3;;;72;2.79;;;60;3.67;;;94;1.17;;;51;71;1.67
+2025;relacoes-internacionais;Universidade Federal do Rio Grande;RS;79;Federal;;;55;19.13;;;52;4.26;;;1;8;;;35;5.51;;;28;76;1.36
+2025;relacoes-internacionais;Centro Universitário La Salle do Rio de Janeiro;RJ;80;Privada;;;56;19.07;;;33;5.65;;;68;3.08;;;18;6.75;;;52;40;3.59
+2025;relacoes-internacionais;Universidade Federal do Amapá;AP;81;Federal;;;57;18.88;;;48;4.55;;;1;8;;;82;2.06;;;29;29;4.27
+2025;relacoes-internacionais;Centro Universitário Moura Lacerda;SP;82;Privada;47;10;91;8.23;;;60;3.67;;;82;2.06;;;86;1.76;;;53;86;0.74
+2025;relacoes-internacionais;Universidade Comunitária da Região de Chapecó;SC;83;Privada;47;10;92;8.22;;;100;0.73;;;37;5.36;;;81;2.13;;;54;;
+2025;relacoes-internacionais;Faculdade Esamc Campinas;SP;84;Privada;47;10;93;7.68;;;87;1.69;;;44;4.84;;;102;0.59;;;55;89;0.56
+2025;relacoes-internacionais;Centro Universitário Dinâmica das Cataratas;PR;85;Privada;;;61;17.32;;;37;5.36;;;1;8;;;83;1.98;;;56;66;1.98
+2025;relacoes-internacionais;Universidade Católica de Petrópolis;RJ;86;Privada;;;62;16.76;;;6;7.63;;;69;3.01;;;78;2.35;;;57;37;3.77
+2025;relacoes-internacionais;Faculdade Esamc São Paulo;SP;86;Privada;47;10;97;6.76;;;78;2.35;;;64;3.38;;;101;0.66;;;57;92;0.37
+2025;relacoes-internacionais;Centro Universitário de Belo Horizonte;MG;88;Privada;47;10;98;6.68;;;85;1.84;;;81;2.13;;;79;2.28;;;59;91;0.43
+2025;relacoes-internacionais;Centro Universitário da Serra Gaúcha;RS;89;Privada;47;10;100;6.22;;;92;1.32;;;101;0.66;;;70;2.94;;;60;77;1.3
+2025;relacoes-internacionais;Centro Universitário Álvares Penteado;SP;90;Privada;;;64;15.46;;;46;4.7;;;72;2.79;;;30;5.87;;;61;64;2.1
+2025;relacoes-internacionais;Faculdade Ibmec São Paulo;SP;91;Privada;;;66;15.17;;;95;1.1;;;89;1.54;;;21;6.53;;;62;1;6
+2025;relacoes-internacionais;Centro Universitário Curitiba;PR;92;Privada;;;67;15;;;51;4.33;;;52;4.26;;;48;4.55;;;63;68;1.86
+2025;relacoes-internacionais;Centro Universitário Multivix Vitória;ES;93;Privada;47;10;104;4.92;;;70;2.94;;;90;1.47;;;103;0.51;;;64;;
+2025;relacoes-internacionais;Faculdade La Salle;AM;94;Privada;;;69;14.41;;;61;3.6;;;48;4.55;;;98;0.88;;;65;11;5.38
+2025;relacoes-internacionais;Faculdades Integradas Rio Branco;SP;95;Privada;;;70;13.73;;;104;0.44;;;1;8;;;53;4.18;;;66;80;1.11
+2025;relacoes-internacionais;Centro Universitário Tabosa de Almeida;PE;96;Privada;;;74;12.63;;;45;4.77;;;61;3.6;;;89;1.54;;;67;54;2.72
+2025;relacoes-internacionais;Centro Universitário São Judas Tadeu;SP;97;Privada;47;10;107;1.62;;;104;0.44;;;105;0.37;;;99;0.81;;;68;;
+2025;relacoes-internacionais;Faculdade Damas da Instrução Cristã;PE;98;Privada;;;79;10.83;;;53;4.18;;;109;0.07;;;54;4.11;;;69;58;2.47
+2025;relacoes-internacionais;Universidade Municipal de São Caetano do Sul;SP;99;Municipal;;;81;10.43;;;22;6.46;;;102;0.59;;;64;3.38;;;30;;
+2025;relacoes-internacionais;Faculdade do Instituto Nacional de Pós-graduação de São José Dos Campos;SP;100;Privada;;;85;9.53;;;86;1.76;;;95;1.1;;;85;1.84;;;70;20;4.83
+2025;relacoes-internacionais;Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa de Brasília;DF;101;Privada;;;90;8.3;;;74;2.64;;;79;2.28;;;64;3.38;;;71;;
+2025;relacoes-internacionais;Faculdade São Francisco de Assis;RS;102;Privada;;;94;7.62;;;92;1.32;;;74;2.64;;;88;1.62;;;72;65;2.04
+2025;relacoes-internacionais;Faculdade Santa Rita de Chapecó;SC;103;Privada;;;95;7.04;;;100;0.73;;;38;5.28;;;96;1.03;;;73;;
+2025;relacoes-internacionais;Faculdade Esamc Santos;SP;104;Privada;;;99;6.56;;;91;1.39;;;67;3.16;;;107;0.22;;;74;69;1.79
+2025;relacoes-internacionais;Faculdades Integradas Rio Branco Granja Vianna;SP;105;Privada;;;101;5.91;;;66;3.23;;;106;0.29;;;80;2.2;;;75;95;0.19
+2025;relacoes-internacionais;Faculdade Esamc Jundiaí;SP;106;Privada;;;105;4.09;;;104;0.44;;;94;1.17;;;109;0.07;;;76;59;2.41
+2025;relacoes-internacionais;Faculdade Esamc Sorocaba;SP;107;Privada;;;106;3.37;;;104;0.44;;;76;2.5;;;105;0.37;;;77;97;0.06
+2025;relacoes-internacionais;Faculdade de Direito de Itu;SP;108;Privada;;;108;1.1;;;104;0.44;;;107;0.22;;;104;0.44;;;78;;
+2025;relacoes-internacionais;Centro Universitário Braz Cubas;SP;109;Privada;;;109;0.88;;;104;0.44;;;108;0.15;;;106;0.29;;;79;;

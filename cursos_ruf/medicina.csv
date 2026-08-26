@@ -1,0 +1,1211 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;medicina;Universidade de São Paulo;SP;1;Estadual;1;36;2;62;1;8;43;6;;;1;8;1;40;;;;;;;
+2019;medicina;Universidade Estadual de Campinas;SP;2;Estadual;2;35.6;1;62.19;4;7.9;8;7.67;;;1;8;2;38.62;;;;;;;
+2019;medicina;Universidade Federal de Minas Gerais;MG;3;Federal;2;35.6;5;58.85;10;7.7;16;7.29;;;1;8;4;35.86;;;;;;;
+2019;medicina;Universidade Federal de São Paulo;SP;4;Federal;5;34.38;3;59.35;2;7.97;69;4.76;;;1;8;2;38.62;;;;;;;
+2019;medicina;Universidade Federal do Rio Grande do Sul;RS;5;Federal;5;34.38;4;58.99;7;7.8;15;7.33;;;1;8;4;35.86;;;;;;;
+2019;medicina;Universidade Federal do Rio de Janeiro;RJ;6;Federal;2;35.6;7;54.48;14;7.57;47;5.81;;;1;8;6;33.1;;;;;;;
+2019;medicina;Universidade do Estado do Rio de Janeiro;RJ;7;Estadual;5;34.38;8;52.22;18;7.44;5;7.81;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;8;Estadual;5;34.38;13;50.68;3;7.93;43;6;;;133;3.65;6;33.1;;;;;;;
+2019;medicina;Universidade Federal de Pernambuco;PE;9;Federal;5;34.38;19;48.32;41;6.68;71;4.67;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal Fluminense;RJ;10;Federal;5;34.38;20;48.06;27;7.14;86;3.95;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal do Paraná;PR;11;Federal;15;30.34;14;50.39;20;7.37;42;6.05;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade de Brasília;DF;12;Federal;15;30.34;17;49.8;12;7.64;60;5.19;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Estadual de Londrina;PR;13;Estadual;15;30.34;18;49.07;56;6.19;45;5.91;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal do Rio Grande do Norte;RN;14;Federal;15;30.34;22;47.43;130;3.75;28;6.71;;;1;8;9;28.97;;;;;;;
+2019;medicina;Pontifícia Universidade Católica do Rio Grande do Sul;RS;15;Privada;15;30.34;23;46.78;23;7.28;6;7.76;;;160;2.77;9;28.97;;;;;;;
+2019;medicina;Faculdade de Ciências Médicas da Santa Casa São Paulo;SP;16;Privada;46;17.8;6;56.58;8;7.77;7;7.71;;;1;8;6;33.1;;;;;;;
+2019;medicina;Universidade Estadual de Maringá;PR;17;Estadual;46;17.8;9;51.81;32;6.98;4;7.86;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal de São Carlos;SP;18;Federal;46;17.8;10;51.75;15;7.54;17;7.24;;;1;8;9;28.97;;;;;;;
+2019;medicina;Faculdade de Medicina de São José do Rio Preto;SP;19;Estadual;46;17.8;12;50.71;68;5.79;2;7.95;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal de Pelotas;RS;20;Federal;46;17.8;15;50.36;50;6.39;22;7;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal de Uberlândia;MG;21;Federal;46;17.8;21;47.49;72;5.66;67;4.86;;;1;8;9;28.97;;;;;;;
+2019;medicina;Faculdade São Leopoldo Mandic;SP;22;Privada;46;17.8;28;38.32;26;7.18;;;;;178;2.17;9;28.97;;;;;;;
+2019;medicina;Universidade Federal do Ceará;CE;23;Federal;5;34.38;31;21.24;30;7.05;39;6.19;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Santa Catarina;SC;24;Federal;5;34.38;36;20.02;22;7.31;70;4.71;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal da Bahia;BA;24;Federal;5;34.38;36;20.02;38;6.78;59;5.24;;;1;8;;;;;;;;;
+2019;medicina;Escola Bahiana de Medicina e Saúde Pública;BA;26;Privada;5;34.38;41;19.63;109;4.44;18;7.19;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Goiás;GO;27;Federal;15;30.34;30;21.35;67;5.83;11;7.52;;;1;8;;;;;;;;;
+2019;medicina;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;28;Federal;;;11;51.4;11;7.67;27;6.76;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal do Piauí;PI;29;Federal;15;30.34;34;20.58;86;5.2;14;7.38;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Santa Maria;RS;30;Federal;15;30.34;35;20.08;55;6.22;46;5.86;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Triângulo Mineiro;MG;31;Federal;;;16;49.87;17;7.47;55;5.43;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal de Alagoas;AL;32;Federal;15;30.34;43;19.14;101;4.71;34;6.43;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Espírito Santo;ES;33;Federal;15;30.34;49;18.08;65;5.89;81;4.19;;;1;8;;;;;;;;;
+2019;medicina;Universidade de Pernambuco;PE;34;Estadual;15;30.34;52;17.27;84;5.27;85;4;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Mato Grosso;MT;35;Federal;15;30.34;54;17.21;116;4.21;64;5;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal da Paraíba;PB;36;Federal;15;30.34;57;17.06;73;5.63;97;3.43;;;1;8;;;;;;;;;
+2019;medicina;Universidade de Fortaleza;CE;37;Privada;15;30.34;60;16.69;88;5.14;19;7.14;;;110;4.41;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Marília;SP;38;Estadual;;;24;46.32;151;3.06;37;6.29;;;1;8;9;28.97;;;;;;;
+2019;medicina;Universidade Federal do Pará;PA;39;Federal;15;30.34;68;15.66;59;6.09;136;1.57;;;1;8;;;;;;;;;
+2019;medicina;Pontifícia Universidade Católica de São Paulo;SP;40;Privada;15;30.34;77;14.76;83;5.3;52;5.57;;;126;3.89;;;;;;;;;
+2019;medicina;Fundação Universidade Federal da Grande Dourados;MS;41;Federal;;;25;44.32;115;4.25;104;3.1;;;1;8;9;28.97;;;;;;;
+2019;medicina;Pontifícia Universidade Católica do Paraná;PR;42;Privada;15;30.34;89;13.1;131;3.72;10;7.57;;;189;1.81;;;;;;;;;
+2019;medicina;Centro Universitário do Estado do Pará;PA;43;Privada;15;30.34;90;13.03;124;3.95;57;5.33;;;130;3.75;;;;;;;;;
+2019;medicina;Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória;ES;44;Privada;15;30.34;96;12.58;125;3.92;77;4.38;;;114;4.28;;;;;;;;;
+2019;medicina;Universidade Potiguar;RN;45;Privada;15;30.34;101;12.33;71;5.7;108;2.91;;;131;3.72;;;;;;;;;
+2019;medicina;Universidade Vila Velha;ES;46;Privada;15;30.34;102;12.28;158;2.83;61;5.14;;;113;4.31;;;;;;;;;
+2019;medicina;Universidade de Ribeirão Preto;SP;47;Privada;;;26;42.17;54;6.26;82;4.14;;;159;2.8;9;28.97;;;;;;;
+2019;medicina;Universidade Católica de Brasília;DF;48;Privada;15;30.34;129;9.97;134;3.62;138;1.48;;;96;4.87;;;;;;;;;
+2019;medicina;Universidade do Oeste Paulista;SP;49;Privada;15;30.34;150;8.92;106;4.54;151;0.86;;;137;3.52;;;;;;;;;
+2019;medicina;Faculdade de Ciências Médicas de Minas Gerais;MG;50;Privada;15;30.34;156;8.62;197;1.55;33;6.48;;;201-250;0.59;;;;;;;;;
+2019;medicina;Universidade José do Rosário Velano;MG;51;Privada;;;27;38.67;107;4.51;114;2.62;;;166;2.57;9;28.97;;;;;;;
+2019;medicina;Pontifícia Universidade Católica de Goiás;GO;52;Privada;15;30.34;167;7.59;166;2.57;65;4.95;;;201-250;0.07;;;;;;;;;
+2019;medicina;Centro Universitário Facid Wyden;PI;53;Privada;15;30.34;174;7.51;170;2.44;129;1.91;;;148;3.16;;;;;;;;;
+2019;medicina;Universidade Estácio de Sá;RJ;54;Privada;15;30.34;182;6.8;117;4.18;154;0.71;;;186;1.91;;;;;;;;;
+2019;medicina;Centro Universitário Christus;CE;55;Privada;46;17.8;44;18.66;33;6.95;91;3.71;;;1;8;;;;;;;;;
+2019;medicina;Universidade do Estado do Pará;PA;56;Estadual;15;30.34;196;5.96;165;2.6;;;;;142;3.36;;;;;;;;;
+2019;medicina;Universidade Evangélica de Goiás;GO;57;Privada;15;30.34;199;5.85;179;2.14;127;2;;;192;1.71;;;;;;;;;
+2019;medicina;Universidade Estadual do Piauí;PI;58;Estadual;46;17.8;47;18.32;39;6.75;94;3.57;;;1;8;;;;;;;;;
+2019;medicina;Fundação Universidade Federal de Rondônia;RO;59;Federal;46;17.8;50;17.78;145;3.26;32;6.52;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Mato Grosso do Sul;MS;60;Federal;46;17.8;51;17.44;58;6.12;26;6.81;;;107;4.51;;;;;;;;;
+2019;medicina;Universidade Federal do Maranhão;MA;61;Federal;46;17.8;55;17.2;105;4.58;72;4.62;;;1;8;;;;;;;;;
+2019;medicina;Pontifícia Universidade Católica de Campinas;SP;62;Privada;15;30.34;201-250;4.13;201-250;1.19;117;2.48;;;201-250;0.46;;;;;;;;;
+2019;medicina;Universidade Estadual de Santa Cruz;BA;63;Estadual;46;17.8;61;16.55;201-250;1.12;13;7.43;;;1;8;;;;;;;;;
+2019;medicina;Universidade Nove de Julho;SP;64;Privada;46;17.8;62;16.51;19;7.41;63;5.05;;;121;4.05;;;;;;;;;
+2019;medicina;Universidade de Uberaba;MG;65;Privada;;;29;33.8;175;2.27;156;0.62;;;185;1.94;9;28.97;;;;;;;
+2019;medicina;Centro Universitário Uninovafapi;PI;66;Privada;46;17.8;64;15.93;87;5.17;111;2.76;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Amazonas;AM;67;Federal;46;17.8;67;15.81;144;3.29;74;4.52;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Fmabc;SP;68;Privada;46;17.8;70;15.38;48;6.45;36;6.33;;;165;2.6;;;;;;;;;
+2019;medicina;Escola Superior de Ciências da Saúde;DF;69;Estadual;46;17.8;73;15.18;201-250;0.56;30;6.62;;;1;8;;;;;;;;;
+2019;medicina;Fundação Universidade Federal do Vale do São Francisco;PE;70;Federal;46;17.8;74;15.14;201-250;1.38;48;5.76;;;1;8;;;;;;;;;
+2019;medicina;Pontifícia Universidade Católica de Minas Gerais;MG;71;Privada;15;30.34;201-250;2.34;186;1.91;;;;;201-250;0.43;;;;;;;;;
+2019;medicina;Universidade Federal de Campina Grande;PB;72;Federal;46;17.8;82;14.06;201-250;1.15;66;4.91;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual do Sudoeste da Bahia;BA;73;Estadual;46;17.8;85;13.72;201-250;0.1;51;5.62;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual de Feira de Santana;BA;74;Estadual;46;17.8;106;12.13;152;3.03;146;1.1;;;1;8;;;;;;;;;
+2019;medicina;Faculdade Pernambucana de Saúde;PE;75;Privada;46;17.8;112;11.6;184;1.98;135;1.62;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Barão de Mauá;SP;76;Privada;46;17.8;122;10.61;66;5.86;90;3.76;;;201-250;0.99;;;;;;;;;
+2019;medicina;Universidade de Taubaté;SP;77;Municipal;46;17.8;127;10.13;121;4.05;107;2.95;;;149;3.13;;;;;;;;;
+2019;medicina;Universidade de Marília;SP;78;Privada;46;17.8;135;9.52;118;4.15;160;0.43;;;94;4.94;;;;;;;;;
+2019;medicina;Universidade de Caxias do Sul;RS;79;Privada;46;17.8;137;9.32;169;2.47;62;5.1;;;191;1.75;;;;;;;;;
+2019;medicina;Centro Universitário Multivix Vitória;ES;80;Privada;46;17.8;139;9.3;140;3.42;98;3.38;;;168;2.5;;;;;;;;;
+2019;medicina;Universidade de Cuiabá;MT;81;Privada;46;17.8;149;8.93;201-250;0.82;12;7.48;;;201-250;0.63;;;;;;;;;
+2019;medicina;Universidade do Oeste de Santa Catarina;SC;82;Privada;46;17.8;154;8.78;201-250;1.09;31;6.57;;;201-250;1.12;;;;;;;;;
+2019;medicina;Faculdade de Medicina Estácio de Juazeiro do Norte;CE;83;Privada;46;17.8;159;8.46;167;2.54;87;3.91;;;183;2.01;;;;;;;;;
+2019;medicina;Universidade do Sul de Santa Catarina;SC;84;Privada;46;17.8;164;7.93;201-250;0.76;58;5.29;;;187;1.88;;;;;;;;;
+2019;medicina;Universidade de Passo Fundo;RS;85;Privada;46;17.8;167;7.59;201-250;0.89;40;6.14;;;201-250;0.56;;;;;;;;;
+2019;medicina;Universidade de Vassouras;RJ;86;Privada;46;17.8;173;7.52;172;2.37;116;2.52;;;164;2.63;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Itajubá;MG;87;Privada;46;17.8;189;6.44;201-250;0.26;73;4.57;;;195;1.61;;;;;;;;;
+2019;medicina;Universidade Nilton Lins;AM;88;Privada;46;17.8;192;6.11;182;2.04;168;0.05;;;122;4.02;;;;;;;;;
+2019;medicina;Universidade Anhanguera;MS;89;Privada;46;17.8;201-250;5.63;201-250;0.79;84;4.05;;;201-250;0.79;;;;;;;;;
+2019;medicina;Centro Universitário São Camilo;SP;90;Privada;46;17.8;201-250;4.98;148;3.16;148;1;;;201-250;0.82;;;;;;;;;
+2019;medicina;Universidade de Franca;SP;91;Privada;46;17.8;201-250;4.42;153;3;;;;;201-250;1.42;;;;;;;;;
+2019;medicina;Centro Universitário de Várzea Grande;MT;92;Privada;46;17.8;201-250;3.69;201-250;0.43;;;;;145;3.26;;;;;;;;;
+2019;medicina;Universidade Federal de Juiz de Fora;MG;93;Federal;;;32;21.12;77;5.5;9;7.62;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Presidente Antônio Carlos;MG;94;Privada;46;17.8;201-250;3.15;185;1.94;165;0.19;;;201-250;1.02;;;;;;;;;
+2019;medicina;Universidade Federal de Ouro Preto;MG;95;Federal;;;33;20.78;28;7.11;50;5.67;;;1;8;;;;;;;;;
+2019;medicina;Universidade Regional de Blumenau;SC;96;Municipal;46;17.8;201-250;2.18;201-250;0.72;139;1.43;;;201-250;0.03;;;;;;;;;
+2019;medicina;Universidade Salvador;BA;97;Privada;46;17.8;201-250;2.17;201-250;1.28;;;;;201-250;0.89;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Jundiaí;SP;98;Municipal;;;38;19.8;52;6.32;54;5.48;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual de Ponta Grossa;PR;98;Estadual;;;38;19.8;75;5.56;38;6.24;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Viçosa;MG;100;Federal;;;40;19.69;132;3.69;1;8;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Atenas;MG;101;Privada;;;42;19.32;29;7.08;80;4.24;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Estado do Rio de Janeiro;RJ;102;Federal;;;45;18.49;57;6.16;78;4.33;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Sergipe;SE;103;Federal;;;46;18.46;42;6.65;89;3.81;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário das Faculdades Associadas de Ensino;SP;104;Municipal;46;17.8;201-250;0.46;201-250;0.23;;;;;201-250;0.23;;;;;;;;;
+2019;medicina;Universidade Federal de São João Del Rei;MG;105;Federal;;;48;18.23;127;3.85;35;6.38;;;1;8;;;;;;;;;
+2019;medicina;Fundação Universidade Federal do Tocantins;TO;106;Federal;;;53;17.26;174;2.31;23;6.95;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Rio Grande;RS;107;Federal;;;56;17.12;74;5.6;95;3.52;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual do Oeste do Paraná;PR;108;Estadual;;;58;16.98;181;2.07;24;6.91;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Cariri;CE;109;Federal;;;59;16.86;189;1.81;21;7.05;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual do Ceará;CE;110;Estadual;;;63;15.95;70;5.73;3;7.91;;;174;2.31;;;;;;;;;
+2019;medicina;Faculdade de Ciências Médicas de São José dos Campos;SP;111;Privada;;;65;15.87;5;7.87;;;;;1;8;;;;;;;;;
+2019;medicina;Faculdade Israelita de Ciências da Saúde Albert Einstein;SP;112;Privada;;;66;15.84;6;7.84;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual de Montes Claros;MG;113;Estadual;;;69;15.61;198;1.51;41;6.1;;;1;8;;;;;;;;;
+2019;medicina;Universidade do Estado de Minas Gerais;MG;114;Estadual;;;71;15.34;21;7.34;;;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário das Américas;SP;115;Privada;;;72;15.24;24;7.24;;;;;1;8;;;;;;;;;
+2019;medicina;Faculdade de Medicina Nova Esperança;PB;116;Privada;;;75;15.04;46;6.52;158;0.52;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Amapá;AP;117;Federal;;;76;14.87;201-250;0.2;29;6.67;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Inta;CE;118;Privada;;;78;14.72;40;6.72;;;;;1;8;;;;;;;;;
+2019;medicina;Fundação Universidade Federal do Pampa;RS;119;Federal;;;79;14.58;44;6.58;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Lavras;MG;120;Federal;;;80;14.55;45;6.55;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal de Alfenas;MG;121;Federal;;;81;14.35;51;6.35;;;;;1;8;;;;;;;;;
+2019;medicina;União das Faculdades dos Grandes Lagos;SP;122;Privada;;;83;13.9;53;6.29;106;3;;;104;4.61;;;;;;;;;
+2019;medicina;Universidade do Estado da Bahia;BA;123;Estadual;;;84;13.76;69;5.76;;;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Padre Albino;SP;124;Privada;;;86;13.65;119;4.12;56;5.38;;;118;4.15;;;;;;;;;
+2019;medicina;Faculdade de Ciências Médicas e da Saúde de Juiz de Fora;MG;125;Privada;;;87;13.38;92;5;49;5.71;;;163;2.67;;;;;;;;;
+2019;medicina;Faculdade de Ciências Médicas da Paraíba;PB;126;Privada;;;88;13.19;102;4.68;76;4.43;;;120;4.08;;;;;;;;;
+2019;medicina;Centro Universitário Redentor;RJ;127;Privada;;;91;12.97;93;4.97;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal do Oeste da Bahia;BA;128;Federal;;;92;12.87;96;4.87;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Federal da Fronteira Sul;SC;129;Federal;;;93;12.81;98;4.81;;;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário de Mineiros;GO;130;Municipal;;;94;12.77;99;4.77;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Cidade de São Paulo;SP;131;Privada;;;95;12.68;25;7.21;122;2.24;;;146;3.23;;;;;;;;;
+2019;medicina;Centro Universitário de Volta Redonda;RJ;132;Privada;;;97;12.53;49;6.42;134;1.67;;;109;4.44;;;;;;;;;
+2019;medicina;Universidade Positivo;PR;133;Privada;;;98;12.5;126;3.89;20;7.1;;;198;1.51;;;;;;;;;
+2019;medicina;Universidade Federal da Integração Latino-americana;PR;134;Federal;;;99;12.41;110;4.41;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade do Grande Rio Professor José de Souza Herdy;RJ;135;Privada;;;100;12.35;43;6.62;147;1.05;;;102;4.68;;;;;;;;;
+2019;medicina;Centro Universitário de Valença;RJ;136;Privada;;;103;12.26;112;4.35;103;3.14;;;99;4.77;;;;;;;;;
+2019;medicina;Faculdade de Ciências Médicas de Campina Grande;PB;137;Privada;;;104;12.23;37;6.82;157;0.57;;;97;4.84;;;;;;;;;
+2019;medicina;Centro Universitário de Belo Horizonte;MG;138;Privada;;;105;12.18;31;7.01;102;3.19;;;184;1.98;;;;;;;;;
+2019;medicina;Universidade Federal de Roraima;RR;139;Federal;;;107;12.1;201-250;1.05;105;3.05;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Fip-moc;MG;140;Privada;;;108;11.88;79;5.43;125;2.1;;;112;4.35;;;;;;;;;
+2019;medicina;Centro Universitário de João Pessoa;PB;141;Privada;;;109;11.79;129;3.79;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade do Estado do Amazonas;AM;142;Estadual;;;110;11.72;183;2.01;133;1.71;;;1;8;;;;;;;;;
+2019;medicina;Universidade Tiradentes;SE;143;Privada;;;111;11.69;142;3.36;75;4.48;;;127;3.85;;;;;;;;;
+2019;medicina;Centro Universitário Zarns;BA;144;Privada;;;113;11.53;78;5.47;113;2.67;;;141;3.39;;;;;;;;;
+2019;medicina;Faculdade Meridional;RS;145;Privada;;;114;11.4;13;7.61;;;;;129;3.79;;;;;;;;;
+2019;medicina;Universidade Federal do Recôncavo da Bahia;BA;146;Federal;;;115;11.19;147;3.19;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Metropolitana de Santos;SP;147;Privada;;;116;11;156;2.9;167;0.1;;;1;8;;;;;;;;;
+2019;medicina;Universidade Luterana do Brasil;RS;148;Privada;;;117;10.98;113;4.31;121;2.29;;;111;4.38;;;;;;;;;
+2019;medicina;Universidade Federal do Acre;AC;148;Federal;;;117;10.98;168;2.5;92;3.67;;;98;4.81;;;;;;;;;
+2019;medicina;Universidade Brasil;SP;150;Privada;;;119;10.95;95;4.91;112;2.71;;;143;3.33;;;;;;;;;
+2019;medicina;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;151;Federal;;;120;10.93;155;2.93;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade de Santa Cruz do Sul;RS;152;Privada;;;121;10.85;120;4.08;53;5.52;;;201-250;1.25;;;;;;;;;
+2019;medicina;Centro Universitário do Norte de Minas;MG;153;Privada;;;123;10.6;164;2.63;99;3.33;;;103;4.64;;;;;;;;;
+2019;medicina;Centro Universitário FG;BA;154;Privada;;;124;10.34;173;2.34;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Anhembi Morumbi;SP;155;Privada;;;125;10.24;47;6.49;118;2.43;;;201-250;1.32;;;;;;;;;
+2019;medicina;Universidade Cesumar;PR;156;Privada;;;126;10.14;64;5.93;;;;;116;4.21;;;;;;;;;
+2019;medicina;Centro Universitário Aparício Carvalho;RO;157;Privada;;;128;9.97;193;1.68;163;0.29;;;1;8;;;;;;;;;
+2019;medicina;Universidade Ceuma;MA;158;Privada;;;130;9.93;128;3.82;145;1.14;;;93;4.97;;;;;;;;;
+2019;medicina;Universidade do Estado do Rio Grande do Norte;RN;159;Estadual;;;131;9.85;201-250;0.13;68;4.81;;;95;4.91;;;;;;;;;
+2019;medicina;Centro Universitário Ingá;PR;160;Privada;;;132;9.62;114;4.28;153;0.76;;;105;4.58;;;;;;;;;
+2019;medicina;Escola de Medicina Souza Marques da Fundação Técnico-educacional Souza Marques;RJ;161;Privada;;;133;9.55;178;2.17;119;2.38;;;92;5;;;;;;;;;
+2019;medicina;Centro Universitário Tocantinense Presidente Antônio Carlos;TO;162;Privada;;;134;9.53;91;5.04;132;1.76;;;161;2.73;;;;;;;;;
+2019;medicina;Universidade de Itaúna;MG;163;Privada;;;136;9.39;94;4.94;126;2.05;;;171;2.4;;;;;;;;;
+2019;medicina;Faculdade Ages de Medicina;BA;164;Privada;;;137;9.32;201-250;1.32;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Estadual de Ciências da Saúde de Alagoas;AL;165;Estadual;;;139;9.3;133;3.65;150;0.91;;;100;4.74;;;;;;;;;
+2019;medicina;Universidade do Estado de Mato Grosso;MT;166;Estadual;;;141;9.22;201-250;1.22;;;;;1;8;;;;;;;;;
+2019;medicina;Centro Universitário Imepac;MG;167;Privada;;;142;9.16;111;4.38;142;1.29;;;138;3.49;;;;;;;;;
+2019;medicina;Universidade Feevale;RS;168;Privada;;;143;9.15;35;6.88;;;;;175;2.27;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Petrópolis;RJ;169;Privada;;;144;9.03;138;3.49;128;1.95;;;135;3.59;;;;;;;;;
+2019;medicina;Universidade do Vale do Rio dos Sinos;RS;170;Privada;;;145;8.99;16;7.51;;;;;199;1.48;;;;;;;;;
+2019;medicina;Centro Universitário Lusíada;SP;171;Privada;;;146;8.98;141;3.39;96;3.48;;;180;2.11;;;;;;;;;
+2019;medicina;Faculdade Presidente Antônio Carlos;TO;171;Privada;;;146;8.98;61;6.03;152;0.81;;;179;2.14;;;;;;;;;
+2019;medicina;Faculdade São Leopoldo Mandic de Araras;SP;173;Privada;;;148;8.96;9;7.74;;;;;201-250;1.22;;;;;;;;;
+2019;medicina;Instituto Metropolitano de Ensino Superior;MG;174;Privada;;;151;8.87;162;2.7;83;4.1;;;181;2.07;;;;;;;;;
+2019;medicina;Faculdade da Saúde e Ecologia Humana;MG;175;Privada;;;152;8.79;122;4.02;120;2.33;;;170;2.44;;;;;;;;;
+2019;medicina;Centro Universitário Uninorte;AC;175;Privada;;;152;8.79;97;4.84;;;;;124;3.95;;;;;;;;;
+2019;medicina;Centro Universitário São Lucas;RO;177;Privada;;;155;8.73;108;4.48;162;0.33;;;125;3.92;;;;;;;;;
+2019;medicina;Universidade Federal Rural do Semi-árido;RN;178;Federal;;;157;8.59;201-250;0.59;;;;;1;8;;;;;;;;;
+2019;medicina;Universidade Municipal de São Caetano do Sul;SP;179;Municipal;;;158;8.53;60;6.06;;;;;169;2.47;;;;;;;;;
+2019;medicina;Universidade de Gurupi;TO;180;Municipal;;;160;8.45;201-250;0.07;161;0.38;;;1;8;;;;;;;;;
+2019;medicina;Faculdade Ceres;SP;181;Privada;;;161;8.33;103;4.64;;;;;132;3.69;;;;;;;;;
+2019;medicina;Centro Universitário de Adamantina;SP;182;Municipal;;;162;8.23;76;5.53;;;;;162;2.7;;;;;;;;;
+2019;medicina;Faculdade Evangélica Mackenzie do Paraná;PR;183;Privada;;;163;7.95;201-250;0.92;25;6.86;;;201-250;0.17;;;;;;;;;
+2019;medicina;Universidade Santo Amaro;SP;184;Privada;;;165;7.78;100;4.74;155;0.67;;;172;2.37;;;;;;;;;
+2019;medicina;Universidade Franciscana;RS;185;Privada;;;166;7.64;104;4.61;;;;;152;3.03;;;;;;;;;
+2019;medicina;Centro Universitário Metropolitano da Amazônia;PA;186;Privada;;;169;7.58;139;3.46;;;;;119;4.12;;;;;;;;;
+2019;medicina;Universidade Católica de Pelotas;RS;186;Privada;;;169;7.58;163;2.67;131;1.81;;;150;3.1;;;;;;;;;
+2019;medicina;Centro Universitário Estácio de Ribeirão Preto;SP;188;Privada;;;171;7.57;34;6.91;;;;;201-250;0.66;;;;;;;;;
+2019;medicina;Universidade do Vale do Itajaí;SC;189;Privada;;;172;7.54;201-250;0.63;93;3.62;;;144;3.29;;;;;;;;;
+2019;medicina;Faculdade Dinâmica do Vale do Piranga;MG;190;Privada;;;175;7.44;62;5.99;;;;;200;1.45;;;;;;;;;
+2019;medicina;Centro Universitário de Caratinga;MG;191;Privada;;;176;7.42;85;5.24;166;0.14;;;182;2.04;;;;;;;;;
+2019;medicina;Universidade do Planalto Catarinense;SC;192;Privada;;;177;7.28;201-250;0.03;79;4.29;;;154;2.96;;;;;;;;;
+2019;medicina;Centro Universitário Cesmac;AL;193;Privada;;;178;7.21;146;3.23;;;;;123;3.98;;;;;;;;;
+2019;medicina;Universidade Estadual de Mato Grosso do Sul;MS;194;Estadual;;;179;7.05;36;6.85;;;;;201-250;0.2;;;;;;;;;
+2019;medicina;Centro Universitário Maurício de Nassau;PE;195;Privada;;;180;6.88;63;5.96;;;;;201-250;0.92;;;;;;;;;
+2019;medicina;Universidade São Francisco;SP;196;Privada;;;181;6.82;195;1.61;88;3.86;;;201-250;1.35;;;;;;;;;
+2019;medicina;Centro Universitário do Planalto Central Apparecido dos Santos;DF;197;Privada;;;182;6.8;157;2.86;159;0.48;;;139;3.46;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Olinda;PE;198;Privada;;;184;6.75;136;3.56;;;;;147;3.19;;;;;;;;;
+2019;medicina;Instituto Municipal de Ensino Superior de Assis;SP;198;Municipal;;;184;6.75;149;3.13;;;;;134;3.62;;;;;;;;;
+2019;medicina;Faculdade de Ciências Humanas, Exatas e da Saúde do Piauí;PI;200;Privada;;;186;6.65;171;2.4;;;;;115;4.25;;;;;;;;;
+2019;medicina;Universidade Católica de Pernambuco;PE;201;Privada;;;201-250;5.2;90;5.07;;;;;201-250;0.13;;;;;;;;;
+2019;medicina;Centro Universitário Santa Maria;PB;201;Privada;;;201-250;3.32;201-250;0.46;;;;;157;2.86;;;;;;;;;
+2019;medicina;Centro Universitário Maurício de Nassau de Barreiras;BA;201;Privada;;;187;6.59;81;5.37;;;;;201-250;1.22;;;;;;;;;
+2019;medicina;Universidade de Mogi das Cruzes;SP;201;Privada;;;201-250;5.46;188;1.84;140;1.38;;;176;2.24;;;;;;;;;
+2019;medicina;Centro Universitário Unifacig;MG;201;Privada;;;201-250;4.51;161;2.73;;;;;190;1.78;;;;;;;;;
+2019;medicina;Universidade do Vale do Taquari;RS;201;Privada;;;201-250;5.11;177;2.21;;;;;156;2.9;;;;;;;;;
+2019;medicina;Centro Universitário Vale do Rio Verde;MG;201;Privada;;;193;6.09;80;5.4;;;;;201-250;0.69;;;;;;;;;
+2019;medicina;Universidade do Contestado;SC;201;Privada;;;201-250;2.24;201-250;0.4;;;;;188;1.84;;;;;;;;;
+2019;medicina;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;201-250;4.26;201-250;1.25;130;1.86;;;201-250;1.15;;;;;;;;;
+2019;medicina;Universidade de Araraquara;SP;201;Privada;;;201-250;5.35;190;1.78;123;2.19;;;201-250;1.38;;;;;;;;;
+2019;medicina;Centro Universitário de Maceió;AL;201;Privada;;;201-250;3.36;201-250;0.53;;;;;158;2.83;;;;;;;;;
+2019;medicina;Universidade do Vale do Sapucaí;MG;201;Privada;;;201-250;5.1;187;1.88;109;2.86;;;201-250;0.36;;;;;;;;;
+2019;medicina;Centro Universitário de Patos;PB;201;Privada;;;201-250;4.35;201-250;1.35;;;;;153;3;;;;;;;;;
+2019;medicina;Faculdade de Saúde Santo Agostinho de Vitória da Conquista;BA;201;Privada;;;201-250;1.85;201-250;0.3;;;;;197;1.55;;;;;;;;;
+2019;medicina;Faculdades Pequeno Príncipe;PR;201;Privada;;;200;5.8;135;3.59;;;;;177;2.21;;;;;;;;;
+2019;medicina;Universidade Estadual do Maranhão;MA;201;Estadual;;;195;5.98;201-250;0.49;149;0.95;;;106;4.54;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Barbacena;MG;201;Privada;;;194;5.99;201-250;0.36;100;3.29;;;173;2.34;;;;;;;;;
+2019;medicina;Centro Universitário do Espírito Santo;ES;201;Privada;;;201-250;4.67;191;1.75;143;1.24;;;193;1.68;;;;;;;;;
+2019;medicina;Centro Universitário Assis Gurgacz;PR;201;Privada;;;201-250;5.78;196;1.58;101;3.24;;;201-250;0.96;;;;;;;;;
+2019;medicina;Faculdade de Medicina de Campos;RJ;201;Privada;;;198;5.87;194;1.65;115;2.57;;;194;1.65;;;;;;;;;
+2019;medicina;Faculdade Morgana Potrich;GO;201;Privada;;;201-250;4.84;201-250;1.02;;;;;128;3.82;;;;;;;;;
+2019;medicina;Universidade Iguaçu;RJ;201;Privada;;;201-250;4.26;201-250;0.96;164;0.24;;;151;3.06;;;;;;;;;
+2019;medicina;Centro Universitário Faminas;MG;201;Privada;;;201-250;1.25;201-250;0.99;;;;;201-250;0.26;;;;;;;;;
+2019;medicina;Centro Universitário Presidente Tancredo de Almeida Neves;MG;201;Privada;;;201-250;5.04;199;1.48;;;;;136;3.56;;;;;;;;;
+2019;medicina;Centro Universitário Serra dos Órgãos;RJ;201;Privada;;;191;6.17;180;2.11;137;1.52;;;167;2.54;;;;;;;;;
+2019;medicina;Centro Universitário de Patos de Minas;MG;201;Privada;;;190;6.37;201-250;0.86;141;1.33;;;117;4.18;;;;;;;;;
+2019;medicina;Centro Universitário de Brasília;DF;201;Privada;;;201-250;4.61;143;3.33;;;;;201-250;1.28;;;;;;;;;
+2019;medicina;Faculdade de Minas BH;MG;201;Privada;;;201-250;5.73;82;5.33;;;;;201-250;0.4;;;;;;;;;
+2019;medicina;Centro Universitário de Votuporanga;SP;201;Privada;;;201-250;0.82;201-250;0.33;;;;;201-250;0.49;;;;;;;;;
+2019;medicina;Instituto Tocantinense Presidente Antonio Carlos;TO;201;Privada;;;201-250;5.43;89;5.1;;;;;201-250;0.33;;;;;;;;;
+2019;medicina;Centro Universitário Governador Ozanam Coelho;MG;201;Privada;;;201-250;5.66;176;2.24;;;;;140;3.42;;;;;;;;;
+2019;medicina;Centro Universitário Ceuni;AM;201;Privada;;;201-250;5.1;137;3.52;;;;;196;1.58;;;;;;;;;
+2019;medicina;Universidade da Região de Joinville;SC;201;Privada;;;201-250;5.28;192;1.71;110;2.81;;;201-250;0.76;;;;;;;;;
+2019;medicina;Universidade Vale do Rio Doce;MG;201;Privada;;;201-250;2.14;201-250;1.42;;;;;201-250;0.72;;;;;;;;;
+2019;medicina;Centro Universitário Maurício de Nassau de Cacoal;RO;201;Privada;;;188;6.56;201-250;0.66;144;1.19;;;101;4.71;;;;;;;;;
+2019;medicina;Universidade do Extremo Sul Catarinense;SC;201;Privada;;;201-250;3.36;201-250;0.17;124;2.14;;;201-250;1.05;;;;;;;;;
+2019;medicina;Centro Universitário de Pato Branco;PR;201;Privada;;;201-250;3.66;149;3.13;;;;;201-250;0.53;;;;;;;;;
+2019;medicina;Faculdade Santa Marcelina;SP;201;Privada;;;201-250;0.99;201-250;0.69;;;;;201-250;0.3;;;;;;;;;
+2019;medicina;Faculdade de Ciências da Saúde de Barretos Dr. Paulo Prata;SP;201;Privada;;;201-250;4.84;123;3.98;;;;;201-250;0.86;;;;;;;;;
+2019;medicina;Centro Universitário Municipal de Franca;SP;201;Municipal;;;201-250;2.9;159;2.8;;;;;201-250;0.1;;;;;;;;;
+2019;medicina;Universidade de Rio Verde;GO;201;Municipal;;;197;5.93;200;1.45;;;;;108;4.48;;;;;;;;;
+2019;medicina;Centro Universitário Unime;BA;201;Privada;;;201-250;4.05;154;2.96;;;;;201-250;1.09;;;;;;;;;
+2019;medicina;Centro Universitário Alfredo Nasser;GO;201;Privada;;;201-250;5.7;160;2.77;;;;;155;2.93;;;;;;;;;
+2023;medicina;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.03;2;7.97;37;7.06;;;1;8;1;40;;;;;;;
+2023;medicina;Universidade Estadual de Campinas;SP;2;Estadual;2;35.79;3;62.32;4;7.92;37;7.06;;;1;8;2;39.34;;;;;;;
+2023;medicina;Universidade Federal de São Paulo;SP;3;Federal;5;35.15;2;62.87;5;7.9;15;7.63;;;1;8;2;39.34;;;;;;;
+2023;medicina;Universidade Federal de Minas Gerais;MG;4;Federal;2;35.79;4;61.56;17;7.58;3;7.95;;;1;8;4;38.03;;;;;;;
+2023;medicina;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;5;35.15;5;61.2;3;7.95;6;7.87;;;1;8;5;37.38;;;;;;;
+2023;medicina;Universidade Federal do Rio Grande do Sul;RS;6;Federal;5;35.15;6;60.1;10;7.77;41;6.95;;;1;8;5;37.38;;;;;;;
+2023;medicina;Universidade Federal do Rio de Janeiro;RJ;7;Federal;2;35.79;13;57.85;24;7.4;113;5.07;;;1;8;5;37.38;;;;;;;
+2023;medicina;Universidade Federal do Paraná;PR;8;Federal;5;35.15;9;58.05;38;7.03;16;7.61;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade Federal de Santa Maria;RS;9;Federal;5;35.15;16;55.78;71;6.17;70;6.2;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade de Brasília;DF;10;Federal;17;32.59;10;58.03;16;7.61;39;7.01;;;1;8;8;35.41;;;;;;;
+2023;medicina;Pontifícia Universidade Católica do Rio Grande do Sul;RS;11;Privada;5;35.15;20;54.43;18;7.56;2;7.97;;;173;3.49;8;35.41;;;;;;;
+2023;medicina;Universidade do Estado do Rio de Janeiro;RJ;12;Estadual;5;35.15;22;52.16;28;7.29;101;5.39;;;151;4.07;8;35.41;;;;;;;
+2023;medicina;Universidade Federal do Rio Grande do Norte;RN;13;Federal;17;32.59;19;54.58;166;3.69;21;7.48;;;1;8;8;35.41;;;;;;;
+2023;medicina;Pontifícia Universidade Católica do Paraná;PR;14;Privada;5;35.15;24;51.97;70;6.2;51;6.69;;;166;3.67;8;35.41;;;;;;;
+2023;medicina;Universidade Federal de Pelotas;RS;15;Federal;17;32.59;23;52.01;201-250;2.09;58;6.51;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade Estadual de Maringá;PR;16;Estadual;54;24.71;7;58.44;32;7.19;7;7.84;;;1;8;8;35.41;;;;;;;
+2023;medicina;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;17;Federal;54;24.71;8;58.42;11;7.74;29;7.27;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade Federal da Paraíba;PB;18;Federal;54;24.71;11;58;51;6.69;5;7.9;;;1;8;8;35.41;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas da Santa Casa São Paulo;SP;19;Privada;54;24.71;12;57.87;36;7.09;25;7.37;;;1;8;8;35.41;;;;;;;
+2023;medicina;Faculdade de Medicina de São José do Rio Preto;SP;20;Estadual;54;24.71;14;56.67;99;5.44;8;7.82;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade Federal do Triângulo Mineiro;MG;21;Federal;54;24.71;15;56.35;29;7.27;90;5.67;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade de Uberaba;MG;22;Privada;17;32.59;27;47.92;156;3.95;61;6.43;;;201-250;2.13;8;35.41;;;;;;;
+2023;medicina;Universidade Federal de Viçosa;MG;23;Federal;54;24.71;17;55.65;145;4.24;1;8;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade Federal de Pernambuco;PE;24;Federal;5;35.15;28;44.87;31;7.22;26;7.35;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Federal de Santa Catarina;SC;25;Federal;5;35.15;32;43.89;35;7.11;59;6.48;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Federal Fluminense;RJ;26;Federal;5;35.15;36;42.88;37;7.06;96;5.52;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Federal do Ceará;CE;27;Federal;17;32.59;29;44.84;49;6.75;9;7.79;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Federal de Uberlândia;MG;28;Federal;17;32.59;31;44.21;48;6.77;34;7.14;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Federal de Goiás;GO;29;Federal;17;32.59;34;43.26;33;7.16;85;5.8;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Estadual de Londrina;PR;30;Estadual;17;32.59;35;42.9;89;5.7;43;6.9;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Federal do Piauí;PI;31;Federal;17;32.59;37;42.67;114;5.05;27;7.32;;;1;8;28;22.3;;;;;;;
+2023;medicina;Escola Bahiana de Medicina e Saúde Pública;BA;32;Privada;17;32.59;39;41.18;115;5.02;83;5.86;;;1;8;28;22.3;;;;;;;
+2023;medicina;Faculdade São Leopoldo Mandic;SP;33;Privada;54;24.71;25;48.52;30;7.24;201-250;2.51;;;178;3.36;8;35.41;;;;;;;
+2023;medicina;Universidade de Ribeirão Preto;SP;34;Privada;54;24.71;26;47.94;134;4.52;105;5.28;;;201-250;2.73;8;35.41;;;;;;;
+2023;medicina;Universidade de Fortaleza;CE;35;Privada;17;32.59;41;39.78;78;5.99;14;7.66;;;160;3.83;28;22.3;;;;;;;
+2023;medicina;Universidade Estadual do Ceará;CE;36;Estadual;54;24.71;30;44.39;40;6.98;35;7.11;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Nove de Julho;SP;37;Privada;17;32.59;48;36.45;87;5.75;56;6.56;;;201-250;1.84;28;22.3;;;;;;;
+2023;medicina;Universidade Estadual de Santa Cruz;BA;38;Estadual;54;24.71;42;39.48;163;3.77;100;5.41;;;1;8;28;22.3;;;;;;;
+2023;medicina;Pontifícia Universidade Católica de Campinas;SP;39;Privada;17;32.59;57;31.53;158;3.9;121;4.86;;;251-300;0.47;28;22.3;;;;;;;
+2023;medicina;Fundação Universidade Federal da Grande Dourados;MS;40;Federal;54;24.71;43;38.46;195;2.93;107;5.23;;;1;8;28;22.3;;;;;;;
+2023;medicina;Pontifícia Universidade Católica de Goiás;GO;41;Privada;17;32.59;58;30.49;189;3.09;114;5.05;;;301-350;0.05;28;22.3;;;;;;;
+2023;medicina;Escola Superior de Ciências da Saúde;DF;42;Estadual;54;24.71;44;38.15;251-300;0.76;36;7.09;;;1;8;28;22.3;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas de Minas Gerais;MG;43;Privada;54;24.71;45;37.9;148;4.16;33;7.16;;;143;4.28;28;22.3;;;;;;;
+2023;medicina;Faculdade de Medicina de Marília;SP;44;Estadual;137;7.03;18;55.56;137;4.44;12;7.71;;;1;8;8;35.41;;;;;;;
+2023;medicina;Universidade de Vassouras;RJ;45;Privada;54;24.71;50;36.17;201-250;2.01;24;7.4;;;136;4.46;28;22.3;;;;;;;
+2023;medicina;Universidade Federal de São João Del Rei;MG;46;Federal;137;7.03;21;53.4;200;2.8;32;7.19;;;1;8;8;35.41;;;;;;;
+2023;medicina;Escola de Medicina Souza Marques da Fundação Técnico-educacional Souza Marques;RJ;47;Privada;54;24.71;51;34.56;201-250;1.67;201-250;2.59;;;1;8;28;22.3;;;;;;;
+2023;medicina;Centro Universitário de Brasília;DF;48;Privada;54;24.71;52;33.57;201-250;2.14;45;6.85;;;201-250;2.28;28;22.3;;;;;;;
+2023;medicina;Universidade Federal de São Carlos;SP;49;Federal;17;32.59;62;23.59;8;7.82;10;7.77;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal da Bahia;BA;50;Federal;5;35.15;69;20.6;66;6.3;66;6.3;;;1;8;;;;;;;;;
+2023;medicina;Universidade Anhanguera;MS;51;Privada;54;24.71;59;30.34;251-300;0.52;156;3.95;;;170;3.57;28;22.3;;;;;;;
+2023;medicina;Universidade Federal de Sergipe;SE;52;Federal;17;32.59;65;21.41;47;6.8;54;6.61;;;1;8;;;;;;;;;
+2023;medicina;Universidade de Pernambuco;PE;53;Estadual;17;32.59;67;21.04;95;5.54;20;7.5;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Juiz de Fora;MG;54;Federal;17;32.59;72;20.31;90;5.67;53;6.64;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Mato Grosso;MT;55;Federal;17;32.59;84;18.85;169;3.61;30;7.24;;;1;8;;;;;;;;;
+2023;medicina;Universidade Santo Amaro;SP;56;Privada;17;32.59;90;18.43;50;6.72;165;3.71;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Mato Grosso do Sul;MS;57;Federal;17;32.59;110;16.68;83;5.86;62;6.41;;;138;4.41;;;;;;;;;
+2023;medicina;Universidade Federal do Pará;PA;58;Federal;17;32.59;115;16.36;72;6.14;201-250;2.22;;;1;8;;;;;;;;;
+2023;medicina;Universidade Salvador;BA;59;Privada;17;32.59;130;15.33;22;7.45;136;4.47;;;176;3.41;;;;;;;;;
+2023;medicina;Universidade Positivo;PR;60;Privada;17;32.59;135;14.94;80;5.94;11;7.74;;;251-300;1.26;;;;;;;;;
+2023;medicina;Faculdade de Medicina Nova Esperança;PB;61;Privada;137;7.03;40;40.39;54;6.61;174;3.48;;;1;8;28;22.3;;;;;;;
+2023;medicina;Centro Universitário Christus;CE;62;Privada;54;24.71;63;22.43;7;7.84;55;6.59;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Estado do Pará;PA;63;Estadual;17;32.59;147;13.93;165;3.71;201-250;2.22;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal do Espírito Santo;ES;64;Federal;54;24.71;64;21.68;73;6.12;18;7.56;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário do Estado do Pará;PA;65;Privada;17;32.59;158;13.61;123;4.81;135;4.5;;;142;4.3;;;;;;;;;
+2023;medicina;Universidade do Sul de Santa Catarina;SC;66;Privada;17;32.59;159;13.6;19;7.53;164;3.74;;;201-250;2.33;;;;;;;;;
+2023;medicina;Pontifícia Universidade Católica de São Paulo;SP;67;Privada;17;32.59;163;13.21;113;5.07;112;5.1;;;190;3.04;;;;;;;;;
+2023;medicina;Universidade Potiguar;RN;68;Privada;17;32.59;168;13.08;23;7.43;167;3.66;;;201-250;1.99;;;;;;;;;
+2023;medicina;Universidade Federal do Estado do Rio de Janeiro;RJ;69;Federal;54;24.71;68;20.68;52;6.67;77;6.01;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Alagoas;AL;70;Federal;54;24.71;71;20.37;128;4.68;13;7.69;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual de Montes Claros;MG;71;Estadual;54;24.71;73;20.16;69;6.22;80;5.94;;;1;8;;;;;;;;;
+2023;medicina;Universidade Evangélica de Goiás;GO;72;Privada;17;32.59;183;12.01;201-250;2.07;40;6.98;;;193;2.96;;;;;;;;;
+2023;medicina;Universidade Federal Rural do Semi-árido;RN;73;Federal;54;24.71;74;19.82;141;4.34;21;7.48;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual de Feira de Santana;BA;74;Estadual;54;24.71;75;19.77;117;4.97;47;6.8;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Ingá;PR;75;Privada;137;7.03;46;36.96;108;5.2;251-300;1.46;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade José do Rosário Velano;MG;76;Privada;137;7.03;47;36.92;45;6.85;160;3.84;;;156;3.93;28;22.3;;;;;;;
+2023;medicina;Centro Universitário FG;BA;77;Privada;54;24.71;81;18.98;13;7.69;181;3.29;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Barão de Mauá;SP;78;Privada;17;32.59;197;10.99;132;4.58;124;4.78;;;201-250;1.63;;;;;;;;;
+2023;medicina;Centro Universitário Imepac;MG;79;Privada;54;24.71;85;18.79;46;6.82;155;3.97;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual de Ponta Grossa;PR;80;Estadual;;;33;43.3;57;6.54;60;6.46;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Estácio de Sá;RJ;81;Privada;17;32.59;201-250;10.54;15;7.63;251-300;1.02;;;201-250;1.89;;;;;;;;;
+2023;medicina;Centro Universitário Zarns;BA;82;Privada;54;24.71;93;18.19;43;6.9;181;3.29;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Facid Wyden;PI;83;Privada;54;24.71;94;18.04;55;6.59;175;3.45;;;1;8;;;;;;;;;
+2023;medicina;Fundação Universidade Federal do Vale do São Francisco;PE;84;Federal;54;24.71;95;17.7;161;3.82;82;5.88;;;1;8;;;;;;;;;
+2023;medicina;Fundação Universidade Federal do Tocantins;TO;85;Federal;54;24.71;98;17.67;170;3.58;74;6.09;;;1;8;;;;;;;;;
+2023;medicina;Universidade de Cuiabá;MT;86;Privada;17;32.59;201-250;9.77;251-300;0.24;23;7.43;;;201-250;2.1;;;;;;;;;
+2023;medicina;Pontifícia Universidade Católica de Minas Gerais;MG;87;Privada;17;32.59;201-250;9.16;201-250;1.86;49;6.75;;;251-300;0.55;;;;;;;;;
+2023;medicina;Universidade Federal de Campina Grande;PB;88;Federal;54;24.71;103;17.02;198;2.85;71;6.17;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Inta;CE;88;Privada;;;38;41.73;68;6.25;109;5.18;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade Estadual do Oeste do Paraná;PR;90;Estadual;54;24.71;104;16.94;201-250;2.69;68;6.25;;;1;8;;;;;;;;;
+2023;medicina;Universidade Católica de Brasília;DF;91;Privada;17;32.59;201-250;8.89;201-250;2.01;103;5.33;;;201-250;1.55;;;;;;;;;
+2023;medicina;Universidade Federal do Maranhão;MA;92;Federal;54;24.71;108;16.76;130;4.63;149;4.13;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual do Piauí;PI;93;Estadual;54;24.71;109;16.73;59;6.48;201-250;2.25;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Metropolitano da Amazônia;PA;94;Privada;54;24.71;118;16.29;121;4.86;176;3.43;;;1;8;;;;;;;;;
+2023;medicina;Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória;ES;95;Privada;17;32.59;201-250;8.33;192;3.01;201-250;1.86;;;174;3.46;;;;;;;;;
+2023;medicina;Fundação Universidade Federal de Rondônia;RO;96;Federal;54;24.71;120;16.13;201-250;2.77;102;5.36;;;1;8;;;;;;;;;
+2023;medicina;Universidade São Judas Tadeu;SP;97;Privada;54;24.71;122;16.02;12;7.71;251-300;0.31;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal do Amazonas;AM;98;Federal;54;24.71;126;15.66;162;3.79;159;3.87;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Volta Redonda;RJ;99;Privada;54;24.71;127;15.48;81;5.91;201-250;1.57;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual do Sudoeste da Bahia;BA;100;Estadual;54;24.71;129;15.42;201-250;1.88;95;5.54;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual do Maranhão;MA;101;Estadual;54;24.71;131;15.22;177;3.4;161;3.82;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Santa Maria;PB;102;Privada;54;24.71;137;14.9;201-250;1.75;110;5.15;;;1;8;;;;;;;;;
+2023;medicina;Universidade Vila Velha;ES;103;Privada;54;24.71;138;14.84;159;3.87;57;6.54;;;137;4.43;;;;;;;;;
+2023;medicina;Universidade Luterana do Brasil;RS;104;Privada;137;7.03;53;32.32;154;4;201-250;1.8;;;145;4.22;28;22.3;;;;;;;
+2023;medicina;Universidade Federal do Acre;AC;105;Federal;54;24.71;140;14.57;88;5.73;251-300;0.84;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Atenas;MG;106;Privada;54;24.71;142;14.17;201-250;2.64;172;3.53;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Oeste Paulista;SP;107;Privada;54;24.71;149;13.9;62;6.41;147;4.18;;;180;3.31;;;;;;;;;
+2023;medicina;Universidade de Franca;SP;108;Privada;54;24.71;151;13.86;117;4.97;17;7.58;;;251-300;1.31;;;;;;;;;
+2023;medicina;Centro Universitário Aparício Carvalho;RO;109;Privada;54;24.71;152;13.83;164;3.74;201-250;2.09;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Várzea Grande;MT;110;Privada;54;24.71;156;13.71;181;3.29;75;6.07;;;140;4.35;;;;;;;;;
+2023;medicina;Universidade Federal do Sul da Bahia;BA;111;Federal;54;24.71;160;13.57;251-300;0.97;131;4.6;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Fmabc;SP;112;Privada;54;24.71;169;13.01;75;6.07;151;4.08;;;197;2.86;;;;;;;;;
+2023;medicina;Universidade do Oeste de Santa Catarina;SC;113;Privada;54;24.71;176;12.57;201-250;2.25;78;5.99;;;141;4.33;;;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas da Paraíba;PB;114;Privada;137;7.03;60;29.98;201-250;1.65;201-250;2.75;;;181;3.28;28;22.3;;;;;;;
+2023;medicina;Universidade Nilton Lins;AM;115;Privada;17;32.59;251-300;4.2;251-300;1.18;251-300;0.42;;;201-250;2.6;;;;;;;;;
+2023;medicina;Centro Universitário São Camilo;SP;116;Privada;54;24.71;186;11.91;120;4.89;88;5.73;;;251-300;1.29;;;;;;;;;
+2023;medicina;Universidade Metropolitana de Santos;SP;117;Privada;;;49;36.34;107;5.23;251-300;0.81;;;1;8;28;22.3;;;;;;;
+2023;medicina;Universidade da Região de Joinville;SC;118;Privada;54;24.71;191;11.35;185;3.19;64;6.35;;;201-250;1.81;;;;;;;;;
+2023;medicina;Universidade do Estado do Amazonas;AM;119;Estadual;54;24.71;194;11.16;201-250;2.72;251-300;0.44;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Pernambucana de Saúde;PE;120;Privada;54;24.71;196;10.99;251-300;1.28;92;5.62;;;150;4.09;;;;;;;;;
+2023;medicina;Universidade de Santa Cruz do Sul;RS;121;Privada;54;24.71;199;10.75;147;4.18;93;5.6;;;251-300;0.97;;;;;;;;;
+2023;medicina;Centro Universitário Alfredo Nasser;GO;122;Privada;54;24.71;201-250;10.19;251-300;0.65;114;5.05;;;135;4.49;;;;;;;;;
+2023;medicina;Centro Universitário Tocantinense Presidente Antônio Carlos;TO;123;Privada;54;24.71;201-250;9.96;92;5.62;201-250;2.14;;;201-250;2.2;;;;;;;;;
+2023;medicina;Universidade Católica de Pernambuco;PE;124;Privada;54;24.71;201-250;9.6;188;3.11;67;6.28;;;251-300;0.21;;;;;;;;;
+2023;medicina;Universidade Anhembi Morumbi;SP;125;Privada;54;24.71;201-250;9.52;85;5.8;251-300;0.47;;;182;3.25;;;;;;;;;
+2023;medicina;Universidade de Mogi das Cruzes;SP;126;Privada;54;24.71;201-250;9.45;194;2.95;150;4.11;;;201-250;2.39;;;;;;;;;
+2023;medicina;Centro Universitário Cesmac;AL;127;Privada;54;24.71;201-250;9.45;251-300;0.92;63;6.38;;;201-250;2.15;;;;;;;;;
+2023;medicina;Universidade Tiradentes;SE;128;Privada;54;24.71;201-250;9.01;251-300;1.2;119;4.92;;;196;2.89;;;;;;;;;
+2023;medicina;Universidade de Caxias do Sul;RS;129;Privada;54;24.71;201-250;8.84;201-250;2.3;104;5.31;;;251-300;1.23;;;;;;;;;
+2023;medicina;Universidade São Francisco;SP;130;Privada;54;24.71;201-250;8.64;201-250;2.61;197;2.88;;;186;3.15;;;;;;;;;
+2023;medicina;Universidade do Vale do Itajaí;SC;131;Privada;54;24.71;201-250;8.29;251-300;1.07;134;4.52;;;201-250;2.7;;;;;;;;;
+2023;medicina;Centro Universitário Faminas;MG;132;Privada;54;24.71;201-250;8.14;179;3.35;201-250;2.48;;;201-250;2.31;;;;;;;;;
+2023;medicina;Universidade de Taubaté;SP;133;Municipal;54;24.71;201-250;7.82;180;3.32;201-250;2.43;;;201-250;2.07;;;;;;;;;
+2023;medicina;Centro Universitário Lusíada;SP;134;Privada;;;54;32.09;146;4.21;163;3.77;;;201-250;1.81;28;22.3;;;;;;;
+2023;medicina;Faculdade Israelita de Ciências da Saúde Albert Einstein;SP;135;Privada;;;55;32.05;9;7.79;251-300;0.31;;;201-250;1.65;28;22.3;;;;;;;
+2023;medicina;Universidade Regional de Blumenau;SC;136;Municipal;54;24.71;201-250;7.25;201-250;2.2;127;4.71;;;251-300;0.34;;;;;;;;;
+2023;medicina;Universidade Ceuma;MA;137;Privada;54;24.71;201-250;7.05;201-250;2.04;251-300;0.97;;;152;4.04;;;;;;;;;
+2023;medicina;Centro Universitário Assis Gurgacz;PR;138;Privada;54;24.71;201-250;7.01;251-300;0.5;137;4.44;;;201-250;2.07;;;;;;;;;
+2023;medicina;Universidade Franciscana;RS;139;Privada;54;24.71;251-300;6.93;186;3.16;201-250;1.8;;;201-250;1.97;;;;;;;;;
+2023;medicina;Universidade de Passo Fundo;RS;140;Privada;54;24.71;251-300;6.88;251-300;0.84;99;5.44;;;251-300;0.6;;;;;;;;;
+2023;medicina;Faculdade Santo Agostinho de Itabuna;BA;141;Privada;54;24.71;251-300;6.87;201-250;2.48;181;3.29;;;251-300;1.1;;;;;;;;;
+2023;medicina;Centro Universitário de Votuporanga;SP;142;Privada;;;56;31.56;201-250;1.91;42;6.93;;;251-300;0.42;28;22.3;;;;;;;
+2023;medicina;Faculdade Evangélica Mackenzie do Paraná;PR;143;Privada;54;24.71;251-300;6.64;201-250;2.59;167;3.66;;;251-300;0.39;;;;;;;;;
+2023;medicina;Centro Universitário São Lucas;RO;144;Privada;54;24.71;251-300;5.13;251-300;0.18;201-250;1.62;;;179;3.33;;;;;;;;;
+2023;medicina;Centro Universitário Presidente Antônio Carlos;MG;145;Privada;54;24.71;251-300;4.63;201-250;2.22;201-250;1.6;;;251-300;0.81;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Itajubá;MG;146;Privada;54;24.71;251-300;3.87;201-250;1.52;201-250;2.17;;;251-300;0.18;;;;;;;;;
+2023;medicina;Universidade do Extremo Sul Catarinense;SC;147;Privada;54;24.71;251-300;3.7;251-300;0.55;201-250;2.07;;;251-300;1.08;;;;;;;;;
+2023;medicina;Universidade Federal de Ouro Preto;MG;148;Federal;137;7.03;66;21.1;63;6.38;50;6.72;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário das Faculdades Associadas de Ensino;SP;149;Municipal;54;24.71;251-300;3.37;251-300;0.78;201-250;2.43;;;251-300;0.16;;;;;;;;;
+2023;medicina;Faculdade de Medicina Estácio de Juazeiro do Norte;CE;150;Privada;54;24.71;251-300;3.1;301-350;0.11;251-300;1.28;;;201-250;1.71;;;;;;;;;
+2023;medicina;Universidade do Estado da Bahia;BA;151;Estadual;137;7.03;70;20.42;34;7.14;105;5.28;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal do Cariri;CE;152;Federal;137;7.03;78;19.24;138;4.42;46;6.82;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;153;Privada;;;61;25.71;301-350;0.16;201-250;2.07;;;251-300;1.18;28;22.3;;;;;;;
+2023;medicina;Faculdade de Medicina Estácio de Castanhal;PA;154;Privada;137;7.03;91;18.36;42;6.93;176;3.43;;;1;8;;;;;;;;;
+2023;medicina;Universidade Cesumar;PR;155;Privada;137;7.03;92;18.34;25;7.37;48;6.77;;;146;4.2;;;;;;;;;
+2023;medicina;Centro Universitário Padre Albino;SP;156;Privada;137;7.03;128;15.46;124;4.78;52;6.67;;;153;4.01;;;;;;;;;
+2023;medicina;Centro Universitário Uninovafapi;PI;157;Privada;137;7.03;139;14.72;152;4.05;201-250;2.67;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Estado de Mato Grosso;MT;158;Estadual;137;7.03;141;14.46;106;5.26;251-300;1.2;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual de Ciências da Saúde de Alagoas;AL;159;Estadual;137;7.03;149;13.9;102;5.36;125;4.76;;;162;3.78;;;;;;;;;
+2023;medicina;Universidade Federal do Recôncavo da Bahia;BA;160;Federal;137;7.03;162;13.31;251-300;0.71;131;4.6;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Fip-moc;MG;161;Privada;137;7.03;171;12.85;126;4.73;128;4.68;;;175;3.44;;;;;;;;;
+2023;medicina;Faculdade da Saúde e Ecologia Humana;MG;162;Privada;137;7.03;174;12.77;91;5.65;130;4.63;;;201-250;2.49;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Jundiaí;SP;163;Municipal;;;76;19.29;56;6.56;126;4.73;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Ages de Medicina de Irecê;BA;163;Privada;;;76;19.29;1;8;181;3.29;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal do Rio Grande;RS;165;Federal;;;79;19.12;44;6.88;145;4.24;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Catalão;GO;166;Federal;;;80;19.08;105;5.28;85;5.8;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Estácio de Ribeirão Preto;SP;167;Privada;;;81;18.98;41;6.95;153;4.03;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal da Integração Latino-americana;PR;168;Federal;;;83;18.95;111;5.12;84;5.83;;;1;8;;;;;;;;;
+2023;medicina;Faculdades Integradas do Extremo Sul da Bahia;BA;169;Privada;;;85;18.79;20;7.5;181;3.29;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Ceres;SP;170;Privada;;;87;18.78;109;5.18;93;5.6;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Valença;RJ;171;Privada;;;88;18.72;131;4.6;73;6.12;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal do Delta do Parnaíba;PI;172;Federal;;;89;18.56;182;3.27;28;7.29;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Estado do Rio Grande do Norte;RN;173;Estadual;137;7.03;193;11.27;251-300;1.44;201-250;1.83;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Multivix Vitória;ES;174;Privada;137;7.03;200;10.74;201-250;1.73;97;5.49;;;172;3.52;;;;;;;;;
+2023;medicina;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;175;Federal;;;95;17.7;201-250;1.78;4;7.92;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Alfenas;MG;175;Federal;;;95;17.7;201-250;2.17;19;7.53;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Estado de Minas Gerais;MG;177;Estadual;;;99;17.42;174;3.48;80;5.94;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal da Fronteira Sul;SC;178;Federal;;;100;17.31;136;4.47;122;4.84;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Meridional;RS;179;Privada;;;101;17.15;26;7.35;201-250;1.8;;;1;8;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Olinda;PE;180;Privada;;;102;17.04;129;4.65;139;4.39;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Rondonópolis;MT;181;Federal;;;104;16.94;201-250;1.7;30;7.24;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Belo Horizonte;MG;182;Privada;;;106;16.85;14;7.66;98;5.46;;;164;3.73;;;;;;;;;
+2023;medicina;Centro Universitário Estácio do Ceará;CE;183;Privada;;;107;16.78;20;7.5;251-300;1.28;;;1;8;;;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas de São José dos Campos;SP;184;Privada;137;7.03;201-250;9.73;53;6.64;251-300;0.31;;;200;2.78;;;;;;;;;
+2023;medicina;Universidade de Itaúna;MG;185;Privada;137;7.03;201-250;9.65;97;5.49;201-250;1.54;;;201-250;2.62;;;;;;;;;
+2023;medicina;Faculdade Estácio de Canindé;CE;186;Privada;;;111;16.6;27;7.32;251-300;1.28;;;1;8;;;;;;;;;
+2023;medicina;Faculdade de Ciências da Saúde de Barretos Dr. Paulo Prata;SP;187;Privada;;;112;16.49;58;6.51;78;5.99;;;154;3.99;;;;;;;;;
+2023;medicina;Centro Universitário do Norte de Minas;MG;188;Privada;;;113;16.47;64;6.35;201-250;2.12;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Facisa;PB;188;Privada;;;113;16.47;167;3.66;123;4.81;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Caratinga;MG;190;Privada;137;7.03;201-250;9.39;144;4.26;251-300;0.99;;;148;4.14;;;;;;;;;
+2023;medicina;Universidade Federal de Lavras;MG;191;Federal;;;116;16.34;201-250;2.67;90;5.67;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Jataí;GO;192;Federal;;;117;16.31;201-250;2.51;85;5.8;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Unicesumar de Corumbá;MS;193;Privada;;;118;16.29;141;4.34;156;3.95;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal do Oeste da Bahia;BA;194;Federal;;;121;16.13;172;3.53;131;4.6;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual do Centro Oeste;PR;195;Estadual;;;123;15.85;201-250;1.6;68;6.25;;;1;8;;;;;;;;;
+2023;medicina;Fundação Universidade Federal do Pampa;RS;196;Federal;;;124;15.69;175;3.45;145;4.24;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Mineiros;GO;197;Municipal;;;125;15.69;122;4.84;198;2.85;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Vale do Sapucaí;MG;198;Privada;137;7.03;201-250;8.53;193;2.98;166;3.69;;;201-250;1.86;;;;;;;;;
+2023;medicina;Universidade do Vale do Rio dos Sinos;RS;199;Privada;137;7.03;201-250;8.34;103;5.33;201-250;1.8;;;251-300;1.21;;;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas e da Saúde de Juiz de Fora;MG;200;Privada;;;132;15.13;94;5.57;65;6.33;;;183;3.23;;;;;;;;;
+2023;medicina;Centro Universitário Uninorte;AC;201;Privada;;;166;13.13;127;4.71;251-300;0.42;;;1;8;;;;;;;;;
+2023;medicina;Faculdade de Enfermagem Nova Esperança de Mossoró;RN;201;Privada;;;187;11.87;251-300;0.21;167;3.66;;;1;8;;;;;;;;;
+2023;medicina;Universidade Católica de Pelotas;RS;201;Privada;137;7.03;201-250;7.8;251-300;0.99;158;3.9;;;195;2.91;;;;;;;;;
+2023;medicina;Faculdade Atenas Valença;BA;201;Privada;;;136;14.92;168;3.63;181;3.29;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Maurício de Nassau;PE;201;Privada;;;192;11.3;86;5.78;139;4.39;;;251-300;1.13;;;;;;;;;
+2023;medicina;Universidade Estadual da Região Tocantina do Maranhão;MA;201;Estadual;;;177;12.5;251-300;0.68;161;3.82;;;1;8;;;;;;;;;
+2023;medicina;Universidade Estadual de Goiás;GO;201;Estadual;;;178;12.47;201-250;1.62;198;2.85;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Católico Salesiano Auxilium;SP;201;Privada;;;148;13.91;93;5.6;251-300;0.31;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Metropolitana São Carlos BJI;RJ;201;Privada;;;201-250;9.98;251-300;0.86;251-300;1.12;;;1;8;;;;;;;;;
+2023;medicina;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;184;11.95;251-300;1.26;201-250;2.69;;;1;8;;;;;;;;;
+2023;medicina;Universidade do Vale do Taquari;RS;201;Privada;;;146;13.98;183;3.24;44;6.88;;;159;3.86;;;;;;;;;
+2023;medicina;Faculdade Paraíso Araripina;PE;201;Privada;;;195;11.14;178;3.37;139;4.39;;;177;3.38;;;;;;;;;
+2023;medicina;Universidade Iguaçu;RJ;201;Privada;137;7.03;251-300;5.05;201-250;1.49;251-300;1.12;;;201-250;2.44;;;;;;;;;
+2023;medicina;Centro Universitário de Goiatuba;GO;201;Municipal;;;154;13.78;195;2.93;198;2.85;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Ages de Medicina;BA;201;Privada;;;133;15.09;6;7.87;181;3.29;;;156;3.93;;;;;;;;;
+2023;medicina;Universidade do Grande Rio Professor José de Souza Herdy;RJ;201;Privada;137;7.03;251-300;4.13;201-250;1.8;251-300;1.31;;;251-300;1.02;;;;;;;;;
+2023;medicina;Centro Universitário Maurício de Nassau de Barreiras;BA;201;Privada;;;201-250;10.54;96;5.52;181;3.29;;;201-250;1.73;;;;;;;;;
+2023;medicina;Centro Universitário Campo Real;PR;201;Privada;;;201-250;9.92;135;4.5;251-300;1.46;;;155;3.96;;;;;;;;;
+2023;medicina;Centro Universitário de João Pessoa;PB;201;Privada;;;201-250;9.68;201-250;2.38;120;4.89;;;201-250;2.41;;;;;;;;;
+2023;medicina;Faculdade Imepac de Itumbiara;GO;201;Privada;;;181;12.16;64;6.35;114;5.05;;;251-300;0.76;;;;;;;;;
+2023;medicina;Faculdade Estácio de Jaraguá do Sul;SC;201;Privada;;;189;11.73;77;6.01;201-250;2.07;;;167;3.65;;;;;;;;;
+2023;medicina;Centro Universitário de Maceió;AL;201;Privada;137;7.03;251-300;5.15;251-300;1.02;173;3.5;;;251-300;0.63;;;;;;;;;
+2023;medicina;Centro Universitário Dom Pedro II;BA;201;Privada;;;143;14.14;198;2.85;181;3.29;;;1;8;;;;;;;;;
+2023;medicina;Universidade Cidade de São Paulo;SP;201;Privada;;;188;11.86;39;7.01;195;2.93;;;201-250;1.92;;;;;;;;;
+2023;medicina;Faculdade Tiradentes de Goiana;PE;201;Privada;;;180;12.19;60;6.46;139;4.39;;;251-300;1.34;;;;;;;;;
+2023;medicina;Universidade Estadual do Tocantins;TO;201;Estadual;;;152;13.83;141;4.34;201-250;1.49;;;1;8;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Petrópolis;RJ;201;Privada;;;201-250;10.73;149;4.13;201-250;2.72;;;158;3.88;;;;;;;;;
+2023;medicina;Universidade de Rio Verde;GO;201;Municipal;;;201-250;9.69;201-250;2.75;201-250;2.77;;;147;4.17;;;;;;;;;
+2023;medicina;Universidade de Araraquara;SP;201;Privada;137;7.03;201-250;7.69;201-250;2.12;129;4.65;;;251-300;0.92;;;;;;;;;
+2023;medicina;Universidade Municipal de São Caetano do Sul;SP;201;Municipal;;;198;10.76;101;5.39;196;2.9;;;201-250;2.47;;;;;;;;;
+2023;medicina;Universidade Estadual de Mato Grosso do Sul;MS;201;Estadual;;;175;12.58;79;5.96;107;5.23;;;251-300;1.39;;;;;;;;;
+2023;medicina;Centro Universitário Redentor;RJ;201;Privada;;;167;13.09;155;3.97;251-300;1.12;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Atenas Sete Lagoas;MG;201;Privada;;;145;14.06;100;5.41;251-300;0.65;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Vértice;MG;201;Privada;;;164;13.2;133;4.55;251-300;0.65;;;1;8;;;;;;;;;
+2023;medicina;Faculdade Estácio de Alagoinhas;BA;201;Privada;;;165;13.18;74;6.09;181;3.29;;;161;3.8;;;;;;;;;
+2023;medicina;Faculdade de Ciências Humanas, Exatas e da Saúde do Piauí;PI;201;Privada;;;185;11.94;110;5.15;201-250;2.67;;;149;4.12;;;;;;;;;
+2023;medicina;Universidade de Marília;SP;201;Privada;;;144;14.08;125;4.76;118;4.94;;;139;4.38;;;;;;;;;
+2023;medicina;Faculdade de Medicina do Sertão;PE;201;Privada;;;161;13.47;98;5.46;139;4.39;;;168;3.62;;;;;;;;;
+2023;medicina;Faculdade de Minas BH;MG;201;Privada;;;173;12.78;67;6.28;171;3.56;;;194;2.94;;;;;;;;;
+2023;medicina;União das Faculdades dos Grandes Lagos;SP;201;Privada;;;170;12.88;104;5.31;180;3.32;;;144;4.25;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Campos;RJ;201;Privada;137;7.03;201-250;7.59;176;3.43;251-300;1.33;;;198;2.83;;;;;;;;;
+2023;medicina;Faculdades Pequeno Príncipe;PR;201;Privada;;;190;11.52;201-250;2.28;72;6.14;;;188;3.1;;;;;;;;;
+2023;medicina;Centro Universitário do Espírito Santo;ES;201;Privada;137;7.03;251-300;3.91;201-250;1.94;251-300;1.18;;;251-300;0.79;;;;;;;;;
+2023;medicina;Universidade Federal do Amapá;AP;201;Federal;;;155;13.73;251-300;1.31;138;4.42;;;1;8;;;;;;;;;
+2023;medicina;Universidade Federal de Roraima;RR;201;Federal;;;179;12.24;201-250;2.33;201-250;1.91;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário Serra dos Órgãos;RJ;201;Privada;;;201-250;9.37;190;3.06;201-250;2.56;;;163;3.75;;;;;;;;;
+2023;medicina;Centro Universitário Euro-americano;DF;201;Privada;;;157;13.7;119;4.92;251-300;0.78;;;1;8;;;;;;;;;
+2023;medicina;Centro Universitário de Patos de Minas;MG;201;Privada;;;182;12.04;187;3.14;88;5.73;;;185;3.17;;;;;;;;;
+2023;medicina;Faculdade Estácio do Pantanal;MT;201;Privada;;;172;12.82;157;3.92;75;6.07;;;198;2.83;;;;;;;;;
+2023;medicina;Faculdade Atenas Passos;MG;201;Privada;;;134;15.08;61;6.43;251-300;0.65;;;1;8;;;;;;;;;
+2023;medicina;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;251;Privada;;;251-300;2.96;251-300;1.05;201-250;1.8;;;301-350;0.11;;;;;;;;;
+2023;medicina;Centro Universitário Unifacig;MG;251;Privada;;;251-300;6.46;201-250;2.35;170;3.58;;;251-300;0.53;;;;;;;;;
+2023;medicina;Centro Universitário Integrado de Campo Mourão;PR;251;Privada;;;251-300;5.41;251-300;1.41;251-300;1.46;;;201-250;2.54;;;;;;;;;
+2023;medicina;Centro Universitário do Planalto Central Apparecido dos Santos;DF;251;Privada;;;251-300;6.33;201-250;2.43;251-300;0.78;;;187;3.12;;;;;;;;;
+2023;medicina;Instituto Municipal de Ensino Superior de Assis;SP;251;Municipal;;;251-300;6.23;251-300;1.15;201-250;2.43;;;201-250;2.65;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Barbacena;MG;251;Privada;;;251-300;6.54;251-300;0.89;151;4.08;;;201-250;1.57;;;;;;;;;
+2023;medicina;Faculdades de Dracena;SP;251;Privada;;;251-300;6.91;151;4.08;251-300;0.31;;;201-250;2.52;;;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas de Três Rios;RJ;251;Privada;;;201-250;8.25;153;4.03;251-300;1.12;;;188;3.1;;;;;;;;;
+2023;medicina;Centro Universitário de Adamantina;SP;251;Municipal;;;201-250;9.06;140;4.37;201-250;2.43;;;201-250;2.26;;;;;;;;;
+2023;medicina;Universidade Feevale;RS;251;Privada;;;201-250;7;111;5.12;201-250;1.8;;;301-350;0.08;;;;;;;;;
+2023;medicina;Faculdade Morgana Potrich;GO;251;Privada;;;201-250;8.12;251-300;0.29;114;5.05;;;200;2.78;;;;;;;;;
+2023;medicina;Universidade Paranaense;PR;251;Privada;;;251-300;3.84;251-300;0.94;251-300;1.46;;;251-300;1.44;;;;;;;;;
+2023;medicina;Faculdade Itpac de Santa Inês;MA;251;Privada;;;251-300;5.37;171;3.56;251-300;0.97;;;251-300;0.84;;;;;;;;;
+2023;medicina;Universidade Estadual de Roraima;RR;251;Estadual;;;201-250;8.47;82;5.88;201-250;1.91;;;251-300;0.68;;;;;;;;;
+2023;medicina;Centro Universitário de Pato Branco;PR;251;Privada;;;251-300;2.64;251-300;0.31;251-300;1.46;;;251-300;0.87;;;;;;;;;
+2023;medicina;Faculdade Estácio de Juazeiro;BA;251;Privada;;;201-250;9.03;201-250;2.54;181;3.29;;;184;3.2;;;;;;;;;
+2023;medicina;Centro Universitário Ceuni;AM;251;Privada;;;251-300;6.75;84;5.83;251-300;0.42;;;251-300;0.5;;;;;;;;;
+2023;medicina;Centro Universitário de Santa Fé do Sul;SP;251;Municipal;;;251-300;5.78;201-250;1.83;201-250;2.43;;;201-250;1.52;;;;;;;;;
+2023;medicina;Universidade Alto Vale do Rio do Peixe;SC;251;Privada;;;251-300;4.27;251-300;0.73;201-250;2.07;;;201-250;1.47;;;;;;;;;
+2023;medicina;Centro Universitário de Patos;PB;251;Privada;;;201-250;8.28;251-300;1.1;148;4.16;;;191;3.02;;;;;;;;;
+2023;medicina;Claretiano - Centro Universitário de Rio Claro;SP;251;Privada;;;251-300;4.14;201-250;2.41;251-300;0.31;;;251-300;1.42;;;;;;;;;
+2023;medicina;Centro Universitário das Américas;SP;251;Privada;;;251-300;5.75;139;4.39;251-300;0.31;;;251-300;1.05;;;;;;;;;
+2023;medicina;Faculdade Pitágoras de Medicina de Eunápolis;BA;251;Privada;;;251-300;5.57;201-250;1.57;181;3.29;;;251-300;0.71;;;;;;;;;
+2023;medicina;Universidade do Contestado;SC;251;Privada;;;251-300;4.77;251-300;0.44;201-250;2.07;;;201-250;2.26;;;;;;;;;
+2023;medicina;Faculdade de Saúde Santo Agostinho de Vitória da Conquista;BA;251;Privada;;;251-300;4.37;301-350;0.08;181;3.29;;;251-300;1;;;;;;;;;
+2023;medicina;Faculdade de Ciências Médicas do Pará;PA;251;Privada;;;251-300;5.5;301-350;0.13;176;3.43;;;201-250;1.94;;;;;;;;;
+2023;medicina;Faculdade Dinâmica do Vale do Piranga;MG;251;Privada;;;201-250;8.19;160;3.84;251-300;0.65;;;165;3.7;;;;;;;;;
+2023;medicina;Centro Universitário Municipal de Franca;SP;251;Municipal;;;251-300;4.23;201-250;1.54;201-250;2.43;;;251-300;0.26;;;;;;;;;
+2023;medicina;Faculdade Tiradentes de Jaboatão dos Guararapes;PE;251;Privada;;;201-250;7.9;201-250;2.01;139;4.39;;;201-250;1.5;;;;;;;;;
+2023;medicina;Centro Universitário Governador Ozanam Coelho;MG;251;Privada;;;251-300;5.26;195;2.93;251-300;0.65;;;201-250;1.68;;;;;;;;;
+2023;medicina;Faculdade São Leopoldo Mandic de Araras;SP;251;Privada;;;201-250;8.53;76;6.04;251-300;0.31;;;201-250;2.18;;;;;;;;;
+2023;medicina;Faculdade de Tecnologia de Teresina;PI;251;Privada;;;201-250;7.9;116;4.99;201-250;2.67;;;251-300;0.24;;;;;;;;;
+2023;medicina;Faculdade Municipal Professor Franco Montoro de Mogi Guaçu;SP;251;Municipal;;;251-300;3.66;251-300;1.23;201-250;2.43;;;;;;;;;;;;;
+2023;medicina;Faculdade Presidente Antônio Carlos;TO;251;Privada;;;251-300;3.09;251-300;0.6;251-300;0.89;;;201-250;1.6;;;;;;;;;
+2023;medicina;Faculdade de Ensino Superior da Amazônia Reunida;PA;251;Privada;;;251-300;4.53;251-300;0.81;176;3.43;;;251-300;0.29;;;;;;;;;
+2023;medicina;Universidade do Planalto Catarinense;SC;251;Privada;;;251-300;5.5;301-350;0.05;201-250;2.46;;;192;2.99;;;;;;;;;
+2023;medicina;Centro Universitário Maurício de Nassau de Cacoal;RO;251;Privada;;;201-250;8.4;149;4.13;251-300;0.73;;;171;3.54;;;;;;;;;
+2023;medicina;Instituto Metropolitano de Ensino Superior;MG;251;Privada;;;201-250;8.26;251-300;1.12;111;5.12;;;201-250;2.02;;;;;;;;;
+2023;medicina;Centro Universitário de Brusque;SC;251;Privada;;;251-300;3.23;251-300;0.58;201-250;2.07;;;251-300;0.58;;;;;;;;;
+2023;medicina;Faculdade de Filosofia Ciências e Letras de Penápolis;SP;251;Privada;;;251-300;6.46;201-250;2.56;251-300;0.31;;;169;3.59;;;;;;;;;
+2023;medicina;Faculdade Brasileira de Cachoeiro;ES;251;Privada;;;251-300;4.12;251-300;0.34;251-300;1.18;;;201-250;2.6;;;;;;;;;
+2023;medicina;Faculdades Integradas Padrão;BA;251;Privada;;;251-300;4.47;301-350;0.03;181;3.29;;;251-300;1.15;;;;;;;;;
+2023;medicina;Faculdade Santa Marcelina;SP;251;Privada;;;251-300;5.69;251-300;1.39;201-250;2.54;;;201-250;1.76;;;;;;;;;
+2023;medicina;Faculdade Metropolitana;RO;251;Privada;;;201-250;9.15;251-300;0.42;251-300;0.73;;;1;8;;;;;;;;;
+2023;medicina;Instituto Tocantinense Presidente Antonio Carlos;TO;251;Privada;;;251-300;3.62;251-300;0.37;251-300;0.89;;;201-250;2.36;;;;;;;;;
+2023;medicina;Centro Universitário Unime;BA;251;Privada;;;201-250;7.85;201-250;2.46;153;4.03;;;251-300;1.36;;;;;;;;;
+2023;medicina;Faculdade Uninassau Vilhena;RO;251;Privada;;;251-300;6.91;173;3.5;251-300;0.73;;;201-250;2.68;;;;;;;;;
+2023;medicina;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;251;Privada;;;251-300;5.15;191;3.03;201-250;1.8;;;251-300;0.32;;;;;;;;;
+2023;medicina;Faculdade de Medicina de Açailândia;MA;251;Privada;;;251-300;3.06;251-300;1.36;251-300;0.97;;;251-300;0.73;;;;;;;;;
+2023;medicina;Centro Universitário de Jaguariúna;SP;251;Privada;;;251-300;4.42;184;3.22;251-300;0.31;;;251-300;0.89;;;;;;;;;
+2023;medicina;Universidade de Gurupi;TO;301;Municipal;;;301-350;2.18;251-300;0.63;201-250;1.52;;;301-350;0.03;;;;;;;;;
+2023;medicina;Universidade Vale do Rio Doce;MG;301;Privada;;;301-350;1.17;251-300;0.39;251-300;0.65;;;301-350;0.13;;;;;;;;;
+2023;medicina;Centro Universitário Max Planck;SP;301;Privada;;;301-350;2.22;251-300;1.46;251-300;0.31;;;251-300;0.45;;;;;;;;;
+2023;medicina;Itpac Cruzeiro do Sul;AC;301;Privada;;;301-350;1.57;251-300;0.47;251-300;0.42;;;251-300;0.68;;;;;;;;;
+2023;medicina;Centro Universitário Presidente Tancredo de Almeida Neves;MG;301;Privada;;;301-350;1.28;251-300;0.26;251-300;0.65;;;251-300;0.37;;;;;;;;;
+2023;medicina;Universidade Brasil;SP;301;Privada;;;301-350;2.61;251-300;1.36;251-300;0.31;;;251-300;0.94;;;;;;;;;
+2024;medicina;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.09;;;37;7.11;;;1;8;;;2;7.98;1;40;;;
+2024;medicina;Universidade Estadual de Campinas;SP;2;Estadual;2;35.79;3;62.5;;;37;7.11;;;1;8;;;3;7.95;2;39.44;;;
+2024;medicina;Universidade Federal de São Paulo;SP;3;Federal;5;35.18;2;62.99;;;15;7.65;;;1;8;;;5;7.9;2;39.44;;;
+2024;medicina;Universidade Federal de Minas Gerais;MG;4;Federal;2;35.79;4;61.99;;;3;7.95;;;1;8;;;12;7.73;4;38.31;;;
+2024;medicina;Universidade Federal do Rio Grande do Sul;RS;5;Federal;5;35.18;5;61.17;;;41;7.01;;;1;8;;;7;7.85;4;38.31;;;
+2024;medicina;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;6;Estadual;5;35.18;6;60.99;;;6;7.88;;;1;8;;;4;7.93;6;37.18;;;
+2024;medicina;Universidade Federal do Rio de Janeiro;RJ;7;Federal;2;35.79;8;57.9;;;114;5.21;;;1;8;;;21;7.51;6;37.18;;;
+2024;medicina;Universidade Federal de Pelotas;RS;8;Federal;18;32.5;10;56.63;;;58;6.59;;;1;8;;;83;5.98;8;36.06;;;
+2024;medicina;Universidade Federal de Pernambuco;PE;9;Federal;5;35.18;15;53.75;;;26;7.38;;;1;8;;;26;7.38;17;30.99;;;
+2024;medicina;Universidade de Brasília;DF;9;Federal;5;35.18;15;53.75;;;39;7.06;;;1;8;;;13;7.7;17;30.99;;;
+2024;medicina;Universidade do Estado do Rio de Janeiro;RJ;11;Estadual;5;35.18;17;53.65;;;102;5.51;;;141;4.5;;;18;7.58;8;36.06;;;
+2024;medicina;Pontifícia Universidade Católica do Paraná;PR;12;Privada;5;35.18;21;53.06;;;51;6.77;;;162;3.98;;;72;6.25;8;36.06;;;
+2024;medicina;Universidade Federal do Rio Grande do Norte;RN;13;Federal;18;32.5;12;55.55;;;21;7.51;;;1;8;;;164;3.98;8;36.06;;;
+2024;medicina;Pontifícia Universidade Católica do Rio Grande do Sul;RS;14;Privada;18;32.5;13;54.74;;;2;7.98;;;199;3.05;;;15;7.65;8;36.06;;;
+2024;medicina;Universidade Federal da Bahia;BA;15;Federal;5;35.18;27;51.91;;;66;6.4;;;1;8;;;61;6.52;17;30.99;;;
+2024;medicina;Universidade Federal de Santa Maria;RS;16;Federal;5;35.18;31;51.56;;;70;6.3;;;1;8;;;71;6.27;17;30.99;;;
+2024;medicina;Universidade Federal do Ceará;CE;17;Federal;18;32.5;18;53.56;;;9;7.8;;;1;8;;;51;6.77;17;30.99;;;
+2024;medicina;Universidade Federal da Paraíba;PB;18;Federal;18;32.5;19;53.51;;;5;7.9;;;1;8;;;57;6.62;17;30.99;;;
+2024;medicina;Universidade Estadual do Ceará;CE;19;Estadual;18;32.5;20;53.16;;;35;7.16;;;1;8;;;41;7.01;17;30.99;;;
+2024;medicina;Universidade Federal do Paraná;PR;20;Federal;5;35.18;34;50.31;;;16;7.63;;;135;4.65;;;40;7.04;17;30.99;;;
+2024;medicina;Universidade Federal de Uberlândia;MG;21;Federal;18;32.5;22;52.87;;;34;7.19;;;1;8;;;54;6.69;17;30.99;;;
+2024;medicina;Universidade Federal de Santa Catarina;SC;22;Federal;18;32.5;23;52.55;;;59;6.57;;;1;8;;;42;6.99;17;30.99;;;
+2024;medicina;Universidade Federal de Sergipe;SE;23;Federal;18;32.5;24;52.54;;;54;6.69;;;1;8;;;47;6.86;17;30.99;;;
+2024;medicina;Universidade Federal do Triângulo Mineiro;MG;24;Federal;18;32.5;25;52.2;;;91;5.78;;;1;8;;;24;7.43;17;30.99;;;
+2024;medicina;Universidade Federal de Goiás;GO;25;Federal;18;32.5;26;51.95;;;86;5.9;;;1;8;;;39;7.06;17;30.99;;;
+2024;medicina;Universidade de Pernambuco;PE;26;Estadual;5;35.18;39;49.18;;;20;7.53;;;119;5.05;;;98;5.61;17;30.99;;;
+2024;medicina;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;27;Federal;54;25.1;7;59.2;;;29;7.31;;;1;8;;;8;7.83;8;36.06;;;
+2024;medicina;Universidade Estadual de Londrina;PR;28;Estadual;18;32.5;28;51.7;;;43;6.96;;;1;8;;;92;5.75;17;30.99;;;
+2024;medicina;Universidade Federal de Juiz de Fora;MG;29;Federal;18;32.5;30;51.59;;;53;6.72;;;1;8;;;87;5.88;17;30.99;;;
+2024;medicina;Universidade Federal do Piauí;PI;29;Federal;18;32.5;29;51.59;;;27;7.36;;;1;8;;;113;5.24;17;30.99;;;
+2024;medicina;Faculdade de Medicina de São José do Rio Preto;SP;31;Estadual;54;25.1;9;57.52;;;8;7.83;;;1;8;;;97;5.63;8;36.06;;;
+2024;medicina;Escola Bahiana de Medicina e Saúde Pública;BA;32;Privada;18;32.5;35;50.08;;;84;5.95;;;1;8;;;117;5.14;17;30.99;;;
+2024;medicina;Faculdade de Ciências Médicas da Santa Casa São Paulo;SP;33;Privada;54;25.1;11;55.93;;;25;7.41;;;125;4.9;;;19;7.56;8;36.06;;;
+2024;medicina;Universidade Estadual de Maringá;PR;34;Estadual;54;25.1;14;53.98;;;7;7.85;;;1;8;;;36;7.14;17;30.99;;;
+2024;medicina;Pontifícia Universidade Católica de São Paulo;SP;35;Privada;18;32.5;48;45.17;;;113;5.24;;;170;3.78;;;116;5.16;17;30.99;;;
+2024;medicina;Universidade Federal de Viçosa;MG;36;Federal;54;25.1;33;51.09;;;1;8;;;1;8;;;159;4.1;17;30.99;;;
+2024;medicina;Universidade Estadual de Santa Cruz;BA;37;Estadual;54;25.1;37;49.73;;;101;5.53;;;1;8;;;114;5.21;17;30.99;;;
+2024;medicina;Faculdade Pernambucana de Saúde;PE;38;Privada;18;32.5;58;42.24;;;93;5.73;;;136;4.63;;;251-300;0.89;17;30.99;;;
+2024;medicina;Universidade Federal de São João Del Rei;MG;39;Federal;54;25.1;38;49.44;;;32;7.24;;;1;8;;;195;3.21;17;30.99;;;
+2024;medicina;Faculdade de Medicina Nova Esperança;PB;40;Privada;54;25.1;40;49.14;;;176;3.68;;;1;8;;;63;6.47;17;30.99;;;
+2024;medicina;Pontifícia Universidade Católica de Campinas;SP;41;Privada;18;32.5;64;39.83;;;122;5.01;;;301-350;0.45;;;188;3.38;17;30.99;;;
+2024;medicina;Fundação Universidade Federal da Grande Dourados;MS;42;Federal;54;25.1;42;47.21;;;108;5.36;;;1;8;;;201-250;2.86;17;30.99;;;
+2024;medicina;Escola Superior de Ciências da Saúde;DF;43;Estadual;54;25.1;43;46.77;;;36;7.14;;;1;8;;;251-300;0.64;17;30.99;;;
+2024;medicina;Faculdade Israelita de Ciências da Saúde Albert Einstein;SP;44;Privada;54;25.1;44;46.73;;;301-350;0.42;;;201-250;2.45;;;9;7.8;8;36.06;;;
+2024;medicina;Pontifícia Universidade Católica de Goiás;GO;45;Privada;18;32.5;69;38.97;;;115;5.19;;;301-350;0.1;;;201-250;2.69;17;30.99;;;
+2024;medicina;Universidade Nove de Julho;SP;46;Privada;54;25.1;47;45.86;;;56;6.64;;;201-250;2.2;;;81;6.03;17;30.99;;;
+2024;medicina;Centro Universitário de Várzea Grande;MT;47;Privada;54;25.1;49;45.08;;;75;6.17;;;130;4.78;;;198;3.14;17;30.99;;;
+2024;medicina;Faculdade São Leopoldo Mandic;SP;48;Privada;54;25.1;51;44.97;;;201-250;2.67;;;173;3.7;;;17;7.61;17;30.99;;;
+2024;medicina;Universidade de Uberaba;MG;49;Privada;54;25.1;52;44.61;;;61;6.52;;;201-250;2.78;;;150;4.32;17;30.99;;;
+2024;medicina;Centro Universitário Fmabc;SP;50;Privada;54;25.1;53;44.54;;;153;4.25;;;193;3.2;;;78;6.1;17;30.99;;;
+2024;medicina;Universidade José do Rosário Velano;MG;51;Privada;54;25.1;55;44.18;;;162;4.03;;;175;3.65;;;102;5.51;17;30.99;;;
+2024;medicina;Universidade de Ribeirão Preto;SP;52;Privada;54;25.1;57;43.67;;;106;5.41;;;201-250;2.68;;;139;4.59;17;30.99;;;
+2024;medicina;Centro Universitário de Brasília;DF;53;Privada;54;25.1;59;42.2;;;45;6.91;;;201-250;2.35;;;201-250;1.95;17;30.99;;;
+2024;medicina;Universidade Luterana do Brasil;RS;54;Privada;54;25.1;60;41.99;;;201-250;2.1;;;131;4.75;;;157;4.15;17;30.99;;;
+2024;medicina;Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória;ES;55;Privada;54;25.1;65;39.66;;;201-250;2.15;;;190;3.28;;;194;3.24;17;30.99;;;
+2024;medicina;Universidade Anhanguera;MS;56;Privada;54;25.1;66;39.53;;;158;4.12;;;163;3.95;;;301-350;0.47;17;30.99;;;
+2024;medicina;Faculdade Evangélica Mackenzie do Paraná;PR;57;Privada;54;25.1;67;39.42;;;169;3.85;;;251-300;0.65;;;166;3.93;17;30.99;;;
+2024;medicina;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;58;Privada;54;25.1;71;34.96;;;201-250;2.35;;;251-300;1.5;;;301-350;0.12;17;30.99;;;
+2024;medicina;Universidade Federal de São Carlos;SP;59;Federal;18;32.5;72;23.56;;;10;7.78;;;1;8;;;10;7.78;;;;;
+2024;medicina;Universidade Federal Fluminense;RJ;60;Federal;5;35.18;78;20.82;;;97;5.63;;;1;8;;;34;7.19;;;;;
+2024;medicina;Universidade Federal de Mato Grosso;MT;61;Federal;18;32.5;93;18.76;;;30;7.28;;;1;8;;;184;3.48;;;;;
+2024;medicina;Faculdade de Medicina de Marília;SP;62;Estadual;;;32;51.21;;;12;7.73;;;1;8;;;143;4.49;17;30.99;;;
+2024;medicina;Universidade de Fortaleza;CE;63;Privada;18;32.5;100;17.63;;;14;7.68;;;161;4;;;84;5.95;;;;;
+2024;medicina;Universidade Federal do Rio Grande;RS;64;Federal;;;36;50.03;;;147;4.4;;;1;8;;;56;6.64;17;30.99;;;
+2024;medicina;Universidade Federal de Mato Grosso do Sul;MS;65;Federal;18;32.5;104;17.32;;;62;6.49;;;121;5;;;89;5.83;;;;;
+2024;medicina;Universidade Federal do Pará;PA;66;Federal;18;32.5;112;16.64;;;201-250;2.49;;;1;8;;;76;6.15;;;;;
+2024;medicina;Faculdade de Ciências Médicas de Minas Gerais;MG;67;Privada;18;32.5;126;15.78;;;33;7.21;;;153;4.2;;;148;4.37;;;;;
+2024;medicina;Universidade Federal de Alfenas;MG;67;Federal;;;41;48.28;;;19;7.56;;;1;8;;;251-300;1.73;17;30.99;;;
+2024;medicina;Universidade Positivo;PR;69;Privada;18;32.5;132;15.26;;;11;7.75;;;251-300;1.58;;;85;5.93;;;;;
+2024;medicina;Centro Universitário Christus;CE;70;Privada;54;25.1;73;22.08;;;55;6.67;;;1;8;;;25;7.41;;;;;
+2024;medicina;Universidade Federal do Espírito Santo;ES;71;Federal;54;25.1;74;21.95;;;18;7.58;;;1;8;;;67;6.37;;;;;
+2024;medicina;Universidade do Oeste Paulista;SP;72;Privada;18;32.5;146;14.44;;;149;4.35;;;181;3.5;;;58;6.59;;;;;
+2024;medicina;Centro Universitário do Estado do Pará;PA;73;Privada;18;32.5;150;14.26;;;136;4.67;;;137;4.6;;;123;4.99;;;;;
+2024;medicina;Universidade de Vassouras;RJ;74;Privada;;;45;46.58;;;24;7.43;;;128;4.83;;;190;3.33;17;30.99;;;
+2024;medicina;Universidade do Estado do Pará;PA;75;Estadual;18;32.5;154;14.07;;;201-250;2.49;;;1;8;;;180;3.58;;;;;
+2024;medicina;Universidade Federal de Ouro Preto;MG;76;Federal;54;25.1;75;21.23;;;50;6.79;;;1;8;;;64;6.44;;;;;
+2024;medicina;Universidade do Vale do Taquari;RS;77;Privada;;;46;46.01;;;44;6.94;;;143;4.45;;;178;3.63;17;30.99;;;
+2024;medicina;Universidade Federal do Estado do Rio de Janeiro;RJ;78;Federal;54;25.1;77;20.84;;;78;6.1;;;1;8;;;52;6.74;;;;;
+2024;medicina;Universidade do Estado da Bahia;BA;79;Estadual;54;25.1;79;20.77;;;106;5.41;;;1;8;;;27;7.36;;;;;
+2024;medicina;Universidade Federal de Alagoas;AL;80;Federal;54;25.1;80;20.37;;;13;7.7;;;1;8;;;136;4.67;;;;;
+2024;medicina;Universidade Católica de Brasília;DF;81;Privada;5;35.18;201-250;10.23;;;104;5.46;;;201-250;2;;;201-250;2.77;;;;;
+2024;medicina;Universidade Metropolitana de Santos;SP;82;Privada;;;50;44.99;;;251-300;1.09;;;1;8;;;126;4.91;17;30.99;;;
+2024;medicina;Universidade Evangélica de Goiás;GO;83;Privada;18;32.5;178;12.45;;;40;7.04;;;180;3.53;;;201-250;1.88;;;;;
+2024;medicina;Universidade Estadual de Montes Claros;MG;84;Estadual;54;25.1;81;19.83;;;81;6.03;;;1;8;;;90;5.8;;;;;
+2024;medicina;Universidade do Sul de Santa Catarina;SC;85;Privada;18;32.5;181;12.16;;;166;3.93;;;201-250;2.5;;;93;5.73;;;;;
+2024;medicina;Universidade do Estado do Amazonas;AM;86;Estadual;18;32.5;183;12.05;;;301-350;0.59;;;1;8;;;185;3.46;;;;;
+2024;medicina;Universidade Cidade de São Paulo;SP;87;Privada;;;54;44.48;;;201-250;3.06;;;201-250;2.9;;;20;7.53;17;30.99;;;
+2024;medicina;Universidade Potiguar;RN;88;Privada;18;32.5;185;11.9;;;169;3.85;;;201-250;1.93;;;77;6.12;;;;;
+2024;medicina;Faculdade Ceres;SP;89;Privada;54;25.1;87;19.03;;;94;5.7;;;1;8;;;109;5.33;;;;;
+2024;medicina;Centro Universitário Imepac;MG;90;Privada;54;25.1;88;18.97;;;157;4.15;;;1;8;;;49;6.82;;;;;
+2024;medicina;Universidade Estadual de Mato Grosso do Sul;MS;91;Estadual;;;56;43.98;;;108;5.36;;;251-300;1.43;;;74;6.2;17;30.99;;;
+2024;medicina;Centro Universitário Zarns;BA;92;Privada;54;25.1;94;18.35;;;185;3.46;;;1;8;;;46;6.89;;;;;
+2024;medicina;Universidade Cesumar;PR;93;Privada;54;25.1;95;18.31;;;48;6.84;;;152;4.23;;;32;7.24;;;;;
+2024;medicina;Universidade Federal Rural do Semi-árido;RN;94;Federal;54;25.1;96;18.3;;;21;7.51;;;1;8;;;201-250;2.79;;;;;
+2024;medicina;Universidade Estadual de Feira de Santana;BA;95;Estadual;54;25.1;98;17.92;;;47;6.86;;;1;8;;;201-250;3.06;;;;;
+2024;medicina;Universidade Federal do Maranhão;MA;96;Federal;54;25.1;101;17.49;;;151;4.3;;;1;8;;;115;5.19;;;;;
+2024;medicina;Centro Universitário de Belo Horizonte;MG;97;Privada;54;25.1;102;17.41;;;99;5.58;;;158;4.08;;;11;7.75;;;;;
+2024;medicina;Universidade Estadual do Piauí;PI;98;Estadual;54;25.1;103;17.36;;;201-250;2.52;;;1;8;;;48;6.84;;;;;
+2024;medicina;Centro Universitário Facisa;PB;99;Privada;54;25.1;107;17.18;;;124;4.96;;;1;8;;;154;4.22;;;;;
+2024;medicina;Universidade Estadual do Oeste do Paraná;PR;100;Estadual;54;25.1;109;16.99;;;68;6.35;;;1;8;;;201-250;2.64;;;;;
+2024;medicina;Pontifícia Universidade Católica de Minas Gerais;MG;101;Privada;18;32.5;201-250;9.35;;;49;6.82;;;251-300;0.63;;;201-250;1.9;;;;;
+2024;medicina;Universidade Federal de Campina Grande;PB;102;Federal;54;25.1;111;16.71;;;71;6.27;;;1;8;;;201-250;2.44;;;;;
+2024;medicina;Fundação Universidade Federal de Rondônia;RO;103;Federal;54;25.1;114;16.44;;;103;5.48;;;1;8;;;201-250;2.96;;;;;
+2024;medicina;Centro Universitário Lusíada;SP;104;Privada;;;61;41.52;;;165;3.95;;;201-250;2.28;;;151;4.3;17;30.99;;;
+2024;medicina;Centro Universitário Serra dos Órgãos;RJ;105;Privada;;;62;41.32;;;201-250;2.72;;;159;4.05;;;181;3.56;17;30.99;;;
+2024;medicina;Universidade do Vale do Itajaí;SC;106;Privada;18;32.5;201-250;8.78;;;135;4.69;;;192;3.23;;;251-300;0.86;;;;;
+2024;medicina;Universidade Paulista;SP;107;Privada;54;25.1;123;16.1;;;301-350;0.42;;;1;8;;;14;7.68;;;;;
+2024;medicina;Universidade Federal do Amazonas;AM;108;Federal;54;25.1;128;15.56;;;161;4.05;;;1;8;;;183;3.51;;;;;
+2024;medicina;Centro Universitário Padre Albino;SP;109;Privada;54;25.1;130;15.39;;;52;6.74;;;156;4.13;;;142;4.52;;;;;
+2024;medicina;Centro Universitário de Votuporanga;SP;110;Privada;;;63;40.46;;;42;6.99;;;301-350;0.48;;;201-250;2;17;30.99;;;
+2024;medicina;Centro Universitário Ingá;PR;111;Privada;54;25.1;132;15.26;;;251-300;1.78;;;1;8;;;103;5.48;;;;;
+2024;medicina;Universidade Santo Amaro;SP;112;Privada;54;25.1;134;15.22;;;167;3.9;;;140;4.53;;;50;6.79;;;;;
+2024;medicina;Universidade Estadual do Maranhão;MA;113;Estadual;54;25.1;136;15.19;;;163;4;;;1;8;;;196;3.19;;;;;
+2024;medicina;Fundação Universidade Federal do Vale do São Francisco;PE;114;Federal;54;25.1;137;15.13;;;83;5.98;;;126;4.88;;;152;4.27;;;;;
+2024;medicina;Universidade de Marília;SP;115;Privada;54;25.1;138;14.88;;;119;5.09;;;127;4.85;;;125;4.94;;;;;
+2024;medicina;Universidade Católica de Pelotas;RS;116;Privada;18;32.5;251-300;7.44;;;160;4.07;;;201-250;2.43;;;251-300;0.94;;;;;
+2024;medicina;Universidade Vila Velha;ES;117;Privada;54;25.1;139;14.68;;;57;6.62;;;146;4.38;;;176;3.68;;;;;
+2024;medicina;Universidade Estadual do Sudoeste da Bahia;BA;118;Estadual;54;25.1;141;14.61;;;96;5.65;;;1;8;;;251-300;0.96;;;;;
+2024;medicina;Universidade Federal do Acre;AC;119;Federal;54;25.1;142;14.57;;;251-300;1.11;;;1;8;;;104;5.46;;;;;
+2024;medicina;Centro Universitário Aparício Carvalho;RO;120;Privada;54;25.1;143;14.54;;;201-250;2.37;;;1;8;;;156;4.17;;;;;
+2024;medicina;Fundação Universidade Federal do Tocantins;TO;121;Federal;54;25.1;144;14.49;;;74;6.2;;;122;4.98;;;191;3.31;;;;;
+2024;medicina;Centro Universitário Santa Maria;PB;122;Privada;54;25.1;145;14.47;;;111;5.28;;;1;8;;;251-300;1.19;;;;;
+2024;medicina;Universidade Salvador;BA;123;Privada;54;25.1;153;14.16;;;137;4.64;;;201-250;2.58;;;44;6.94;;;;;
+2024;medicina;Universidade Federal do Sul da Bahia;BA;124;Federal;54;25.1;156;14.03;;;132;4.77;;;1;8;;;251-300;1.26;;;;;
+2024;medicina;Universidade de Franca;SP;125;Privada;54;25.1;159;13.95;;;17;7.61;;;251-300;1.23;;;118;5.11;;;;;
+2024;medicina;Faculdade de Ciências Médicas da Paraíba;PB;126;Privada;;;68;39.04;;;201-250;2.89;;;176;3.63;;;251-300;1.53;17;30.99;;;
+2024;medicina;Centro Universitário Católico Salesiano Auxilium;SP;127;Privada;54;25.1;161;13.78;;;301-350;0.42;;;1;8;;;108;5.36;;;;;
+2024;medicina;Universidade Federal do Recôncavo da Bahia;BA;128;Federal;54;25.1;166;13.46;;;132;4.77;;;1;8;;;251-300;0.69;;;;;
+2024;medicina;Centro Universitário Facid Wyden;PI;129;Privada;54;25.1;169;13.27;;;177;3.65;;;201-250;2.53;;;38;7.09;;;;;
+2024;medicina;Centro Universitário de Patos de Minas;MG;130;Privada;54;25.1;172;13.13;;;89;5.83;;;187;3.35;;;165;3.95;;;;;
+2024;medicina;Universidade Feevale;RS;131;Privada;;;70;38.18;;;201-250;2.1;;;301-350;0.13;;;124;4.96;17;30.99;;;
+2024;medicina;Universidade São Judas Tadeu;SP;132;Privada;54;25.1;173;12.85;;;301-350;0.42;;;139;4.55;;;6;7.88;;;;;
+2024;medicina;Universidade do Oeste de Santa Catarina;SC;133;Privada;54;25.1;175;12.7;;;79;6.07;;;142;4.48;;;201-250;2.15;;;;;
+2024;medicina;Centro Universitário São Camilo;SP;134;Privada;54;25.1;177;12.54;;;89;5.83;;;251-300;1.7;;;122;5.01;;;;;
+2024;medicina;Escola de Medicina Souza Marques da Fundação Técnico-educacional Souza Marques;RJ;135;Privada;54;25.1;180;12.22;;;201-250;2.74;;;1;8;;;251-300;1.48;;;;;
+2024;medicina;Centro Universitário Uninovafapi;PI;136;Privada;54;25.1;182;12.06;;;201-250;2.82;;;145;4.4;;;129;4.84;;;;;
+2024;medicina;Universidade Estadual de Goiás;GO;137;Estadual;54;25.1;187;11.73;;;201-250;2.96;;;1;8;;;251-300;0.77;;;;;
+2024;medicina;Centro Universitário Barão de Mauá;SP;138;Privada;54;25.1;189;11.46;;;125;4.94;;;251-300;1.63;;;127;4.89;;;;;
+2024;medicina;Universidade da Região de Joinville;SC;139;Privada;54;25.1;193;11.33;;;64;6.44;;;201-250;2.05;;;201-250;2.84;;;;;
+2024;medicina;Universidade de Santa Cruz do Sul;RS;140;Privada;54;25.1;196;11.23;;;94;5.7;;;251-300;1.13;;;147;4.4;;;;;
+2024;medicina;Universidade do Estado do Rio Grande do Norte;RN;141;Estadual;54;25.1;197;11.21;;;201-250;2.12;;;1;8;;;251-300;1.09;;;;;
+2024;medicina;Centro Universitário FG;BA;142;Privada;54;25.1;201-250;11.14;;;185;3.46;;;165;3.9;;;172;3.78;;;;;
+2024;medicina;Universidade Estácio de Sá;RJ;143;Privada;54;25.1;201-250;11.12;;;251-300;1.46;;;201-250;2.03;;;16;7.63;;;;;
+2024;medicina;Centro Universitário de Caratinga;MG;144;Privada;54;25.1;201-250;11;;;251-300;1.43;;;124;4.93;;;137;4.64;;;;;
+2024;medicina;Universidade de Cuiabá;MT;145;Privada;54;25.1;201-250;10.86;;;23;7.46;;;201-250;3;;;301-350;0.4;;;;;
+2024;medicina;Centro Universitário Euro-americano;DF;146;Privada;54;25.1;201-250;10.58;;;251-300;1.06;;;144;4.43;;;119;5.09;;;;;
+2024;medicina;Universidade de Rio Verde;GO;147;Municipal;54;25.1;201-250;10.53;;;201-250;2.91;;;129;4.8;;;201-250;2.82;;;;;
+2024;medicina;Centro Universitário Faminas;MG;148;Privada;54;25.1;201-250;10.22;;;201-250;2.64;;;166;3.88;;;175;3.7;;;;;
+2024;medicina;Universidade de Itaúna;MG;149;Privada;54;25.1;201-250;10.16;;;201-250;1.85;;;201-250;2.75;;;100;5.56;;;;;
+2024;medicina;Faculdade de Ciências Médicas de São José dos Campos;SP;150;Privada;54;25.1;201-250;10.04;;;301-350;0.42;;;201-250;2.95;;;55;6.67;;;;;
+2024;medicina;Faculdade da Saúde e Ecologia Humana;MG;151;Privada;54;25.1;201-250;10;;;131;4.79;;;251-300;1.33;;;168;3.88;;;;;
+2024;medicina;Centro Universitário Cesmac;AL;152;Privada;54;25.1;201-250;9.93;;;63;6.47;;;201-250;2.55;;;251-300;0.91;;;;;
+2024;medicina;Centro Universitário de João Pessoa;PB;153;Privada;54;25.1;201-250;9.64;;;121;5.04;;;201-250;2.25;;;201-250;2.35;;;;;
+2024;medicina;Universidade Católica de Pernambuco;PE;154;Privada;54;25.1;201-250;9.58;;;67;6.37;;;301-350;0.2;;;201-250;3.01;;;;;
+2024;medicina;Universidade Anhembi Morumbi;SP;155;Privada;54;25.1;201-250;9.3;;;251-300;0.62;;;201-250;2.33;;;68;6.35;;;;;
+2024;medicina;Universidade de Taubaté;SP;156;Municipal;54;25.1;201-250;9.01;;;201-250;2.59;;;186;3.38;;;201-250;3.04;;;;;
+2024;medicina;Universidade Tiradentes;SE;156;Privada;54;25.1;201-250;9.01;;;120;5.06;;;201-250;2.3;;;251-300;1.65;;;;;
+2024;medicina;Universidade de Mogi das Cruzes;SP;158;Privada;54;25.1;201-250;8.97;;;152;4.27;;;201-250;2.4;;;201-250;2.3;;;;;
+2024;medicina;Universidade de Caxias do Sul;RS;159;Privada;54;25.1;201-250;8.88;;;105;5.43;;;251-300;1.4;;;201-250;2.05;;;;;
+2024;medicina;Universidade São Francisco;SP;160;Privada;54;25.1;201-250;8.59;;;201-250;3.01;;;188;3.33;;;201-250;2.25;;;;;
+2024;medicina;Centro Universitário Tocantinense Presidente Antônio Carlos;TO;161;Privada;54;25.1;201-250;8.42;;;201-250;2.42;;;201-250;2.15;;;169;3.85;;;;;
+2024;medicina;Universidade do Vale do Rio dos Sinos;RS;162;Privada;54;25.1;201-250;8.38;;;201-250;2.1;;;251-300;0.85;;;105;5.43;;;;;
+2024;medicina;Faculdade de Medicina de Campos;RJ;163;Privada;54;25.1;251-300;7.99;;;251-300;1.65;;;191;3.25;;;200;3.09;;;;;
+2024;medicina;Universidade do Vale do Sapucaí;MG;164;Privada;54;25.1;251-300;7.96;;;168;3.88;;;251-300;0.55;;;182;3.53;;;;;
+2024;medicina;Centro Universitário de Adamantina;SP;165;Municipal;54;25.1;251-300;7.54;;;301-350;0.42;;;201-250;2.7;;;146;4.42;;;;;
+2024;medicina;Universidade Regional de Blumenau;SC;166;Municipal;54;25.1;251-300;7.39;;;128;4.86;;;301-350;0.43;;;201-250;2.1;;;;;
+2024;medicina;Universidade Franciscana;RS;167;Privada;54;25.1;251-300;7.15;;;201-250;2.1;;;201-250;2.38;;;201-250;2.67;;;;;
+2024;medicina;Universidade de Passo Fundo;RS;168;Privada;54;25.1;251-300;6.93;;;100;5.56;;;251-300;0.7;;;251-300;0.67;;;;;
+2024;medicina;Centro Universitário Assis Gurgacz;PR;169;Privada;54;25.1;251-300;6.75;;;138;4.62;;;201-250;1.88;;;301-350;0.25;;;;;
+2024;medicina;Universidade Iguaçu;RJ;170;Privada;54;25.1;251-300;6.45;;;251-300;1.41;;;174;3.68;;;251-300;1.36;;;;;
+2024;medicina;Faculdade Santo Agostinho de Itabuna;BA;171;Privada;54;25.1;251-300;6.37;;;185;3.46;;;251-300;1.28;;;251-300;1.63;;;;;
+2024;medicina;Universidade Ceuma;MA;172;Privada;54;25.1;251-300;6.27;;;251-300;1.31;;;201-250;2.98;;;201-250;1.98;;;;;
+2024;medicina;Universidade do Contestado;SC;173;Privada;54;25.1;251-300;5.94;;;201-250;2.35;;;197;3.1;;;301-350;0.49;;;;;
+2024;medicina;Centro Universitário das Américas;SP;174;Privada;54;25.1;251-300;5.87;;;301-350;0.42;;;251-300;0.68;;;132;4.77;;;;;
+2024;medicina;Faculdade Santa Marcelina;SP;175;Privada;54;25.1;251-300;5.68;;;201-250;2.69;;;201-250;1.85;;;251-300;1.14;;;;;
+2024;medicina;Faculdade de Medicina Estácio de Juazeiro do Norte;CE;176;Privada;54;25.1;251-300;5.47;;;251-300;1.61;;;201-250;2.18;;;251-300;1.68;;;;;
+2024;medicina;Universidade Nilton Lins;AM;177;Privada;54;25.1;251-300;5.28;;;301-350;0.57;;;196;3.13;;;251-300;1.58;;;;;
+2024;medicina;Centro Universitário de Maceió;AL;178;Privada;54;25.1;251-300;5.27;;;175;3.7;;;251-300;0.83;;;251-300;0.74;;;;;
+2024;medicina;Faculdade de Medicina de Itajubá;MG;178;Privada;54;25.1;251-300;5.27;;;201-250;2.44;;;251-300;1.08;;;251-300;1.75;;;;;
+2024;medicina;Faculdade de Saúde Santo Agostinho de Vitória da Conquista;BA;180;Privada;54;25.1;251-300;5.24;;;185;3.46;;;251-300;1.75;;;301-350;0.03;;;;;
+2024;medicina;Centro Universitário Presidente Antônio Carlos;MG;181;Privada;54;25.1;251-300;4.8;;;201-250;1.9;;;251-300;1.2;;;251-300;1.7;;;;;
+2024;medicina;Centro Universitário São Lucas;RO;182;Privada;54;25.1;251-300;4.58;;;201-250;1.93;;;201-250;2.13;;;301-350;0.52;;;;;
+2024;medicina;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;183;Privada;54;25.1;301-350;3.91;;;201-250;2.1;;;301-350;0.25;;;251-300;1.56;;;;;
+2024;medicina;Universidade do Extremo Sul Catarinense;SC;184;Privada;54;25.1;301-350;3.63;;;201-250;2.35;;;251-300;0.98;;;301-350;0.3;;;;;
+2024;medicina;Centro Universitário de Brusque;SC;185;Privada;54;25.1;301-350;3.49;;;201-250;2.35;;;251-300;0.6;;;301-350;0.54;;;;;
+2024;medicina;Centro Universitário das Faculdades Associadas de Ensino;SP;186;Municipal;54;25.1;301-350;1.64;;;301-350;0.42;;;301-350;0.4;;;251-300;0.82;;;;;
+2024;medicina;Universidade Estadual de Ponta Grossa;PR;187;Estadual;;;76;20.94;;;60;6.54;;;1;8;;;66;6.4;;;;;
+2024;medicina;Centro Universitário Inta;CE;188;Privada;;;82;19.61;;;110;5.31;;;1;8;;;70;6.3;;;;;
+2024;medicina;Universidade Federal de Catalão;GO;189;Federal;;;83;19.43;;;86;5.9;;;1;8;;;101;5.53;;;;;
+2024;medicina;Faculdade de Medicina de Jundiaí;SP;189;Municipal;;;83;19.43;;;127;4.89;;;1;8;;;60;6.54;;;;;
+2024;medicina;Universidade Federal da Integração Latino-americana;PR;191;Federal;;;85;19.24;;;85;5.93;;;1;8;;;110;5.31;;;;;
+2024;medicina;Centro Universitário de Valença;RJ;192;Privada;;;86;19.08;;;73;6.22;;;1;8;;;128;4.86;;;;;
+2024;medicina;Universidade Federal do Cariri;CE;193;Federal;;;89;18.96;;;46;6.89;;;1;8;;;160;4.07;;;;;
+2024;medicina;Faculdades Integradas do Extremo Sul da Bahia;BA;194;Privada;;;90;18.94;;;185;3.46;;;1;8;;;22;7.48;;;;;
+2024;medicina;Centro Universitário de Excelência;BA;195;Privada;;;91;18.92;;;185;3.46;;;1;8;;;23;7.46;;;;;
+2024;medicina;Universidade Federal do Delta do Parnaíba;PI;196;Federal;;;92;18.77;;;27;7.36;;;1;8;;;187;3.41;;;;;
+2024;medicina;Faculdade Atenas Porto Seguro;BA;197;Privada;;;97;18.18;;;185;3.46;;;1;8;;;53;6.72;;;;;
+2024;medicina;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;198;Federal;;;99;17.76;;;4;7.93;;;1;8;;;251-300;1.83;;;;;
+2024;medicina;Faculdade Meridional;RS;199;Privada;;;105;17.26;;;201-250;2.1;;;1;8;;;35;7.16;;;;;
+2024;medicina;Universidade Estadual do Centro Oeste;PR;199;Estadual;;;106;17.26;;;68;6.35;;;1;8;;;201-250;2.91;;;;;
+2024;medicina;Universidade Estadual do Tocantins;TO;201;Estadual;;;147;14.4;;;251-300;1.83;;;1;8;;;140;4.57;;;;;
+2024;medicina;Centro Universitário Atenas;MG;201;Privada;;;131;15.38;;;174;3.73;;;1;8;;;177;3.65;;;;;
+2024;medicina;Centro Universitário Multivix Vitória;ES;201;Privada;;;194;11.26;;;98;5.61;;;167;3.85;;;251-300;1.8;;;;;
+2024;medicina;Faculdade Tiradentes de Goiana;PE;201;Privada;;;186;11.89;;;140;4.57;;;251-300;1.15;;;75;6.17;;;;;
+2024;medicina;Faculdade de Educação de Jaru;RO;201;Privada;;;199;11.18;;;251-300;1.01;;;1;8;;;201-250;2.17;;;;;
+2024;medicina;Faculdade Atenas Passos;MG;201;Privada;;;129;15.41;;;251-300;0.84;;;1;8;;;59;6.57;;;;;
+2024;medicina;Faculdade Itpac Bragança;PA;201;Privada;;;148;14.37;;;178;3.63;;;1;8;;;201-250;2.74;;;;;
+2024;medicina;Centro Universitário de Goiatuba;GO;201;Municipal;;;152;14.22;;;201-250;2.96;;;1;8;;;193;3.26;;;;;
+2024;medicina;Faculdade de Medicina de Olinda;PE;201;Privada;;;155;14.04;;;140;4.57;;;132;4.73;;;133;4.74;;;;;
+2024;medicina;Centro Universitário Campo Real;PR;201;Privada;;;201-250;10.88;;;251-300;1.78;;;150;4.28;;;130;4.82;;;;;
+2024;medicina;Faculdade de Medicina Estácio de Castanhal;PA;201;Privada;174;0.41;191;11.37;;;178;3.63;;;251-300;1.25;;;62;6.49;;;;;
+2024;medicina;Faculdade Atenas Sete Lagoas;MG;201;Privada;;;200;11.17;;;251-300;0.84;;;134;4.68;;;96;5.65;;;;;
+2024;medicina;Universidade Estadual da Região Tocantina do Maranhão;MA;201;Estadual;;;164;13.61;;;163;4;;;1;8;;;251-300;1.61;;;;;
+2024;medicina;Faculdade Atenas Sorriso;MT;201;Privada;;;149;14.29;;;75;6.17;;;178;3.58;;;141;4.54;;;;;
+2024;medicina;Faculdade de Medicina de Petrópolis;RJ;201;Privada;;;192;11.36;;;201-250;2.86;;;149;4.3;;;155;4.2;;;;;
+2024;medicina;Centro Universitário Metropolitano da Amazônia;PA;201;Privada;;;117;16.35;;;178;3.63;;;1;8;;;134;4.72;;;;;
+2024;medicina;Faculdade Estácio de Alagoinhas;BA;201;Privada;;;184;11.91;;;185;3.46;;;157;4.1;;;149;4.35;;;;;
+2024;medicina;Universidade do Estado de Mato Grosso;MT;201;Estadual;174;0.41;158;13.97;;;251-300;1.53;;;1;8;;;145;4.44;;;;;
+2024;medicina;Faculdade de Ciências da Saúde de Barretos Dr. Paulo Prata;SP;201;Privada;;;125;15.82;;;79;6.07;;;184;3.43;;;69;6.32;;;;;
+2024;medicina;União das Faculdades dos Grandes Lagos;SP;201;Privada;;;165;13.56;;;184;3.48;;;133;4.7;;;107;5.38;;;;;
+2024;medicina;Faculdade Estácio do Pantanal;MT;201;Privada;;;167;13.31;;;75;6.17;;;251-300;1.73;;;106;5.41;;;;;
+2024;medicina;Faculdade de Enfermagem Nova Esperança de Mossoró;RN;201;Privada;;;179;12.27;;;169;3.85;;;1;8;;;301-350;0.42;;;;;
+2024;medicina;Faculdade Ages de Medicina de Irecê;BA;201;Privada;;;163;13.7;;;185;3.46;;;201-250;2.93;;;29;7.31;;;;;
+2024;medicina;Fundação Universidade Federal do Pampa;RS;201;Federal;;;119;16.2;;;147;4.4;;;1;8;;;171;3.8;;;;;
+2024;medicina;Centro Universitário de Volta Redonda;RJ;201;Privada;;;124;15.93;;;201-250;1.88;;;1;8;;;80;6.05;;;;;
+2024;medicina;Faculdade Ages de Medicina;BA;201;Privada;;;169;13.27;;;185;3.46;;;160;4.03;;;91;5.78;;;;;
+2024;medicina;Centro Universitário de Mineiros;GO;201;Municipal;;;118;16.25;;;201-250;2.99;;;1;8;;;112;5.26;;;;;
+2024;medicina;Faculdade Imepac de Itumbiara;GO;201;Privada;;;176;12.59;;;115;5.19;;;251-300;1.18;;;73;6.22;;;;;
+2024;medicina;Universidade Estadual de Ciências da Saúde de Alagoas;AL;201;Estadual;;;167;13.31;;;126;4.91;;;155;4.15;;;153;4.25;;;;;
+2024;medicina;Universidade do Estado de Minas Gerais;MG;201;Estadual;;;113;16.5;;;81;6.03;;;1;8;;;201-250;2.47;;;;;
+2024;medicina;Faculdade Estácio de Canindé;CE;201;Privada;;;171;13.17;;;251-300;1.61;;;147;4.35;;;33;7.21;;;;;
+2024;medicina;Faculdade de Ciências Médicas e da Saúde de Juiz de Fora;MG;201;Privada;;;127;15.6;;;65;6.42;;;177;3.6;;;99;5.58;;;;;
+2024;medicina;Centro Universitário Unidade de Ensino Superior Dom Bosco;MA;201;Privada;;;115;16.42;;;251-300;1.31;;;1;8;;;37;7.11;;;;;
+2024;medicina;Centro Universitário Maurício de Nassau;PE;201;Privada;;;188;11.6;;;140;4.57;;;251-300;1.35;;;95;5.68;;;;;
+2024;medicina;Faculdades Pequeno Príncipe;PR;201;Privada;;;198;11.2;;;72;6.25;;;201-250;2.73;;;201-250;2.22;;;;;
+2024;medicina;Faculdade Unicesumar de Corumbá;MS;201;Privada;;;107;17.18;;;158;4.12;;;1;8;;;120;5.06;;;;;
+2024;medicina;Universidade Federal do Oeste da Bahia;BA;201;Federal;;;110;16.82;;;132;4.77;;;1;8;;;161;4.05;;;;;
+2024;medicina;Universidade Federal de Jataí;GO;201;Federal;;;121;16.17;;;86;5.9;;;1;8;;;201-250;2.27;;;;;
+2024;medicina;Universidade Federal de Lavras;MG;201;Federal;;;120;16.2;;;91;5.78;;;1;8;;;201-250;2.42;;;;;
+2024;medicina;Faculdade Atenas Valença;BA;201;Privada;;;135;15.19;;;185;3.46;;;1;8;;;174;3.73;;;;;
+2024;medicina;Universidade Federal da Fronteira Sul;SC;201;Federal;;;157;14.01;;;123;4.99;;;148;4.33;;;135;4.69;;;;;
+2024;medicina;Universidade Federal do Amapá;AP;201;Federal;;;160;13.92;;;139;4.59;;;1;8;;;251-300;1.33;;;;;
+2024;medicina;Centro Universitário Estácio do Ceará;CE;201;Privada;;;190;11.42;;;251-300;1.61;;;201-250;2.48;;;28;7.33;;;;;
+2024;medicina;Centro Universitário do Norte de Minas;MG;201;Privada;;;162;13.77;;;201-250;2.4;;;123;4.95;;;65;6.42;;;;;
+2024;medicina;Centro Universitário Dom Pedro II;BA;201;Privada;;;140;14.62;;;185;3.46;;;1;8;;;197;3.16;;;;;
+2024;medicina;Centro Universitário Estácio de Ribeirão Preto;SP;201;Privada;;;151;14.24;;;155;4.2;;;198;3.08;;;43;6.96;;;;;
+2024;medicina;Centro Universitário Vértice;MG;201;Privada;;;195;11.24;;;251-300;0.84;;;1;8;;;201-250;2.4;;;;;
+2024;medicina;Instituto Nacional de Ensino Superior e Pós-graduação Padre Gervásio;MG;201;Privada;;;122;16.12;;;251-300;0.84;;;1;8;;;30;7.28;;;;;
+2024;medicina;Universidade Federal de Roraima;RR;201;Federal;;;174;12.72;;;201-250;2.2;;;1;8;;;201-250;2.52;;;;;
+2024;medicina;Universidade Federal de Rondonópolis;MT;201;Federal;;;116;16.39;;;30;7.28;;;1;8;;;251-300;1.11;;;;;
+2024;medicina;Instituto Metropolitano de Ensino Superior;MG;251;Privada;;;201-250;9.17;;;112;5.26;;;201-250;2.85;;;251-300;1.06;;;;;
+2024;medicina;Universidade do Grande Rio Professor José de Souza Herdy;RJ;251;Privada;;;201-250;9.72;;;251-300;1.63;;;189;3.3;;;131;4.79;;;;;
+2024;medicina;Faculdade de Minas BH;MG;251;Privada;;;201-250;10.87;;;173;3.75;;;251-300;1.05;;;79;6.07;;;;;
+2024;medicina;Faculdade Estácio de Jaraguá do Sul;SC;251;Privada;;;201-250;10.77;;;201-250;2.35;;;169;3.8;;;138;4.62;;;;;
+2024;medicina;Faculdade Morgana Potrich;GO;251;Privada;;;201-250;9.61;;;115;5.19;;;151;4.25;;;301-350;0.17;;;;;
+2024;medicina;Faculdade Metropolitana São Carlos BJI;RJ;251;Privada;;;251-300;6.78;;;251-300;1.41;;;138;4.58;;;251-300;0.79;;;;;
+2024;medicina;Faculdade de Medicina de Garanhuns;PE;251;Privada;;;201-250;10.54;;;140;4.57;;;251-300;0.93;;;121;5.04;;;;;
+2024;medicina;Centro Universitário Maurício de Nassau de Cacoal;RO;251;Privada;;;251-300;5.93;;;251-300;1.01;;;201-250;2.6;;;201-250;2.32;;;;;
+2024;medicina;Centro Universitário Redentor;RJ;251;Privada;;;201-250;10.45;;;251-300;1.41;;;1;8;;;251-300;1.04;;;;;
+2024;medicina;Centro Universitário Integrado de Campo Mourão;PR;251;Privada;;;251-300;6.36;;;251-300;1.78;;;195;3.15;;;251-300;1.43;;;;;
+2024;medicina;Faculdade de Ciências Médicas de Três Rios;RJ;251;Privada;;;201-250;9.61;;;251-300;1.41;;;172;3.73;;;144;4.47;;;;;
+2024;medicina;Centro Universitário Maurício de Nassau de Barreiras;BA;251;Privada;;;251-300;7.36;;;185;3.46;;;251-300;1.53;;;201-250;2.37;;;;;
+2024;medicina;Faculdade Paraíso Araripina;PE;251;Privada;;;201-250;10.23;;;140;4.57;;;201-250;1.83;;;170;3.83;;;;;
+2024;medicina;Centro Universitário de Santa Fé do Sul;SP;251;Municipal;;;251-300;5.68;;;301-350;0.42;;;182;3.48;;;251-300;1.78;;;;;
+2024;medicina;Centro Universitário Unifacig;MG;251;Privada;;;251-300;7.95;;;172;3.78;;;251-300;1.68;;;201-250;2.49;;;;;
+2024;medicina;Centro Universitário São Lucas Ji-paraná;RO;251;Privada;;;251-300;6.05;;;251-300;1.01;;;178;3.58;;;251-300;1.46;;;;;
+2024;medicina;Instituto Tocantinense Presidente Antonio Carlos;TO;251;Privada;;;251-300;4.76;;;251-300;1.16;;;201-250;2.88;;;251-300;0.72;;;;;
+2024;medicina;Universidade Comunitária da Região de Chapecó;SC;251;Privada;;;251-300;6.92;;;201-250;2.84;;;201-250;2.8;;;251-300;1.28;;;;;
+2024;medicina;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;251;Privada;;;251-300;5.02;;;201-250;2.1;;;301-350;0.35;;;201-250;2.57;;;;;
+2024;medicina;Faculdade de Medicina de Açailândia;MA;251;Privada;;;251-300;5.5;;;251-300;1.31;;;251-300;0.58;;;179;3.61;;;;;
+2024;medicina;Centro Universitário Governador Ozanam Coelho;MG;251;Privada;;;251-300;7.06;;;251-300;0.84;;;201-250;2.1;;;158;4.12;;;;;
+2024;medicina;Centro Universitário do Planalto Central Apparecido dos Santos;DF;251;Privada;;;251-300;7.83;;;251-300;1.06;;;168;3.83;;;201-250;2.94;;;;;
+2024;medicina;Faculdade São Leopoldo Mandic de Araras;SP;251;Privada;;;201-250;9.25;;;301-350;0.42;;;201-250;2.83;;;82;6;;;;;
+2024;medicina;Universidade do Planalto Catarinense;SC;251;Privada;;;251-300;5.85;;;201-250;2.62;;;194;3.18;;;301-350;0.05;;;;;
+2024;medicina;Centro Universitário Estácio de Ji-paraná;RO;251;Privada;;;251-300;8.29;;;251-300;1.01;;;;;;;30;7.28;;;;;
+2024;medicina;Centro Universitário Alfredo Nasser;GO;251;Privada;;;201-250;10.81;;;115;5.19;;;120;5.03;;;301-350;0.59;;;;;
+2024;medicina;Faculdade de Medicina de Ji-paraná;RO;251;Privada;;;251-300;7.92;;;251-300;1.01;;;;;;;45;6.91;;;;;
+2024;medicina;Faculdade de Medicina de Barbacena;MG;251;Privada;;;251-300;7.54;;;153;4.25;;;201-250;2.08;;;251-300;1.21;;;;;
+2024;medicina;Faculdade de Filosofia Ciências e Letras de Penápolis;SP;251;Privada;;;251-300;7.53;;;301-350;0.42;;;171;3.75;;;189;3.36;;;;;
+2024;medicina;Faculdade de Tecnologia de Teresina;PI;251;Privada;;;201-250;8.95;;;201-250;2.82;;;301-350;0.28;;;88;5.85;;;;;
+2024;medicina;Universidade Estadual de Roraima;RR;251;Estadual;;;201-250;8.63;;;201-250;2.2;;;251-300;0.73;;;94;5.7;;;;;
+2024;medicina;Centro Universitário Ceuni;AM;251;Privada;;;201-250;8.37;;;301-350;0.57;;;201-250;1.9;;;86;5.9;;;;;
+2024;medicina;Centro Universitário de Patos;PB;251;Privada;;;201-250;8.71;;;150;4.32;;;185;3.4;;;251-300;0.99;;;;;
+2024;medicina;Faculdades de Dracena;SP;251;Privada;;;201-250;8.61;;;201-250;2.59;;;200;3.03;;;201-250;2.99;;;;;
+2024;medicina;Faculdade do Trabalho;MG;251;Privada;;;201-250;8.84;;;251-300;0.84;;;;;;;1;8;;;;;
+2024;medicina;Itpac Itacoatiara;AM;251;Privada;;;251-300;5.96;;;301-350;0.57;;;201-250;2.65;;;201-250;2.74;;;;;
+2024;medicina;Faculdade Municipal Professor Franco Montoro de Mogi Guaçu;SP;251;Municipal;;;251-300;4.82;;;201-250;2.59;;;301-350;0.03;;;201-250;2.2;;;;;
+2024;medicina;Faculdade Dinâmica do Vale do Piranga;MG;251;Privada;;;201-250;8.92;;;251-300;0.84;;;154;4.18;;;167;3.9;;;;;
+2024;medicina;Faculdade Pitágoras de Medicina de Eunápolis;BA;251;Privada;;;251-300;5.75;;;185;3.46;;;251-300;0.78;;;251-300;1.51;;;;;
+2024;medicina;Centro Universitário Unime;BA;251;Privada;;;201-250;9.04;;;155;4.2;;;201-250;1.95;;;201-250;2.89;;;;;
+2024;medicina;Faculdade Tiradentes de Jaboatão dos Guararapes;PE;251;Privada;;;251-300;8.19;;;140;4.57;;;251-300;1.55;;;201-250;2.07;;;;;
+2024;medicina;Universidade de Araraquara;SP;251;Privada;;;251-300;7.55;;;130;4.82;;;251-300;0.8;;;201-250;1.93;;;;;
+2024;medicina;Faculdade Metropolitana;RO;251;Privada;;;201-250;9.45;;;251-300;1.01;;;1;8;;;301-350;0.44;;;;;
+2024;medicina;Faculdade de Ciências da Saúde Pitágoras de Codó;MA;251;Privada;;;251-300;7.24;;;251-300;1.31;;;201-250;2.65;;;192;3.28;;;;;
+2024;medicina;Centro Universitário Fip-moc;MG;251;Privada;;;201-250;10.18;;;129;4.84;;;201-250;2.23;;;199;3.11;;;;;
+2024;medicina;Faculdade Estácio de Juazeiro;BA;251;Privada;;;201-250;9.53;;;185;3.46;;;183;3.45;;;201-250;2.62;;;;;
+2024;medicina;Faculdade de Ciências Humanas, Exatas e da Saúde do Piauí;PI;251;Privada;;;201-250;10.5;;;201-250;2.82;;;164;3.93;;;173;3.75;;;;;
+2024;medicina;Universidade Municipal de São Caetano do Sul;SP;251;Municipal;;;201-250;10.12;;;201-250;3.04;;;201-250;1.8;;;111;5.28;;;;;
+2024;medicina;Faculdade de Medicina do Sertão;PE;251;Privada;;;201-250;10.17;;;140;4.57;;;251-300;1.6;;;163;4;;;;;
+2024;medicina;Faculdade Itpac Abaetetuba;PA;251;Privada;;;251-300;7.66;;;178;3.63;;;;;;;162;4.03;;;;;
+2024;medicina;Centro Universitário de Jaguariúna;SP;301;Privada;;;301-350;4.23;;;301-350;0.42;;;301-350;0.38;;;186;3.43;;;;;
+2024;medicina;Centro Universitário Presidente Tancredo de Almeida Neves;MG;301;Privada;;;301-350;1.39;;;251-300;0.84;;;301-350;0.33;;;301-350;0.22;;;;;
+2024;medicina;Faculdades Integradas Padrão;BA;301;Privada;;;251-300;4.53;;;185;3.46;;;251-300;1;;;301-350;0.07;;;;;
+2024;medicina;Faculdade Itpac de Santa Inês;MA;301;Privada;;;301-350;3.31;;;251-300;1.31;;;301-350;0.15;;;201-250;1.85;;;;;
+2024;medicina;Itpac Cruzeiro do Sul;AC;301;Privada;;;301-350;2.51;;;301-350;0.57;;;251-300;0.53;;;251-300;1.41;;;;;
+2024;medicina;Faculdade de Ciências Médicas do Pará;PA;301;Privada;;;301-350;4.23;;;178;3.63;;;301-350;0.5;;;301-350;0.1;;;;;
+2024;medicina;Faculdade Uninassau Vilhena;RO;301;Privada;;;301-350;3.4;;;251-300;1.01;;;251-300;1.38;;;251-300;1.01;;;;;
+2024;medicina;Universidade Vale do Rio Doce;MG;301;Privada;;;301-350;1.12;;;251-300;0.84;;;301-350;0.08;;;301-350;0.2;;;;;
+2024;medicina;Faculdade de Ensino Superior da Amazônia Reunida;PA;301;Privada;;;301-350;4.2;;;178;3.63;;;301-350;0.3;;;301-350;0.27;;;;;
+2024;medicina;Universidade Brasil;SP;301;Privada;;;301-350;2.7;;;301-350;0.42;;;251-300;0.9;;;251-300;1.38;;;;;
+2024;medicina;Faculdade Pitágoras de Bacabal;MA;301;Privada;;;301-350;3.61;;;251-300;1.31;;;201-250;1.98;;;301-350;0.32;;;;;
+2024;medicina;Itpac Manacapuru;AM;301;Privada;;;301-350;2.74;;;301-350;0.57;;;301-350;0.05;;;201-250;2.12;;;;;
+2024;medicina;Universidade Paranaense;PR;301;Privada;;;251-300;4.4;;;251-300;1.78;;;201-250;1.78;;;251-300;0.84;;;;;
+2024;medicina;Centro Universitário Municipal de Franca;SP;301;Municipal;;;301-350;1.96;;;301-350;0.42;;;301-350;0.23;;;251-300;1.31;;;;;
+2024;medicina;Faculdade Brasileira de Cachoeiro;ES;301;Privada;;;301-350;2.54;;;251-300;1.51;;;251-300;0.88;;;301-350;0.15;;;;;
+2024;medicina;Centro Universitário do Espírito Santo;ES;301;Privada;;;251-300;4.49;;;251-300;1.51;;;251-300;0.95;;;201-250;2.03;;;;;
+2024;medicina;Centro Universitário Uninorte;AC;301;Privada;;;301-350;4.26;;;301-350;0.57;;;251-300;1.1;;;201-250;2.59;;;;;
+2024;medicina;Instituto Municipal de Ensino Superior de Assis;SP;301;Municipal;;;301-350;3.23;;;301-350;0.42;;;251-300;1.65;;;251-300;1.16;;;;;
+2024;medicina;Centro Universitário de Pato Branco;PR;301;Privada;;;301-350;3.18;;;251-300;1.78;;;251-300;1.03;;;301-350;0.37;;;;;
+2024;medicina;Claretiano - Centro Universitário de Rio Claro;SP;301;Privada;;;301-350;4.26;;;301-350;0.42;;;251-300;1.3;;;201-250;2.54;;;;;
+2024;medicina;Faculdade Presidente Antônio Carlos;TO;301;Privada;;;301-350;3.18;;;251-300;1.16;;;251-300;1.45;;;301-350;0.57;;;;;
+2024;medicina;Centro Universitário Max Planck;SP;301;Privada;;;301-350;1.84;;;301-350;0.42;;;301-350;0.18;;;251-300;1.24;;;;;
+2024;medicina;Universidade Alto Vale do Rio do Peixe;SC;301;Privada;;;251-300;4.45;;;201-250;2.35;;;251-300;1.48;;;251-300;0.62;;;;;
+2024;medicina;Universidade de Gurupi;TO;301;Municipal;;;301-350;2.93;;;251-300;1.83;;;251-300;0.75;;;301-350;0.35;;;;;
+2025;medicina;Universidade de São Paulo;SP;1;Estadual;1;30;1;68.39;;;23;7.48;;;1;8;;;2;7.98;1;40;1;52;4.93
+2025;medicina;Universidade Estadual de Campinas;SP;2;Estadual;4;29.54;3;67.31;;;23;7.48;;;1;8;;;3;7.95;2;39.46;2;76;4.42
+2025;medicina;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;3;Estadual;4;29.54;4;66.95;;;13;7.72;;;1;8;;;4;7.93;6;37.3;3;1;6
+2025;medicina;Universidade Federal de Minas Gerais;MG;4;Federal;2;29.85;5;65.85;;;25;7.43;;;1;8;;;13;7.72;4;38.38;4;81;4.32
+2025;medicina;Universidade Federal de São Paulo;SP;5;Federal;14;28.01;2;67.57;;;12;7.74;;;1;8;;;5;7.91;2;39.46;5;74;4.46
+2025;medicina;Universidade Federal do Rio Grande do Sul;RS;6;Federal;4;29.54;6;64.08;;;14;7.69;;;1;8;;;6;7.88;4;38.38;6;185;2.13
+2025;medicina;Universidade Federal do Rio de Janeiro;RJ;7;Federal;2;29.85;8;60.98;;;84;6.03;;;1;8;;;27;7.38;6;37.3;7;178;2.27
+2025;medicina;Universidade Federal do Paraná;PR;8;Federal;4;29.54;12;59.94;;;15;7.67;;;1;8;;;43;7;14;32.97;8;82;4.3
+2025;medicina;Pontifícia Universidade Católica do Paraná;PR;9;Privada;4;29.54;14;59.25;;;70;6.36;;;155;4.33;;;71;6.34;8;36.22;1;1;6
+2025;medicina;Universidade Federal de Pernambuco;PE;10;Federal;4;29.54;17;59.05;;;18;7.6;;;1;8;;;34;7.22;14;32.97;9;131;3.26
+2025;medicina;Universidade Federal de Santa Catarina;SC;11;Federal;14;28.01;10;60.36;;;66;6.46;;;1;8;;;46;6.93;14;32.97;10;1;6
+2025;medicina;Universidade Federal do Ceará;CE;12;Federal;14;28.01;15;59.23;;;45;6.96;;;1;8;;;53;6.77;14;32.97;11;71;4.53
+2025;medicina;Pontifícia Universidade Católica do Rio Grande do Sul;RS;13;Privada;14;28.01;16;59.07;;;8;7.83;;;196;3.36;;;18;7.6;8;36.22;2;93;4.06
+2025;medicina;Universidade do Estado do Rio de Janeiro;RJ;14;Estadual;4;29.54;23;56.65;;;41;7.05;;;165;4.1;;;24;7.45;8;36.22;12;199;1.83
+2025;medicina;Universidade Federal de Uberlândia;MG;15;Federal;14;28.01;18;58.15;;;90;5.89;;;1;8;;;51;6.81;14;32.97;13;73;4.48
+2025;medicina;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;16;Federal;48;22.81;7;63.26;;;36;7.17;;;1;8;;;10;7.79;8;36.22;14;92;4.08
+2025;medicina;Universidade Federal da Bahia;BA;17;Federal;4;29.54;24;56.3;;;35;7.19;;;1;8;;;77;6.2;14;32.97;15;194;1.94
+2025;medicina;Universidade Estadual de Londrina;PR;18;Estadual;14;28.01;21;57.1;;;110;5.41;;;1;8;;;94;5.79;14;32.97;16;52;4.93
+2025;medicina;Universidade Federal de Juiz de Fora;MG;19;Federal;14;28.01;22;56.74;;;31;7.29;;;1;8;;;97;5.72;14;32.97;17;155;2.76
+2025;medicina;Universidade Federal de Pelotas;RS;20;Federal;14;28.01;25;55.92;;;54;6.74;;;1;8;;;87;5.96;14;32.97;18;179;2.25
+2025;medicina;Faculdade Israelita de Ciências da Saúde Albert Einstein;SP;21;Privada;48;22.81;9;60.37;;;2;7.98;;;201-250;2.31;;;7;7.86;8;36.22;3;1;6
+2025;medicina;Faculdade de Ciências Médicas da Santa Casa São Paulo;SP;22;Privada;48;22.81;11;59.99;;;5;7.91;;;133;4.86;;;15;7.67;8;36.22;4;128;3.33
+2025;medicina;Faculdade de Medicina de São José do Rio Preto;SP;23;Estadual;48;22.81;13;59.45;;;1;8;;;1;8;;;102;5.6;14;32.97;19;54;4.88
+2025;medicina;Escola Bahiana de Medicina e Saúde Pública;BA;24;Privada;14;28.01;27;54.01;;;72;6.32;;;1;8;;;135;4.82;14;32.97;5;196;1.9
+2025;medicina;Universidade de Pernambuco;PE;25;Estadual;14;28.01;28;53.09;;;26;7.41;;;123;5.1;;;109;5.44;14;32.97;20;183;2.17
+2025;medicina;Universidade Federal do Rio Grande do Norte;RN;26;Federal;48;22.81;19;57.49;;;10;7.79;;;1;8;;;182;3.7;14;32.97;21;47;5.03
+2025;medicina;Universidade de Brasília;DF;27;Federal;4;29.54;32;49.25;;;21;7.53;;;1;8;;;11;7.76;35;21.62;22;80;4.34
+2025;medicina;Universidade Federal da Paraíba;PB;28;Federal;14;28.01;34;48.84;;;51;6.81;;;1;8;;;68;6.41;35;21.62;23;1;6
+2025;medicina;Universidade Estadual do Ceará;CE;29;Estadual;14;28.01;36;48.53;;;92;5.84;;;1;8;;;40;7.07;35;21.62;24;1;6
+2025;medicina;Centro Universitário de Brasília;DF;30;Privada;14;28.01;38;47.43;;;132;4.89;;;201-250;2.38;;;251-300;1.19;14;32.97;6;1;6
+2025;medicina;Faculdade de Medicina Nova Esperança;PB;31;Privada;48;22.81;29;52.39;;;251-300;1.45;;;1;8;;;73;6.29;14;32.97;7;111;3.68
+2025;medicina;Universidade Federal de Goiás;GO;32;Federal;14;28.01;40;46.71;;;39;7.1;;;1;8;;;35;7.19;35;21.62;25;153;2.8
+2025;medicina;Universidade Federal Fluminense;RJ;33;Federal;4;29.54;43;44.62;;;86;5.98;;;1;8;;;36;7.17;35;21.62;26;198;1.85
+2025;medicina;Universidade Estadual de Maringá;PR;34;Estadual;48;22.81;31;50.6;;;3;7.95;;;1;8;;;42;7.03;35;21.62;27;1;6
+2025;medicina;Universidade Federal de Sergipe;SE;35;Federal;14;28.01;41;45.39;;;50;6.84;;;1;8;;;47;6.91;35;21.62;28;190;2.02
+2025;medicina;Universidade Federal de Santa Maria;RS;36;Federal;14;28.01;42;44.7;;;64;6.5;;;1;8;;;76;6.22;35;21.62;29;174;2.36
+2025;medicina;Universidade Federal de São João Del Rei;MG;37;Federal;48;22.81;33;49.07;;;177;3.82;;;1;8;;;201-250;3.25;14;32.97;30;201-250;1.03
+2025;medicina;Faculdade São Leopoldo Mandic;SP;38;Privada;48;22.81;35;48.76;;;201-250;3.16;;;201-250;3.1;;;20;7.55;14;32.97;8;192;1.98
+2025;medicina;Universidade Federal do Piauí;PI;39;Federal;48;22.81;37;47.6;;;40;7.07;;;1;8;;;131;4.91;35;21.62;31;1;6
+2025;medicina;Universidade de Fortaleza;CE;40;Privada;14;28.01;46;41.71;;;95;5.77;;;170;3.98;;;80;6.13;35;21.62;9;86;4.21
+2025;medicina;Universidade Federal de Mato Grosso do Sul;MS;41;Federal;14;28.01;48;41.02;;;42;7.03;;;131;4.91;;;91;5.86;35;21.62;32;201-250;1.6
+2025;medicina;Pontifícia Universidade Católica de São Paulo;SP;42;Privada;14;28.01;54;39.65;;;58;6.65;;;193;3.43;;;137;4.77;35;21.62;10;135;3.18
+2025;medicina;Universidade Federal de Alagoas;AL;43;Federal;48;22.81;45;42.95;;;99;5.67;;;1;8;;;138;4.75;35;21.62;33;148;2.91
+2025;medicina;Universidade Estadual de Mato Grosso do Sul;MS;44;Estadual;48;22.81;47;41.52;;;52;6.79;;;251-300;1.29;;;93;5.82;35;21.62;34;1;6
+2025;medicina;Universidade Vila Velha;ES;45;Privada;48;22.81;50;40.57;;;97;5.72;;;147;4.52;;;186;3.61;35;21.62;11;44;5.1
+2025;medicina;Universidade Estadual de Santa Cruz;BA;46;Estadual;48;22.81;51;40.42;;;138;4.75;;;1;8;;;85;6.01;35;21.62;35;251-300;0.04
+2025;medicina;Faculdade Pernambucana de Saúde;PE;47;Privada;14;28.01;70;34.39;;;90;5.89;;;135;4.81;;;301-350;0.74;35;21.62;12;201-250;1.33
+2025;medicina;Escola Superior de Ciências da Santa Casa de Misericórdia de Vitória;ES;48;Privada;48;22.81;57;37.92;;;33;7.24;;;201-250;3.21;;;201-250;2.99;35;21.62;13;150;2.86
+2025;medicina;Universidade do Vale do Taquari;RS;49;Privada;48;22.81;58;37.44;;;150;4.46;;;150;4.45;;;197;3.35;35;21.62;14;117;3.56
+2025;medicina;Universidade Federal de Viçosa;MG;50;Federal;48;22.81;59;37.31;;;177;3.82;;;1;8;;;198;3.32;35;21.62;36;251-300;0.55
+2025;medicina;Universidade Professor Edson Antônio Velano;MG;51;Privada;48;22.81;60;37.23;;;201-250;2.8;;;184;3.64;;;101;5.63;35;21.62;15;118;3.54
+2025;medicina;Universidade de Ribeirão Preto;SP;52;Privada;48;22.81;62;36.7;;;74;6.27;;;201-250;2.14;;;150;4.46;35;21.62;16;181;2.21
+2025;medicina;Faculdade Evangélica Mackenzie do Paraná;PR;53;Privada;48;22.81;63;36.62;;;109;5.44;;;251-300;1.07;;;117;5.25;35;21.62;17;132;3.24
+2025;medicina;Afya Faculdade de Ciências Médicas da Paraíba;PB;54;Privada;48;22.81;65;35.8;;;201-250;2.09;;;179;3.76;;;201-250;2.33;35;21.62;18;1;6
+2025;medicina;Pontifícia Universidade Católica de Campinas;SP;55;Privada;48;22.81;67;35.47;;;89;5.91;;;301-350;0.48;;;194;3.42;35;21.62;19;94;4.04
+2025;medicina;Universidade Federal de Alfenas;MG;56;Federal;48;22.81;68;35.3;;;177;3.82;;;1;8;;;251-300;1.5;35;21.62;37;251-300;0.36
+2025;medicina;Faculdade de Medicina de Marília;SP;57;Estadual;;;20;57.18;;;16;7.64;;;1;8;;;164;4.13;14;32.97;38;75;4.44
+2025;medicina;Centro Universitário Fmabc;SP;58;Privada;164;5.05;30;51.68;;;34;7.22;;;201-250;2.86;;;86;5.98;14;32.97;20;160;2.65
+2025;medicina;Centro Universitário Cesmac;AL;59;Privada;48;22.81;72;32.95;;;165;4.11;;;201-250;2.5;;;251-300;0.93;35;21.62;21;106;3.79
+2025;medicina;Universidade Federal do Rio Grande;RS;60;Federal;;;26;54.53;;;56;6.69;;;1;8;;;69;6.39;14;32.97;39;251-300;0.48
+2025;medicina;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;61;Privada;48;22.81;74;29.61;;;251-300;1.99;;;251-300;1.55;;;301-350;0.07;35;21.62;22;78;4.38
+2025;medicina;Universidade Nove de Julho;SP;62;Privada;164;5.05;39;47.18;;;201-250;2.83;;;251-300;1.41;;;83;6.05;14;32.97;23;100;3.92
+2025;medicina;Universidade Federal do Pará;PA;63;Federal;14;28.01;87;21.95;;;175;3.87;;;1;8;;;81;6.1;;;40;97;3.98
+2025;medicina;Centro Universitário Christus;CE;64;Privada;48;22.81;75;27.01;;;61;6.58;;;1;8;;;30;7.31;;;24;43;5.12
+2025;medicina;Universidade Federal de Mato Grosso;MT;65;Federal;14;28.01;97;21.17;;;80;6.13;;;1;8;;;181;3.73;;;41;129;3.31
+2025;medicina;Universidade Federal do Triângulo Mineiro;MG;66;Federal;48;22.81;77;26.23;;;48;6.88;;;1;8;;;33;7.24;;;42;91;4.11
+2025;medicina;Universidade do Oeste Paulista;SP;67;Privada;14;28.01;99;20.92;;;101;5.63;;;182;3.69;;;58;6.65;;;25;51;4.95
+2025;medicina;Universidade Federal de São Carlos;SP;68;Federal;48;22.81;79;25.22;;;46;6.93;;;1;8;;;9;7.81;;;43;168;2.48
+2025;medicina;Universidade Federal do Espírito Santo;ES;69;Federal;48;22.81;81;24.65;;;20;7.55;;;1;8;;;72;6.32;;;44;154;2.78
+2025;medicina;Faculdade de Ciências Médicas de Minas Gerais;MG;70;Privada;14;28.01;117;19.02;;;49;6.86;;;163;4.14;;;152;4.42;;;26;115;3.6
+2025;medicina;Centro Universitário Católico Salesiano Auxilium;SP;71;Privada;48;22.81;82;23.99;;;47;6.91;;;127;5;;;82;6.08;;;27;1;6
+2025;medicina;Universidade Positivo;PR;72;Privada;14;28.01;121;18.76;;;65;6.48;;;201-250;2.69;;;92;5.84;;;28;108;3.75
+2025;medicina;Universidade Estadual de Montes Claros;MG;73;Estadual;48;22.81;84;23.33;;;6;7.88;;;1;8;;;113;5.34;;;45;186;2.11
+2025;medicina;Faculdade Atitus Educação Passo Fundo;RS;74;Privada;48;22.81;85;23.2;;;201-250;2.85;;;1;8;;;28;7.36;;;29;49;4.99
+2025;medicina;Universidade Estadual do Oeste do Paraná;PR;75;Estadual;48;22.81;86;23.18;;;59;6.62;;;1;8;;;201-250;2.56;;;46;1;6
+2025;medicina;Universidade Potiguar;RN;76;Privada;14;28.01;143;17.54;;;155;4.34;;;201-250;2.62;;;21;7.53;;;30;141;3.05
+2025;medicina;Universidade Federal de Lavras;MG;77;Federal;164;5.05;53;40.25;;;19;7.57;;;1;8;;;201-250;2.66;35;21.62;47;251-300;0.4
+2025;medicina;Universidade do Sul de Santa Catarina;SC;78;Privada;14;28.01;152;17.05;;;201-250;2.61;;;201-250;3.05;;;25;7.43;;;31;98;3.96
+2025;medicina;Universidade Estadual de Feira de Santana;BA;79;Estadual;48;22.81;88;21.93;;;85;6.01;;;1;8;;;112;5.37;;;48;165;2.55
+2025;medicina;Universidade Cesumar;PR;80;Privada;48;22.81;90;21.85;;;136;4.8;;;169;4;;;41;7.05;;;32;1;6
+2025;medicina;Centro Universitário Imepac;MG;81;Privada;48;22.81;91;21.77;;;162;4.18;;;1;8;;;67;6.43;;;33;136;3.16
+2025;medicina;Centro Universitário Aparício Carvalho;RO;82;Privada;48;22.81;92;21.74;;;201-250;2.66;;;1;8;;;124;5.08;;;34;1;6
+2025;medicina;Universidade Católica de Brasília;DF;83;Privada;14;28.01;164;16.47;;;73;6.29;;;201-250;2.26;;;139;4.72;;;35;134;3.2
+2025;medicina;Universidade do Estado da Bahia;BA;84;Estadual;48;22.81;94;21.47;;;103;5.58;;;1;8;;;32;7.26;;;49;251-300;0.63
+2025;medicina;Universidade Federal de Ouro Preto;MG;85;Federal;48;22.81;95;21.43;;;57;6.67;;;1;8;;;78;6.17;;;50;251-300;0.59
+2025;medicina;Universidade Regional do Cariri;CE;86;Estadual;48;22.81;98;20.99;;;92;5.84;;;1;8;;;37;7.15;;;51;;
+2025;medicina;Universidade Federal do Estado do Rio de Janeiro;RJ;87;Federal;48;22.81;100;20.9;;;105;5.53;;;1;8;;;50;6.84;;;52;251-300;0.53
+2025;medicina;Fundação Universidade Federal da Grande Dourados;MS;88;Federal;48;22.81;101;20.75;;;83;6.05;;;1;8;;;201-250;2.47;;;53;85;4.23
+2025;medicina;Universidade Metropolitana de Santos;SP;89;Privada;;;44;43.27;;;154;4.37;;;1;8;;;146;4.56;35;21.62;36;62;4.72
+2025;medicina;Universidade Estadual do Maranhão;MA;90;Estadual;48;22.81;103;20.24;;;182;3.7;;;1;8;;;201-250;2.54;;;54;1;6
+2025;medicina;Universidade Federal do Maranhão;MA;91;Federal;48;22.81;108;19.78;;;182;3.7;;;1;8;;;129;4.96;;;55;138;3.12
+2025;medicina;Universidade Federal do Sul da Bahia;BA;92;Federal;48;22.81;109;19.77;;;146;4.56;;;1;8;;;251-300;1.21;;;56;1;6
+2025;medicina;Universidade do Estado do Amazonas;AM;93;Estadual;14;28.01;190;14.56;;;201-250;2.11;;;1;8;;;165;4.11;;;57;251-300;0.34
+2025;medicina;Universidade Estadual do Piauí;PI;94;Estadual;48;22.81;111;19.73;;;130;4.94;;;1;8;;;60;6.6;;;58;251-300;0.19
+2025;medicina;Faculdade Ceres;SP;94;Privada;48;22.81;111;19.73;;;113;5.34;;;1;8;;;100;5.65;;;37;251-300;0.74
+2025;medicina;Fundação Universidade Federal do Vale do São Francisco;PE;96;Federal;48;22.81;113;19.65;;;78;6.17;;;1;8;;;173;3.92;;;59;201-250;1.56
+2025;medicina;Centro Universitário do Estado do Pará;PA;97;Privada;48;22.81;119;18.86;;;88;5.94;;;140;4.69;;;142;4.65;;;38;116;3.58
+2025;medicina;Universidade Federal Rural do Semi-árido;RN;98;Federal;48;22.81;120;18.83;;;17;7.62;;;1;8;;;201-250;2.83;;;60;251-300;0.38
+2025;medicina;Universidade Federal do Delta do Parnaíba;PI;99;Federal;48;22.81;125;18.53;;;126;5.03;;;1;8;;;189;3.54;;;61;193;1.96
+2025;medicina;Centro Universitário São Camilo;SP;100;Privada;48;22.81;126;18.5;;;67;6.43;;;251-300;2.05;;;118;5.22;;;39;58;4.8
+2025;medicina;Universidade Federal de Campina Grande;PB;101;Federal;48;22.81;128;18.46;;;53;6.77;;;1;8;;;201-250;2.45;;;62;201-250;1.24
+2025;medicina;Faculdade de Enfermagem Nova Esperança de Mossoró;RN;101;Privada;48;22.81;127;18.46;;;155;4.34;;;1;8;;;301-350;0.12;;;40;1;6
+2025;medicina;Universidade de Passo Fundo;RS;103;Privada;14;28.01;201-250;13.18;;;43;7;;;251-300;1.31;;;251-300;1.73;;;41;137;3.14
+2025;medicina;Universidade Municipal de São Caetano do Sul;SP;104;Municipal;;;49;40.97;;;27;7.38;;;251-300;0.91;;;125;5.06;35;21.62;63;1;6
+2025;medicina;Fundação Universidade Federal de Rondônia;RO;105;Federal;48;22.81;135;18.04;;;81;6.1;;;1;8;;;201-250;3.18;;;64;201-250;0.76
+2025;medicina;Universidade Católica de Pelotas;RS;106;Privada;14;28.01;201-250;12.83;;;106;5.51;;;251-300;2;;;301-350;0.71;;;42;67;4.61
+2025;medicina;Universidade Evangélica de Goiás;GO;107;Privada;48;22.81;136;17.97;;;62;6.55;;;176;3.83;;;193;3.44;;;43;89;4.15
+2025;medicina;Universidade do Vale do Itajaí;SC;108;Privada;14;28.01;201-250;12.58;;;77;6.2;;;201-250;2.41;;;301-350;0.69;;;44;130;3.28
+2025;medicina;Universidade Luterana do Brasil;RS;109;Privada;164;5.05;66;35.49;;;251-300;1.16;;;141;4.67;;;176;3.85;35;21.62;45;87;4.19
+2025;medicina;Universidade Estadual do Sudoeste da Bahia;BA;110;Estadual;48;22.81;140;17.64;;;98;5.7;;;1;8;;;251-300;1.31;;;65;161;2.63
+2025;medicina;Centro Universitário Zarns;BA;111;Privada;48;22.81;144;17.52;;;251-300;1.9;;;1;8;;;57;6.67;;;46;201-250;0.95
+2025;medicina;Centro Universitário de Várzea Grande;MT;112;Privada;;;52;40.28;;;129;4.96;;;137;4.76;;;175;3.87;35;21.62;47;45;5.07
+2025;medicina;Universidade Federal do Amazonas;AM;113;Federal;48;22.81;146;17.2;;;201-250;2.99;;;1;8;;;192;3.47;;;66;156;2.74
+2025;medicina;Universidade Santo Amaro;SP;114;Privada;48;22.81;154;16.97;;;251-300;1.69;;;124;5.07;;;65;6.48;;;48;109;3.73
+2025;medicina;Universidade de Uberaba;MG;115;Privada;48;22.81;155;16.85;;;122;5.13;;;201-250;2.67;;;158;4.27;;;49;59;4.78
+2025;medicina;Centro Universitário Facisa;PB;116;Privada;48;22.81;158;16.73;;;201-250;2.9;;;1;8;;;179;3.77;;;50;188;2.06
+2025;medicina;Centro Universitário Euro-americano;DF;117;Privada;48;22.81;160;16.69;;;171;3.96;;;144;4.6;;;157;4.3;;;51;104;3.83
+2025;medicina;Universidade do Estado do Pará;PA;118;Estadual;48;22.81;170;16.17;;;175;3.87;;;1;8;;;201-250;3.04;;;67;201-250;1.26
+2025;medicina;Pontifícia Universidade Católica de Goiás;GO;119;Privada;14;28.01;251-300;10.75;;;152;4.42;;;301-350;0.12;;;201-250;2.59;;;52;114;3.62
+2025;medicina;Centro Universitário Assis Gurgacz;PR;120;Privada;48;22.81;175;15.86;;;9;7.81;;;201-250;2.88;;;301-350;0.33;;;53;56;4.84
+2025;medicina;Centro Universitário Barão de Mauá;SP;121;Privada;48;22.81;176;15.81;;;112;5.37;;;251-300;1.62;;;160;4.23;;;54;68;4.59
+2025;medicina;Universidade Cidade de São Paulo;SP;122;Privada;;;55;38.6;;;190;3.51;;;201-250;2.57;;;48;6.88;35;21.62;55;95;4.02
+2025;medicina;Universidade Salvador;BA;123;Privada;48;22.81;178;15.7;;;251-300;1.76;;;201-250;2.83;;;29;7.34;;;56;107;3.77
+2025;medicina;Universidade de Marília;SP;124;Privada;48;22.81;179;15.67;;;251-300;1.12;;;138;4.74;;;136;4.8;;;57;48;5.01
+2025;medicina;Universidade de Itaúna;MG;125;Privada;48;22.81;181;15.45;;;186;3.61;;;251-300;1.95;;;105;5.53;;;58;79;4.36
+2025;medicina;Faculdade União Araruama de Ensino S/s Ltda.;RJ;126;Privada;;;56;38.19;;;301-350;0.57;;;1;8;;;1;8;35;21.62;59;;
+2025;medicina;Faculdade de Medicina de Olinda;PE;127;Privada;48;22.81;185;15.15;;;301-350;0.81;;;1;8;;;155;4.34;;;60;191;2
+2025;medicina;Centro Universitário Santa Maria;PB;128;Privada;48;22.81;186;15.03;;;201-250;2.87;;;1;8;;;251-300;1.57;;;61;163;2.59
+2025;medicina;Pontifícia Universidade Católica de Minas Gerais;MG;129;Privada;14;28.01;251-300;9.81;;;137;4.77;;;301-350;0.62;;;251-300;1.35;;;62;140;3.07
+2025;medicina;Universidade do Oeste de Santa Catarina;SC;130;Privada;48;22.81;187;14.94;;;166;4.08;;;143;4.62;;;201-250;3.02;;;63;133;3.22
+2025;medicina;Centro Universitário Serra dos Órgãos;RJ;131;Privada;;;61;37.03;;;201-250;2.49;;;151;4.43;;;107;5.48;35;21.62;64;143;3.01
+2025;medicina;Centro Universitário Ceuni;AM;132;Privada;48;22.81;198;13.74;;;301-350;0.83;;;251-300;1.88;;;70;6.36;;;65;64;4.67
+2025;medicina;Universidade São Francisco;SP;132;Privada;48;22.81;197;13.74;;;108;5.46;;;198;3.31;;;251-300;1.26;;;65;110;3.71
+2025;medicina;Universidade do Planalto Catarinense;SC;134;Privada;48;22.81;199;13.68;;;135;4.82;;;201-250;2.81;;;301-350;0.05;;;67;1;6
+2025;medicina;Centro Universitário das Faculdades Associadas de Ensino;SP;135;Municipal;48;22.81;201-250;13.48;;;125;5.06;;;251-300;0.88;;;251-300;1.54;;;68;1;6
+2025;medicina;Centro Universitário FG;BA;136;Privada;48;22.81;201-250;13.42;;;160;4.23;;;189;3.52;;;140;4.7;;;68;201-250;0.97
+2025;medicina;Universidade de Vassouras;RJ;137;Privada;;;64;36.16;;;75;6.24;;;126;5.02;;;251-300;1.76;35;21.62;69;201-250;1.52
+2025;medicina;Centro Universitário de Belo Horizonte;MG;138;Privada;48;22.81;201-250;13.33;;;251-300;1.88;;;191;3.48;;;12;7.74;;;70;251-300;0.23
+2025;medicina;Universidade de Caxias do Sul;RS;139;Privada;48;22.81;201-250;13.2;;;107;5.48;;;251-300;1.1;;;251-300;1.92;;;71;63;4.7
+2025;medicina;Faculdade Estácio de Jaraguá do Sul;SC;140;Privada;48;22.81;201-250;12.81;;;201-250;2.75;;;156;4.31;;;143;4.63;;;72;201-250;1.12
+2025;medicina;Centro Universitário Faminas;MG;141;Privada;48;22.81;201-250;12.75;;;192;3.47;;;201-250;3.19;;;120;5.18;;;73;201-250;0.91
+2025;medicina;Universidade Estácio de Sá;RJ;142;Privada;48;22.81;201-250;12.6;;;251-300;1.21;;;251-300;1.91;;;14;7.69;;;74;201-250;1.79
+2025;medicina;Centro Universitário Estácio do Ceará;CE;143;Privada;48;22.81;201-250;12.59;;;201-250;2.45;;;201-250;3.02;;;38;7.12;;;75;;
+2025;medicina;Universidade Estadual de Goiás;GO;144;Estadual;48;22.81;201-250;12.55;;;164;4.13;;;1;8;;;301-350;0.4;;;69;251-300;0.02
+2025;medicina;Universidade Franciscana;RS;145;Privada;48;22.81;201-250;12.11;;;38;7.12;;;251-300;1.74;;;201-250;2.68;;;76;251-300;0.57
+2025;medicina;Universidade Paulista;SP;146;Privada;48;22.81;201-250;11.97;;;301-350;0.21;;;158;4.26;;;22;7.5;;;77;;
+2025;medicina;Universidade de Taubaté;SP;147;Municipal;48;22.81;201-250;11.89;;;201-250;3.02;;;175;3.86;;;201-250;2.71;;;70;177;2.3
+2025;medicina;Centro Universitário Lusíada;SP;148;Privada;;;69;34.67;;;142;4.65;;;251-300;1.79;;;163;4.15;35;21.62;78;169;2.46
+2025;medicina;Universidade São Judas Tadeu;SP;149;Privada;48;22.81;201-250;11.76;;;301-350;0.21;;;172;3.93;;;56;6.69;;;79;201-250;0.93
+2025;medicina;Universidade de Santa Cruz do Sul;RS;150;Privada;48;22.81;201-250;11.72;;;201-250;2.78;;;251-300;0.95;;;145;4.58;;;80;124;3.41
+2025;medicina;Faculdade Santa Marcelina;SP;151;Privada;48;22.81;201-250;11.7;;;191;3.49;;;201-250;2.64;;;251-300;1.4;;;81;88;4.17
+2025;medicina;Universidade de Mogi das Cruzes;SP;152;Privada;48;22.81;201-250;11.54;;;251-300;1.61;;;251-300;1.86;;;251-300;2.07;;;82;1;6
+2025;medicina;Faculdade de Medicina Estácio de Juazeiro do Norte;CE;153;Privada;48;22.81;201-250;11.36;;;181;3.73;;;201-250;2.21;;;251-300;1.61;;;83;105;3.81
+2025;medicina;Universidade Regional de Blumenau;SC;154;Municipal;48;22.81;201-250;11.23;;;131;4.91;;;301-350;0.33;;;201-250;2.09;;;71;101;3.9
+2025;medicina;Faculdade de Medicina de Itajubá;MG;155;Privada;48;22.81;251-300;10.87;;;251-300;1.47;;;251-300;1.38;;;251-300;2.02;;;84;1;6
+2025;medicina;Centro Universitário de Votuporanga;SP;156;Privada;;;71;33.53;;;201-250;3.06;;;301-350;0.5;;;201-250;2.35;35;21.62;85;1;6
+2025;medicina;Universidade de Rio Verde;GO;157;Municipal;48;22.81;251-300;10.69;;;251-300;2.02;;;136;4.79;;;196;3.37;;;72;251-300;0.51
+2025;medicina;Universidade Tiradentes;SE;158;Privada;48;22.81;251-300;10.62;;;128;4.99;;;201-250;3.24;;;251-300;1.78;;;86;251-300;0.61
+2025;medicina;Universidade Ceuma;MA;159;Privada;48;22.81;251-300;10.42;;;251-300;1.07;;;146;4.55;;;201-250;2.42;;;87;173;2.38
+2025;medicina;Universidade da Região de Joinville;SC;160;Privada;48;22.81;251-300;10.2;;;201-250;2.94;;;251-300;1.64;;;201-250;2.92;;;88;158;2.7
+2025;medicina;Universidade Nilton Lins;AM;161;Privada;48;22.81;251-300;10.1;;;301-350;0.29;;;201-250;2.43;;;251-300;1.38;;;89;1;6
+2025;medicina;Centro Universitário Maurício de Nassau;PE;162;Privada;48;22.81;251-300;10.09;;;201-250;2.68;;;251-300;1.12;;;144;4.61;;;90;201-250;1.68
+2025;medicina;Faculdade de Medicina de Barbacena;MG;163;Privada;48;22.81;251-300;9.93;;;193;3.44;;;251-300;1.76;;;251-300;1.23;;;91;120;3.5
+2025;medicina;Universidade Católica de Pernambuco;PE;164;Privada;48;22.81;251-300;9.84;;;201-250;3.04;;;301-350;0.29;;;201-250;2.64;;;92;102;3.87
+2025;medicina;Universidade Feevale;RS;165;Privada;;;73;32.45;;;151;4.44;;;301-350;0.1;;;183;3.68;35;21.62;93;162;2.61
+2025;medicina;Universidade do Extremo Sul Catarinense;SC;166;Privada;48;22.81;251-300;9.54;;;194;3.42;;;301-350;0.81;;;301-350;0.26;;;94;46;5.05
+2025;medicina;Universidade Anhanguera;MS;167;Privada;48;22.81;251-300;9.3;;;140;4.7;;;188;3.55;;;301-350;0.21;;;95;201-250;0.84
+2025;medicina;Centro Universitário de João Pessoa;PB;168;Privada;48;22.81;251-300;9.17;;;168;4.04;;;251-300;1.83;;;251-300;1.66;;;96;201-250;1.64
+2025;medicina;Centro Universitário de Brusque;SC;169;Privada;48;22.81;251-300;9.04;;;251-300;1.99;;;301-350;0.57;;;301-350;0.48;;;97;1;6
+2025;medicina;Centro Universitário São Lucas Porto Velho;RO;170;Privada;48;22.81;251-300;9.02;;;201-250;2.92;;;171;3.95;;;251-300;1.71;;;98;251-300;0.44
+2025;medicina;Faculdade do Trabalho;MG;171;Privada;48;22.81;251-300;8.28;;;301-350;0.45;;;;;;;8;7.83;;;99;;
+2025;medicina;Afya Faculdade de Ciências Médicas de Itabuna;BA;172;Privada;48;22.81;251-300;8.11;;;153;4.39;;;251-300;1.48;;;251-300;1.52;;;100;251-300;0.72
+2025;medicina;Universidade de Cuiabá;MT;173;Privada;48;22.81;301-350;6.54;;;186;3.61;;;201-250;2.17;;;301-350;0.59;;;101;251-300;0.17
+2025;medicina;Universidade Veiga de Almeida;RJ;174;Privada;48;22.81;301-350;6.39;;;301-350;0.57;;;301-350;0.24;;;103;5.58;;;102;;
+2025;medicina;Faculdade Atenas Passos;MG;175;Privada;164;5.05;83;23.8;;;201-250;3.18;;;1;8;;;59;6.62;;;103;1;6
+2025;medicina;Universidade Iguaçu;RJ;176;Privada;48;22.81;301-350;5.61;;;301-350;0.57;;;194;3.41;;;251-300;1.42;;;104;251-300;0.21
+2025;medicina;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;177;Privada;48;22.81;301-350;5.48;;;251-300;1.16;;;301-350;0.21;;;201-250;2.3;;;105;200;1.81
+2025;medicina;Centro Universitário Unime;BA;178;Privada;48;22.81;301-350;5.2;;;251-300;1.5;;;251-300;1.43;;;201-250;2.21;;;106;251-300;0.06
+2025;medicina;Centro Universitário de Maceió;AL;179;Privada;48;22.81;301-350;5.09;;;251-300;1.78;;;251-300;1.19;;;251-300;1.99;;;107;251-300;0.13
+2025;medicina;Faculdade de Ciências da Saúde de Barretos Dr. Paulo Prata;SP;180;Privada;164;5.05;89;21.93;;;30;7.31;;;148;4.5;;;74;6.27;;;108;103;3.85
+2025;medicina;Faculdade de Medicina de Jundiaí;SP;181;Municipal;;;76;26.7;;;27;7.38;;;1;8;;;61;6.58;;;73;61;4.74
+2025;medicina;Centro Universitário Presidente Antônio Carlos;MG;182;Privada;48;22.81;301-350;3.6;;;301-350;0.86;;;301-350;0.76;;;251-300;1.33;;;109;251-300;0.65
+2025;medicina;Universidade Estadual de Ponta Grossa;PR;183;Estadual;;;78;26.2;;;87;5.96;;;1;8;;;75;6.24;;;74;1;6
+2025;medicina;Centro Universitário do Norte de Minas;MG;184;Privada;;;79;25.22;;;139;4.72;;;1;8;;;64;6.5;;;110;1;6
+2025;medicina;Universidade Federal do Acre;AC;185;Federal;164;5.05;107;19.84;;;147;4.53;;;1;8;;;132;4.89;;;75;171;2.42
+2025;medicina;Universidade do Estado de Minas Gerais;MG;186;Estadual;164;5.05;123;18.69;;;6;7.88;;;1;8;;;251-300;1.59;;;76;201-250;1.22
+2025;medicina;Centro Universitário Multivix Vitória;ES;187;Privada;164;5.05;124;18.55;;;127;5.01;;;159;4.24;;;199;3.3;;;111;1;6
+2025;medicina;Centro Universitário Padre Albino;SP;188;Privada;164;5.05;129;18.35;;;32;7.26;;;162;4.17;;;177;3.82;;;112;139;3.1
+2025;medicina;Faculdade de Ciências Médicas e da Saúde de Juiz de Fora;MG;189;Privada;164;5.05;133;18.15;;;55;6.72;;;200;3.26;;;95;5.77;;;113;172;2.4
+2025;medicina;Centro Universitário de Volta Redonda;RJ;190;Privada;164;5.05;142;17.55;;;201-250;2.18;;;129;4.95;;;79;6.15;;;114;83;4.27
+2025;medicina;Centro Universitário de Patos de Minas;MG;191;Privada;164;5.05;149;17.13;;;104;5.56;;;183;3.67;;;104;5.56;;;115;175;2.34
+2025;medicina;Centro Universitário de Valença;RJ;192;Privada;;;93;21.72;;;82;6.08;;;1;8;;;114;5.32;;;116;176;2.32
+2025;medicina;Universidade do Vale do Sapucaí;MG;193;Privada;164;5.05;161;16.57;;;76;6.22;;;301-350;0.69;;;127;5.01;;;117;65;4.65
+2025;medicina;Universidade Federal do Recôncavo da Bahia;BA;194;Federal;164;5.05;163;16.48;;;145;4.58;;;1;8;;;301-350;0.45;;;77;122;3.45
+2025;medicina;Faculdade Atenas Sete Lagoas;MG;195;Privada;;;96;21.3;;;102;5.6;;;157;4.29;;;110;5.41;;;118;1;6
+2025;medicina;Centro Universitário Estácio de Ribeirão Preto;SP;196;Privada;164;5.05;167;16.22;;;185;3.63;;;199;3.29;;;19;7.57;;;119;201-250;1.73
+2025;medicina;Faculdade Metropolitana São Carlos BJI;RJ;197;Privada;164;5.05;182;15.44;;;201-250;2.21;;;1;8;;;301-350;0.83;;;120;77;4.4
+2025;medicina;Universidade Federal do Cariri;CE;198;Federal;;;102;20.25;;;163;4.15;;;1;8;;;187;3.59;;;78;72;4.51
+2025;medicina;Centro Universitário Inta;CE;199;Privada;;;105;20.19;;;201-250;2.45;;;1;8;;;52;6.79;;;121;146;2.95
+2025;medicina;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;199;Estadual;;;104;20.19;;;143;4.63;;;1;8;;;188;3.56;;;79;96;4
+2025;medicina;Centro Universitário Metropolitano da Amazônia;PA;201;Privada;;;132;18.16;;;195;3.4;;;1;8;;;141;4.68;;;126;187;2.08
+2025;medicina;Faculdade de Medicina de Campos;RJ;201;Privada;164;5.05;201-250;12.48;;;251-300;1.8;;;201-250;2.76;;;201-250;3.06;;;131;55;4.86
+2025;medicina;Centro Universitário Ingá;PR;201;Privada;;;138;17.83;;;201-250;2.59;;;1;8;;;119;5.2;;;128;189;2.04
+2025;medicina;Universidade do Distrito Federal;DF;201;Estadual;;;116;19.08;;;21;7.53;;;1;8;;;301-350;0.67;;;83;149;2.88
+2025;medicina;Centro Universitário de Excelência;BA;201;Privada;;;151;17.06;;;251-300;1.42;;;1;8;;;16;7.64;;;134;;
+2025;medicina;Universidade Federal do Oeste da Bahia;BA;201;Federal;;;134;18.11;;;114;5.32;;;1;8;;;169;4.01;;;88;201-250;0.78
+2025;medicina;Centro Universitário de Mineiros;GO;201;Municipal;;;159;16.71;;;251-300;1.83;;;1;8;;;122;5.13;;;93;201-250;1.75
+2025;medicina;Centro Universitário Governador Ozanam Coelho;MG;201;Privada;;;172;16.02;;;60;6.6;;;201-250;3;;;126;5.03;;;145;201-250;1.39
+2025;medicina;Universidade do Estado do Rio Grande do Norte;RN;201;Estadual;;;174;15.99;;;62;6.55;;;1;8;;;251-300;1.02;;;96;251-300;0.42
+2025;medicina;Universidade Anhembi Morumbi;SP;201;Privada;164;5.05;201-250;13.18;;;251-300;1.64;;;195;3.38;;;45;6.96;;;124;201-250;1.2
+2025;medicina;Universidade Estadual de Roraima;RR;201;Estadual;;;130;18.29;;;120;5.18;;;251-300;1.36;;;96;5.75;;;86;1;6
+2025;medicina;Faculdade de Medicina Estácio de Castanhal;PA;201;Privada;164;5.05;201-250;11.64;;;195;3.4;;;251-300;1.69;;;62;6.55;;;138;;
+2025;medicina;Centro Universitário de Goiatuba;GO;201;Municipal;;;131;18.27;;;251-300;1.52;;;1;8;;;201-250;2.75;;;87;1;6
+2025;medicina;Faculdade de Saúde Santo Agostinho de Vitória da Conquista;BA;201;Privada;164;5.05;251-300;9.4;;;144;4.61;;;251-300;1.98;;;301-350;0.24;;;150;164;2.57
+2025;medicina;Faculdade Unicesumar de Corumbá;MS;201;Privada;;;171;16.1;;;140;4.7;;;1;8;;;195;3.4;;;144;;
+2025;medicina;Universidade Estadual de Ciências da Saúde de Alagoas;AL;201;Estadual;;;155;16.85;;;99;5.67;;;168;4.02;;;156;4.32;;;92;151;2.84
+2025;medicina;Faculdade de Excelência Unex de Itabuna;BA;201;Privada;;;157;16.83;;;251-300;1.42;;;1;8;;;26;7.41;;;136;;
+2025;medicina;Centro Universitário Campo Real;PR;201;Privada;;;106;19.93;;;133;4.87;;;178;3.79;;;116;5.27;;;122;1;6
+2025;medicina;Universidade Federal de Catalão;GO;201;Federal;;;110;19.74;;;116;5.27;;;1;8;;;108;5.46;;;80;201-250;1.01
+2025;medicina;Universidade de Franca;SP;201;Privada;164;5.05;201-250;13.21;;;121;5.15;;;251-300;1.45;;;134;4.84;;;123;201-250;1.77
+2025;medicina;Universidade Federal da Fronteira Sul;SC;201;Federal;;;114;19.55;;;4;7.93;;;160;4.21;;;174;3.89;;;81;119;3.52
+2025;medicina;Fundação Universidade Federal do Tocantins;TO;201;Federal;;;188;14.8;;;157;4.3;;;132;4.88;;;159;4.25;;;99;201-250;1.37
+2025;medicina;Universidade do Grande Rio Professor José de Souza Herdy;RJ;201;Privada;164;5.05;201-250;11.47;;;251-300;1.57;;;201-250;3.14;;;168;4.04;;;139;157;2.72
+2025;medicina;Centro Universitário Facid Wyden;PI;201;Privada;;;166;16.24;;;251-300;2.07;;;251-300;1.71;;;66;6.46;;;141;1;6
+2025;medicina;Universidade Estadual do Centro Oeste;PR;201;Estadual;;;184;15.23;;;110;5.41;;;1;8;;;251-300;1;;;97;201-250;0.82
+2025;medicina;Universidade Federal de Rondonópolis;MT;201;Federal;;;118;18.94;;;11;7.76;;;1;8;;;251-300;1.83;;;84;201-250;1.35
+2025;medicina;Faculdades Pequeno Príncipe;PR;201;Privada;;;141;17.62;;;69;6.39;;;201-250;2.95;;;185;3.63;;;130;65;4.65
+2025;medicina;Faculdade Atenas Porto Seguro;BA;201;Privada;;;183;15.36;;;251-300;1.42;;;1;8;;;88;5.94;;;148;;
+2025;medicina;Universidade Estadual do Tocantins;TO;201;Estadual;;;165;16.29;;;157;4.3;;;1;8;;;170;3.99;;;94;;
+2025;medicina;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;201;Federal;;;122;18.73;;;44;6.98;;;1;8;;;251-300;1.88;;;85;197;1.87
+2025;medicina;Faculdade de Ciências Humanas, Exatas e da Saúde do Piauí;PI;201;Privada;;;191;14.12;;;174;3.89;;;153;4.38;;;121;5.15;;;151;251-300;0.7
+2025;medicina;Faculdade Metropolitana;RO;201;Privada;;;153;16.99;;;201-250;2.35;;;1;8;;;301-350;0.64;;;135;1;6
+2025;medicina;Faculdade Estácio de Canindé;CE;201;Privada;;;137;17.93;;;201-250;2.45;;;1;8;;;23;7.48;;;127;;
+2025;medicina;Faculdade da Saúde e Ecologia Humana;MG;201;Privada;164;5.05;201-250;11.67;;;251-300;1.66;;;201-250;2.24;;;123;5.1;;;137;159;2.67
+2025;medicina;Centro Universitário Tocantinense Presidente Antônio Carlos;TO;201;Privada;;;169;16.19;;;148;4.51;;;201-250;2.98;;;172;3.94;;;143;60;4.76
+2025;medicina;Faculdade de Medicina de Petrópolis;RJ;201;Privada;;;139;17.78;;;124;5.08;;;161;4.19;;;171;3.96;;;129;70;4.55
+2025;medicina;Centro Universitário de Adamantina;SP;201;Municipal;164;5.05;251-300;10.12;;;301-350;0.33;;;201-250;2.79;;;162;4.18;;;98;152;2.82
+2025;medicina;União das Faculdades dos Grandes Lagos;SP;201;Privada;;;180;15.65;;;251-300;1.59;;;142;4.64;;;115;5.29;;;147;90;4.13
+2025;medicina;Fundação Universidade Federal do Pampa;RS;201;Federal;;;145;17.49;;;68;6.41;;;1;8;;;201-250;2.97;;;89;251-300;0.11
+2025;medicina;Universidade Federal do Amapá;AP;201;Federal;;;173;16;;;96;5.75;;;1;8;;;251-300;1.45;;;95;201-250;0.8
+2025;medicina;Faculdade de Ciências e Saúde Edufor;MA;201;Privada;;;189;14.77;;;251-300;1.07;;;1;8;;;98;5.7;;;149;;
+2025;medicina;Universidade Federal de Roraima;RR;201;Federal;;;115;19.53;;;118;5.22;;;1;8;;;201-250;2.94;;;82;126;3.37
+2025;medicina;Faculdade de Ciências Médicas de São José dos Campos;SP;201;Privada;;;177;15.75;;;167;4.06;;;192;3.45;;;63;6.53;;;146;201-250;1.71
+2025;medicina;Universidade Federal da Integração Latino-americana;PR;201;Federal;;;150;17.07;;;201-250;3.25;;;1;8;;;130;4.94;;;91;201-250;0.88
+2025;medicina;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;167;16.22;;;119;5.2;;;201-250;3.17;;;251-300;1.85;;;142;1;6
+2025;medicina;Afya Faculdade de Ciências Médicas de Ipatinga;MG;201;Privada;164;5.05;201-250;12.14;;;134;4.84;;;201-250;3.12;;;301-350;0.52;;;132;112;3.66
+2025;medicina;Faculdade Souza Marques;RJ;201;Privada;164;5.05;201-250;13.18;;;301-350;0.57;;;1;8;;;251-300;1.14;;;124;121;3.47
+2025;medicina;Centro Universitário Uninovafapi;PI;201;Privada;;;147;17.18;;;169;4.01;;;145;4.57;;;99;5.67;;;133;147;2.93
+2025;medicina;Universidade Federal de Jataí;GO;201;Federal;;;148;17.17;;;116;5.27;;;1;8;;;201-250;2.4;;;90;201-250;1.5
+2025;medicina;Faculdades Integradas do Extremo Sul da Bahia;BA;201;Privada;;;162;16.52;;;251-300;1.42;;;1;8;;;39;7.1;;;139;;
+2025;medicina;Faculdade de Medicina de Ji-paraná;RO;251;Privada;;;251-300;9.47;;;201-250;2.35;;;301-350;0.38;;;54;6.74;;;190;;
+2025;medicina;Centro Universitário das Américas;SP;251;Privada;164;5.05;301-350;6.62;;;251-300;0.9;;;301-350;0.43;;;128;4.99;;;172;251-300;0.3
+2025;medicina;Universidade Paranaense;PR;251;Privada;;;201-250;11.95;;;201-250;2.16;;;251-300;1.93;;;201-250;2.87;;;168;49;4.99
+2025;medicina;Faculdade Municipal Professor Franco Montoro de Mogi Guaçu;SP;251;Municipal;;;251-300;9.56;;;27;7.38;;;301-350;0.02;;;201-250;2.16;;;103;;
+2025;medicina;Faculdade Zarns;GO;251;Privada;;;251-300;9.69;;;251-300;1.85;;;251-300;1.81;;;84;6.03;;;187;;
+2025;medicina;Centro Universitário do Planalto Central Apparecido dos Santos;DF;251;Privada;;;201-250;13.08;;;171;3.96;;;180;3.74;;;161;4.2;;;164;201-250;1.18
+2025;medicina;Afya Faculdade de Ciências Médicas de Bragança;PA;251;Privada;;;251-300;8.66;;;195;3.4;;;201-250;2.74;;;201-250;2.52;;;195;;
+2025;medicina;Universidade Alto Vale do Rio do Peixe;SC;251;Privada;;;251-300;9.8;;;251-300;1.99;;;251-300;1.5;;;301-350;0.31;;;185;1;6
+2025;medicina;Faculdade de Educação de Jaru;RO;251;Privada;;;201-250;13.48;;;201-250;2.35;;;1;8;;;201-250;3.13;;;159;;
+2025;medicina;Afya Faculdade de Ciências Médicas de Jaboatão Dos Guararapes;PE;251;Privada;;;251-300;9.08;;;251-300;1.73;;;201-250;2.93;;;201-250;2.8;;;192;201-250;1.62
+2025;medicina;Faculdade de Petrolina;PE;251;Municipal;;;251-300;9.43;;;301-350;0.81;;;1;8;;;301-350;0.62;;;104;;
+2025;medicina;Centro Universitário Alfredo Nasser;GO;251;Privada;;;251-300;8.96;;;201-250;2.37;;;125;5.05;;;301-350;0.55;;;194;201-250;0.99
+2025;medicina;Faculdade São Leopoldo Mandic de Araras;SP;251;Privada;;;201-250;11.67;;;251-300;1.19;;;201-250;2.36;;;90;5.89;;;172;180;2.23
+2025;medicina;Faculdade Dinâmica do Vale do Piranga;MG;251;Privada;;;251-300;9.77;;;301-350;0.45;;;173;3.91;;;191;3.49;;;186;195;1.92
+2025;medicina;Faculdade de Ciências Médicas do Pará;PA;251;Privada;;;251-300;10.21;;;195;3.4;;;301-350;0.79;;;301-350;0.02;;;184;1;6
+2025;medicina;Universidade do Contestado;SC;251;Privada;164;5.05;251-300;8.5;;;251-300;1.99;;;201-250;2.07;;;301-350;0.5;;;157;99;3.94
+2025;medicina;Universidade Federal do Norte do Tocantins;TO;251;Federal;;;201-250;13.51;;;157;4.3;;;149;4.48;;;251-300;1.09;;;101;113;3.64
+2025;medicina;Centro Universitário Integrado de Campo Mourão;PR;251;Privada;;;201-250;12.89;;;123;5.1;;;164;4.12;;;201-250;3.21;;;165;251-300;0.46
+2025;medicina;Faculdade Estácio de Alagoinhas;BA;251;Privada;;;251-300;10.64;;;251-300;1.54;;;139;4.71;;;201-250;3.23;;;181;201-250;1.16
+2025;medicina;Centro Universitário Vértice;MG;251;Privada;;;201-250;11.54;;;301-350;0.45;;;1;8;;;201-250;3.09;;;175;;
+2025;medicina;Centro Universitário Redentor;RJ;251;Privada;;;251-300;10.55;;;251-300;1.71;;;128;4.98;;;201-250;2.28;;;182;201-250;1.58
+2025;medicina;Faculdade da Região Sisaleira;BA;251;Privada;;;251-300;9.61;;;251-300;1.42;;;1;8;;;301-350;0.19;;;188;;
+2025;medicina;Centro Universitário Estácio de Ji-paraná;RO;251;Privada;;;251-300;9.45;;;201-250;2.35;;;301-350;0.38;;;55;6.72;;;191;;
+2025;medicina;Centro Universitário Maurício de Nassau de Cacoal;RO;251;Privada;;;201-250;11.66;;;170;3.99;;;201-250;2.48;;;251-300;1.8;;;174;125;3.39
+2025;medicina;Faculdade de Minas BH;MG;251;Privada;;;193;14.05;;;201-250;2.52;;;187;3.57;;;49;6.86;;;153;201-250;1.1
+2025;medicina;Faculdade Brasileira de Cachoeiro;ES;251;Privada;;;251-300;10.54;;;201-250;3.23;;;251-300;1.21;;;301-350;0.1;;;183;1;6
+2025;medicina;Universidade do Vale do Rio dos Sinos;RS;251;Privada;;;194;13.94;;;115;5.29;;;251-300;1.17;;;148;4.51;;;154;145;2.97
+2025;medicina;Centro Universitário Municipal de Franca;SP;251;Municipal;;;201-250;13.44;;;37;7.15;;;301-350;0.19;;;251-300;1.28;;;102;57;4.82
+2025;medicina;Centro Universitário Unidade de Ensino Superior Dom Bosco;MA;251;Privada;;;201-250;12.1;;;251-300;1.07;;;167;4.05;;;44;6.98;;;166;;
+2025;medicina;Centro Universitário Estácio do Pantanal;MT;251;Privada;;;201-250;11.98;;;186;3.61;;;190;3.5;;;133;4.87;;;167;;
+2025;medicina;Universidade de Araraquara;SP;251;Privada;164;5.05;251-300;8.42;;;201-250;3.13;;;301-350;0.83;;;251-300;1.47;;;160;144;2.99
+2025;medicina;Centro Universitário Atenas;MG;251;Privada;;;201-250;13.37;;;201-250;2.64;;;134;4.83;;;180;3.75;;;161;184;2.15
+2025;medicina;Faculdades de Dracena;SP;251;Privada;;;201-250;11.47;;;301-350;0.21;;;201-250;2.1;;;201-250;3.16;;;176;1;6
+2025;medicina;Afya Faculdade de Ciências Médicas de Palmas;TO;251;Privada;;;201-250;11.82;;;201-250;3.11;;;197;3.33;;;251-300;1.95;;;171;123;3.43
+2025;medicina;Centro Universitário de Caratinga;MG;251;Privada;;;201-250;13.15;;;201-250;2.47;;;130;4.93;;;151;4.44;;;163;201-250;1.31
+2025;medicina;Centro Universitário Unifacig;MG;251;Privada;164;5.05;301-350;5.79;;;301-350;0.67;;;251-300;2.02;;;201-250;2.85;;;180;251-300;0.25
+2025;medicina;Centro Universitário de Patos;PB;251;Privada;;;251-300;9.56;;;201-250;2.71;;;181;3.71;;;251-300;0.95;;;189;182;2.19
+2025;medicina;Universidade Estadual da Região Tocantina do Maranhão;MA;251;Estadual;;;196;13.84;;;182;3.7;;;1;8;;;201-250;2.14;;;100;;
+2025;medicina;Instituto Nacional de Ensino Superior e Pós-graduação Padre Gervásio;MG;251;Privada;;;201-250;10.98;;;301-350;0.45;;;201-250;2.91;;;17;7.62;;;179;;
+2025;medicina;Faculdade São Leopoldo Mandic de Limeira;SP;251;Privada;;;201-250;11.91;;;301-350;0.21;;;152;4.41;;;31;7.29;;;170;;
+2025;medicina;Faculdade de Ciências Médicas de Três Rios;RJ;251;Privada;;;201-250;13.22;;;149;4.49;;;177;3.81;;;190;3.51;;;162;201-250;1.41
+2025;medicina;Centro Universitário de Pato Branco;PR;251;Privada;;;201-250;11.94;;;79;6.15;;;201-250;2.29;;;251-300;0.97;;;169;166;2.53
+2025;medicina;Faculdade Atenas Sorriso;MT;251;Privada;;;251-300;8.99;;;186;3.61;;;201-250;2.6;;;201-250;2.78;;;193;;
+2025;medicina;Centro Universitário Fip-moc;MG;251;Privada;;;192;14.08;;;71;6.34;;;201-250;2.52;;;166;4.08;;;152;201-250;1.14
+2025;medicina;Centro Universitário de Santa Fé do Sul;SP;251;Municipal;;;251-300;8.56;;;301-350;0.21;;;251-300;1.57;;;301-350;0.78;;;105;1;6
+2025;medicina;Faculdade de Filosofia Ciências e Letras de Penápolis;SP;251;Privada;;;201-250;11.47;;;301-350;0.64;;;154;4.36;;;251-300;1.9;;;176;69;4.57
+2025;medicina;Centro Universitário Dom Pedro II;BA;251;Privada;;;201-250;11.46;;;251-300;1.42;;;1;8;;;251-300;2.04;;;178;;
+2025;medicina;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;251;Privada;164;5.05;251-300;8.5;;;94;5.79;;;301-350;0.14;;;251-300;1.12;;;157;201-250;1.45
+2025;medicina;Faculdade Estácio de Juazeiro;BA;251;Privada;;;200;13.56;;;161;4.2;;;186;3.6;;;201-250;2.73;;;156;142;3.03
+2025;medicina;Faculdade Ages de Medicina;BA;251;Privada;;;195;13.92;;;251-300;1.42;;;174;3.88;;;154;4.37;;;155;84;4.25
+2025;medicina;Universidade de Gurupi;TO;301;Municipal;;;301-350;5.06;;;301-350;0.88;;;301-350;0.45;;;301-350;0.38;;;106;127;3.35
+2025;medicina;Faculdade Atenas Valença;BA;301;Privada;;;251-300;7.94;;;251-300;1.42;;;185;3.62;;;201-250;2.9;;;201-250;;
+2025;medicina;Faculdade de Tecnologia de Teresina;PI;301;Privada;;;251-300;8.15;;;251-300;2.07;;;301-350;0.17;;;89;5.91;;;198;;
+2025;medicina;Faculdade de Pinhais;PR;301;Privada;;;301-350;4.73;;;201-250;2.16;;;301-350;0.05;;;201-250;2.52;;;201-250;;
+2025;medicina;Instituto Municipal de Ensino Superior de Assis;SP;301;Municipal;;;301-350;2.01;;;301-350;0.21;;;301-350;0.6;;;301-350;0.88;;;107;251-300;0.32
+2025;medicina;Faculdade Pitágoras de Medicina de Eunápolis;BA;301;Privada;;;301-350;6.04;;;201-250;2.73;;;251-300;1.05;;;201-250;2.18;;;201-250;251-300;0.08
+2025;medicina;Afya Faculdade de Ciências Médicas de Itacoatiara;AM;301;Privada;;;301-350;4.04;;;301-350;0.29;;;251-300;1.52;;;201-250;2.23;;;201-250;;
+2025;medicina;Faculdade Tiradentes de Goiana;PE;301;Privada;;;301-350;7.06;;;301-350;0.81;;;301-350;0.74;;;106;5.51;;;201-250;;
+2025;medicina;Afya Faculdade de Ciências Médicas de Abaetetuba;PA;301;Privada;;;251-300;8.05;;;195;3.4;;;301-350;0.26;;;153;4.39;;;200;;
+2025;medicina;Universidade Vale do Rio Doce;MG;301;Privada;;;301-350;6.2;;;201-250;3.09;;;301-350;0.31;;;301-350;0.36;;;201-250;170;2.44
+2025;medicina;Faculdade Ages de Medicina de Irecê;BA;301;Privada;;;301-350;6.74;;;251-300;1.42;;;251-300;1.26;;;167;4.06;;;201-250;;
+2025;medicina;Faculdade de Ensino Superior da Amazônia Reunida;PA;301;Privada;;;301-350;5.29;;;195;3.4;;;301-350;0.55;;;301-350;0.29;;;201-250;201-250;1.05
+2025;medicina;Afya Faculdade de Ciências Médicas de Santa Inês;MA;301;Privada;;;301-350;2.78;;;251-300;1.07;;;301-350;0.64;;;251-300;1.07;;;201-250;;
+2025;medicina;Centro Universitário Max Planck;SP;301;Privada;;;301-350;4.03;;;301-350;0.21;;;301-350;0.41;;;251-300;0.9;;;201-250;167;2.51
+2025;medicina;Centro Universitário Campo Limpo Paulista;SP;301;Privada;;;251-300;8.35;;;301-350;0.21;;;1;8;;;301-350;0.14;;;197;;
+2025;medicina;Faculdade de Ciências da Saúde Pitágoras de Codó;MA;301;Privada;;;251-300;7.18;;;251-300;1.07;;;201-250;2.45;;;184;3.66;;;201-250;;
+2025;medicina;Faculdade Uninassau Vilhena;RO;301;Privada;;;301-350;5.32;;;201-250;2.35;;;251-300;1.14;;;251-300;1.16;;;201-250;251-300;0.67
+2025;medicina;Faculdades Integradas Padrão;BA;301;Privada;;;301-350;6.63;;;180;3.75;;;251-300;0.98;;;301-350;0.43;;;201-250;201-250;1.47
+2025;medicina;Centro Universitário de Jaguariúna;SP;301;Privada;;;301-350;3.68;;;301-350;0.21;;;301-350;0.86;;;201-250;2.61;;;201-250;;
+2025;medicina;Faculdade Morgana Potrich;GO;301;Privada;;;301-350;6.4;;;251-300;1.09;;;166;4.07;;;301-350;0.17;;;201-250;201-250;1.07
+2025;medicina;Universidade Brasil;SP;301;Privada;;;301-350;5.54;;;301-350;0.31;;;251-300;1.6;;;251-300;1.97;;;201-250;201-250;1.66
+2025;medicina;Centro Universitário Maurício de Nassau de Barreiras;BA;301;Privada;;;301-350;6.21;;;201-250;2.97;;;251-300;1.33;;;251-300;1.64;;;201-250;251-300;0.27
+2025;medicina;Faculdade de Medicina de Açailândia;MA;301;Privada;;;301-350;5.18;;;251-300;1.07;;;251-300;1;;;201-250;3.11;;;201-250;;
+2025;medicina;Universidade Castelo Branco;RJ;301;Privada;;;251-300;8.08;;;301-350;0.57;;;201-250;2.12;;;111;5.39;;;199;;
+2025;medicina;Faculdade Presidente Antônio Carlos;TO;301;Privada;;;251-300;7.72;;;201-250;2.54;;;201-250;3.07;;;301-350;0.57;;;201-250;201-250;1.54
+2025;medicina;Centro Universitário do Espírito Santo;ES;301;Privada;;;251-300;7.59;;;201-250;3.23;;;251-300;1.24;;;201-250;2.26;;;201-250;201-250;0.86
+2025;medicina;Centro Universitário Funcesi;MG;301;Privada;;;301-350;4.66;;;301-350;0.45;;;251-300;0.93;;;200;3.28;;;201-250;;
+2025;medicina;Afya Faculdade de Ciências Médicas de Manacapuru;AM;301;Privada;;;301-350;2.73;;;301-350;0.29;;;301-350;0.07;;;201-250;2.37;;;201-250;;
+2025;medicina;Faculdade Pitágoras de Bacabal;MA;301;Privada;;;301-350;5.31;;;251-300;1.07;;;201-250;2.55;;;251-300;1.69;;;201-250;;
+2025;medicina;Centro Universitário Uninorte;AC;301;Privada;164;5.05;301-350;3.33;;;301-350;0.62;;;301-350;0.67;;;301-350;0.76;;;196;201-250;1.28
+2025;medicina;Faculdade de Medicina do Sertão;PE;301;Privada;;;251-300;7.67;;;301-350;0.81;;;201-250;2.33;;;147;4.53;;;201-250;;
+2025;medicina;Claretiano - Centro Universitário de Rio Claro;SP;301;Privada;;;301-350;5.84;;;201-250;2.56;;;251-300;1.02;;;201-250;2.11;;;201-250;251-300;0.15
+2025;medicina;Centro Universitário Presidente Tancredo de Almeida Neves;MG;301;Privada;;;301-350;6.87;;;173;3.92;;;301-350;0.71;;;301-350;0.81;;;201-250;201-250;1.43
+2025;medicina;Itpac Cruzeiro do Sul;AC;301;Privada;;;301-350;2.19;;;301-350;0.62;;;301-350;0.52;;;251-300;1.05;;;201-250;;
+2025;medicina;Centro Universitário São Lucas Ji-paraná;RO;301;Privada;;;301-350;5.92;;;201-250;2.35;;;201-250;2.71;;;301-350;0.86;;;201-250;;
+2025;medicina;Faculdade Paraíso Araripina;PE;301;Privada;;;301-350;6.8;;;301-350;0.81;;;201-250;2.19;;;178;3.8;;;201-250;;
+2025;medicina;Afya Faculdade de Ciências Médicas de Garanhuns;PE;301;Privada;;;301-350;6.97;;;301-350;0.81;;;251-300;1.67;;;149;4.49;;;201-250;;

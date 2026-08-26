@@ -1,0 +1,253 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2023;artes-plasticas-e-visuais;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.43;5;7.62;3;7.81;;;1;8;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual de Campinas;SP;2;Estadual;2;35.23;3;63.14;10;7.14;1;8;;;1;8;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Minas Gerais;MG;3;Federal;2;35.23;4;62.19;16;6.57;5;7.62;;;1;8;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.23;6;59.91;30;5.24;15;6.67;;;1;8;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Rio Grande do Sul;RS;5;Federal;8;30.64;1;63.43;6;7.52;2;7.91;;;1;8;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Goiás;GO;6;Federal;8;30.64;5;61.81;11;7.05;14;6.76;;;1;8;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade do Estado do Rio de Janeiro;RJ;7;Estadual;8;30.64;7;56.06;12;6.95;16;6.57;;;57;2.54;1;40;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal da Bahia;BA;8;Federal;2;35.23;11;45.36;32;5.05;11;7.05;;;1;8;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Paraná;PR;9;Federal;8;30.64;9;46.4;7;7.43;25;5.71;;;1;8;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade de Brasília;DF;10;Federal;8;30.64;10;45.84;15;6.67;23;5.91;;;1;8;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade do Estado de Minas Gerais;MG;11;Estadual;8;30.64;12;39.55;78;0.67;26;5.62;;;1;8;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Belas Artes de São Paulo;SP;12;Privada;2;35.23;15;34.75;37;4.57;59;2.48;;;58;2.44;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Armando Alvares Penteado;SP;13;Privada;8;30.64;13;38.12;31;5.14;6;7.52;;;81;0.2;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Fundação Universidade do Estado de Santa Catarina;SC;14;Estadual;8;30.64;16;34.71;64;2;13;6.86;;;77;0.59;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;15;Estadual;2;35.23;20;23.62;2;7.91;4;7.71;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Rio Grande do Norte;RN;16;Federal;8;30.64;21;23.04;4;7.71;8;7.33;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal da Paraíba;PB;17;Federal;8;30.64;23;22.1;3;7.81;19;6.29;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Mato Grosso do Sul;MS;18;Federal;8;30.64;24;21.43;19;6.29;10;7.14;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual de Ponta Grossa;PR;19;Estadual;8;30.64;25;20.86;17;6.48;18;6.38;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Espírito Santo;ES;20;Federal;8;30.64;26;20.1;21;6.1;22;6;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual de Londrina;PR;21;Estadual;8;30.64;32;18.57;25;5.71;34;4.86;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Pernambuco;PE;22;Federal;8;30.64;33;18.48;24;5.81;36;4.67;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Fundação Universidade Federal do Vale do São Francisco;PE;23;Federal;8;30.64;34;18.28;27;5.52;35;4.76;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Maranhão;MA;24;Federal;8;30.64;39;16.76;35;4.76;43;4;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Juiz de Fora;MG;25;Federal;;;8;47.36;13;6.86;9;7.24;;;1;8;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade do Oeste Paulista;SP;26;Privada;8;30.64;40;16;27;5.52;59;2.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Piauí;PI;27;Federal;8;30.64;41;15.53;49;3.43;42;4.1;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Santa Cecília;SP;28;Privada;8;30.64;43;14.96;38;4.48;59;2.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Pará;PA;29;Federal;8;30.64;47;14.29;22;6;82;0.29;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Pontifícia Universidade Católica de Campinas;SP;30;Privada;34;10.72;18;33.94;42;4.1;40;4.29;;;80;0.29;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário das Faculdades Integradas de Ourinhos;SP;31;Privada;34;10.72;19;32.65;57;2.67;59;2.48;;;60;2.24;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual do Ceará;CE;32;Estadual;8;30.64;59;11.71;62;2.19;69;1.52;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Amazonas;AM;33;Federal;8;30.64;64;10;72;1.24;77;0.76;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Pitágoras Unopar Anhanguera;PR;34;Privada;8;30.64;72;8.13;44;3.91;53;3.05;;;71;1.17;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Recôncavo da Bahia;BA;35;Federal;;;14;37.73;48;3.52;75;0.95;;;1;8;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Pontifícia Universidade Católica do Paraná;PR;36;Privada;8;30.64;74;6.9;59;2.48;53;3.05;;;69;1.37;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade da Amazônia;PA;37;Privada;8;30.64;77;6.13;52;3.14;71;1.33;;;66;1.66;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade do Extremo Sul Catarinense;SC;38;Privada;;;17;34.44;63;2.1;27;5.52;;;67;1.56;8;25.26;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Uberlândia;MG;39;Federal;34;10.72;22;22.76;8;7.33;7;7.43;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual de Maringá;PR;40;Estadual;34;10.72;27;19.52;29;5.33;20;6.19;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Santa Maria;RS;41;Federal;34;10.72;28;19.24;14;6.76;38;4.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Cesumar;PR;42;Privada;34;10.72;29;19.05;1;8;53;3.05;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Sergipe;SE;43;Federal;34;10.72;30;18.95;9;7.24;46;3.71;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual do Paraná;PR;44;Estadual;34;10.72;31;18.86;44;3.91;12;6.95;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Comunitária da Região de Chapecó;SC;45;Privada;34;10.72;37;17.43;54;2.95;17;6.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Cruzeiro do Sul;SP;46;Privada;34;10.72;38;16.86;33;4.95;44;3.91;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade da Região de Joinville;SC;47;Privada;34;10.72;57;12.15;40;4.29;27;5.52;;;59;2.34;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Regional de Blumenau;SC;48;Municipal;34;10.72;67;9.94;55;2.86;24;5.81;;;70;1.27;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade de Passo Fundo;RS;49;Privada;34;10.72;70;8.9;56;2.76;41;4.19;;;63;1.95;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Rio Grande;RS;50;Federal;;;35;18.19;18;6.38;45;3.81;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual do Rio Grande do Sul;RS;51;Estadual;;;36;17.53;23;5.91;47;3.62;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Feevale;RS;52;Privada;34;10.72;78;5.82;60;2.38;53;3.05;;;79;0.39;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade de Franca;SP;53;Privada;;;42;15.43;33;4.95;59;2.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade do Vale do Itajaí;SC;54;Privada;;;44;14.76;72;1.24;27;5.52;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Fundação Universidade Federal de Rondônia;RO;55;Federal;;;45;14.67;20;6.19;80;0.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;56;Federal;;;46;14.58;80;0.48;21;6.1;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Fluminense;RJ;57;Privada;;;48;13.52;81;0.38;31;5.14;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Estadual de Montes Claros;MG;58;Estadual;;;49;13.43;61;2.29;52;3.14;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Pelotas;RS;59;Federal;;;50;13.14;69;1.52;47;3.62;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Sul e Sudeste do Pará;PA;60;Federal;;;51;12.96;36;4.67;82;0.29;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Regional do Cariri;CE;61;Estadual;;;52;12.85;50;3.33;69;1.52;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Ítalo-brasileiro;SP;62;Privada;;;53;12.48;66;1.81;57;2.67;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Amapá;AP;62;Federal;;;53;12.48;65;1.91;58;2.57;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal de Roraima;RR;64;Federal;;;55;12.2;44;3.91;82;0.29;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade Federal do Oeste da Bahia;BA;65;Federal;;;56;12.19;51;3.24;75;0.95;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade de Educação Paulistana;SP;66;Privada;;;58;11.72;72;1.24;59;2.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade de Sorocaba;SP;67;Privada;;;60;11.1;38;4.48;37;4.57;;;62;2.05;;;;;;;;;
+2023;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;68;Federal;;;61;10.95;58;2.57;81;0.38;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Estácio de São Paulo;SP;69;Privada;;;62;10.67;83;0.19;59;2.48;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade de Caxias do Sul;RS;70;Privada;;;63;10.51;26;5.62;49;3.43;;;68;1.46;;;;;;;;;
+2023;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;71;Federal;;;64;10;71;1.33;78;0.67;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;72;Privada;;;66;9.95;53;3.05;31;5.14;;;65;1.76;;;;;;;;;
+2023;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;73;Federal;;;68;9.81;72;1.24;79;0.57;;;1;8;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;74;Privada;;;69;9.64;47;3.62;30;5.24;;;75;0.78;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Unifaat;SP;75;Privada;;;71;8.33;43;4;59;2.48;;;64;1.85;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade Paulista de Artes;SP;76;Privada;;;73;7.52;41;4.19;50;3.33;;;;;;;;;;;;;
+2023;artes-plasticas-e-visuais;Universidade do Vale do Paraíba;SP;77;Privada;;;75;6.69;70;1.43;39;4.38;;;74;0.88;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade Senai-cetiqt;RJ;78;Privada;;;76;6.5;83;0.19;31;5.14;;;71;1.17;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade de Administração e Artes de Limeira;SP;79;Privada;;;79;5.26;72;1.24;51;3.24;;;75;0.78;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade Brasileira Cristã;ES;80;Privada;;;80;5.19;68;1.62;71;1.33;;;60;2.24;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade Santa Marcelina;SP;81;Privada;;;81;4.39;66;1.81;59;2.48;;;82;0.1;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade Mozarteum de São Paulo;SP;82;Privada;;;82;4.22;79;0.57;59;2.48;;;71;1.17;;;;;;;;;
+2023;artes-plasticas-e-visuais;Centro Universitário Mauá de Brasília;DF;83;Privada;;;83;3.06;72;1.24;71;1.33;;;78;0.49;;;;;;;;;
+2023;artes-plasticas-e-visuais;Faculdade de Artes Dulcina de Moraes;DF;84;Privada;;;84;1.62;82;0.29;71;1.33;;;;;;;;;;;;;
+2024;artes-plasticas-e-visuais;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.62;;;3;7.81;;;1;8;;;3;7.81;1;40;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual de Campinas;SP;2;Estadual;2;35.44;3;61.6;;;1;8;;;1;8;;;7;7.42;2;38.18;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Minas Gerais;MG;3;Federal;2;35.44;4;60.82;;;5;7.62;;;1;8;;;11;7.02;2;38.18;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Rio Grande do Sul;RS;4;Federal;8;32.06;2;61.7;;;2;7.91;;;1;8;;;5;7.61;2;38.18;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Rio de Janeiro;RJ;5;Federal;2;35.44;5;58.12;;;15;6.67;;;1;8;;;29;5.27;2;38.18;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;6;Estadual;2;35.44;6;54.52;;;4;7.71;;;1;8;;;2;7.9;6;30.91;;;
+2024;artes-plasticas-e-visuais;Universidade Federal da Bahia;BA;7;Federal;2;35.44;9;50.25;;;11;7.05;;;1;8;;;39;4.29;6;30.91;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Goiás;GO;8;Federal;8;32.06;7;52.99;;;14;6.76;;;1;8;;;8;7.32;6;30.91;;;
+2024;artes-plasticas-e-visuais;Universidade de Brasília;DF;9;Federal;8;32.06;8;51.06;;;23;5.91;;;1;8;;;19;6.24;6;30.91;;;
+2024;artes-plasticas-e-visuais;Universidade do Estado do Rio de Janeiro;RJ;10;Estadual;8;32.06;10;46.59;;;15;6.67;;;56;2.57;;;17;6.44;6;30.91;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Armando Alvares Penteado;SP;11;Privada;8;32.06;11;44;;;6;7.52;;;80;0.2;;;28;5.37;6;30.91;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Paraná;PR;12;Federal;8;32.06;14;35.41;;;25;5.71;;;50;3.16;;;16;6.54;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Uberlândia;MG;13;Federal;22;24.19;12;42.55;;;7;7.43;;;1;8;;;10;7.12;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Juiz de Fora;MG;14;Federal;22;24.19;13;42.17;;;9;7.24;;;1;8;;;12;6.93;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade do Estado de Minas Gerais;MG;15;Estadual;8;32.06;15;34.21;;;26;5.62;;;1;8;;;77;0.59;12;20;;;
+2024;artes-plasticas-e-visuais;Fundação Universidade do Estado de Santa Catarina;SC;16;Estadual;8;32.06;17;33.32;;;13;6.86;;;61;2.07;;;38;4.39;12;20;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Belas Artes de São Paulo;SP;17;Privada;2;35.44;18;28.95;;;58;2.57;;;55;2.67;;;45;3.71;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Federal da Paraíba;PB;18;Federal;8;32.06;24;22;;;19;6.29;;;1;8;;;4;7.71;;;;;
+2024;artes-plasticas-e-visuais;Pontifícia Universidade Católica de Campinas;SP;19;Privada;22;24.19;19;28.77;;;39;4.38;;;77;0.49;;;43;3.9;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual de Londrina;PR;20;Estadual;8;32.06;31;18.8;;;33;4.95;;;1;8;;;23;5.85;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Pernambuco;PE;21;Federal;8;32.06;32;18.71;;;35;4.76;;;1;8;;;22;5.95;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Maranhão;MA;22;Federal;8;32.06;37;17.66;;;42;4.1;;;1;8;;;26;5.56;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Piauí;PI;23;Federal;8;32.06;42;15.02;;;41;4.19;;;1;8;;;54;2.83;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Rio Grande do Norte;RN;24;Federal;22;24.19;23;22.55;;;8;7.33;;;1;8;;;9;7.22;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Pará;PA;25;Federal;8;32.06;44;14.05;;;82;0.29;;;1;8;;;24;5.76;;;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual de Ponta Grossa;PR;26;Estadual;22;24.19;25;21.89;;;18;6.38;;;1;8;;;6;7.51;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Mato Grosso do Sul;MS;27;Federal;22;24.19;26;21.48;;;10;7.14;;;1;8;;;18;6.34;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Espírito Santo;ES;28;Federal;22;24.19;27;20.83;;;22;6;;;1;8;;;13;6.83;;;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual de Maringá;PR;29;Estadual;22;24.19;30;18.97;;;20;6.19;;;1;8;;;34;4.78;;;;;
+2024;artes-plasticas-e-visuais;Universidade do Extremo Sul Catarinense;SC;30;Privada;40;14.06;20;28.76;;;27;5.52;;;66;1.58;;;66;1.66;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Sergipe;SE;31;Federal;22;24.19;35;17.96;;;45;3.81;;;1;8;;;20;6.15;;;;;
+2024;artes-plasticas-e-visuais;Fundação Universidade Federal do Vale do São Francisco;PE;32;Federal;22;24.19;36;17.74;;;34;4.86;;;1;8;;;33;4.88;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Santa Cecília;SP;33;Privada;22;24.19;41;15.16;;;58;2.57;;;1;8;;;36;4.59;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário das Faculdades Integradas de Ourinhos;SP;34;Privada;40;14.06;21;24.74;;;58;2.57;;;70;1.19;;;73;0.98;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Regional do Cariri;CE;35;Estadual;22;24.19;48;12.83;;;67;1.71;;;1;8;;;51;3.12;;;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual do Ceará;CE;36;Estadual;22;24.19;55;11.17;;;67;1.71;;;1;8;;;68;1.46;;;;;
+2024;artes-plasticas-e-visuais;Universidade do Oeste Paulista;SP;37;Privada;22;24.19;56;11;;;58;2.57;;;54;2.77;;;25;5.66;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Recôncavo da Bahia;BA;38;Federal;;;16;33.93;;;75;0.95;;;1;8;;;32;4.98;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Amazonas;AM;39;Federal;22;24.19;64;9.64;;;77;0.76;;;1;8;;;74;0.88;;;;;
+2024;artes-plasticas-e-visuais;Universidade Pitágoras Unopar Anhanguera;PR;40;Privada;22;24.19;66;9.61;;;52;3.14;;;62;1.98;;;37;4.49;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Santa Maria;RS;41;Federal;40;14.06;28;19.3;;;37;4.57;;;1;8;;;14;6.73;;;;;
+2024;artes-plasticas-e-visuais;Universidade Cesumar;PR;42;Privada;40;14.06;29;19.14;;;52;3.14;;;1;8;;;1;8;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Rio Grande;RS;43;Federal;40;14.06;33;18.54;;;44;3.91;;;1;8;;;15;6.63;;;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual do Paraná;PR;44;Estadual;40;14.06;34;18.37;;;12;6.95;;;1;8;;;48;3.42;;;;;
+2024;artes-plasticas-e-visuais;Pontifícia Universidade Católica do Paraná;PR;45;Privada;22;24.19;75;6.27;;;52;3.14;;;73;0.89;;;60;2.24;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Pelotas;RS;46;Federal;40;14.06;39;16.39;;;46;3.71;;;1;8;;;35;4.68;;;;;
+2024;artes-plasticas-e-visuais;Universidade da Amazônia;PA;47;Privada;22;24.19;77;5.83;;;69;1.52;;;65;1.68;;;56;2.63;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Sul e Sudeste do Pará;PA;48;Federal;40;14.06;45;13.36;;;82;0.29;;;1;8;;;31;5.07;;;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual de Montes Claros;MG;49;Estadual;40;14.06;47;13.19;;;51;3.24;;;1;8;;;63;1.95;;;;;
+2024;artes-plasticas-e-visuais;Universidade Cruzeiro do Sul;SP;50;Privada;40;14.06;49;12.52;;;43;4;;;51;3.06;;;27;5.46;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Amapá;AP;51;Federal;40;14.06;50;12.43;;;57;2.67;;;1;8;;;65;1.76;;;;;
+2024;artes-plasticas-e-visuais;Universidade Comunitária da Região de Chapecó;SC;52;Privada;40;14.06;51;12.37;;;17;6.48;;;52;2.96;;;53;2.93;;;;;
+2024;artes-plasticas-e-visuais;Faculdade Mozarteum de São Paulo;SP;53;Privada;;;21;24.74;;;58;2.57;;;64;1.78;;;79;0.39;12;20;;;
+2024;artes-plasticas-e-visuais;Universidade da Região de Joinville;SC;54;Privada;40;14.06;58;10.52;;;27;5.52;;;59;2.27;;;55;2.73;;;;;
+2024;artes-plasticas-e-visuais;Universidade do Vale do Itajaí;SC;55;Privada;40;14.06;59;10.33;;;27;5.52;;;58;2.37;;;58;2.44;;;;;
+2024;artes-plasticas-e-visuais;Universidade Regional de Blumenau;SC;56;Municipal;40;14.06;60;10.31;;;24;5.81;;;67;1.48;;;52;3.02;;;;;
+2024;artes-plasticas-e-visuais;Universidade de Sorocaba;SP;57;Privada;40;14.06;61;9.86;;;36;4.67;;;72;0.99;;;40;4.2;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;58;Privada;40;14.06;67;9.55;;;30;5.24;;;71;1.09;;;50;3.22;;;;;
+2024;artes-plasticas-e-visuais;Universidade de Caxias do Sul;RS;59;Privada;40;14.06;69;8.9;;;48;3.52;;;69;1.28;;;41;4.1;;;;;
+2024;artes-plasticas-e-visuais;Universidade de Passo Fundo;RS;60;Privada;40;14.06;70;8.71;;;40;4.29;;;63;1.88;;;57;2.54;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Unifaat;SP;61;Privada;40;14.06;71;8.35;;;58;2.57;;;60;2.17;;;46;3.61;;;;;
+2024;artes-plasticas-e-visuais;Faculdade Paulista de Artes;SP;62;Privada;40;14.06;72;7.24;;;49;3.43;;;79;0.3;;;47;3.51;;;;;
+2024;artes-plasticas-e-visuais;Universidade do Vale do Paraíba;SP;63;Privada;40;14.06;74;6.44;;;38;4.48;;;74;0.79;;;71;1.17;;;;;
+2024;artes-plasticas-e-visuais;Universidade Feevale;RS;64;Privada;40;14.06;78;5.78;;;52;3.14;;;76;0.59;;;62;2.05;;;;;
+2024;artes-plasticas-e-visuais;Faculdade de Administração e Artes de Limeira;SP;65;Privada;40;14.06;79;5.1;;;50;3.33;;;78;0.4;;;69;1.37;;;;;
+2024;artes-plasticas-e-visuais;Universidade Estadual do Rio Grande do Sul;RS;66;Estadual;;;38;16.88;;;46;3.71;;;1;8;;;30;5.17;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário da Grande Dourados;MS;67;Privada;40;14.06;84;1.52;;;69;1.52;;;;;;;;;;;;;
+2024;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;68;Federal;;;40;15.37;;;21;6.1;;;1;8;;;70;1.27;;;;;
+2024;artes-plasticas-e-visuais;Fundação Universidade Federal de Rondônia;RO;69;Federal;;;43;14.53;;;80;0.48;;;1;8;;;21;6.05;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Fluminense;RJ;70;Privada;;;46;13.24;;;31;5.14;;;1;8;;;82;0.1;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal de Roraima;RR;71;Federal;;;52;12.29;;;82;0.29;;;1;8;;;42;4;;;;;
+2024;artes-plasticas-e-visuais;Universidade Federal do Oeste da Bahia;BA;72;Federal;;;53;12.27;;;75;0.95;;;1;8;;;49;3.32;;;;;
+2024;artes-plasticas-e-visuais;Faculdade de Educação Paulistana;SP;73;Privada;;;54;11.35;;;58;2.57;;;1;8;;;75;0.78;;;;;
+2024;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;74;Federal;;;57;10.72;;;81;0.38;;;1;8;;;59;2.34;;;;;
+2024;artes-plasticas-e-visuais;Faculdade Trilógica Keppe & Pacheco;MG;75;Privada;;;62;9.81;;;69;1.52;;;1;8;;;80;0.29;;;;;
+2024;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;76;Federal;;;63;9.74;;;78;0.67;;;1;8;;;72;1.07;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;77;Privada;;;64;9.64;;;31;5.14;;;75;0.69;;;44;3.81;;;;;
+2024;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;78;Federal;;;68;9.06;;;79;0.57;;;1;8;;;78;0.49;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Ítalo-brasileiro;SP;79;Privada;;;73;7.18;;;56;2.76;;;53;2.86;;;67;1.56;;;;;
+2024;artes-plasticas-e-visuais;Faculdade Brasileira Cristã;ES;80;Privada;;;76;5.84;;;69;1.52;;;57;2.47;;;64;1.85;;;;;
+2024;artes-plasticas-e-visuais;Faculdade Santa Marcelina;SP;81;Privada;;;80;4.82;;;58;2.57;;;81;0.1;;;61;2.15;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Mauá de Brasília;DF;82;Privada;;;81;3.68;;;69;1.52;;;68;1.38;;;75;0.78;;;;;
+2024;artes-plasticas-e-visuais;Centro Universitário Metropolitano de São Paulo;SP;83;Privada;;;82;2.57;;;58;2.57;;;;;;;;;;;;;
+2024;artes-plasticas-e-visuais;Faculdade de Artes Dulcina de Moraes;DF;84;Privada;;;83;1.72;;;69;1.52;;;;;;;81;0.2;;;;;
+2025;artes-plasticas-e-visuais;Universidade de São Paulo;SP;1;Estadual;1;30;1;69.81;;;3;7.81;;;1;8;;;1;8;1;40;1;1;6
+2025;artes-plasticas-e-visuais;Universidade Federal de Minas Gerais;MG;2;Federal;2;29.57;2;65.58;;;5;7.62;;;1;8;;;9;7.22;2;38.26;2;19;4.48
+2025;artes-plasticas-e-visuais;Universidade Estadual de Campinas;SP;3;Estadual;2;29.57;3;62.17;;;1;8;;;1;8;;;7;7.42;4;34.78;3;25;3.97
+2025;artes-plasticas-e-visuais;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;29.57;5;61.13;;;15;6.67;;;1;8;;;25;5.66;2;38.26;4;42;2.54
+2025;artes-plasticas-e-visuais;Universidade Federal do Rio Grande do Sul;RS;5;Federal;8;27;4;61.29;;;2;7.91;;;1;8;;;3;7.81;4;34.78;5;39;2.79
+2025;artes-plasticas-e-visuais;Universidade Federal de Goiás;GO;6;Federal;8;27;6;58.4;;;14;6.76;;;1;8;;;6;7.51;4;34.78;6;56;1.35
+2025;artes-plasticas-e-visuais;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;7;Estadual;2;29.57;7;54.77;;;4;7.71;;;1;8;;;2;7.9;9;26.09;7;12;5.07
+2025;artes-plasticas-e-visuais;Universidade do Estado do Rio de Janeiro;RJ;8;Estadual;8;27;8;53.89;;;15;6.67;;;55;2.6;;;15;6.63;4;34.78;8;34;3.21
+2025;artes-plasticas-e-visuais;Universidade Federal da Bahia;BA;9;Federal;2;29.57;12;49.77;;;11;7.05;;;1;8;;;44;3.81;9;26.09;9;15;4.82
+2025;artes-plasticas-e-visuais;Universidade de Brasília;DF;10;Federal;12;25.29;9;51.49;;;23;5.91;;;1;8;;;12;6.93;9;26.09;10;18;4.56
+2025;artes-plasticas-e-visuais;Universidade Federal do Paraná;PR;11;Federal;12;25.29;11;50.45;;;25;5.71;;;1;8;;;18;6.34;9;26.09;11;21;4.31
+2025;artes-plasticas-e-visuais;Universidade Federal de Pernambuco;PE;12;Federal;8;27;15;48.04;;;36;4.67;;;1;8;;;20;6.15;9;26.09;12;35;3.13
+2025;artes-plasticas-e-visuais;Centro Universitário Armando Alvares Penteado;SP;13;Privada;12;25.29;14;48.28;;;6;7.52;;;78;0.3;;;30;5.17;4;34.78;1;66;0.51
+2025;artes-plasticas-e-visuais;Universidade Federal de Uberlândia;MG;14;Federal;26;19.29;13;49.23;;;7;7.43;;;1;8;;;4;7.71;9;26.09;13;;
+2025;artes-plasticas-e-visuais;Centro Universitário Belas Artes de São Paulo;SP;15;Privada;2;29.57;21;38.03;;;58;2.57;;;54;2.7;;;38;4.39;9;26.09;2;45;2.28
+2025;artes-plasticas-e-visuais;Universidade do Estado de Minas Gerais;MG;16;Estadual;12;25.29;17;42.01;;;26;5.62;;;1;8;;;75;0.78;9;26.09;14;54;1.52
+2025;artes-plasticas-e-visuais;Fundação Universidade do Estado de Santa Catarina;SC;17;Estadual;12;25.29;18;40.41;;;13;6.86;;;64;1.7;;;43;3.9;9;26.09;15;50;1.86
+2025;artes-plasticas-e-visuais;Universidade Federal de Juiz de Fora;MG;18;Federal;43;12;10;50.61;;;9;7.24;;;1;8;;;13;6.83;9;26.09;16;43;2.45
+2025;artes-plasticas-e-visuais;Pontifícia Universidade Católica de Campinas;SP;19;Privada;26;19.29;19;39.81;;;40;4.29;;;73;0.8;;;37;4.49;9;26.09;3;23;4.14
+2025;artes-plasticas-e-visuais;Universidade Federal do Recôncavo da Bahia;BA;20;Federal;43;12;16;42.33;;;75;0.95;;;1;8;;;36;4.59;9;26.09;17;40;2.7
+2025;artes-plasticas-e-visuais;Universidade Federal da Paraíba;PB;21;Federal;12;25.29;24;27.61;;;19;6.29;;;1;8;;;8;7.32;;;18;1;6
+2025;artes-plasticas-e-visuais;Universidade do Extremo Sul Catarinense;SC;22;Privada;43;12;20;39.45;;;27;5.52;;;59;2.2;;;59;2.34;9;26.09;4;33;3.3
+2025;artes-plasticas-e-visuais;Universidade Estadual de Londrina;PR;23;Estadual;12;25.29;28;24.71;;;34;4.86;;;1;8;;;23;5.85;;;19;1;6
+2025;artes-plasticas-e-visuais;Faculdade Mozarteum de São Paulo;SP;24;Privada;43;12;22;36.85;;;58;2.57;;;65;1.6;;;77;0.59;9;26.09;5;1;6
+2025;artes-plasticas-e-visuais;Universidade Federal do Rio Grande do Norte;RN;25;Federal;12;25.29;30;23.38;;;8;7.33;;;1;8;;;17;6.44;;;20;53;1.61
+2025;artes-plasticas-e-visuais;Universidade Federal de Sergipe;SE;26;Federal;12;25.29;35;21.29;;;46;3.71;;;1;8;;;16;6.54;;;21;36;3.04
+2025;artes-plasticas-e-visuais;Universidade Estadual de Maringá;PR;27;Estadual;26;19.29;25;25.75;;;20;6.19;;;1;8;;;26;5.56;;;22;1;6
+2025;artes-plasticas-e-visuais;Universidade Federal do Maranhão;MA;28;Federal;12;25.29;37;19.64;;;43;4;;;1;8;;;35;4.68;;;23;37;2.96
+2025;artes-plasticas-e-visuais;Universidade Federal de Mato Grosso do Sul;MS;29;Federal;26;19.29;26;25.44;;;10;7.14;;;1;8;;;19;6.24;;;24;24;4.06
+2025;artes-plasticas-e-visuais;Universidade Estadual de Ponta Grossa;PR;30;Estadual;26;19.29;27;25.23;;;18;6.38;;;1;8;;;22;5.95;;;25;14;4.9
+2025;artes-plasticas-e-visuais;Universidade Federal do Piauí;PI;31;Federal;12;25.29;40;18.94;;;42;4.1;;;1;8;;;64;1.85;;;26;13;4.99
+2025;artes-plasticas-e-visuais;Universidade Federal do Pará;PA;32;Federal;12;25.29;41;18.7;;;82;0.29;;;1;8;;;24;5.76;;;27;17;4.65
+2025;artes-plasticas-e-visuais;Universidade Federal do Espírito Santo;ES;33;Federal;26;19.29;29;24.67;;;22;6;;;1;8;;;10;7.12;;;28;30;3.55
+2025;artes-plasticas-e-visuais;Centro Universitário das Faculdades Integradas de Ourinhos;SP;34;Privada;43;12;23;29.55;;;58;2.57;;;76;0.5;;;79;0.39;9;26.09;6;;
+2025;artes-plasticas-e-visuais;Universidade Federal de Santa Maria;RS;35;Federal;26;19.29;33;21.53;;;38;4.48;;;1;8;;;11;7.02;;;29;48;2.03
+2025;artes-plasticas-e-visuais;Centro Universitário Santa Cecília;SP;36;Privada;26;19.29;34;21.35;;;58;2.57;;;1;8;;;34;4.78;;;7;1;6
+2025;artes-plasticas-e-visuais;Universidade Regional do Cariri;CE;37;Estadual;26;19.29;38;19.13;;;67;1.71;;;1;8;;;48;3.42;;;30;1;6
+2025;artes-plasticas-e-visuais;Fundação Universidade Federal do Vale do São Francisco;PE;38;Federal;26;19.29;39;19.04;;;35;4.76;;;1;8;;;29;5.27;;;31;60;1.01
+2025;artes-plasticas-e-visuais;Universidade Estadual do Ceará;CE;39;Estadual;26;19.29;42;18.54;;;67;1.71;;;1;8;;;54;2.83;;;32;1;6
+2025;artes-plasticas-e-visuais;Universidade do Oeste Paulista;SP;40;Privada;26;19.29;44;18.18;;;58;2.57;;;1;8;;;5;7.61;;;8;;
+2025;artes-plasticas-e-visuais;Universidade Federal do Rio Grande;RS;41;Federal;43;12;31;22.17;;;45;3.81;;;1;8;;;14;6.73;;;33;29;3.63
+2025;artes-plasticas-e-visuais;Universidade Estadual do Paraná;PR;42;Estadual;43;12;32;21.82;;;12;6.95;;;1;8;;;42;4;;;34;38;2.87
+2025;artes-plasticas-e-visuais;Universidade Federal do Amazonas;AM;43;Federal;26;19.29;55;13.63;;;77;0.76;;;1;8;;;72;1.07;;;35;27;3.8
+2025;artes-plasticas-e-visuais;Universidade de Caxias do Sul;RS;44;Privada;26;19.29;56;13.16;;;49;3.43;;;67;1.4;;;41;4.1;;;9;22;4.23
+2025;artes-plasticas-e-visuais;Universidade Comunitária da Região de Chapecó;SC;45;Privada;43;12;36;20.25;;;17;6.48;;;1;8;;;62;2.05;;;10;28;3.72
+2025;artes-plasticas-e-visuais;Universidade da Amazônia;PA;46;Privada;12;25.29;78;6.9;;;69;1.52;;;62;1.9;;;56;2.63;;;11;62;0.85
+2025;artes-plasticas-e-visuais;Pontifícia Universidade Católica do Paraná;PR;47;Privada;12;25.29;82;6.19;;;53;3.05;;;72;0.9;;;60;2.24;;;12;;
+2025;artes-plasticas-e-visuais;Universidade Federal de Roraima;RR;48;Federal;43;12;45;17.9;;;82;0.29;;;1;8;;;33;4.88;;;36;16;4.73
+2025;artes-plasticas-e-visuais;Universidade do Vale do Itajaí;SC;49;Privada;26;19.29;65;10.54;;;27;5.52;;;61;2;;;52;3.02;;;13;;
+2025;artes-plasticas-e-visuais;Universidade Federal de Pelotas;RS;50;Federal;43;12;46;17.7;;;47;3.62;;;1;8;;;32;4.98;;;37;59;1.1
+2025;artes-plasticas-e-visuais;Universidade Pitágoras Unopar Anhanguera;PR;51;Privada;26;19.29;68;9.82;;;53;3.05;;;57;2.4;;;40;4.2;;;14;70;0.17
+2025;artes-plasticas-e-visuais;Universidade Estadual de Montes Claros;MG;52;Estadual;43;12;49;16.56;;;52;3.14;;;1;8;;;63;1.95;;;38;31;3.47
+2025;artes-plasticas-e-visuais;Centro Universitário das Faculdades Metropolitanas Unidas;SP;53;Privada;26;19.29;72;8.72;;;31;5.14;;;75;0.6;;;55;2.73;;;15;69;0.25
+2025;artes-plasticas-e-visuais;Universidade Cruzeiro do Sul;SP;54;Privada;43;12;51;15.84;;;44;3.91;;;1;8;;;47;3.51;;;16;67;0.42
+2025;artes-plasticas-e-visuais;Universidade Federal do Sul e Sudeste do Pará;PA;55;Federal;43;12;52;15.73;;;82;0.29;;;1;8;;;31;5.07;;;39;44;2.37
+2025;artes-plasticas-e-visuais;Universidade Federal do Oeste da Bahia;BA;56;Federal;43;12;53;14.42;;;75;0.95;;;1;8;;;39;4.29;;;40;58;1.18
+2025;artes-plasticas-e-visuais;Universidade Federal do Amapá;AP;57;Federal;43;12;54;14.09;;;57;2.67;;;1;8;;;61;2.15;;;41;57;1.27
+2025;artes-plasticas-e-visuais;Universidade Regional de Blumenau;SC;58;Municipal;43;12;58;12.21;;;24;5.81;;;66;1.5;;;51;3.12;;;42;51;1.78
+2025;artes-plasticas-e-visuais;Universidade de Passo Fundo;RS;59;Privada;43;12;61;11.53;;;41;4.19;;;58;2.3;;;53;2.93;;;17;47;2.11
+2025;artes-plasticas-e-visuais;Universidade da Região de Joinville;SC;60;Privada;43;12;63;11.24;;;27;5.52;;;56;2.5;;;50;3.22;;;18;;
+2025;artes-plasticas-e-visuais;Faculdade de Administração e Artes de Limeira;SP;61;Privada;43;12;64;11.21;;;51;3.24;;;74;0.7;;;70;1.27;;;19;1;6
+2025;artes-plasticas-e-visuais;Universidade Feevale;RS;62;Privada;43;12;66;10.01;;;53;3.05;;;63;1.8;;;57;2.54;;;20;41;2.62
+2025;artes-plasticas-e-visuais;Universidade de Sorocaba;SP;63;Privada;43;12;67;9.86;;;37;4.57;;;71;1;;;46;3.61;;;21;64;0.68
+2025;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;64;Federal;43;12;70;9.64;;;79;0.57;;;1;8;;;73;0.98;;;43;71;0.09
+2025;artes-plasticas-e-visuais;Faculdade Paulista de Artes;SP;65;Privada;43;12;73;8.59;;;50;3.33;;;;;;;49;3.32;;;22;49;1.94
+2025;artes-plasticas-e-visuais;Centro Universitário Unifaat;SP;66;Privada;43;12;74;8.38;;;58;2.57;;;60;2.1;;;45;3.71;;;23;;
+2025;artes-plasticas-e-visuais;Universidade do Vale do Paraíba;SP;67;Privada;43;12;75;8.29;;;39;4.38;;;70;1.1;;;69;1.37;;;24;55;1.44
+2025;artes-plasticas-e-visuais;Faculdade de Artes Dulcina de Moraes;DF;68;Privada;43;12;76;7.72;;;69;1.52;;;;;;;81;0.2;;;25;1;6
+2025;artes-plasticas-e-visuais;Centro Universitário Católico Ítalo Brasileiro;SP;69;Privada;43;12;80;6.43;;;56;2.76;;;68;1.3;;;76;0.68;;;26;52;1.69
+2025;artes-plasticas-e-visuais;Fundação Universidade Federal de Rondônia;RO;70;Federal;;;43;18.42;;;80;0.48;;;1;8;;;21;6.05;;;44;26;3.89
+2025;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;71;Federal;;;47;17.47;;;21;6.1;;;1;8;;;71;1.17;;;45;46;2.2
+2025;artes-plasticas-e-visuais;Universidade Estadual do Rio Grande do Sul;RS;72;Estadual;;;48;17.42;;;47;3.62;;;1;8;;;27;5.46;;;46;68;0.34
+2025;artes-plasticas-e-visuais;Centro Universitário Maurício de Nassau do Rio de Janeiro;RJ;73;Privada;;;50;16.1;;;32;5.05;;;69;1.2;;;27;5.46;;;27;20;4.39
+2025;artes-plasticas-e-visuais;Centro Universitário da Grande Dourados;MS;74;Privada;43;12;84;1.52;;;69;1.52;;;;;;;;;;;28;;
+2025;artes-plasticas-e-visuais;Centro Universitário Fluminense;RJ;75;Privada;;;57;13.15;;;32;5.05;;;1;8;;;82;0.1;;;29;;
+2025;artes-plasticas-e-visuais;Faculdade de Educação Paulistana;SP;76;Privada;;;59;12.03;;;58;2.57;;;1;8;;;68;1.46;;;30;;
+2025;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;77;Federal;;;60;11.58;;;81;0.38;;;1;8;;;58;2.44;;;47;63;0.76
+2025;artes-plasticas-e-visuais;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;78;Federal;;;62;11.26;;;78;0.67;;;1;8;;;66;1.66;;;48;61;0.93
+2025;artes-plasticas-e-visuais;Faculdade Trilógica Keppe & Pacheco;MG;79;Privada;;;69;9.81;;;69;1.52;;;1;8;;;80;0.29;;;31;;
+2025;artes-plasticas-e-visuais;Centro Universitário Mauá de Brasília;DF;80;Privada;;;71;8.8;;;69;1.52;;;77;0.4;;;74;0.88;;;32;1;6
+2025;artes-plasticas-e-visuais;Faculdade Santa Marcelina;SP;81;Privada;;;77;7.61;;;58;2.57;;;80;0.1;;;67;1.56;;;33;32;3.38
+2025;artes-plasticas-e-visuais;Faculdade Brasileira Cristã;ES;82;Privada;;;79;6.67;;;69;1.52;;;53;2.8;;;65;1.76;;;34;65;0.59
+2025;artes-plasticas-e-visuais;Universidade do Contestado;SC;83;Privada;;;81;6.21;;;27;5.52;;;79;0.2;;;78;0.49;;;35;;
+2025;artes-plasticas-e-visuais;Centro Universitário Metropolitano de São Paulo;SP;84;Privada;;;83;2.57;;;58;2.57;;;;;;;;;;;36;;

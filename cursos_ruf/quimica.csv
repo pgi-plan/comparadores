@@ -1,0 +1,755 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;quimica;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.38;5;7.84;11;7.54;;;1;8;1;40;;;;;;;
+2019;quimica;Universidade Estadual de Campinas;SP;2;Estadual;2;35.6;2;61.44;16;7.39;2;7.95;;;1;8;2;38.1;;;;;;;
+2019;quimica;Universidade Federal do Rio de Janeiro;RJ;3;Federal;2;35.6;3;58.95;18;7.31;13;7.45;;;1;8;3;36.19;;;;;;;
+2019;quimica;Universidade Federal de Minas Gerais;MG;4;Federal;5;34.4;4;57.7;10;7.64;6;7.77;;;1;8;4;34.29;;;;;;;
+2019;quimica;Universidade Federal de São Carlos;SP;5;Federal;8;33.2;5;57.48;11;7.6;10;7.59;;;1;8;4;34.29;;;;;;;
+2019;quimica;Universidade Federal do Rio Grande do Sul;RS;6;Federal;14;30.8;6;57.17;22;7.15;7;7.73;;;1;8;4;34.29;;;;;;;
+2019;quimica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;7;Estadual;2;35.6;7;52.14;9;7.68;11;7.54;;;134;2.63;4;34.29;;;;;;;
+2019;quimica;Universidade Federal do Paraná;PR;8;Federal;14;30.8;8;48.53;37;6.55;16;7.31;;;1;8;8;26.67;;;;;;;
+2019;quimica;Universidade Federal do Ceará;CE;9;Federal;5;34.4;12;43.5;12;7.56;23;6.99;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade Federal de Santa Catarina;SC;10;Federal;14;30.8;10;46.67;23;7.11;69;4.89;;;1;8;8;26.67;;;;;;;
+2019;quimica;Universidade Federal Fluminense;RJ;11;Federal;8;33.2;14;43.2;14;7.48;28;6.77;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade Federal de Pernambuco;PE;12;Federal;8;33.2;18;40.12;63;5.5;52;5.67;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade de Brasília;DF;13;Federal;14;30.8;17;42.2;25;7.03;40;6.22;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade Federal de Santa Maria;RS;14;Federal;35;22.4;9;47.66;28;6.91;43;6.08;;;1;8;8;26.67;;;;;;;
+2019;quimica;Universidade Presbiteriana Mackenzie;SP;15;Privada;8;33.2;20;34.95;33;6.71;58;5.39;;;152;1.9;11;20.95;;;;;;;
+2019;quimica;Universidade Federal Rural do Rio de Janeiro;RJ;16;Federal;35;22.4;13;43.36;21;7.19;18;7.22;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade Federal de Viçosa;MG;17;Federal;35;22.4;15;43.1;15;7.43;29;6.72;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade Federal de Uberlândia;MG;18;Federal;35;22.4;16;42.44;20;7.23;39;6.26;;;1;8;11;20.95;;;;;;;
+2019;quimica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;19;Privada;35;22.4;19;39.26;7;7.76;1;8;;;136;2.55;11;20.95;;;;;;;
+2019;quimica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;20;Privada;14;30.8;21;30.6;46;6.18;124;2.38;;;172;1.09;11;20.95;;;;;;;
+2019;quimica;Fundação Universidade Federal do ABC;SP;21;Federal;68;9.2;11;44.81;1;8;4;7.86;;;1;8;11;20.95;;;;;;;
+2019;quimica;Universidade Federal de Juiz de Fora;MG;22;Federal;14;30.8;22;22.9;26;6.99;3;7.91;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal da Bahia;BA;23;Federal;8;33.2;36;20.18;73;5.09;21;7.09;;;1;8;;;;;;;;;
+2019;quimica;Universidade do Estado do Rio de Janeiro;RJ;24;Estadual;5;34.4;51;18.13;24;7.07;9;7.63;;;114;3.43;;;;;;;;;
+2019;quimica;Universidade do Estado da Bahia;BA;25;Estadual;14;30.8;29;21.29;50;6.02;17;7.27;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Maringá;PR;26;Estadual;14;30.8;35;20.21;61;5.58;31;6.63;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Londrina;PR;27;Estadual;14;30.8;37;20.14;41;6.38;50;5.76;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Rio Grande do Norte;RN;28;Federal;14;30.8;42;19.61;35;6.63;67;4.98;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Sergipe;SE;29;Federal;14;30.8;43;19.6;42;6.34;61;5.26;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Goiás;GO;30;Federal;14;30.8;47;18.61;45;6.22;80;4.39;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Pará;PA;31;Federal;14;30.8;53;17.83;53;5.9;90;3.93;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Maranhão;MA;32;Federal;14;30.8;55;17.72;83;4.69;66;5.03;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal da Paraíba;PB;33;Federal;14;30.8;56;17.61;29;6.87;116;2.74;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Alagoas;AL;34;Federal;14;30.8;60;17.21;49;6.06;107;3.15;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual Vale do Acaraú;CE;35;Estadual;14;30.8;63;17;59;5.66;103;3.34;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Piauí;PI;36;Federal;14;30.8;86;14.24;92;4.32;134;1.92;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de São Paulo;SP;37;Federal;35;22.4;25;21.83;6;7.8;44;6.03;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Oeste do Paraná;PR;38;Estadual;35;22.4;27;21.33;31;6.79;33;6.54;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Espírito Santo;ES;39;Federal;35;22.4;28;21.32;38;6.51;27;6.81;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Piauí;PI;40;Estadual;14;30.8;105;12.57;112;3.52;153;1.05;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Santa Cruz;BA;41;Estadual;35;22.4;34;20.39;52;5.94;35;6.45;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Ceará;CE;42;Estadual;8;33.2;130;9.54;118;3.27;113;2.88;;;115;3.39;;;;;;;;;
+2019;quimica;Universidade Estadual de Ponta Grossa;PR;43;Estadual;35;22.4;38;20.05;13;7.52;77;4.53;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Ouro Preto;MG;44;Federal;35;22.4;39;19.81;64;5.46;37;6.35;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;45;Federal;35;22.4;49;18.37;103;3.88;34;6.49;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Mato Grosso;MT;46;Federal;35;22.4;52;17.89;99;4.04;48;5.85;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Feira de Santana;BA;47;Estadual;35;22.4;57;17.56;140;2.38;19;7.18;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Mato Grosso do Sul;MS;48;Federal;35;22.4;67;16.37;34;6.67;24;6.95;;;131;2.75;;;;;;;;;
+2019;quimica;Universidade do Estado do Rio Grande do Norte;RN;49;Estadual;35;22.4;68;16.2;82;4.73;100;3.47;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Amazonas;AM;50;Federal;35;22.4;70;16.1;79;4.85;105;3.25;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Campina Grande;PB;51;Federal;35;22.4;73;15.96;97;4.12;92;3.84;;;1;8;;;;;;;;;
+2019;quimica;Pontifícia Universidade Católica de Campinas;SP;52;Privada;14;30.8;153;7.13;90;4.4;118;2.65;;;197;0.08;;;;;;;;;
+2019;quimica;Universidade Estadual da Paraíba;PB;53;Estadual;35;22.4;85;14.31;89;4.44;135;1.87;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Sudoeste da Bahia;BA;54;Estadual;35;22.4;87;14.22;96;4.16;131;2.06;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal Rural de Pernambuco;PE;55;Federal;35;22.4;90;14.02;62;5.54;63;5.17;;;117;3.31;;;;;;;;;
+2019;quimica;Fundação Universidade Federal do Tocantins;TO;56;Federal;35;22.4;93;13.85;60;5.62;171;0.23;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Goiás;GO;57;Estadual;35;22.4;102;13.01;127;2.91;130;2.1;;;1;8;;;;;;;;;
+2019;quimica;Universidade do Grande Rio Professor José de Souza Herdy;RJ;58;Privada;35;22.4;115;11.77;133;2.67;152;1.1;;;1;8;;;;;;;;;
+2019;quimica;Universidade Luterana do Brasil;RS;59;Privada;35;22.4;122;11.11;131;2.75;55;5.53;;;129;2.83;;;;;;;;;
+2019;quimica;Universidade Católica de Brasília;DF;60;Privada;35;22.4;124;10.86;128;2.87;64;5.12;;;128;2.87;;;;;;;;;
+2019;quimica;Pontifícia Universidade Católica do Paraná;PR;61;Privada;35;22.4;125;10.75;105;3.8;56;5.49;;;163;1.46;;;;;;;;;
+2019;quimica;Universidade Estadual do Maranhão;MA;62;Estadual;14;30.8;195;1.86;187;0.49;154;1.01;;;190;0.36;;;;;;;;;
+2019;quimica;Faculdades Oswaldo Cruz;SP;63;Privada;35;22.4;129;9.66;122;3.11;60;5.3;;;168;1.25;;;;;;;;;
+2019;quimica;Universidade do Estado do Amazonas;AM;64;Estadual;35;22.4;133;9.25;176;0.93;169;0.32;;;1;8;;;;;;;;;
+2019;quimica;Universidade Regional de Blumenau;SC;65;Municipal;35;22.4;137;8.9;100;4;83;4.25;;;183;0.65;;;;;;;;;
+2019;quimica;Universidade Pitágoras Unopar Anhanguera;PR;66;Privada;35;22.4;150;7.5;158;1.66;81;4.34;;;162;1.5;;;;;;;;;
+2019;quimica;Universidade Tecnológica Federal do Paraná;PR;67;Federal;68;9.2;33;20.54;47;6.14;36;6.4;;;1;8;;;;;;;;;
+2019;quimica;Centro Universitário Fundação Santo André;SP;68;Privada;35;22.4;166;5.65;129;2.83;123;2.42;;;189;0.4;;;;;;;;;
+2019;quimica;Universidade Católica de Pernambuco;PE;69;Privada;35;22.4;174;5.05;114;3.43;145;1.42;;;194;0.2;;;;;;;;;
+2019;quimica;Universidade Estadual de Montes Claros;MG;70;Estadual;68;9.2;65;16.47;141;2.34;42;6.13;;;1;8;;;;;;;;;
+2019;quimica;Universidade Católica de Santos;SP;71;Privada;68;9.2;69;16.14;36;6.59;142;1.55;;;1;8;;;;;;;;;
+2019;quimica;Faculdade Pio Décimo;SE;72;Privada;68;9.2;79;14.98;102;3.92;109;3.06;;;1;8;;;;;;;;;
+2019;quimica;Fundação Universidade Federal de Rondônia;RO;73;Federal;68;9.2;94;13.83;75;5.01;158;0.82;;;1;8;;;;;;;;;
+2019;quimica;Universidade de Caxias do Sul;RS;74;Privada;68;9.2;100;13.1;84;4.65;30;6.67;;;155;1.78;;;;;;;;;
+2019;quimica;Universidade Federal de Lavras;MG;75;Federal;;;23;21.93;17;7.35;32;6.58;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;76;Estadual;;;24;21.9;1;8;47;5.9;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Paraná;PR;77;Estadual;;;26;21.62;44;6.26;15;7.36;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Roraima;RR;78;Federal;68;9.2;112;12.24;94;4.24;;;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual do Centro Oeste;PR;79;Estadual;;;30;21.16;43;6.3;26;6.86;;;1;8;;;;;;;;;
+2019;quimica;Universidade Nove de Julho;SP;79;Privada;68;9.2;114;11.96;98;4.08;54;5.58;;;142;2.3;;;;;;;;;
+2019;quimica;Universidade Federal de São João Del Rei;MG;81;Federal;;;31;20.89;19;7.27;53;5.62;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;82;Federal;68;9.2;118;11.55;186;0.53;110;3.02;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Itajubá;MG;83;Federal;;;32;20.7;68;5.29;14;7.41;;;1;8;;;;;;;;;
+2019;quimica;Universidade do Estado de Mato Grosso;MT;84;Estadual;68;9.2;123;10.98;157;1.7;148;1.28;;;1;8;;;;;;;;;
+2019;quimica;Centro Federal de Educação Tecnológica de Minas Gerais;MG;85;Federal;;;40;19.73;57;5.74;45;5.99;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal da Fronteira Sul;SC;86;Federal;;;41;19.68;66;5.37;38;6.31;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal de Alfenas;MG;87;Federal;;;44;19.55;32;6.75;71;4.8;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Triângulo Mineiro;MG;88;Federal;;;45;19.14;58;5.7;57;5.44;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;89;Federal;;;46;18.66;106;3.76;25;6.9;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Rio Grande;RS;90;Federal;;;48;18.53;55;5.82;73;4.71;;;1;8;;;;;;;;;
+2019;quimica;Faculdade de São Bernardo do Campo - FASB I;SP;91;Privada;68;9.2;132;9.29;147;2.1;62;5.21;;;150;1.98;;;;;;;;;
+2019;quimica;Centro Universitário Ages;BA;92;Privada;;;50;18.26;65;5.41;70;4.85;;;1;8;;;;;;;;;
+2019;quimica;Universidade de Passo Fundo;RS;93;Privada;68;9.2;136;8.95;130;2.79;72;4.75;;;164;1.41;;;;;;;;;
+2019;quimica;Universidade do Sul de Santa Catarina;SC;94;Privada;68;9.2;138;8.87;110;3.6;98;3.57;;;157;1.7;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;95;Federal;68;9.2;139;8.64;179;0.81;78;4.48;;;116;3.35;;;;;;;;;
+2019;quimica;Universidade Federal de Pelotas;RS;96;Federal;;;54;17.76;39;6.47;104;3.29;;;1;8;;;;;;;;;
+2019;quimica;Fundação Universidade Federal da Grande Dourados;MS;97;Federal;;;58;17.48;56;5.78;95;3.7;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;98;Federal;;;59;17.3;143;2.26;22;7.04;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;99;Federal;;;60;17.21;40;6.42;115;2.79;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;100;Federal;;;62;17.04;77;4.93;86;4.11;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul;MS;101;Federal;;;64;16.59;163;1.46;20;7.13;;;1;8;;;;;;;;;
+2019;quimica;Universidade do Vale do Paraíba;SP;102;Privada;68;9.2;152;7.33;67;5.33;173;0.14;;;153;1.86;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;103;Federal;;;66;16.45;137;2.51;46;5.94;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Cariri;CE;104;Federal;;;71;16;1;8;;;;;1;8;;;;;;;;;
+2019;quimica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;104;Federal;;;71;16;1;8;;;;;1;8;;;;;;;;;
+2019;quimica;Universidade de Franca;SP;106;Privada;68;9.2;159;6.73;108;3.68;156;0.91;;;146;2.14;;;;;;;;;
+2019;quimica;Universidade Cruzeiro do Sul;SP;107;Privada;68;9.2;160;6.65;71;5.17;164;0.55;;;176;0.93;;;;;;;;;
+2019;quimica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;108;Federal;;;74;15.72;8;7.72;;;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;109;Federal;;;75;15.69;87;4.53;8;7.68;;;113;3.48;;;;;;;;;
+2019;quimica;Universidade do Vale do Taquari;RS;110;Privada;68;9.2;162;6.34;101;3.96;;;;;140;2.38;;;;;;;;;
+2019;quimica;Fundação Universidade Federal do Pampa;RS;111;Federal;;;76;15.45;70;5.21;127;2.24;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;112;Federal;;;77;15.35;111;3.56;93;3.79;;;1;8;;;;;;;;;
+2019;quimica;Pontifícia Universidade Católica de Goiás;GO;113;Privada;68;9.2;164;6.07;117;3.31;128;2.19;;;185;0.57;;;;;;;;;
+2019;quimica;Universidade Federal do Sul e Sudeste do Pará;PA;114;Federal;;;78;15.1;72;5.13;133;1.97;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;115;Federal;;;80;14.92;107;3.72;106;3.2;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Alagoas;AL;116;Estadual;68;9.2;165;5.71;132;2.71;167;0.41;;;135;2.59;;;;;;;;;
+2019;quimica;Universidade Federal da Integração Latino-americana;PR;117;Federal;;;81;14.83;30;6.83;;;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;118;Federal;;;82;14.8;145;2.18;75;4.62;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;119;Federal;;;83;14.78;124;3.03;94;3.75;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;120;Federal;;;84;14.74;185;0.57;41;6.17;;;1;8;;;;;;;;;
+2019;quimica;Fundação Universidade do Estado de Santa Catarina;SC;121;Estadual;;;88;14.05;85;4.61;5;7.82;;;159;1.62;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;122;Federal;;;89;14.03;154;1.82;84;4.21;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;123;Federal;;;91;14.02;120;3.19;114;2.83;;;1;8;;;;;;;;;
+2019;quimica;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;124;Privada;;;92;13.86;54;5.86;;;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;125;Federal;;;95;13.68;149;2.02;96;3.66;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Acre;AC;126;Federal;;;96;13.65;144;2.22;101;3.43;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;127;Federal;;;97;13.4;115;3.39;132;2.01;;;1;8;;;;;;;;;
+2019;quimica;Universidade La Salle;RS;128;Privada;;;98;13.27;27;6.95;82;4.3;;;149;2.02;;;;;;;;;
+2019;quimica;Universidade do Oeste Paulista;SP;129;Privada;;;99;13.11;69;5.25;65;5.07;;;130;2.79;;;;;;;;;
+2019;quimica;Universidade Federal do Oeste da Bahia;BA;130;Federal;;;101;13.05;74;5.05;;;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;131;Federal;;;103;12.77;81;4.77;;;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;131;Federal;;;103;12.77;168;1.25;99;3.52;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;133;Federal;;;105;12.57;86;4.57;;;;;1;8;;;;;;;;;
+2019;quimica;Universidade de Vassouras;RJ;134;Privada;68;9.2;187;3.24;180;0.77;;;;;138;2.47;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;135;Federal;;;107;12.41;152;1.9;121;2.51;;;1;8;;;;;;;;;
+2019;quimica;Universidade Federal do Recôncavo da Bahia;BA;135;Federal;;;107;12.41;134;2.63;137;1.78;;;1;8;;;;;;;;;
+2019;quimica;Centro Universitário das Américas;SP;137;Privada;;;109;12.36;91;4.36;;;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;138;Federal;;;110;12.3;165;1.37;112;2.93;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;139;Federal;;;111;12.27;177;0.89;102;3.38;;;1;8;;;;;;;;;
+2019;quimica;Universidade Universus Veritas Guarulhos;SP;140;Privada;68;9.2;190;3.05;166;1.33;163;0.59;;;171;1.13;;;;;;;;;
+2019;quimica;Faculdade São Vicente;AL;141;Privada;;;113;12.2;95;4.2;;;;;1;8;;;;;;;;;
+2019;quimica;Fundação Universidade Federal do Vale do São Francisco;PE;142;Federal;;;116;11.64;109;3.64;;;;;1;8;;;;;;;;;
+2019;quimica;Universidade Metodista de Piracicaba;SP;143;Privada;;;117;11.57;48;6.1;68;4.94;;;186;0.53;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;144;Federal;;;119;11.45;151;1.94;143;1.51;;;1;8;;;;;;;;;
+2019;quimica;Universidade do Estado do Amapá;AP;145;Estadual;;;120;11.43;191;0.32;108;3.11;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;146;Federal;;;121;11.42;171;1.13;126;2.29;;;1;8;;;;;;;;;
+2019;quimica;Universidade do Estado de Minas Gerais;MG;147;Estadual;;;126;10.21;146;2.14;49;5.81;;;143;2.26;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;148;Federal;;;127;10.14;164;1.41;160;0.73;;;1;8;;;;;;;;;
+2019;quimica;Universidade Estadual de Mato Grosso do Sul;MS;149;Estadual;;;128;10.05;78;4.89;79;4.43;;;181;0.73;;;;;;;;;
+2019;quimica;Centro Universitário Católico Salesiano Auxilium;SP;150;Privada;;;131;9.43;88;4.49;136;1.83;;;122;3.11;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;151;Federal;;;134;9.03;150;1.98;88;4.02;;;124;3.03;;;;;;;;;
+2019;quimica;Instituto Superior de Educação Campo Limpo Paulista;SP;152;Privada;;;135;8.99;126;2.95;59;5.35;;;182;0.69;;;;;;;;;
+2019;quimica;Universidade de Santa Cruz do Sul;RS;153;Privada;;;140;8.51;76;4.97;125;2.33;;;169;1.21;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;154;Federal;;;141;8.46;181;0.73;74;4.66;;;123;3.07;;;;;;;;;
+2019;quimica;Universidade Federal do Amapá;AP;155;Federal;;;142;8.4;189;0.4;;;;;1;8;;;;;;;;;
+2019;quimica;Centro Universitário da Fundação Herminio Ometto;SP;156;Privada;;;143;8.24;51;5.98;146;1.37;;;177;0.89;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;157;Federal;;;144;8.17;197;0.08;174;0.09;;;1;8;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;158;Federal;;;145;8.09;169;1.21;97;3.61;;;118;3.27;;;;;;;;;
+2019;quimica;Centro Universitário de Goiás;GO;159;Privada;;;146;7.74;135;2.59;89;3.98;;;170;1.17;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;160;Federal;;;147;7.72;139;2.42;129;2.15;;;121;3.15;;;;;;;;;
+2019;quimica;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;161;Privada;;;148;7.7;121;3.15;111;2.97;;;160;1.58;;;;;;;;;
+2019;quimica;Centro Universitário Sagrado Coração;SP;162;Privada;;;149;7.68;80;4.81;147;1.33;;;161;1.54;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;163;Federal;;;151;7.46;188;0.44;87;4.07;;;126;2.95;;;;;;;;;
+2019;quimica;Faculdade Santa Marcelina Muriaé;MG;164;Privada;;;154;7.12;190;0.36;51;5.71;;;173;1.05;;;;;;;;;
+2019;quimica;Centro Universitário Ceuni;AM;165;Privada;;;155;7.11;142;2.3;122;2.47;;;141;2.34;;;;;;;;;
+2019;quimica;Centro Universitário de Votuporanga;SP;166;Privada;;;156;6.97;104;3.84;150;1.19;;;151;1.94;;;;;;;;;
+2019;quimica;Centro Universitário da Fundação Educacional de Barretos;SP;167;Privada;;;157;6.77;116;3.35;119;2.61;;;179;0.81;;;;;;;;;
+2019;quimica;Universidade de Sorocaba;SP;168;Privada;;;158;6.75;148;2.06;76;4.57;;;196;0.12;;;;;;;;;
+2019;quimica;Faculdades Integradas de Fernandópolis;SP;169;Privada;;;161;6.42;113;3.48;140;1.65;;;167;1.29;;;;;;;;;
+2019;quimica;Universidade Estadual de Roraima;RR;170;Estadual;;;163;6.14;138;2.47;117;2.7;;;175;0.97;;;;;;;;;
+2019;quimica;Faculdades Integradas Maria Imaculada;SP;171;Privada;;;166;5.65;119;3.23;;;;;139;2.42;;;;;;;;;
+2019;quimica;Centro Universitário Amparense;SP;172;Privada;;;168;5.49;172;1.09;85;4.16;;;193;0.24;;;;;;;;;
+2019;quimica;Centro Universitário Fieo;SP;173;Privada;;;169;5.25;93;4.28;161;0.69;;;192;0.28;;;;;;;;;
+2019;quimica;Universidade de Mogi das Cruzes;SP;174;Privada;;;170;5.25;160;1.58;155;0.96;;;132;2.71;;;;;;;;;
+2019;quimica;Centro Universitário do Norte;AM;174;Privada;;;170;5.25;123;3.07;138;1.74;;;188;0.44;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;176;Federal;;;172;5.12;194;0.2;139;1.69;;;119;3.23;;;;;;;;;
+2019;quimica;Universidade de Taubaté;SP;177;Municipal;;;173;5.09;125;2.99;;;;;147;2.1;;;;;;;;;
+2019;quimica;Universidade Brasil;SP;178;Privada;;;175;4.95;162;1.5;159;0.78;;;133;2.67;;;;;;;;;
+2019;quimica;Instituto Luterano de Ensino Superior de Itumbiara;GO;179;Privada;;;176;4.91;178;0.85;157;0.87;;;120;3.19;;;;;;;;;
+2019;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;180;Federal;;;177;4.83;184;0.61;149;1.23;;;125;2.99;;;;;;;;;
+2019;quimica;Centro Universitário Fundação de Ensino Octávio Bastos;SP;181;Privada;;;178;4.47;173;1.05;141;1.6;;;154;1.82;;;;;;;;;
+2019;quimica;Faculdade Prisma;MG;182;Privada;;;179;4.45;193;0.24;91;3.89;;;191;0.32;;;;;;;;;
+2019;quimica;Instituto Municipal de Ensino Superior de Assis;SP;183;Municipal;;;180;4.37;153;1.86;;;;;137;2.51;;;;;;;;;
+2019;quimica;Centro Universitário de Paulínia;SP;184;Privada;;;181;4.26;161;1.54;120;2.56;;;195;0.16;;;;;;;;;
+2019;quimica;Centro Universitário Faema;RO;185;Privada;;;182;3.92;192;0.28;144;1.46;;;145;2.18;;;;;;;;;
+2019;quimica;Universidade do Oeste de Santa Catarina;SC;186;Privada;;;183;3.8;156;1.74;;;;;148;2.06;;;;;;;;;
+2019;quimica;Universidade Paranaense;PR;187;Privada;;;184;3.77;136;2.55;168;0.37;;;178;0.85;;;;;;;;;
+2019;quimica;Centro Universitário de Adamantina;SP;188;Municipal;;;185;3.57;170;1.17;172;0.18;;;144;2.22;;;;;;;;;
+2019;quimica;Centro Universitário Campo Limpo Paulista;SP;189;Privada;;;186;3.45;159;1.62;166;0.46;;;165;1.37;;;;;;;;;
+2019;quimica;Centro Universitário Maurício de Nassau de Cacoal;RO;190;Privada;;;188;3.12;195;0.16;175;0.05;;;127;2.91;;;;;;;;;
+2019;quimica;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;191;Privada;;;189;3.06;155;1.78;170;0.27;;;174;1.01;;;;;;;;;
+2019;quimica;Centro Universitário de Caratinga;MG;192;Privada;;;191;3.03;167;1.29;;;;;156;1.74;;;;;;;;;
+2019;quimica;Centro Universitário Anhanguera de São Paulo;SP;193;Privada;;;192;2.81;183;0.65;165;0.5;;;158;1.66;;;;;;;;;
+2019;quimica;Instituto Superior de Ciências Aplicadas;SP;194;Privada;;;193;2.76;174;1.01;151;1.14;;;184;0.61;;;;;;;;;
+2019;quimica;Universidade Anhanguera de São Paulo;SP;195;Privada;;;194;2.1;182;0.69;162;0.64;;;180;0.77;;;;;;;;;
+2019;quimica;Centro Universitário São Camilo - Espírito Santo;ES;196;Privada;;;196;1.46;175;0.97;;;;;187;0.49;;;;;;;;;
+2019;quimica;Faculdade de Formação de Professores da Mata Sul;PE;197;Municipal;;;197;1.45;196;0.12;;;;;166;1.33;;;;;;;;;
+2019;quimica;Faculdades Integradas Regionais de Avaré;SP;198;Municipal;;;198;0.08;198;0.04;;;;;198;0.04;;;;;;;;;
+2023;quimica;Universidade de São Paulo;SP;1;Estadual;1;36;1;61.97;18;7.28;32;6.69;;;1;8;1;40;;;;;;;
+2023;quimica;Universidade Estadual de Campinas;SP;2;Estadual;2;35.72;2;61.63;25;6.98;6;7.79;;;1;8;2;38.86;;;;;;;
+2023;quimica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;3;Estadual;2;35.72;4;59.13;1;8;35;6.56;;;1;8;4;36.57;;;;;;;
+2023;quimica;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.72;6;58.99;57;5.62;9;7.66;;;1;8;3;37.71;;;;;;;
+2023;quimica;Universidade Federal de Minas Gerais;MG;5;Federal;5;34.89;3;59.59;23;7.06;2;7.96;;;1;8;4;36.57;;;;;;;
+2023;quimica;Universidade Federal de São Carlos;SP;6;Federal;8;34.06;5;59;19;7.23;20;7.2;;;1;8;4;36.57;;;;;;;
+2023;quimica;Universidade Federal do Rio Grande do Sul;RS;7;Federal;8;34.06;8;55.57;26;6.94;13;7.49;;;1;8;7;33.14;;;;;;;
+2023;quimica;Universidade Federal do Paraná;PR;8;Federal;8;34.06;10;55.36;34;6.6;10;7.62;;;1;8;7;33.14;;;;;;;
+2023;quimica;Universidade Federal de Santa Catarina;SC;9;Federal;17;31.57;9;55.56;35;6.55;4;7.87;;;1;8;7;33.14;;;;;;;
+2023;quimica;Universidade Federal de Santa Maria;RS;10;Federal;17;31.57;11;54.68;27;6.89;33;6.65;;;1;8;7;33.14;;;;;;;
+2023;quimica;Universidade Federal Fluminense;RJ;11;Federal;8;34.06;14;49.61;30;6.77;15;7.41;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal do Ceará;CE;12;Federal;5;34.89;20;46.76;65;5.28;47;6.05;;;1;8;12;27.43;;;;;;;
+2023;quimica;Fundação Universidade Federal do ABC;SP;13;Federal;44;24.09;7;56.72;1;8;11;7.58;;;1;8;7;33.14;;;;;;;
+2023;quimica;Universidade Federal da Bahia;BA;14;Federal;8;34.06;22;46.59;87;4.34;29;6.82;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade de Brasília;DF;15;Federal;17;31.57;16;48.75;53;5.79;12;7.53;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Estadual de Londrina;PR;16;Estadual;17;31.57;17;48.67;43;6.21;24;7.03;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal de Pernambuco;PE;17;Federal;8;34.06;23;46.17;84;4.47;42;6.27;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal de Goiás;GO;18;Federal;17;31.57;19;47.78;33;6.64;55;5.71;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Estadual do Ceará;CE;19;Estadual;8;34.06;28;42.31;111;3.32;106;3.56;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade do Estado do Rio de Janeiro;RJ;20;Estadual;5;34.89;29;41.1;54;5.75;48;6.01;;;145;1.91;12;27.43;;;;;;;
+2023;quimica;Universidade Federal de Lavras;MG;21;Federal;44;24.09;13;50.16;1;8;31;6.73;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal de Viçosa;MG;22;Federal;44;24.09;15;49.22;29;6.81;25;6.98;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal Rural do Rio de Janeiro;RJ;23;Federal;44;24.09;18;48.07;59;5.53;22;7.11;;;1;8;12;27.43;;;;;;;
+2023;quimica;Pontifícia Universidade Católica do Paraná;PR;24;Privada;17;31.57;30;40.58;89;4.26;16;7.37;;;154;1.52;12;27.43;;;;;;;
+2023;quimica;Universidade Presbiteriana Mackenzie;SP;25;Privada;8;34.06;33;37.19;100;3.79;62;5.42;;;177;0.55;12;27.43;;;;;;;
+2023;quimica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;26;Privada;17;31.57;32;39.55;95;4;8;7.7;;;180;0.42;12;27.43;;;;;;;
+2023;quimica;Universidade Estadual de Maringá;PR;27;Estadual;44;24.09;20;46.76;51;5.87;61;5.46;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Tecnológica Federal do Paraná;PR;28;Federal;44;24.09;24;46.08;62;5.4;66;5.25;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;29;Estadual;95;9.97;12;51.18;1;8;7;7.75;;;1;8;12;27.43;;;;;;;
+2023;quimica;Faculdades Oswaldo Cruz;SP;30;Privada;44;24.09;34;36.76;94;4.04;79;4.7;;;176;0.59;12;27.43;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;31;Federal;95;9.97;25;45.77;105;3.57;30;6.77;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade do Estado da Bahia;BA;32;Estadual;8;34.06;46;20.23;54;5.75;37;6.48;;;1;8;;;;;;;;;
+2023;quimica;Fundação Universidade Federal da Grande Dourados;MS;33;Federal;95;9.97;27;44.06;41;6.3;135;2.33;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal de São Paulo;SP;34;Federal;17;31.57;37;22.35;1;8;40;6.35;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Juiz de Fora;MG;35;Federal;17;31.57;39;21.62;32;6.68;26;6.94;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Rio Grande do Norte;RN;36;Federal;17;31.57;43;21.07;50;5.92;21;7.15;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Uberlândia;MG;37;Federal;17;31.57;49;19.97;24;7.02;73;4.95;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal Rural de Pernambuco;PE;38;Federal;17;31.57;50;19.89;49;5.96;50;5.93;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal da Paraíba;PB;39;Federal;17;31.57;55;19.33;44;6.17;68;5.16;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Pelotas;RS;40;Federal;95;9.97;31;39.62;186;0.13;94;4.06;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Federal de Alagoas;AL;41;Federal;17;31.57;68;17.68;61;5.45;90;4.23;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Sergipe;SE;41;Federal;17;31.57;68;17.68;69;5.11;82;4.57;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual de Santa Cruz;BA;43;Estadual;17;31.57;85;16.74;86;4.38;87;4.36;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Piauí;PI;44;Federal;17;31.57;89;16.27;106;3.53;78;4.74;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual de Goiás;GO;45;Estadual;17;31.57;96;15.85;98;3.87;96;3.98;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual Vale do Acaraú;CE;46;Estadual;17;31.57;99;15.39;85;4.43;120;2.96;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Maranhão;MA;47;Federal;17;31.57;102;15.22;90;4.21;119;3.01;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Mato Grosso;MT;48;Federal;17;31.57;104;15.05;74;4.89;139;2.16;;;1;8;;;;;;;;;
+2023;quimica;Universidade Católica de Brasília;DF;49;Privada;44;24.09;38;21.97;1;8;49;5.97;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Itajubá;MG;50;Federal;;;26;45.57;63;5.36;77;4.78;;;1;8;12;27.43;;;;;;;
+2023;quimica;Universidade Estadual do Paraná;PR;51;Estadual;44;24.09;41;21.45;39;6.38;23;7.07;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Ouro Preto;MG;52;Federal;44;24.09;42;21.37;45;6.13;19;7.24;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual do Sudoeste da Bahia;BA;53;Estadual;17;31.57;113;13.81;113;3.23;129;2.58;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Pará;PA;54;Federal;17;31.57;122;12.97;78;4.72;184;0.25;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de São João Del Rei;MG;55;Federal;44;24.09;47;20.1;36;6.51;58;5.59;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Espírito Santo;ES;56;Federal;44;24.09;48;20.05;67;5.19;28;6.86;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual do Piauí;PI;57;Estadual;17;31.57;129;12.24;149;1.7;130;2.54;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual de Ponta Grossa;PR;58;Estadual;44;24.09;52;19.51;20;7.19;88;4.32;;;1;8;;;;;;;;;
+2023;quimica;Universidade La Salle;RS;59;Privada;44;24.09;53;19.43;1;8;109;3.43;;;1;8;;;;;;;;;
+2023;quimica;Fundação Universidade Federal do Tocantins;TO;60;Federal;44;24.09;58;18.88;22;7.11;101;3.77;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual do Maranhão;MA;61;Estadual;17;31.57;138;11.13;168;0.89;137;2.24;;;1;8;;;;;;;;;
+2023;quimica;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;62;Privada;95;9.97;35;32.65;131;2.47;147;1.82;;;168;0.93;12;27.43;;;;;;;
+2023;quimica;Universidade Federal do Oeste da Bahia;BA;63;Federal;44;24.09;61;18.39;116;3.11;18;7.28;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Amazonas;AM;64;Federal;44;24.09;65;18.05;82;4.55;60;5.5;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual do Oeste do Paraná;PR;65;Estadual;44;24.09;71;17.47;68;5.15;88;4.32;;;1;8;;;;;;;;;
+2023;quimica;Universidade de Franca;SP;66;Privada;44;24.09;73;17.35;1;8;158;1.35;;;1;8;;;;;;;;;
+2023;quimica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;67;Privada;44;24.09;75;17.31;1;8;1;8;;;159;1.31;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;68;Federal;44;24.09;80;17.03;123;2.81;43;6.22;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Vale do Taquari;RS;69;Privada;44;24.09;81;16.97;1;8;167;0.97;;;1;8;;;;;;;;;
+2023;quimica;Fundação Universidade Federal de Rondônia;RO;70;Federal;44;24.09;84;16.75;76;4.81;97;3.94;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Estado do Rio Grande do Norte;RN;71;Estadual;44;24.09;88;16.35;146;1.83;36;6.52;;;1;8;;;;;;;;;
+2023;quimica;Universidade Pitágoras Unopar Anhanguera;PR;72;Privada;44;24.09;95;15.87;28;6.85;166;1.02;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Roraima;RR;73;Federal;44;24.09;98;15.69;88;4.3;110;3.39;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual de Feira de Santana;BA;74;Estadual;44;24.09;106;14.79;136;2.26;83;4.53;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual da Paraíba;PB;75;Estadual;44;24.09;108;14.7;114;3.19;107;3.51;;;1;8;;;;;;;;;
+2023;quimica;Faculdade Pio Décimo;SE;76;Privada;44;24.09;111;14.07;98;3.87;138;2.2;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Oeste Paulista;SP;77;Privada;44;24.09;115;13.53;96;3.96;153;1.57;;;1;8;;;;;;;;;
+2023;quimica;Universidade Católica de Pernambuco;PE;78;Privada;17;31.57;173;5.95;96;3.96;146;1.86;;;187;0.13;;;;;;;;;
+2023;quimica;Universidade Federal do Cariri;CE;79;Federal;44;24.09;117;13.4;120;2.94;132;2.46;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Campina Grande;PB;79;Federal;44;24.09;117;13.4;112;3.28;140;2.12;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Mato Grosso do Sul;MS;81;Federal;44;24.09;124;12.64;58;5.57;67;5.21;;;146;1.86;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;82;Federal;44;24.09;131;12.12;167;0.94;115;3.18;;;1;8;;;;;;;;;
+2023;quimica;Pontifícia Universidade Católica de Campinas;SP;83;Privada;17;31.57;181;4.2;110;3.36;171;0.8;;;189;0.04;;;;;;;;;
+2023;quimica;Universidade do Oeste de Santa Catarina;SC;84;Privada;44;24.09;135;11.65;139;2.13;154;1.52;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Grande Rio Professor José de Souza Herdy;RJ;85;Privada;44;24.09;140;10.97;164;1.06;145;1.91;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;86;Federal;44;24.09;141;10.84;169;0.85;143;1.99;;;1;8;;;;;;;;;
+2023;quimica;Universidade Luterana do Brasil;RS;87;Privada;44;24.09;146;10.61;124;2.77;46;6.1;;;149;1.74;;;;;;;;;
+2023;quimica;Universidade do Estado do Amazonas;AM;88;Estadual;44;24.09;149;9.95;182;0.3;151;1.65;;;1;8;;;;;;;;;
+2023;quimica;Pontifícia Universidade Católica de Goiás;GO;89;Privada;44;24.09;150;9.93;103;3.66;84;4.49;;;148;1.78;;;;;;;;;
+2023;quimica;Universidade Estadual de Alagoas;AL;90;Estadual;44;24.09;151;9.91;172;0.72;162;1.19;;;1;8;;;;;;;;;
+2023;quimica;Universidade Regional de Blumenau;SC;91;Municipal;44;24.09;155;9.28;102;3.7;81;4.61;;;167;0.97;;;;;;;;;
+2023;quimica;Universidade de Caxias do Sul;RS;92;Privada;44;24.09;160;8.96;72;4.98;125;2.75;;;161;1.23;;;;;;;;;
+2023;quimica;Universidade Federal da Integração Latino-americana;PR;93;Federal;95;9.97;36;22.39;37;6.47;3;7.92;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Sul de Santa Catarina;SC;94;Privada;44;24.09;164;8.15;70;5.06;154;1.52;;;153;1.57;;;;;;;;;
+2023;quimica;Universidade Cruzeiro do Sul;SP;95;Privada;44;24.09;166;7.61;38;6.43;171;0.8;;;181;0.38;;;;;;;;;
+2023;quimica;Universidade Anhanguera de São Paulo;SP;96;Privada;44;24.09;167;7.48;76;4.81;170;0.85;;;147;1.82;;;;;;;;;
+2023;quimica;Universidade Federal do Rio Grande;RS;97;Federal;95;9.97;45;20.39;60;5.49;27;6.9;;;1;8;;;;;;;;;
+2023;quimica;Universidade de Santa Cruz do Sul;RS;98;Privada;44;24.09;171;6.07;104;3.62;167;0.97;;;155;1.48;;;;;;;;;
+2023;quimica;Centro Universitário Fundação Santo André;SP;99;Privada;44;24.09;175;5.43;117;3.06;150;1.69;;;174;0.68;;;;;;;;;
+2023;quimica;Universidade Estadual do Centro Oeste;PR;100;Estadual;95;9.97;54;19.42;54;5.75;56;5.67;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal da Fronteira Sul;SC;101;Federal;95;9.97;57;19;46;6.09;74;4.91;;;1;8;;;;;;;;;
+2023;quimica;Universidade Universus Veritas Guarulhos;SP;102;Privada;44;24.09;179;4.54;131;2.47;171;0.8;;;160;1.27;;;;;;;;;
+2023;quimica;Fundação Universidade Federal do Pampa;RS;103;Federal;95;9.97;66;18.02;73;4.94;70;5.08;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Jataí;GO;104;Federal;95;9.97;67;17.89;92;4.13;54;5.76;;;1;8;;;;;;;;;
+2023;quimica;Faculdade de São Bernardo do Campo - FASB I;SP;105;Privada;44;24.09;183;3.44;159;1.28;144;1.95;;;185;0.21;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;106;Federal;95;9.97;72;17.42;93;4.09;64;5.33;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Sagrado Coração;SP;107;Privada;44;24.09;184;3.26;150;1.66;171;0.8;;;171;0.8;;;;;;;;;
+2023;quimica;Universidade Federal de Alfenas;MG;108;Federal;95;9.97;74;17.34;64;5.32;95;4.02;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual de Roraima;RR;109;Estadual;95;9.97;77;17.23;1;8;161;1.23;;;1;8;;;;;;;;;
+2023;quimica;Universidade Metodista de Piracicaba;SP;110;Privada;95;9.97;82;16.8;1;8;171;0.8;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;111;Federal;95;9.97;86;16.73;139;2.13;34;6.6;;;1;8;;;;;;;;;
+2023;quimica;Centro Federal de Educação Tecnológica de Minas Gerais;MG;112;Federal;95;9.97;87;16.67;52;5.83;123;2.84;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;113;Federal;95;9.97;93;15.93;148;1.75;44;6.18;;;1;8;;;;;;;;;
+2023;quimica;Fundação Universidade Federal do Vale do São Francisco;PE;114;Federal;95;9.97;100;15.35;91;4.17;115;3.18;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;115;Federal;95;9.97;101;15.26;128;2.6;80;4.66;;;1;8;;;;;;;;;
+2023;quimica;Universidade Católica de Santos;SP;116;Privada;95;9.97;103;15.14;40;6.34;171;0.8;;;1;8;;;;;;;;;
+2023;quimica;Universidade de Passo Fundo;RS;117;Privada;95;9.97;106;14.79;120;2.94;99;3.85;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Sul e Sudeste do Pará;PA;118;Federal;95;9.97;109;14.34;46;6.09;184;0.25;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;119;Federal;95;9.97;121;13.09;125;2.72;134;2.37;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;120;Federal;95;9.97;123;12.66;177;0.51;92;4.15;;;1;8;;;;;;;;;
+2023;quimica;Universidade Estadual da Região Tocantina do Maranhão;MA;121;Estadual;95;9.97;128;12.28;170;0.81;108;3.47;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;122;Federal;95;9.97;130;12.19;176;0.55;104;3.64;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;123;Federal;95;9.97;133;12.07;171;0.77;112;3.3;;;1;8;;;;;;;;;
+2023;quimica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;124;Federal;;;40;21.46;21;7.15;41;6.31;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Ages;BA;125;Privada;;;44;21.04;1;8;71;5.04;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Estado do Pará;PA;126;Estadual;95;9.97;147;10.17;144;1.92;184;0.25;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal de Catalão;GO;127;Federal;;;51;19.64;42;6.26;63;5.38;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;128;Federal;95;9.97;153;9.61;157;1.36;184;0.25;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Triângulo Mineiro;MG;129;Federal;;;56;19.11;66;5.23;51;5.88;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;130;Federal;;;59;18.5;1;8;131;2.5;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;131;Federal;;;60;18.48;79;4.68;53;5.8;;;1;8;;;;;;;;;
+2023;quimica;Fundação Universidade do Estado de Santa Catarina;SC;132;Estadual;95;9.97;163;8.43;181;0.34;14;7.45;;;175;0.64;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;133;Federal;;;62;18.34;118;3.02;17;7.32;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;134;Federal;;;63;18.21;133;2.38;5;7.83;;;1;8;;;;;;;;;
+2023;quimica;Universidade Regional do Cariri;CE;135;Estadual;;;64;18.14;75;4.85;65;5.29;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Vale do Paraíba;SP;136;Privada;95;9.97;165;7.85;108;3.45;98;3.89;;;178;0.51;;;;;;;;;
+2023;quimica;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;137;Federal;;;70;17.56;31;6.72;123;2.84;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;138;Federal;;;76;17.3;101;3.75;59;5.55;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Recôncavo da Bahia;BA;139;Federal;;;78;17.12;119;2.98;45;6.14;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário das Américas;SP;140;Privada;;;79;17.06;1;8;165;1.06;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Braz Cubas;SP;141;Privada;;;82;16.8;1;8;171;0.8;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Oeste do Pará;PA;142;Federal;;;90;16.25;1;8;184;0.25;;;1;8;;;;;;;;;
+2023;quimica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;143;Federal;;;91;16.16;46;6.09;141;2.07;;;1;8;;;;;;;;;
+2023;quimica;Universidade Federal do Acre;AC;144;Federal;;;92;16.15;115;3.15;72;5;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;145;Federal;;;93;15.93;135;2.3;57;5.63;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Ceuni;AM;146;Privada;;;97;15.73;70;5.06;127;2.67;;;1;8;;;;;;;;;
+2023;quimica;Universidade de Sorocaba;SP;147;Privada;95;9.97;176;5.36;107;3.49;149;1.74;;;187;0.13;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;148;Federal;;;105;14.96;139;2.13;76;4.83;;;1;8;;;;;;;;;
+2023;quimica;Universidade da Região de Joinville;SC;149;Privada;95;9.97;178;4.58;139;2.13;154;1.52;;;168;0.93;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul;MS;150;Federal;;;110;14.28;126;2.68;105;3.6;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Extremo Sul Catarinense;SC;151;Privada;95;9.97;182;3.98;150;1.66;154;1.52;;;171;0.8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;152;Federal;;;112;13.94;139;2.13;100;3.81;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;153;Federal;;;114;13.73;130;2.51;114;3.22;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;154;Federal;;;116;13.51;138;2.17;111;3.34;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;155;Federal;;;119;13.33;184;0.21;69;5.12;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;156;Federal;;;120;13.23;120;2.94;136;2.29;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário da Fundação Herminio Ometto;SP;157;Privada;95;9.97;185;3.22;161;1.19;148;1.78;;;184;0.25;;;;;;;;;
+2023;quimica;Universidade Federal do Amapá;AP;158;Federal;;;125;12.5;155;1.45;118;3.05;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;159;Federal;;;126;12.41;153;1.53;122;2.88;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;160;Federal;;;127;12.37;174;0.64;102;3.73;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Estado de Minas Gerais;MG;161;Estadual;;;132;12.11;156;1.4;126;2.71;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;162;Federal;;;134;11.99;133;2.38;152;1.61;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;163;Federal;;;136;11.52;163;1.11;133;2.41;;;1;8;;;;;;;;;
+2023;quimica;Universidade do Estado do Amapá;AP;164;Estadual;;;137;11.39;178;0.47;121;2.92;;;1;8;;;;;;;;;
+2023;quimica;Faculdades Integradas Maria Imaculada;SP;165;Privada;;;139;11.01;137;2.21;171;0.8;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Faema;RO;166;Privada;;;142;10.76;187;0.09;127;2.67;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;167;Federal;;;143;10.71;173;0.68;142;2.03;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Ideau;RS;168;Privada;;;144;10.63;150;1.66;167;0.97;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário Fundação de Ensino Octávio Bastos;SP;169;Privada;;;145;10.61;79;4.68;75;4.87;;;165;1.06;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;170;Federal;;;147;10.17;127;2.64;52;5.84;;;150;1.69;;;;;;;;;
+2023;quimica;Universidade Estadual de Mato Grosso do Sul;MS;171;Estadual;;;152;9.85;81;4.6;93;4.11;;;163;1.14;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;172;Federal;;;154;9.48;160;1.23;184;0.25;;;1;8;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;173;Federal;;;156;9.18;188;0.04;163;1.14;;;1;8;;;;;;;;;
+2023;quimica;Instituto Municipal de Ensino Superior de Assis;SP;174;Municipal;;;157;9.1;145;1.87;38;6.43;;;171;0.8;;;;;;;;;
+2023;quimica;Centro Universitário Católico Salesiano Auxilium;SP;175;Privada;;;158;9.06;183;0.26;171;0.8;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário de Adamantina;SP;176;Municipal;;;159;8.98;154;1.49;38;6.43;;;165;1.06;;;;;;;;;
+2023;quimica;Centro Universitário Amparense;SP;177;Privada;;;161;8.8;;;171;0.8;;;1;8;;;;;;;;;
+2023;quimica;Centro Universitário de Goiás;GO;178;Privada;;;162;8.45;108;3.45;84;4.49;;;178;0.51;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;179;Federal;;;168;7.46;129;2.55;113;3.26;;;151;1.65;;;;;;;;;
+2023;quimica;Faculdades Integradas de Fernandópolis;SP;180;Privada;;;169;6.82;165;1.02;91;4.19;;;152;1.61;;;;;;;;;
+2023;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;181;Federal;;;170;6.27;162;1.15;103;3.68;;;156;1.44;;;;;;;;;
+2023;quimica;Instituto Luterano de Ensino Superior de Itumbiara;GO;182;Privada;;;172;6.02;179;0.43;84;4.49;;;164;1.1;;;;;;;;;
+2023;quimica;Centro Universitário da Fundação Educacional de Barretos;SP;183;Privada;;;174;5.48;83;4.51;171;0.8;;;186;0.17;;;;;;;;;
+2023;quimica;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;184;Privada;;;177;4.71;158;1.32;117;3.09;;;183;0.3;;;;;;;;;
+2023;quimica;Centro Universitário Campo Limpo Paulista;SP;185;Privada;;;180;4.29;147;1.79;164;1.1;;;157;1.4;;;;;;;;;
+2023;quimica;Universidade de Mogi das Cruzes;SP;186;Privada;;;186;3.06;175;0.6;160;1.27;;;162;1.19;;;;;;;;;
+2023;quimica;Centro Universitário Fieo;SP;187;Privada;;;187;2.63;166;0.98;171;0.8;;;170;0.85;;;;;;;;;
+2023;quimica;Faculdade Mozarteum de São Paulo;SP;188;Privada;;;188;2.37;185;0.17;171;0.8;;;157;1.4;;;;;;;;;
+2023;quimica;Centro Universitário de Paulínia;SP;189;Privada;;;189;2.08;179;0.43;159;1.31;;;182;0.34;;;;;;;;;
+2024;quimica;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.28;;;32;6.67;;;1;8;;;10;7.61;1;40;;;
+2024;quimica;Universidade Estadual de Campinas;SP;2;Estadual;2;35.72;2;62.25;;;6;7.79;;;1;8;;;17;7.31;2;39.15;;;
+2024;quimica;Universidade Federal de Minas Gerais;MG;3;Federal;5;34.88;3;61.74;;;2;7.96;;;1;8;;;13;7.48;3;38.3;;;
+2024;quimica;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;35.72;4;59.85;;;9;7.66;;;1;8;;;50;5.89;3;38.3;;;
+2024;quimica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.72;6;58.8;;;35;6.54;;;1;8;;;9;7.66;5;36.6;;;
+2024;quimica;Universidade Federal de São Carlos;SP;6;Federal;8;34.05;5;59.35;;;20;7.18;;;1;8;;;11;7.57;5;36.6;;;
+2024;quimica;Universidade Federal do Rio Grande do Sul;RS;7;Federal;8;34.05;7;57.64;;;13;7.48;;;1;8;;;18;7.27;7;34.89;;;
+2024;quimica;Universidade Federal de Santa Catarina;SC;8;Federal;8;34.05;9;57.09;;;4;7.87;;;1;8;;;20;7.18;8;34.04;;;
+2024;quimica;Universidade Federal Fluminense;RJ;9;Federal;8;34.05;12;53.14;;;15;7.4;;;1;8;;;22;7.1;12;30.64;;;
+2024;quimica;Fundação Universidade Federal do ABC;SP;10;Federal;27;28.74;8;57.61;;;11;7.57;;;1;8;;;1;8;8;34.04;;;
+2024;quimica;Universidade Federal de Goiás;GO;11;Federal;8;34.05;18;51.33;;;53;5.76;;;1;8;;;26;6.93;12;30.64;;;
+2024;quimica;Universidade Federal da Bahia;BA;12;Federal;5;34.88;23;50.17;;;29;6.8;;;1;8;;;77;4.73;12;30.64;;;
+2024;quimica;Universidade Federal do Paraná;PR;13;Federal;8;34.05;20;50.73;;;10;7.61;;;131;2.41;;;32;6.67;8;34.04;;;
+2024;quimica;Universidade Federal de Santa Maria;RS;14;Federal;27;28.74;10;55.89;;;33;6.62;;;1;8;;;19;7.23;8;34.04;;;
+2024;quimica;Universidade Federal do Ceará;CE;15;Federal;8;34.05;21;50.26;;;45;6.11;;;1;8;;;59;5.51;12;30.64;;;
+2024;quimica;Universidade Federal da Paraíba;PB;16;Federal;8;34.05;25;49.65;;;66;5.2;;;1;8;;;52;5.81;12;30.64;;;
+2024;quimica;Universidade Federal de Pernambuco;PE;17;Federal;8;34.05;26;49.61;;;40;6.32;;;1;8;;;79;4.65;12;30.64;;;
+2024;quimica;Universidade de Brasília;DF;18;Federal;27;28.74;13;52.32;;;12;7.53;;;1;8;;;44;6.15;12;30.64;;;
+2024;quimica;Universidade Estadual de Londrina;PR;19;Estadual;27;28.74;14;52.1;;;24;7.01;;;1;8;;;37;6.45;12;30.64;;;
+2024;quimica;Universidade Federal de Viçosa;MG;20;Federal;27;28.74;15;51.98;;;25;6.97;;;1;8;;;39;6.37;12;30.64;;;
+2024;quimica;Universidade Federal do Rio Grande do Norte;RN;21;Federal;27;28.74;16;51.97;;;21;7.14;;;1;8;;;43;6.19;12;30.64;;;
+2024;quimica;Universidade Federal Rural do Rio de Janeiro;RJ;22;Federal;27;28.74;17;51.5;;;22;7.1;;;1;8;;;53;5.76;12;30.64;;;
+2024;quimica;Universidade Estadual do Ceará;CE;23;Estadual;8;34.05;35;45.74;;;102;3.66;;;1;8;;;107;3.44;12;30.64;;;
+2024;quimica;Universidade Federal de Uberlândia;MG;24;Federal;27;28.74;19;51.03;;;71;4.99;;;1;8;;;15;7.4;12;30.64;;;
+2024;quimica;Universidade do Estado do Rio de Janeiro;RJ;25;Estadual;5;34.88;38;44.84;;;46;6.07;;;137;2.15;;;48;5.98;12;30.64;;;
+2024;quimica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;26;Privada;8;34.05;40;44.32;;;8;7.7;;;170;0.73;;;65;5.25;12;30.64;;;
+2024;quimica;Universidade Tecnológica Federal do Paraná;PR;27;Federal;27;28.74;27;49.56;;;64;5.29;;;1;8;;;56;5.63;12;30.64;;;
+2024;quimica;Universidade Federal do Amazonas;AM;28;Federal;27;28.74;30;48.75;;;58;5.55;;;1;8;;;81;4.56;12;30.64;;;
+2024;quimica;Pontifícia Universidade Católica do Paraná;PR;29;Privada;8;34.05;42;42.82;;;16;7.36;;;162;1.08;;;100;3.74;12;30.64;;;
+2024;quimica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;30;Privada;27;28.74;33;47.76;;;1;8;;;154;1.42;;;8;7.7;12;30.64;;;
+2024;quimica;Universidade Presbiteriana Mackenzie;SP;31;Privada;8;34.05;45;40.79;;;60;5.46;;;171;0.69;;;94;4;12;30.64;;;
+2024;quimica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;32;Estadual;60;19.54;11;54.38;;;7;7.74;;;1;8;;;1;8;12;30.64;;;
+2024;quimica;Universidade Estadual de Maringá;PR;33;Estadual;60;19.54;22;50.26;;;59;5.51;;;1;8;;;45;6.11;12;30.64;;;
+2024;quimica;Universidade Federal de Alfenas;MG;34;Federal;60;19.54;24;49.74;;;91;4.13;;;1;8;;;25;6.97;12;30.64;;;
+2024;quimica;Universidade Estadual do Centro Oeste;PR;35;Estadual;60;19.54;28;49.52;;;54;5.72;;;1;8;;;67;5.16;12;30.64;;;
+2024;quimica;Faculdades Oswaldo Cruz;SP;36;Privada;27;28.74;46;39.8;;;76;4.77;;;174;0.56;;;98;3.83;12;30.64;;;
+2024;quimica;Universidade de Franca;SP;37;Privada;60;19.54;31;48.1;;;153;1.46;;;1;8;;;1;8;12;30.64;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;38;Federal;60;19.54;34;45.82;;;77;4.73;;;1;8;;;130;2.45;12;30.64;;;
+2024;quimica;Universidade Federal de Pelotas;RS;39;Federal;60;19.54;36;45.65;;;90;4.17;;;1;8;;;121;2.84;12;30.64;;;
+2024;quimica;Universidade Federal de Mato Grosso;MT;39;Federal;60;19.54;36;45.65;;;135;2.24;;;1;8;;;76;4.77;12;30.64;;;
+2024;quimica;Universidade Federal de Campina Grande;PB;41;Federal;60;19.54;39;44.49;;;136;2.19;;;1;8;;;102;3.66;12;30.64;;;
+2024;quimica;Universidade Federal de Mato Grosso do Sul;MS;42;Federal;60;19.54;41;44.15;;;65;5.25;;;136;2.19;;;46;6.07;12;30.64;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;43;Federal;60;19.54;43;42.22;;;129;2.5;;;1;8;;;162;1.08;12;30.64;;;
+2024;quimica;Universidade do Estado da Bahia;BA;44;Estadual;8;34.05;55;21.16;;;37;6.45;;;1;8;;;31;6.71;;;;;
+2024;quimica;Universidade Federal de Alagoas;AL;45;Federal;8;34.05;74;17.93;;;86;4.34;;;1;8;;;57;5.59;;;;;
+2024;quimica;Universidade Federal de São Paulo;SP;46;Federal;27;28.74;49;22.41;;;38;6.41;;;1;8;;;1;8;;;;;
+2024;quimica;Universidade Católica de Brasília;DF;47;Privada;27;28.74;51;22.02;;;47;6.02;;;1;8;;;1;8;;;;;
+2024;quimica;Universidade Federal de Juiz de Fora;MG;48;Federal;27;28.74;52;21.94;;;26;6.93;;;1;8;;;24;7.01;;;;;
+2024;quimica;Universidade Federal do Piauí;PI;49;Federal;8;34.05;93;16.39;;;75;4.82;;;1;8;;;104;3.57;;;;;
+2024;quimica;Universidade Federal do Maranhão;MA;50;Federal;8;34.05;97;15.44;;;115;3.1;;;1;8;;;86;4.34;;;;;
+2024;quimica;Universidade Federal do Espírito Santo;ES;51;Federal;27;28.74;57;20.39;;;28;6.84;;;1;8;;;58;5.55;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;52;Federal;;;29;48.87;;;30;6.75;;;1;8;;;106;3.48;12;30.64;;;
+2024;quimica;Universidade Federal Rural de Pernambuco;PE;53;Federal;27;28.74;61;19.7;;;48;5.98;;;1;8;;;54;5.72;;;;;
+2024;quimica;Fundação Universidade Federal da Grande Dourados;MS;54;Federal;;;32;47.8;;;131;2.41;;;1;8;;;30;6.75;12;30.64;;;
+2024;quimica;Universidade Federal de Sergipe;SE;55;Federal;27;28.74;72;18.03;;;79;4.65;;;1;8;;;62;5.38;;;;;
+2024;quimica;Universidade Estadual do Oeste do Paraná;PR;56;Estadual;27;28.74;76;17.85;;;84;4.43;;;1;8;;;61;5.42;;;;;
+2024;quimica;Universidade Estadual de Santa Cruz;BA;57;Estadual;27;28.74;85;16.9;;;83;4.47;;;1;8;;;84;4.43;;;;;
+2024;quimica;Universidade Estadual de Goiás;GO;58;Estadual;27;28.74;94;16.22;;;92;4.09;;;1;8;;;91;4.13;;;;;
+2024;quimica;Pontifícia Universidade Católica de Goiás;GO;59;Privada;8;34.05;143;9.16;;;81;4.56;;;150;1.59;;;117;3.01;;;;;
+2024;quimica;Universidade Estadual do Sudoeste da Bahia;BA;60;Estadual;27;28.74;105;13.85;;;125;2.67;;;1;8;;;113;3.18;;;;;
+2024;quimica;Universidade Federal da Integração Latino-americana;PR;61;Federal;60;19.54;48;22.96;;;3;7.91;;;1;8;;;23;7.05;;;;;
+2024;quimica;Universidade Estadual do Piauí;PI;62;Estadual;27;28.74;110;13.5;;;126;2.62;;;1;8;;;120;2.88;;;;;
+2024;quimica;Universidade Federal do Pará;PA;63;Federal;27;28.74;114;13.21;;;181;0.26;;;1;8;;;72;4.95;;;;;
+2024;quimica;Universidade Federal de Lavras;MG;64;Federal;60;19.54;50;22.24;;;31;6.71;;;1;8;;;12;7.53;;;;;
+2024;quimica;Universidade Federal de Ouro Preto;MG;65;Federal;60;19.54;54;21.73;;;19;7.23;;;1;8;;;36;6.5;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;66;Federal;27;28.74;118;12.3;;;111;3.27;;;1;8;;;163;1.03;;;;;
+2024;quimica;Universidade Estadual de Mato Grosso do Sul;MS;67;Estadual;;;44;40.84;;;89;4.22;;;165;0.95;;;70;5.03;12;30.64;;;
+2024;quimica;Universidade Federal de São João Del Rei;MG;68;Federal;60;19.54;56;20.47;;;56;5.63;;;1;8;;;28;6.84;;;;;
+2024;quimica;Universidade Estadual do Maranhão;MA;69;Estadual;8;34.05;166;5.8;;;133;2.32;;;133;2.32;;;160;1.16;;;;;
+2024;quimica;Universidade Federal do Rio Grande;RS;70;Federal;60;19.54;58;20.08;;;27;6.88;;;1;8;;;66;5.2;;;;;
+2024;quimica;Universidade Estadual do Paraná;PR;71;Estadual;60;19.54;59;20.04;;;23;7.05;;;1;8;;;71;4.99;;;;;
+2024;quimica;Universidade Estadual de Ponta Grossa;PR;72;Estadual;60;19.54;62;19.31;;;84;4.43;;;1;8;;;27;6.88;;;;;
+2024;quimica;Universidade Federal do Triângulo Mineiro;MG;73;Federal;60;19.54;63;19.02;;;49;5.94;;;1;8;;;69;5.08;;;;;
+2024;quimica;Fundação Universidade Federal do Pampa;RS;74;Federal;60;19.54;64;18.97;;;68;5.12;;;1;8;;;51;5.85;;;;;
+2024;quimica;Universidade Regional do Cariri;CE;75;Estadual;60;19.54;65;18.66;;;63;5.33;;;1;8;;;63;5.33;;;;;
+2024;quimica;Universidade Federal do Oeste da Bahia;BA;76;Federal;60;19.54;66;18.58;;;18;7.27;;;1;8;;;110;3.31;;;;;
+2024;quimica;Fundação Universidade Federal do Tocantins;TO;77;Federal;60;19.54;68;18.41;;;97;3.87;;;1;8;;;35;6.54;;;;;
+2024;quimica;Universidade Federal de Jataí;GO;77;Federal;60;19.54;68;18.41;;;52;5.81;;;1;8;;;80;4.6;;;;;
+2024;quimica;Universidade Estadual Vale do Acaraú;CE;79;Estadual;27;28.74;143;9.16;;;116;3.05;;;139;2.07;;;93;4.04;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;80;Federal;60;19.54;75;17.89;;;61;5.42;;;1;8;;;83;4.47;;;;;
+2024;quimica;Centro Federal de Educação Tecnológica de Minas Gerais;MG;81;Federal;60;19.54;82;17.25;;;119;2.93;;;1;8;;;40;6.32;;;;;
+2024;quimica;Universidade Estadual de Feira de Santana;BA;82;Estadual;27;28.74;152;7.87;;;80;4.6;;;127;2.58;;;171;0.69;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;83;Federal;60;19.54;83;17.03;;;41;6.28;;;1;8;;;123;2.75;;;;;
+2024;quimica;Centro Universitário Amparense;SP;84;Privada;60;19.54;85;16.9;;;166;0.9;;;1;8;;;1;8;;;;;
+2024;quimica;Universidade La Salle;RS;85;Privada;60;19.54;87;16.82;;;105;3.53;;;1;8;;;64;5.29;;;;;
+2024;quimica;Fundação Universidade Federal de Rondônia;RO;86;Federal;60;19.54;88;16.73;;;93;4.04;;;1;8;;;78;4.69;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;86;Federal;60;19.54;88;16.73;;;34;6.58;;;1;8;;;137;2.15;;;;;
+2024;quimica;Universidade Pitágoras Unopar Anhanguera;PR;88;Privada;27;28.74;157;7.4;;;161;1.12;;;141;1.98;;;87;4.3;;;;;
+2024;quimica;Universidade Federal de Roraima;RR;88;Federal;60;19.54;90;16.6;;;106;3.48;;;1;8;;;68;5.12;;;;;
+2024;quimica;Universidade do Estado do Rio Grande do Norte;RN;90;Estadual;60;19.54;92;16.44;;;36;6.5;;;1;8;;;142;1.94;;;;;
+2024;quimica;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;91;Privada;;;47;35.93;;;143;1.89;;;183;0.17;;;112;3.23;12;30.64;;;
+2024;quimica;Universidade Federal do Acre;AC;92;Federal;60;19.54;95;16.13;;;70;5.03;;;1;8;;;115;3.1;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;93;Federal;60;19.54;96;15.92;;;42;6.24;;;1;8;;;148;1.68;;;;;
+2024;quimica;Universidade do Sul de Santa Catarina;SC;94;Privada;27;28.74;161;6.62;;;149;1.63;;;149;1.63;;;109;3.36;;;;;
+2024;quimica;Universidade Católica de Pernambuco;PE;95;Privada;27;28.74;163;6.03;;;142;1.94;;;184;0.13;;;95;3.96;;;;;
+2024;quimica;Universidade Católica de Santos;SP;96;Privada;60;19.54;98;15.14;;;166;0.9;;;1;8;;;42;6.24;;;;;
+2024;quimica;Universidade Estadual da Paraíba;PB;97;Estadual;60;19.54;100;14.58;;;103;3.61;;;1;8;;;118;2.97;;;;;
+2024;quimica;Faculdade Pio Décimo;SE;98;Privada;60;19.54;101;14.37;;;134;2.28;;;1;8;;;92;4.09;;;;;
+2024;quimica;Pontifícia Universidade Católica de Campinas;SP;99;Privada;27;28.74;172;4.78;;;166;0.9;;;185;0.09;;;99;3.79;;;;;
+2024;quimica;Universidade Federal do Sul e Sudeste do Pará;PA;100;Federal;60;19.54;104;13.94;;;181;0.26;;;1;8;;;55;5.68;;;;;
+2024;quimica;Universidade do Grande Rio Professor José de Souza Herdy;RJ;100;Privada;27;28.74;173;4.74;;;141;1.98;;;132;2.37;;;178;0.39;;;;;
+2024;quimica;Universidade Federal do Cariri;CE;102;Federal;60;19.54;107;13.81;;;128;2.54;;;1;8;;;111;3.27;;;;;
+2024;quimica;Universidade do Oeste Paulista;SP;103;Privada;60;19.54;109;13.55;;;148;1.68;;;1;8;;;97;3.87;;;;;
+2024;quimica;Universidade do Estado do Pará;PA;104;Estadual;27;28.74;176;4.27;;;181;0.26;;;129;2.5;;;152;1.51;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;105;Federal;60;19.54;115;13.12;;;88;4.26;;;1;8;;;167;0.86;;;;;
+2024;quimica;Universidade do Estado de Minas Gerais;MG;106;Estadual;60;19.54;119;12.18;;;122;2.8;;;1;8;;;155;1.38;;;;;
+2024;quimica;Universidade Estadual da Região Tocantina do Maranhão;MA;107;Estadual;60;19.54;121;12.17;;;104;3.57;;;1;8;;;173;0.6;;;;;
+2024;quimica;Universidade do Oeste de Santa Catarina;SC;108;Privada;60;19.54;125;11.48;;;149;1.63;;;1;8;;;144;1.85;;;;;
+2024;quimica;Centro Universitário Sagrado Coração;SP;109;Privada;60;19.54;127;10.97;;;166;0.9;;;1;8;;;139;2.07;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;110;Federal;60;19.54;129;10.84;;;139;2.07;;;1;8;;;169;0.77;;;;;
+2024;quimica;Universidade Luterana do Brasil;RS;111;Privada;60;19.54;132;10.33;;;44;6.15;;;145;1.81;;;132;2.37;;;;;
+2024;quimica;Universidade do Vale do Taquari;RS;112;Privada;60;19.54;134;10.29;;;162;1.08;;;144;1.85;;;16;7.36;;;;;
+2024;quimica;Universidade do Estado do Amazonas;AM;113;Estadual;60;19.54;135;10.28;;;146;1.76;;;1;8;;;175;0.52;;;;;
+2024;quimica;Fundação Universidade do Estado de Santa Catarina;SC;114;Estadual;60;19.54;136;10.11;;;14;7.44;;;161;1.12;;;151;1.55;;;;;
+2024;quimica;Universidade Estadual de Alagoas;AL;115;Estadual;60;19.54;137;10.02;;;157;1.29;;;1;8;;;170;0.73;;;;;
+2024;quimica;Universidade Regional de Blumenau;SC;116;Municipal;60;19.54;138;9.98;;;78;4.69;;;163;1.03;;;88;4.26;;;;;
+2024;quimica;Universidade de Passo Fundo;RS;117;Privada;60;19.54;139;9.33;;;95;3.96;;;153;1.46;;;96;3.91;;;;;
+2024;quimica;Fundação Universidade Federal do Vale do São Francisco;PE;118;Federal;60;19.54;145;8.95;;;111;3.27;;;141;1.98;;;101;3.7;;;;;
+2024;quimica;Universidade de Caxias do Sul;RS;119;Privada;60;19.54;146;8.9;;;121;2.84;;;160;1.16;;;73;4.9;;;;;
+2024;quimica;Centro Universitário Braz Cubas;SP;120;Privada;60;19.54;149;8.68;;;166;0.9;;;146;1.76;;;47;6.02;;;;;
+2024;quimica;Universidade Anhanguera de São Paulo;SP;121;Privada;60;19.54;151;8.3;;;165;0.95;;;143;1.89;;;60;5.46;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;122;Federal;60;19.54;154;7.74;;;130;2.45;;;126;2.62;;;125;2.67;;;;;
+2024;quimica;Universidade Cruzeiro do Sul;SP;123;Privada;60;19.54;156;7.44;;;166;0.9;;;173;0.6;;;49;5.94;;;;;
+2024;quimica;Centro Universitário das Américas;SP;124;Privada;60;19.54;158;6.84;;;160;1.16;;;168;0.82;;;74;4.86;;;;;
+2024;quimica;Universidade Estadual de Roraima;RR;125;Estadual;60;19.54;160;6.75;;;156;1.33;;;166;0.9;;;82;4.52;;;;;
+2024;quimica;Universidade de Santa Cruz do Sul;RS;126;Privada;60;19.54;165;5.9;;;162;1.08;;;157;1.29;;;105;3.53;;;;;
+2024;quimica;Universidade do Extremo Sul Catarinense;SC;127;Privada;60;19.54;168;5.02;;;149;1.63;;;159;1.2;;;136;2.19;;;;;
+2024;quimica;Centro Universitário Fundação Santo André;SP;128;Privada;60;19.54;169;4.98;;;166;0.9;;;176;0.47;;;103;3.61;;;;;
+2024;quimica;Universidade de Sorocaba;SP;129;Privada;60;19.54;170;4.9;;;145;1.81;;;186;0.04;;;116;3.05;;;;;
+2024;quimica;Universidade Universus Veritas Guarulhos;SP;130;Privada;60;19.54;174;4.51;;;166;0.9;;;164;0.99;;;126;2.62;;;;;
+2024;quimica;Universidade da Região de Joinville;SC;131;Privada;60;19.54;175;4.47;;;149;1.63;;;167;0.86;;;141;1.98;;;;;
+2024;quimica;Centro Universitário da Fundação Herminio Ometto;SP;132;Privada;60;19.54;178;3.53;;;144;1.85;;;181;0.26;;;154;1.42;;;;;
+2024;quimica;Faculdade de São Bernardo do Campo - FASB I;SP;133;Privada;60;19.54;180;3.49;;;140;2.02;;;182;0.22;;;158;1.25;;;;;
+2024;quimica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;134;Federal;;;53;21.81;;;39;6.37;;;1;8;;;14;7.44;;;;;
+2024;quimica;Universidade Federal de Catalão;GO;135;Federal;;;60;19.79;;;62;5.38;;;1;8;;;38;6.41;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;136;Federal;;;66;18.58;;;127;2.58;;;1;8;;;1;8;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;137;Federal;;;70;18.37;;;5;7.83;;;1;8;;;128;2.54;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;138;Federal;;;71;18.24;;;51;5.85;;;1;8;;;85;4.39;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;139;Federal;;;73;18.02;;;17;7.31;;;1;8;;;124;2.71;;;;;
+2024;quimica;Universidade Federal de Itajubá;MG;140;Federal;;;77;17.68;;;74;4.86;;;1;8;;;75;4.82;;;;;
+2024;quimica;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;141;Federal;;;78;17.51;;;119;2.93;;;1;8;;;34;6.58;;;;;
+2024;quimica;Universidade Federal do Recôncavo da Bahia;BA;142;Federal;;;79;17.33;;;43;6.19;;;1;8;;;114;3.14;;;;;
+2024;quimica;Centro Universitário Ages;BA;143;Privada;;;80;17.3;;;69;5.08;;;1;8;;;89;4.22;;;;;
+2024;quimica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;144;Federal;;;81;17.29;;;137;2.15;;;1;8;;;21;7.14;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;145;Federal;;;84;16.99;;;57;5.59;;;1;8;;;108;3.4;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;146;Federal;;;91;16.48;;;55;5.68;;;1;8;;;122;2.8;;;;;
+2024;quimica;Universidade Federal do Oeste do Pará;PA;147;Federal;;;99;15.06;;;181;0.26;;;1;8;;;29;6.8;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;148;Federal;;;102;14.02;;;73;4.9;;;1;8;;;161;1.12;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso do Sul;MS;149;Federal;;;103;13.94;;;101;3.7;;;1;8;;;135;2.24;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;150;Federal;;;106;13.81;;;110;3.31;;;1;8;;;129;2.5;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;151;Federal;;;108;13.72;;;96;3.91;;;1;8;;;145;1.81;;;;;
+2024;quimica;Universidade Federal da Fronteira Sul;SC;152;Federal;;;111;13.47;;;72;4.95;;;135;2.24;;;41;6.28;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;153;Federal;;;112;13.46;;;107;3.44;;;1;8;;;140;2.02;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;154;Federal;;;113;13.33;;;67;5.16;;;1;8;;;183;0.17;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;155;Federal;;;116;12.95;;;132;2.37;;;1;8;;;127;2.58;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;156;Federal;;;117;12.56;;;118;2.97;;;1;8;;;150;1.59;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;157;Federal;;;120;12.17;;;97;3.87;;;1;8;;;180;0.3;;;;;
+2024;quimica;Universidade Federal do Amapá;AP;158;Federal;;;122;12.13;;;114;3.14;;;1;8;;;164;0.99;;;;;
+2024;quimica;Universidade do Estado do Amapá;AP;159;Estadual;;;123;11.96;;;117;3.01;;;1;8;;;165;0.95;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;160;Federal;;;124;11.83;;;147;1.72;;;1;8;;;138;2.11;;;;;
+2024;quimica;Faculdades Integradas Maria Imaculada;SP;161;Privada;;;126;11.31;;;166;0.9;;;1;8;;;131;2.41;;;;;
+2024;quimica;Centro Universitário Faema;RO;162;Privada;;;128;10.88;;;123;2.75;;;1;8;;;184;0.13;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;163;Federal;;;130;10.76;;;138;2.11;;;1;8;;;172;0.65;;;;;
+2024;quimica;Centro Universitário Ideau;RS;164;Privada;;;131;10.37;;;162;1.08;;;1;8;;;157;1.29;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;165;Federal;;;133;10.32;;;50;5.89;;;138;2.11;;;133;2.32;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;166;Federal;;;140;9.29;;;158;1.25;;;1;8;;;186;0.04;;;;;
+2024;quimica;Centro Universitário Católico Salesiano Auxilium;SP;167;Privada;;;141;9.24;;;166;0.9;;;1;8;;;179;0.34;;;;;
+2024;quimica;Universidade Metodista de Piracicaba;SP;167;Privada;;;141;9.24;;;166;0.9;;;147;1.72;;;33;6.62;;;;;
+2024;quimica;Universidade do Vale do Paraíba;SP;169;Privada;;;147;8.87;;;94;4;;;172;0.65;;;89;4.22;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;170;Federal;;;148;8.69;;;181;0.26;;;1;8;;;177;0.43;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;171;Federal;;;150;8.31;;;109;3.36;;;140;2.02;;;119;2.93;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;172;Federal;;;153;7.75;;;99;3.79;;;148;1.68;;;134;2.28;;;;;
+2024;quimica;Faculdades Integradas de Fernandópolis;SP;173;Privada;;;154;7.74;;;87;4.3;;;151;1.55;;;143;1.89;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;174;Federal;;;159;6.84;;;100;3.74;;;128;2.54;;;174;0.56;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;175;Federal;;;162;6.32;;;108;3.4;;;130;2.45;;;176;0.47;;;;;
+2024;quimica;Centro Universitário Ceuni;AM;176;Privada;;;164;6.02;;;123;2.75;;;152;1.51;;;146;1.76;;;;;
+2024;quimica;Instituto Luterano de Ensino Superior de Itumbiara;GO;177;Privada;;;167;5.59;;;81;4.56;;;169;0.77;;;181;0.26;;;;;
+2024;quimica;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;178;Privada;;;171;4.85;;;113;3.18;;;179;0.34;;;156;1.33;;;;;
+2024;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;179;Federal;;;177;4;;;181;0.26;;;134;2.28;;;153;1.46;;;;;
+2024;quimica;Universidade de Mogi das Cruzes;SP;180;Privada;;;179;3.53;;;155;1.38;;;156;1.33;;;168;0.82;;;;;
+2024;quimica;Centro Universitário Campo Limpo Paulista;SP;181;Privada;;;181;3.35;;;159;1.2;;;158;1.25;;;166;0.9;;;;;
+2024;quimica;Instituto Municipal de Ensino Superior de Assis;SP;182;Municipal;;;182;3.05;;;166;0.9;;;175;0.52;;;149;1.63;;;;;
+2024;quimica;Centro Universitário da Fundação Educacional de Barretos;SP;183;Privada;;;183;2.92;;;166;0.9;;;180;0.3;;;147;1.72;;;;;
+2024;quimica;Centro Universitário Fieo;SP;184;Privada;;;184;2.49;;;166;0.9;;;178;0.39;;;159;1.2;;;;;
+2024;quimica;Faculdade Mozarteum de São Paulo;SP;185;Privada;;;185;2.37;;;166;0.9;;;155;1.38;;;185;0.09;;;;;
+2024;quimica;Centro Universitário de Paulínia;SP;186;Privada;;;186;2.07;;;154;1.42;;;177;0.43;;;182;0.22;;;;;
+2025;quimica;Universidade de São Paulo;SP;1;Estadual;1;30;1;67.94;;;32;6.63;;;1;8;;;7;7.74;1;40;1;13;5.57
+2025;quimica;Universidade Estadual de Campinas;SP;2;Estadual;2;29.73;2;66.18;;;6;7.78;;;1;8;;;15;7.38;2;39.11;2;60;3.91
+2025;quimica;Universidade Federal de Minas Gerais;MG;3;Federal;2;29.73;3;64.85;;;2;7.96;;;1;8;;;12;7.51;4;37.33;3;56;4.05
+2025;quimica;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;4;Estadual;2;29.73;4;64.62;;;35;6.5;;;1;8;;;6;7.78;4;37.33;4;29;5.01
+2025;quimica;Universidade Federal do Rio de Janeiro;RJ;5;Federal;2;29.73;6;62.42;;;9;7.65;;;1;8;;;57;5.53;3;38.22;5;85;3.02
+2025;quimica;Universidade Federal de São Carlos;SP;6;Federal;13;26.79;5;63.25;;;20;7.16;;;1;8;;;11;7.56;4;37.33;6;80;3.2
+2025;quimica;Universidade Federal do Paraná;PR;7;Federal;13;26.79;7;62.14;;;10;7.6;;;1;8;;;29;6.76;8;33.78;7;1;6
+2025;quimica;Universidade Federal do Rio Grande do Sul;RS;8;Federal;13;26.79;8;60.92;;;13;7.47;;;1;8;;;21;7.12;7;34.67;8;67;3.66
+2025;quimica;Universidade Federal de Santa Catarina;SC;9;Federal;13;26.79;9;60.61;;;4;7.87;;;1;8;;;19;7.2;8;33.78;9;64;3.76
+2025;quimica;Fundação Universidade Federal do ABC;SP;10;Federal;13;26.79;10;60.17;;;11;7.56;;;1;8;;;1;8;11;31.11;10;15;5.5
+2025;quimica;Universidade Federal da Bahia;BA;11;Federal;6;28.66;13;56.38;;;28;6.81;;;1;8;;;81;4.46;11;31.11;11;1;6
+2025;quimica;Universidade Federal de Viçosa;MG;12;Federal;13;26.79;11;57.41;;;25;6.94;;;1;8;;;27;6.85;11;31.11;12;43;4.51
+2025;quimica;Universidade Federal de Santa Maria;RS;13;Federal;13;26.79;12;56.68;;;33;6.59;;;1;8;;;10;7.6;8;33.78;13;150;0.71
+2025;quimica;Universidade Federal de Pernambuco;PE;14;Federal;6;28.66;16;53.33;;;40;6.28;;;1;8;;;78;4.6;11;31.11;14;76;3.34
+2025;quimica;Universidade Federal do Amazonas;AM;15;Federal;13;26.79;15;53.74;;;58;5.48;;;1;8;;;89;4.11;11;31.11;15;28;5.04
+2025;quimica;Pontifícia Universidade Católica do Rio de Janeiro;RJ;16;Privada;13;26.79;17;52.67;;;1;8;;;148;1.5;;;8;7.69;11;31.11;1;47;4.37
+2025;quimica;Universidade Presbiteriana Mackenzie;SP;17;Privada;6;28.66;24;46.66;;;60;5.39;;;161;0.93;;;85;4.29;11;31.11;2;31;4.94
+2025;quimica;Universidade Estadual de Londrina;PR;18;Estadual;13;26.79;19;48.15;;;24;6.98;;;1;8;;;38;6.37;21;22.22;16;41;4.58
+2025;quimica;Universidade Estadual de Maringá;PR;19;Estadual;43;18.75;14;55.97;;;59;5.44;;;1;8;;;45;6.06;11;31.11;17;19;5.36
+2025;quimica;Universidade Federal de São Paulo;SP;20;Federal;13;26.79;20;47.89;;;38;6.37;;;1;8;;;1;8;21;22.22;18;77;3.3
+2025;quimica;Universidade Federal Fluminense;RJ;21;Federal;6;28.66;26;45.6;;;15;7.38;;;1;8;;;26;6.9;21;22.22;19;139;1.1
+2025;quimica;Universidade Federal da Paraíba;PB;22;Federal;13;26.79;22;47.14;;;66;5.13;;;1;8;;;51;5.79;21;22.22;20;1;6
+2025;quimica;Universidade Federal do Ceará;CE;23;Federal;6;28.66;27;45.2;;;45;6.06;;;1;8;;;62;5.3;21;22.22;21;68;3.62
+2025;quimica;Universidade Federal de Goiás;GO;24;Federal;13;26.79;25;46.64;;;53;5.7;;;1;8;;;23;7.03;21;22.22;22;66;3.69
+2025;quimica;Universidade Estadual do Ceará;CE;25;Estadual;13;26.79;31;43.55;;;100;3.62;;;1;8;;;98;3.71;21;22.22;23;1;6
+2025;quimica;Universidade Tecnológica Federal do Paraná;PR;26;Federal;43;18.75;18;50.78;;;64;5.22;;;1;8;;;53;5.7;11;31.11;24;149;0.75
+2025;quimica;Universidade do Estado do Rio de Janeiro;RJ;27;Estadual;6;28.66;38;40.08;;;46;6.01;;;140;1.86;;;54;5.66;21;22.22;25;48;4.33
+2025;quimica;Pontifícia Universidade Católica do Paraná;PR;28;Privada;13;26.79;37;40.13;;;16;7.34;;;143;1.72;;;87;4.2;21;22.22;3;39;4.65
+2025;quimica;Universidade de Brasília;DF;29;Federal;43;18.75;21;47.78;;;12;7.51;;;1;8;;;47;5.97;21;22.22;26;55;4.08
+2025;quimica;Universidade Federal de Uberlândia;MG;30;Federal;43;18.75;23;47;;;71;4.91;;;1;8;;;13;7.47;21;22.22;27;46;4.4
+2025;quimica;Universidade Federal do Rio Grande do Norte;RN;31;Federal;43;18.75;28;45.08;;;21;7.12;;;1;8;;;40;6.28;21;22.22;28;129;1.46
+2025;quimica;Faculdades Oswaldo Cruz;SP;32;Privada;43;18.75;29;44.71;;;76;4.69;;;170;0.53;;;97;3.76;11;31.11;4;40;4.62
+2025;quimica;Universidade Federal de Mato Grosso;MT;33;Federal;43;18.75;34;41.24;;;132;2.21;;;1;8;;;80;4.51;21;22.22;29;49;4.3
+2025;quimica;Fundação Universidade Federal da Grande Dourados;MS;34;Federal;43;18.75;36;40.17;;;129;2.34;;;1;8;;;30;6.72;21;22.22;30;145;0.89
+2025;quimica;Universidade Federal de Mato Grosso do Sul;MS;35;Federal;43;18.75;39;39.25;;;65;5.17;;;130;2.3;;;50;5.83;21;22.22;31;65;3.73
+2025;quimica;Universidade Federal de Campina Grande;PB;36;Federal;43;18.75;41;38.56;;;133;2.17;;;1;8;;;90;4.07;21;22.22;32;111;2.1
+2025;quimica;Universidade Federal de Pelotas;RS;37;Federal;43;18.75;42;38.54;;;90;4.07;;;1;8;;;110;3.18;21;22.22;33;140;1.07
+2025;quimica;Universidade Federal de Juiz de Fora;MG;38;Federal;13;26.79;46;27.35;;;26;6.9;;;1;8;;;24;6.98;;;34;16;5.47
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;39;Federal;43;18.75;44;34.41;;;127;2.43;;;1;8;;;152;1.33;21;22.22;35;158;0.43
+2025;quimica;Universidade de Franca;SP;40;Privada;43;18.75;45;34.22;;;150;1.41;;;138;1.95;;;1;8;21;22.22;5;152;0.64
+2025;quimica;Universidade do Estado da Bahia;BA;41;Estadual;6;28.66;58;23.7;;;37;6.41;;;1;8;;;20;7.16;;;36;110;2.13
+2025;quimica;Universidade Federal de Alagoas;AL;42;Federal;13;26.79;61;22.7;;;86;4.24;;;1;8;;;61;5.35;;;37;26;5.11
+2025;quimica;Universidade Federal do Piauí;PI;43;Federal;13;26.79;78;20.08;;;75;4.73;;;1;8;;;96;3.8;;;38;70;3.55
+2025;quimica;Universidade Federal do Maranhão;MA;43;Federal;13;26.79;79;20.08;;;113;3.05;;;1;8;;;86;4.24;;;38;35;4.79
+2025;quimica;Universidade Federal do Pará;PA;45;Federal;13;26.79;87;18.47;;;173;0.4;;;1;8;;;69;4.99;;;40;27;5.08
+2025;quimica;Universidade Federal Rural do Rio de Janeiro;RJ;46;Federal;;;30;44.6;;;22;7.07;;;1;8;;;44;6.1;21;22.22;41;136;1.21
+2025;quimica;Universidade Estadual de Goiás;GO;47;Estadual;13;26.79;96;17.5;;;92;3.98;;;1;8;;;83;4.38;;;42;138;1.14
+2025;quimica;Universidade Federal Rural de Pernambuco;PE;48;Federal;43;18.75;49;25.44;;;48;5.92;;;1;8;;;41;6.23;;;43;21;5.29
+2025;quimica;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;49;Estadual;43;18.75;50;25.27;;;7;7.74;;;1;8;;;1;8;;;44;127;1.53
+2025;quimica;Universidade Estadual do Piauí;PI;50;Estadual;13;26.79;99;17.1;;;124;2.56;;;1;8;;;124;2.56;;;45;58;3.98
+2025;quimica;Universidade Regional do Cariri;CE;51;Estadual;43;18.75;51;24.65;;;63;5.26;;;1;8;;;60;5.39;;;46;1;6
+2025;quimica;Universidade Federal de Alfenas;MG;52;Federal;;;32;43.07;;;91;4.02;;;1;8;;;36;6.45;21;22.22;47;103;2.38
+2025;quimica;Universidade Federal de Lavras;MG;53;Federal;43;18.75;53;24.29;;;30;6.72;;;1;8;;;9;7.65;;;48;116;1.92
+2025;quimica;Universidade Estadual do Oeste do Paraná;PR;54;Estadual;43;18.75;54;24.28;;;84;4.33;;;1;8;;;37;6.41;;;49;14;5.54
+2025;quimica;Universidade Federal do Espírito Santo;ES;55;Federal;43;18.75;55;24;;;29;6.76;;;1;8;;;46;6.01;;;50;79;3.23
+2025;quimica;Universidade Federal de Ouro Preto;MG;56;Federal;43;18.75;56;23.94;;;19;7.2;;;1;8;;;35;6.5;;;51;107;2.24
+2025;quimica;Pontifícia Universidade Católica do Rio Grande do Sul;RS;57;Privada;13;26.79;106;15.88;;;8;7.69;;;163;0.84;;;67;5.08;;;6;106;2.27
+2025;quimica;Universidade Estadual do Centro Oeste;PR;58;Estadual;;;33;42.65;;;54;5.66;;;1;8;;;48;5.92;21;22.22;52;146;0.85
+2025;quimica;Universidade Estadual do Sudoeste da Bahia;BA;59;Estadual;13;26.79;107;15.72;;;123;2.61;;;1;8;;;109;3.23;;;53;117;1.88
+2025;quimica;Universidade Estadual do Paraná;PR;60;Estadual;43;18.75;59;23.39;;;23;7.03;;;1;8;;;74;4.77;;;54;69;3.59
+2025;quimica;Universidade do Oeste Paulista;SP;61;Privada;13;26.79;116;14.68;;;145;1.64;;;1;8;;;68;5.04;;;7;;
+2025;quimica;Universidade Federal de Sergipe;SE;62;Federal;43;18.75;63;22.31;;;79;4.55;;;1;8;;;64;5.22;;;55;42;4.54
+2025;quimica;Universidade Federal do Rio Grande;RS;63;Federal;43;18.75;64;22.29;;;27;6.85;;;1;8;;;66;5.13;;;56;105;2.31
+2025;quimica;Universidade Federal de São João Del Rei;MG;64;Federal;43;18.75;65;22.21;;;56;5.57;;;1;8;;;18;7.25;;;57;131;1.39
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;65;Federal;;;35;40.79;;;31;6.67;;;1;8;;;100;3.62;21;22.22;58;162;0.28
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;66;Federal;43;18.75;67;21.89;;;125;2.52;;;1;8;;;1;8;;;59;75;3.37
+2025;quimica;Universidade Federal de Jataí;GO;67;Federal;43;18.75;68;21.54;;;52;5.75;;;1;8;;;71;4.91;;;60;89;2.88
+2025;quimica;Universidade Federal do Oeste da Bahia;BA;68;Federal;43;18.75;72;21.17;;;18;7.25;;;1;8;;;101;3.58;;;61;104;2.34
+2025;quimica;Pontifícia Universidade Católica de Goiás;GO;69;Privada;13;26.79;130;12.98;;;81;4.46;;;142;1.77;;;125;2.52;;;8;51;4.23
+2025;quimica;Universidade Federal do Triângulo Mineiro;MG;70;Federal;43;18.75;73;20.96;;;49;5.88;;;1;8;;;58;5.48;;;62;125;1.6
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;71;Federal;;;40;38.92;;;77;4.64;;;1;8;;;127;2.43;21;22.22;63;124;1.63
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;72;Federal;43;18.75;76;20.14;;;41;6.23;;;1;8;;;115;2.96;;;64;87;2.95
+2025;quimica;Universidade Estadual Vale do Acaraú;CE;73;Estadual;43;18.75;77;20.09;;;114;3.01;;;1;8;;;93;3.93;;;65;25;5.15
+2025;quimica;Centro Federal de Educação Tecnológica de Minas Gerais;MG;74;Federal;43;18.75;81;19.9;;;117;2.87;;;1;8;;;34;6.54;;;66;100;2.49
+2025;quimica;Universidade Federal do Cariri;CE;75;Federal;43;18.75;82;19.88;;;126;2.48;;;1;8;;;105;3.4;;;67;1;6
+2025;quimica;Universidade Estadual de Mato Grosso do Sul;MS;76;Estadual;;;43;38.27;;;89;4.11;;;160;0.97;;;56;5.57;21;22.22;68;18;5.4
+2025;quimica;Universidade Federal do Acre;AC;77;Federal;43;18.75;84;19.31;;;70;4.95;;;1;8;;;104;3.45;;;69;88;2.91
+2025;quimica;Universidade do Estado do Pará;PA;78;Estadual;13;26.79;143;10.64;;;173;0.4;;;125;2.52;;;143;1.72;;;70;1;6
+2025;quimica;Universidade Estadual da Paraíba;PB;79;Estadual;43;18.75;89;18.23;;;101;3.58;;;1;8;;;132;2.21;;;71;45;4.44
+2025;quimica;Universidade Estadual do Maranhão;MA;80;Estadual;13;26.79;148;10.07;;;131;2.25;;;128;2.39;;;153;1.28;;;72;53;4.15
+2025;quimica;Universidade Estadual de Feira de Santana;BA;81;Estadual;43;18.75;90;18.02;;;80;4.51;;;1;8;;;121;2.7;;;73;91;2.81
+2025;quimica;Universidade Estadual de Santa Cruz;BA;82;Estadual;43;18.75;93;17.82;;;83;4.38;;;1;8;;;91;4.02;;;74;130;1.42
+2025;quimica;Universidade do Estado do Rio Grande do Norte;RN;83;Estadual;43;18.75;94;17.76;;;36;6.45;;;1;8;;;148;1.5;;;75;119;1.81
+2025;quimica;Pontifícia Universidade Católica de Campinas;SP;84;Privada;13;26.79;152;9.67;;;161;0.93;;;179;0.13;;;94;3.89;;;9;37;4.72
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;BA;85;Federal;43;18.75;101;16.57;;;42;6.19;;;1;8;;;141;1.81;;;76;154;0.57
+2025;quimica;Universidade de Caxias do Sul;RS;86;Privada;43;18.75;112;15.36;;;119;2.79;;;147;1.55;;;42;6.19;;;10;34;4.83
+2025;quimica;Universidade do Estado do Amazonas;AM;87;Estadual;43;18.75;113;15.22;;;143;1.72;;;1;8;;;170;0.53;;;77;30;4.97
+2025;quimica;Universidade Estadual da Região Tocantina do Maranhão;MA;88;Estadual;43;18.75;114;15.19;;;102;3.54;;;1;8;;;159;1.02;;;78;96;2.63
+2025;quimica;Universidade Católica de Pernambuco;PE;89;Privada;13;26.79;165;7.1;;;139;1.9;;;178;0.18;;;95;3.85;;;11;137;1.17
+2025;quimica;Universidade Estadual de Alagoas;AL;90;Estadual;43;18.75;116;14.68;;;154;1.24;;;1;8;;;160;0.97;;;79;44;4.47
+2025;quimica;Fundação Universidade do Estado de Santa Catarina;SC;91;Estadual;43;18.75;121;14.25;;;14;7.43;;;152;1.33;;;135;2.08;;;80;74;3.41
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;92;Federal;43;18.75;123;14.03;;;109;3.23;;;1;8;;;158;1.06;;;81;121;1.74
+2025;quimica;Universidade Luterana do Brasil;RS;93;Privada;43;18.75;124;13.78;;;44;6.1;;;139;1.9;;;130;2.3;;;12;72;3.48
+2025;quimica;Universidade do Estado de Minas Gerais;MG;94;Estadual;43;18.75;125;13.76;;;120;2.74;;;1;8;;;149;1.46;;;82;126;1.56
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;95;Federal;43;18.75;128;13.35;;;136;2.03;;;1;8;;;164;0.8;;;83;99;2.52
+2025;quimica;Universidade do Oeste de Santa Catarina;SC;96;Privada;43;18.75;129;13.02;;;146;1.59;;;1;8;;;139;1.9;;;13;127;1.53
+2025;quimica;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;97;Estadual;43;18.75;131;12.73;;;155;1.19;;;1;8;;;102;3.54;;;84;;
+2025;quimica;Universidade Regional de Blumenau;SC;98;Municipal;43;18.75;133;12.49;;;78;4.6;;;159;1.02;;;82;4.42;;;85;101;2.45
+2025;quimica;Universidade do Vale do Paraíba;SP;99;Privada;43;18.75;135;12.01;;;94;3.89;;;164;0.8;;;88;4.16;;;14;81;3.16
+2025;quimica;Universidade de Passo Fundo;RS;100;Privada;43;18.75;136;11.97;;;95;3.85;;;150;1.41;;;92;3.98;;;15;93;2.73
+2025;quimica;Universidade Católica de Brasília;DF;101;Privada;43;18.75;142;10.87;;;47;5.97;;;141;1.81;;;112;3.09;;;16;;
+2025;quimica;Centro Universitário Anhanguera de São Paulo;SP;102;Privada;43;18.75;145;10.26;;;161;0.93;;;134;2.12;;;22;7.07;;;17;166;0.14
+2025;quimica;Centro Universitário Ceuni;AM;103;Privada;43;18.75;150;9.99;;;121;2.7;;;146;1.59;;;180;0.09;;;18;12;5.61
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;104;Federal;43;18.75;151;9.93;;;88;4.16;;;123;2.61;;;165;0.75;;;86;102;2.41
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;105;Federal;43;18.75;154;9.16;;;173;0.4;;;1;8;;;173;0.4;;;87;160;0.36
+2025;quimica;Universidade Cruzeiro do Sul;SP;106;Privada;43;18.75;156;8.91;;;161;0.93;;;173;0.4;;;33;6.59;;;19;142;0.99
+2025;quimica;Universidade de Mogi das Cruzes;SP;107;Privada;43;18.75;157;8.71;;;152;1.33;;;145;1.64;;;171;0.49;;;20;22;5.25
+2025;quimica;Centro Universitário Fundação Santo André;SP;108;Privada;43;18.75;159;8.32;;;161;0.93;;;165;0.75;;;76;4.69;;;21;115;1.95
+2025;quimica;Universidade do Grande Rio Professor José de Souza Herdy;RJ;109;Privada;43;18.75;160;8.08;;;138;1.95;;;137;1.99;;;175;0.31;;;22;62;3.83
+2025;quimica;Universidade da Região de Joinville;SC;110;Privada;43;18.75;161;7.76;;;146;1.59;;;167;0.66;;;120;2.74;;;23;92;2.77
+2025;quimica;Centro Universitário Campo Limpo Paulista;SP;111;Privada;43;18.75;162;7.75;;;157;1.11;;;169;0.58;;;162;0.88;;;24;24;5.18
+2025;quimica;Centro Universitário Braz Cubas;SP;112;Privada;43;18.75;163;7.47;;;161;0.93;;;144;1.68;;;72;4.86;;;25;;
+2025;quimica;Universidade Federal da Integração Latino-americana;PR;113;Federal;;;47;26.12;;;3;7.91;;;1;8;;;25;6.94;;;88;78;3.27
+2025;quimica;Universidade Federal de Catalão;GO;114;Federal;;;48;26.11;;;62;5.3;;;1;8;;;28;6.81;;;89;1;6
+2025;quimica;Faculdade de São Bernardo do Campo FASB;SP;115;Privada;43;18.75;167;6.93;;;137;1.99;;;180;0.09;;;150;1.41;;;26;73;3.44
+2025;quimica;Centro Universitário das Américas;SP;116;Privada;43;18.75;168;6.72;;;158;1.06;;;175;0.31;;;119;2.79;;;27;98;2.56
+2025;quimica;Universidade Universus Veritas Guarulhos;SP;117;Privada;43;18.75;170;6.04;;;161;0.93;;;154;1.24;;;108;3.27;;;28;153;0.6
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;118;Federal;;;52;24.61;;;51;5.79;;;1;8;;;73;4.82;;;90;1;6
+2025;quimica;Universidade do Sul de Santa Catarina;SC;119;Privada;43;18.75;173;5.76;;;146;1.59;;;149;1.46;;;131;2.25;;;29;157;0.46
+2025;quimica;Universidade de Sorocaba;SP;120;Privada;43;18.75;175;5.48;;;142;1.77;;;181;0.04;;;128;2.39;;;30;134;1.28
+2025;quimica;Fundação Universidade Federal de Ciências da Saúde de Porto Alegre;RS;121;Federal;;;57;23.74;;;39;6.32;;;1;8;;;14;7.43;;;91;114;1.99
+2025;quimica;Universidade do Extremo Sul Catarinense;SC;122;Privada;43;18.75;178;4.73;;;146;1.59;;;156;1.15;;;137;1.99;;;31;;
+2025;quimica;Universidade Estadual de Ponta Grossa;PR;123;Estadual;;;60;23.16;;;84;4.33;;;1;8;;;43;6.14;;;92;38;4.69
+2025;quimica;Universidade Federal de Itajubá;MG;124;Federal;;;62;22.32;;;74;4.77;;;1;8;;;52;5.75;;;93;63;3.8
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;125;Federal;;;66;21.97;;;55;5.61;;;1;8;;;111;3.14;;;94;23;5.22
+2025;quimica;Universidade Federal do Recôncavo da Bahia;BA;126;Federal;;;69;21.51;;;43;6.14;;;1;8;;;106;3.36;;;95;57;4.01
+2025;quimica;Universidade Federal de Roraima;RR;127;Federal;;;70;21.45;;;104;3.45;;;1;8;;;49;5.88;;;96;54;4.12
+2025;quimica;Fundação Universidade Federal do Vale do São Francisco;PE;128;Federal;;;71;21.23;;;109;3.23;;;1;8;;;77;4.64;;;97;19;5.36
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;129;Federal;;;74;20.89;;;5;7.82;;;1;8;;;117;2.87;;;98;108;2.2
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia Catarinense;SC;130;Federal;;;75;20.72;;;57;5.53;;;1;8;;;99;3.67;;;99;71;3.52
+2025;quimica;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;131;Federal;;;80;20.07;;;134;2.12;;;1;8;;;17;7.29;;;100;95;2.66
+2025;quimica;Fundação Universidade Federal de Rondônia;RO;132;Federal;;;83;19.53;;;93;3.93;;;1;8;;;79;4.55;;;101;84;3.05
+2025;quimica;Fundação Universidade Federal do Pampa;RS;133;Federal;;;85;18.87;;;68;5.04;;;1;8;;;59;5.44;;;102;159;0.39
+2025;quimica;Universidade do Estado do Amapá;AP;134;Estadual;;;86;18.56;;;115;2.96;;;1;8;;;138;1.95;;;103;11;5.65
+2025;quimica;Universidade Católica de Santos;SP;135;Privada;;;88;18.3;;;161;0.93;;;1;8;;;31;6.67;;;32;94;2.7
+2025;quimica;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;136;Federal;;;91;17.97;;;117;2.87;;;1;8;;;39;6.32;;;104;148;0.78
+2025;quimica;Universidade Federal do Oeste do Pará;PA;137;Federal;;;92;17.95;;;173;0.4;;;1;8;;;55;5.61;;;105;59;3.94
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;138;Federal;;;95;17.67;;;17;7.29;;;1;8;;;133;2.17;;;106;164;0.21
+2025;quimica;Universidade La Salle;RS;139;Privada;;;97;17.34;;;103;3.49;;;1;8;;;65;5.17;;;33;151;0.68
+2025;quimica;Universidade Federal do Norte do Tocantins;TO;140;Federal;;;98;17.32;;;173;0.4;;;1;8;;;75;4.73;;;107;52;4.19
+2025;quimica;Faculdades Integradas Maria Imaculada;SP;141;Privada;;;100;16.71;;;161;0.93;;;1;8;;;116;2.92;;;34;33;4.86
+2025;quimica;Fundação Universidade Federal do Tocantins;TO;142;Federal;;;102;16.56;;;173;0.4;;;1;8;;;16;7.34;;;108;147;0.82
+2025;quimica;Universidade Federal do Sul e Sudeste do Pará;PA;143;Federal;;;103;16.33;;;173;0.4;;;1;8;;;70;4.95;;;109;86;2.98
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;144;Federal;;;104;16.3;;;144;1.68;;;1;8;;;140;1.86;;;110;36;4.76
+2025;quimica;Universidade Federal do Amapá;AP;145;Federal;;;105;16.07;;;112;3.09;;;1;8;;;157;1.11;;;111;61;3.87
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;146;Federal;;;108;15.64;;;73;4.82;;;1;8;;;156;1.15;;;112;123;1.67
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;147;Federal;;;109;15.45;;;96;3.8;;;1;8;;;146;1.59;;;113;112;2.06
+2025;quimica;Universidade Federal da Fronteira Sul;SC;148;Federal;;;110;15.4;;;72;4.86;;;132;2.21;;;32;6.63;;;114;122;1.7
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;149;Federal;;;111;15.37;;;67;5.08;;;1;8;;;176;0.27;;;115;113;2.02
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso do Sul;MS;150;Federal;;;115;15.03;;;99;3.67;;;1;8;;;107;3.32;;;116;169;0.04
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;151;Federal;;;118;14.67;;;105;3.4;;;1;8;;;136;2.03;;;117;135;1.24
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;152;Federal;;;119;14.41;;;108;3.27;;;1;8;;;123;2.61;;;118;155;0.53
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;153;Federal;;;120;14.28;;;61;5.35;;;127;2.43;;;84;4.33;;;119;109;2.17
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;154;Federal;;;122;14.14;;;116;2.92;;;1;8;;;151;1.37;;;120;118;1.85
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco;PE;155;Federal;;;126;13.6;;;98;3.71;;;1;8;;;169;0.58;;;121;133;1.31
+2025;quimica;Universidade Estadual de Roraima;RR;156;Estadual;;;127;13.42;;;153;1.28;;;162;0.88;;;63;5.26;;;122;1;6
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;157;Federal;;;132;12.71;;;130;2.3;;;1;8;;;129;2.34;;;123;168;0.07
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;158;Federal;;;134;12.28;;;156;1.15;;;1;8;;;181;0.04;;;124;83;3.09
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;159;Federal;;;137;11.77;;;135;2.08;;;1;8;;;167;0.66;;;125;141;1.03
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina;SC;160;Federal;;;138;11.33;;;34;6.54;;;133;2.17;;;134;2.12;;;126;156;0.5
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;161;Federal;;;139;10.98;;;50;5.83;;;131;2.25;;;122;2.65;;;127;163;0.25
+2025;quimica;Centro Universitário Ages;BA;162;Privada;;;140;10.94;;;69;4.99;;;155;1.19;;;145;1.64;;;35;82;3.12
+2025;quimica;Centro Universitário Faema;RO;163;Privada;;;141;10.92;;;121;2.7;;;1;8;;;177;0.22;;;36;;
+2025;quimica;Centro Universitário Ideau;RS;164;Privada;;;144;10.57;;;159;1.02;;;1;8;;;147;1.55;;;37;;
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;165;Federal;;;146;10.14;;;107;3.32;;;136;2.03;;;114;3.01;;;128;120;1.78
+2025;quimica;Faculdade Souza Marques;RJ;166;Privada;;;147;10.11;;;111;3.14;;;174;0.35;;;155;1.19;;;38;17;5.43
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;167;Federal;;;149;10.02;;;97;3.76;;;135;2.08;;;118;2.83;;;129;132;1.35
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Sertão Pernambucano;PE;168;Federal;;;153;9.52;;;106;3.36;;;126;2.48;;;163;0.84;;;130;90;2.84
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;169;Federal;;;155;8.95;;;173;0.4;;;1;8;;;172;0.44;;;131;167;0.11
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;170;Federal;;;158;8.35;;;128;2.39;;;124;2.56;;;126;2.48;;;132;144;0.92
+2025;quimica;Centro Universitário de Paulínia;SP;171;Privada;;;164;7.38;;;151;1.37;;;171;0.49;;;168;0.62;;;39;32;4.9
+2025;quimica;Centro Universitário Fieo;SP;172;Privada;;;166;6.96;;;161;0.93;;;158;1.06;;;166;0.71;;;40;50;4.26
+2025;quimica;Faculdades Integradas de Fernandópolis;SP;173;Privada;;;168;6.72;;;87;4.2;;;153;1.28;;;154;1.24;;;41;;
+2025;quimica;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;174;Privada;;;171;5.97;;;140;1.86;;;168;0.62;;;103;3.49;;;42;;
+2025;quimica;Centro Universitário da Fundação Herminio Ometto;SP;175;Privada;;;172;5.77;;;141;1.81;;;172;0.44;;;161;0.93;;;43;97;2.59
+2025;quimica;Instituto Luterano de Ensino Superior de Itumbiara;GO;176;Privada;;;174;5.52;;;81;4.46;;;166;0.71;;;174;0.35;;;44;;
+2025;quimica;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;177;Federal;;;176;5.38;;;173;0.4;;;129;2.34;;;144;1.68;;;133;143;0.96
+2025;quimica;Universidade de Santa Cruz do Sul;RS;178;Privada;;;177;5.36;;;159;1.02;;;157;1.11;;;113;3.05;;;45;165;0.18
+2025;quimica;Instituto Municipal de Ensino Superior de Assis;SP;179;Municipal;;;179;3.29;;;161;0.93;;;176;0.27;;;142;1.77;;;134;161;0.32
+2025;quimica;Faculdade Mozarteum de São Paulo;SP;180;Privada;;;180;2.43;;;161;0.93;;;151;1.37;;;179;0.13;;;46;;
+2025;quimica;Universidade São Judas Tadeu;SP;181;Privada;;;181;1.37;;;161;0.93;;;177;0.22;;;177;0.22;;;47;;

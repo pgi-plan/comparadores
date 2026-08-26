@@ -1,0 +1,1376 @@
+﻿ano;curso;Universidade;Estado;Posição;Pública ou Privada;Posição em avaliação do Mercado;Nota em avaliação do Mercado;Posição em qualidade de ensino;Nota em qualidade de ensino;Posição em Instrução dos Professores;Nota em Instrução dos Professores;Posição Nota dos concluintes;Nota dos concluintes;Posição Desistência;Nota Desistência;Posição em Tempo de Dedicação dos Professores;Nota em Tempo de Dedicação dos Professores;Posição no MEC;Nota no MEC;Posição em Professores com doutorado e mestrado;Nota em Professores com doutorado e mestrado;Posição em avaliação dos docentes;Nota em avaliação dos docentes;Posição PP;Posição em Permanência dos alunos;Nota em Permanência dos alunos
+2019;biologia;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.92;1;8;44;6.92;;;1;8;1;40;;;;;;;
+2019;biologia;Universidade Estadual de Campinas;SP;2;Estadual;2;35.7;2;61.72;18;7.64;11;7.75;;;1;8;2;38.33;;;;;;;
+2019;biologia;Universidade Federal do Rio de Janeiro;RJ;3;Federal;2;35.7;4;58.58;10;7.81;10;7.77;;;1;8;4;35;;;;;;;
+2019;biologia;Universidade Federal de Minas Gerais;MG;4;Federal;6;34.51;3;58.68;9;7.83;7;7.85;;;1;8;4;35;;;;;;;
+2019;biologia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;5;Estadual;2;35.7;5;55.73;8;7.85;44;6.92;;;175;4.29;3;36.67;;;;;;;
+2019;biologia;Universidade Federal de São Carlos;SP;6;Federal;11;33.03;7;54.72;13;7.75;29;7.3;;;1;8;6;31.67;;;;;;;
+2019;biologia;Universidade de Brasília;DF;7;Federal;11;33.03;9;51.62;25;7.49;9;7.8;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal do Rio Grande do Sul;RS;8;Federal;22;29.75;6;54.87;15;7.7;21;7.5;;;1;8;6;31.67;;;;;;;
+2019;biologia;Universidade Federal da Bahia;BA;9;Federal;6;34.51;17;49.57;84;6.24;41;7;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade do Estado do Rio de Janeiro;RJ;10;Estadual;2;35.7;21;46.53;31;7.36;73;6.19;;;158;4.65;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de Pernambuco;PE;11;Federal;6;34.51;20;47.58;39;7.19;158;4.06;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal do Paraná;PR;12;Federal;22;29.75;10;51.35;34;7.3;12;7.72;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de Viçosa;MG;13;Federal;22;29.75;11;51.27;12;7.77;34;7.17;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de Santa Catarina;SC;14;Federal;22;29.75;12;51.13;35;7.28;20;7.52;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal Rural do Rio de Janeiro;RJ;15;Federal;22;29.75;15;50.08;41;7.15;57;6.6;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de Goiás;GO;16;Federal;22;29.75;19;47.92;81;6.3;109;5.29;;;1;8;8;28.33;;;;;;;
+2019;biologia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;17;Privada;22;29.75;23;43.83;24;7.51;117;5.09;;;201-250;2.9;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de São Paulo;SP;18;Federal;53;20.53;8;52.15;1;8;8;7.82;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de Santa Maria;RS;19;Federal;53;20.53;13;50.6;26;7.47;49;6.8;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;20;Estadual;53;20.53;16;49.9;1;8;98;5.57;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal de Uberlândia;MG;21;Federal;53;20.53;18;48.96;36;7.26;106;5.37;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Estadual de Feira de Santana;BA;22;Estadual;53;20.53;22;45.05;111;5.67;85;5.89;;;134;5.16;8;28.33;;;;;;;
+2019;biologia;Pontifícia Universidade Católica do Paraná;PR;23;Privada;53;20.53;24;38.83;164;4.54;177;3.59;;;251-300;2.37;8;28.33;;;;;;;
+2019;biologia;Universidade Federal Fluminense;RJ;24;Federal;6;34.51;33;22.19;19;7.62;58;6.57;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Ceará;CE;25;Federal;11;33.03;27;23.04;32;7.34;13;7.7;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual de Londrina;PR;26;Estadual;22;29.75;29;22.75;22;7.55;33;7.2;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Pará;PA;27;Federal;11;33.03;63;18.92;23;7.53;185;3.39;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual de Maringá;PR;28;Estadual;22;29.75;35;22.01;65;6.64;26;7.37;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Rio Grande do Norte;RN;29;Federal;22;29.75;37;21.67;47;7.02;55;6.65;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Espírito Santo;ES;30;Federal;22;29.75;38;21.62;33;7.32;69;6.3;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Pelotas;RS;31;Federal;;;14;50.57;38;7.22;40;7.02;;;1;8;8;28.33;;;;;;;
+2019;biologia;Universidade Federal do Amazonas;AM;32;Federal;22;29.75;50;20.66;104;5.81;47;6.85;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Ceará;CE;33;Estadual;11;33.03;80;17.36;201-250;3.52;87;5.84;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal da Paraíba;PB;34;Federal;22;29.75;52;20.02;46;7.05;122;4.97;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Sergipe;SE;35;Federal;22;29.75;53;19.97;53;6.9;118;5.07;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Piauí;PI;36;Federal;11;33.03;85;16.42;163;4.56;166;3.86;;;1;8;;;;;;;;;
+2019;biologia;Universidade Presbiteriana Mackenzie;SP;37;Privada;11;33.03;89;16.34;50;6.96;27;7.35;;;251-300;2.03;;;;;;;;;
+2019;biologia;Universidade Federal do Maranhão;MA;38;Federal;22;29.75;60;19.04;119;5.5;99;5.54;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Mato Grosso;MT;39;Federal;22;29.75;65;18.68;95;6.01;134;4.67;;;1;8;;;;;;;;;
+2019;biologia;Universidade Paulista;SP;40;Privada;6;34.51;134;13.8;174;4.33;93;5.69;;;199;3.78;;;;;;;;;
+2019;biologia;Universidade Federal de Alagoas;AL;41;Federal;22;29.75;68;18.53;85;6.22;148;4.31;;;1;8;;;;;;;;;
+2019;biologia;Pontifícia Universidade Católica de Minas Gerais;MG;42;Privada;11;33.03;127;14.18;166;4.5;75;6.14;;;201-250;3.54;;;;;;;;;
+2019;biologia;Universidade Federal de Mato Grosso do Sul;MS;43;Federal;22;29.75;84;16.69;78;6.37;67;6.35;;;190;3.97;;;;;;;;;
+2019;biologia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;44;Privada;22;29.75;88;16.35;28;7.43;28;7.32;;;301-350;1.6;;;;;;;;;
+2019;biologia;Universidade Católica de Brasília;DF;45;Privada;22;29.75;91;16.29;93;6.05;88;5.82;;;169;4.42;;;;;;;;;
+2019;biologia;Universidade do Vale do Rio dos Sinos;RS;46;Privada;22;29.75;92;16.28;43;7.11;144;4.41;;;153;4.76;;;;;;;;;
+2019;biologia;Universidade de Pernambuco;PE;47;Estadual;11;33.03;158;12.73;151;4.82;179;3.54;;;171;4.37;;;;;;;;;
+2019;biologia;Universidade Estadual do Piauí;PI;48;Estadual;11;33.03;162;12.69;201-250;2.78;201-250;1.91;;;1;8;;;;;;;;;
+2019;biologia;Universidade do Estado da Bahia;BA;49;Estadual;11;33.03;165;12.52;201-250;3.65;151;4.24;;;159;4.63;;;;;;;;;
+2019;biologia;Universidade Federal de Juiz de Fora;MG;50;Federal;22;29.75;102;15.66;17;7.66;;;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual Vale do Acaraú;CE;51;Estadual;22;29.75;110;15.27;77;6.39;164;3.91;;;143;4.97;;;;;;;;;
+2019;biologia;Universidade Federal de Ouro Preto;MG;52;Federal;53;20.53;34;22.17;52;6.92;31;7.25;;;1;8;;;;;;;;;
+2019;biologia;Pontifícia Universidade Católica de Campinas;SP;53;Privada;22;29.75;167;12.44;99;5.92;72;6.22;;;351-400;0.3;;;;;;;;;
+2019;biologia;Universidade Estadual de Santa Cruz;BA;54;Estadual;53;20.53;42;21.25;21;7.58;94;5.67;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Estado do Rio de Janeiro;RJ;55;Federal;53;20.53;43;21.19;51;6.94;71;6.25;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual de Ponta Grossa;PR;56;Estadual;53;20.53;49;20.71;58;6.79;84;5.92;;;1;8;;;;;;;;;
+2019;biologia;Universidade do Grande Rio Professor José de Souza Herdy;RJ;57;Privada;22;29.75;189;11.48;201-250;3.63;201-250;2.81;;;140;5.04;;;;;;;;;
+2019;biologia;Universidade Estadual de Goiás;GO;58;Estadual;22;29.75;193;11.32;301-350;1.21;201-250;2.11;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Norte do Paraná;PR;59;Estadual;53;20.53;54;19.87;121;5.45;64;6.42;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Oeste do Paraná;PR;60;Estadual;53;20.53;57;19.64;59;6.77;126;4.87;;;1;8;;;;;;;;;
+2019;biologia;Universidade Católica de Santos;SP;61;Privada;53;20.53;59;19.44;75;6.43;1;8;;;141;5.01;;;;;;;;;
+2019;biologia;Universidade Estadual do Paraná;PR;62;Estadual;53;20.53;61;19.02;96;5.98;119;5.04;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Sudoeste da Bahia;BA;63;Estadual;53;20.53;67;18.57;112;5.65;124;4.92;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Adventista de São Paulo;SP;64;Privada;22;29.75;201-250;9.24;201-250;3.01;149;4.29;;;251-300;1.94;;;;;;;;;
+2019;biologia;Universidade Federal de Campina Grande;PB;65;Federal;53;20.53;70;18.17;153;4.78;105;5.39;;;1;8;;;;;;;;;
+2019;biologia;Fundação Universidade Federal de Rondônia;RO;66;Federal;53;20.53;72;18.07;109;5.71;146;4.36;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Roraima;RR;67;Federal;53;20.53;73;18.02;69;6.56;182;3.46;;;1;8;;;;;;;;;
+2019;biologia;Universidade Positivo;PR;68;Privada;53;20.53;75;17.85;100;5.9;19;7.55;;;170;4.4;;;;;;;;;
+2019;biologia;Universidade Cesumar;PR;69;Privada;53;20.53;78;17.61;103;5.84;37;7.1;;;157;4.67;;;;;;;;;
+2019;biologia;Universidade Católica de Pernambuco;PE;70;Privada;22;29.75;251-300;8.36;154;4.75;201-250;2.88;;;301-350;0.73;;;;;;;;;
+2019;biologia;Universidade Estácio de Sá;RJ;71;Privada;22;29.75;251-300;8.31;171;4.39;251-300;1.68;;;251-300;2.24;;;;;;;;;
+2019;biologia;Universidade Tiradentes;SE;72;Privada;22;29.75;251-300;8.29;201-250;3.46;201-250;2.18;;;251-300;2.65;;;;;;;;;
+2019;biologia;Fundação Universidade Federal do Tocantins;TO;73;Federal;53;20.53;81;17.33;55;6.85;201-250;2.48;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal Rural de Pernambuco;PE;74;Federal;53;20.53;82;16.98;64;6.66;115;5.14;;;133;5.18;;;;;;;;;
+2019;biologia;Universidade do Oeste Paulista;SP;75;Privada;53;20.53;85;16.42;107;5.75;56;6.62;;;186;4.05;;;;;;;;;
+2019;biologia;Universidade do Estado do Rio Grande do Norte;RN;76;Estadual;53;20.53;97;15.95;145;4.94;200;3.01;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Maranhão;MA;77;Estadual;22;29.75;251-300;6.63;301-350;0.72;142;4.46;;;301-350;1.45;;;;;;;;;
+2019;biologia;Universidade Cruzeiro do Sul;SP;78;Privada;53;20.53;106;15.42;37;7.24;80;6.02;;;251-300;2.16;;;;;;;;;
+2019;biologia;Universidade São Judas Tadeu;SP;78;Privada;53;20.53;106;15.42;113;5.62;16;7.62;;;251-300;2.18;;;;;;;;;
+2019;biologia;Universidade Estadual da Paraíba;PB;80;Estadual;53;20.53;113;15.06;140;5.05;201-250;2.01;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual de Montes Claros;MG;81;Estadual;53;20.53;115;14.97;178;4.24;201-250;2.73;;;1;8;;;;;;;;;
+2019;biologia;Universidade do Estado de Mato Grosso;MT;82;Estadual;53;20.53;121;14.51;162;4.58;201-250;1.93;;;1;8;;;;;;;;;
+2019;biologia;Universidade Anhembi Morumbi;SP;83;Privada;53;20.53;123;14.42;83;6.26;68;6.32;;;251-300;1.84;;;;;;;;;
+2019;biologia;Universidade Católica Dom Bosco;MS;84;Privada;53;20.53;125;14.28;144;4.97;131;4.74;;;162;4.57;;;;;;;;;
+2019;biologia;Universidade Anhanguera;MS;85;Privada;53;20.53;133;13.84;185;4.1;95;5.64;;;184;4.1;;;;;;;;;
+2019;biologia;Universidade Veiga de Almeida;RJ;86;Privada;53;20.53;136;13.71;66;6.62;137;4.59;;;251-300;2.5;;;;;;;;;
+2019;biologia;Universidade do Estado do Amazonas;AM;87;Estadual;53;20.53;145;13.18;201-250;3.35;201-250;1.83;;;1;8;;;;;;;;;
+2019;biologia;Universidade do Vale do Taquari;RS;88;Privada;53;20.53;149;13.08;91;6.09;201-250;2.38;;;160;4.61;;;;;;;;;
+2019;biologia;Universidade Nove de Julho;SP;89;Privada;53;20.53;150;13.06;139;5.07;180;3.51;;;166;4.48;;;;;;;;;
+2019;biologia;Universidade do Vale do Itajaí;SC;90;Privada;53;20.53;151;13;168;4.46;107;5.34;;;201-250;3.2;;;;;;;;;
+2019;biologia;Universidade Metodista de São Paulo;SP;91;Privada;53;20.53;157;12.76;201-250;2.74;25;7.4;;;251-300;2.62;;;;;;;;;
+2019;biologia;Universidade Regional do Cariri;CE;92;Estadual;53;20.53;158;12.73;201-250;3.4;251-300;1.33;;;1;8;;;;;;;;;
+2019;biologia;Universidade Luterana do Brasil;RS;93;Privada;53;20.53;166;12.48;201-250;3.67;136;4.61;;;179;4.2;;;;;;;;;
+2019;biologia;Centro Universitário Una;MG;94;Privada;53;20.53;168;12.27;122;5.43;192;3.21;;;201-250;3.63;;;;;;;;;
+2019;biologia;Universidade de Caxias do Sul;RS;95;Privada;53;20.53;169;12.22;97;5.96;162;3.96;;;251-300;2.3;;;;;;;;;
+2019;biologia;Centro Universitário das Faculdades Integradas de Ourinhos;SP;96;Privada;53;20.53;170;12.14;197;3.84;183;3.44;;;148;4.86;;;;;;;;;
+2019;biologia;Universidade Regional de Blumenau;SC;97;Municipal;53;20.53;172;12.11;146;4.92;43;6.95;;;351-400;0.24;;;;;;;;;
+2019;biologia;Centro Universitário Barão de Mauá;SP;98;Privada;53;20.53;197;11.13;201-250;3.57;159;4.04;;;201-250;3.52;;;;;;;;;
+2019;biologia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;99;Privada;53;20.53;201-250;10.32;142;5.01;251-300;1.58;;;201-250;3.73;;;;;;;;;
+2019;biologia;Centro Universitário Aparício Carvalho;RO;100;Privada;53;20.53;201-250;10.23;301-350;0.7;251-300;1.53;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Fundação Santo André;SP;101;Privada;53;20.53;201-250;10.03;131;5.24;156;4.11;;;301-350;0.68;;;;;;;;;
+2019;biologia;Universidade do Sul de Santa Catarina;SC;102;Privada;53;20.53;201-250;9.79;251-300;2.63;135;4.64;;;251-300;2.52;;;;;;;;;
+2019;biologia;Universidade Santa Cecília;SP;103;Privada;53;20.53;201-250;9.59;186;4.07;201-250;2.13;;;201-250;3.39;;;;;;;;;
+2019;biologia;Centro Universitário de Brasília;DF;104;Privada;53;20.53;201-250;9.56;184;4.12;127;4.84;;;301-350;0.6;;;;;;;;;
+2019;biologia;Universidade Potiguar;RN;105;Privada;53;20.53;201-250;8.93;172;4.37;251-300;1.15;;;201-250;3.41;;;;;;;;;
+2019;biologia;Centro Universitário Cesmac;AL;106;Privada;53;20.53;201-250;8.63;251-300;1.93;160;4.01;;;201-250;2.69;;;;;;;;;
+2019;biologia;Universidade de Rio Verde;GO;107;Municipal;53;20.53;251-300;8.47;251-300;2.61;251-300;0.8;;;139;5.06;;;;;;;;;
+2019;biologia;Universidade de Sorocaba;SP;108;Privada;53;20.53;251-300;8.4;137;5.11;195;3.14;;;351-400;0.15;;;;;;;;;
+2019;biologia;Centro Universitário Geraldo Di Biase;RJ;109;Privada;53;20.53;251-300;8.04;187;4.05;;;;;189;3.99;;;;;;;;;
+2019;biologia;Universidade Santo Amaro;SP;110;Privada;53;20.53;251-300;7.42;156;4.71;;;;;201-250;2.71;;;;;;;;;
+2019;biologia;Universidade da Amazônia;PA;111;Privada;53;20.53;251-300;7.24;251-300;2.31;191;3.24;;;251-300;1.69;;;;;;;;;
+2019;biologia;Universidade de Cuiabá;MT;112;Privada;53;20.53;251-300;7.11;201-250;2.84;251-300;1.03;;;201-250;3.24;;;;;;;;;
+2019;biologia;Universidade Católica do Salvador;BA;113;Privada;53;20.53;251-300;6.6;251-300;2;174;3.66;;;301-350;0.94;;;;;;;;;
+2019;biologia;Universidade do Extremo Sul Catarinense;SC;114;Privada;53;20.53;301-350;6.45;201-250;3.5;251-300;1.61;;;301-350;1.34;;;;;;;;;
+2019;biologia;Pontifícia Universidade Católica de Goiás;GO;115;Privada;53;20.53;301-350;6.14;201-250;3.71;251-300;1.28;;;301-350;1.15;;;;;;;;;
+2019;biologia;Centro Universitário Augusto Motta;RJ;116;Privada;53;20.53;301-350;5.74;201-250;3.59;251-300;1.51;;;301-350;0.64;;;;;;;;;
+2019;biologia;Universidade Iguaçu;RJ;117;Privada;53;20.53;301-350;5.73;251-300;1.89;251-300;0.53;;;201-250;3.31;;;;;;;;;
+2019;biologia;Universidade Anhanguera de São Paulo;SP;118;Privada;53;20.53;301-350;5.45;301-350;1.44;201-250;2.71;;;301-350;1.3;;;;;;;;;
+2019;biologia;Universidade Universus Veritas Guarulhos;SP;119;Privada;53;20.53;301-350;4.8;301-350;1.53;201-250;2.93;;;351-400;0.34;;;;;;;;;
+2019;biologia;Universidade Castelo Branco;RJ;120;Privada;53;20.53;301-350;4.67;201-250;3.1;251-300;0.95;;;301-350;0.62;;;;;;;;;
+2019;biologia;Universidade Salgado de Oliveira;RJ;121;Privada;53;20.53;301-350;4.11;251-300;1.91;251-300;0.83;;;301-350;1.37;;;;;;;;;
+2019;biologia;Fundação Universidade Federal do ABC;SP;122;Federal;;;25;23.93;1;8;4;7.93;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Lavras;MG;123;Federal;;;26;23.67;11;7.79;6;7.88;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de São João Del Rei;MG;124;Federal;;;28;22.77;14;7.72;39;7.05;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal da Integração Latino-americana;PR;125;Federal;;;30;22.32;27;7.45;46;6.87;;;1;8;;;;;;;;;
+2019;biologia;Universidade Tecnológica Federal do Paraná;PR;125;Federal;;;30;22.32;60;6.75;18;7.57;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Alfenas;MG;127;Federal;;;32;22.21;44;7.09;36;7.12;;;1;8;;;;;;;;;
+2019;biologia;Fundação Universidade Federal do Vale do São Francisco;PE;128;Federal;;;36;21.99;71;6.52;22;7.47;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário de Maceió;AL;129;Privada;53;20.53;351-400;1.34;301-350;1.34;;;;;;;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;130;Federal;;;39;21.48;115;5.58;5;7.9;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Centro Oeste;PR;131;Estadual;;;40;21.3;101;5.88;24;7.42;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;131;Federal;;;40;21.3;88;6.15;35;7.15;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Facvest;SC;133;Privada;;;44;21.16;76;6.41;51;6.75;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário de Volta Redonda;RJ;134;Privada;;;45;21.12;48;7;76;6.12;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal de Itajubá;MG;135;Federal;;;46;20.94;143;4.99;3;7.95;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Rio Grande;RS;136;Federal;;;47;20.9;56;6.83;78;6.07;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Redentor;RJ;137;Privada;;;48;20.83;135;5.16;14;7.67;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Oeste da Bahia;BA;138;Federal;;;51;20.51;105;5.79;52;6.72;;;1;8;;;;;;;;;
+2019;biologia;Universidade Feevale;RS;139;Privada;;;55;19.75;129;5.28;62;6.47;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual do Rio Grande do Sul;RS;140;Estadual;;;56;19.73;40;7.17;138;4.56;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;141;Federal;;;58;19.62;67;6.6;120;5.02;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Triângulo Mineiro;MG;142;Federal;;;62;18.99;86;6.2;129;4.79;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;143;Federal;;;64;18.84;176;4.29;59;6.55;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;144;Federal;;;66;18.61;201-250;3.16;23;7.45;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Estadual da Zona Oeste;RJ;145;Estadual;;;69;18.41;1;8;201-250;2.41;;;1;8;;;;;;;;;
+2019;biologia;Fundação Universidade Federal da Grande Dourados;MS;146;Federal;;;70;18.17;57;6.81;186;3.36;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal da Fronteira Sul;SC;147;Federal;;;74;17.9;110;5.69;152;4.21;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal Rural da Amazônia;PA;148;Federal;;;76;17.84;158;4.67;114;5.17;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;149;Federal;;;77;17.76;165;4.52;111;5.24;;;1;8;;;;;;;;;
+2019;biologia;Universidade Vila Velha;ES;150;Privada;;;79;17.38;82;6.28;2;7.98;;;201-250;3.12;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;151;Federal;;;83;16.82;193;3.93;125;4.89;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Oeste do Pará;PA;152;Federal;;;85;16.42;62;6.71;251-300;1.71;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Sagrado Coração;SP;153;Privada;;;90;16.33;79;6.35;42;6.97;;;201-250;3.01;;;;;;;;;
+2019;biologia;Faculdade de Ciências e Tecnologias de Campos Gerais;MG;154;Privada;;;93;16.23;251-300;2.46;90;5.77;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário São José;RJ;155;Privada;;;94;16.18;16;7.68;141;4.49;;;188;4.01;;;;;;;;;
+2019;biologia;Instituto de Ensino Superior do Sul do Maranhão;MA;156;Privada;;;95;16.13;1;8;301-350;0.13;;;1;8;;;;;;;;;
+2019;biologia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;157;Federal;;;96;16;1;8;;;;;1;8;;;;;;;;;
+2019;biologia;Fundação Universidade Federal do Pampa;RS;158;Federal;;;98;15.84;30;7.39;301-350;0.45;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;159;Federal;;;99;15.83;301-350;1.38;63;6.45;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;160;Federal;;;100;15.82;130;5.26;201-250;2.56;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Ages;BA;161;Privada;;;101;15.71;133;5.2;201-250;2.51;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Campos de Andrade;PR;162;Privada;;;103;15.65;251-300;1.68;82;5.97;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;163;Federal;;;104;15.64;127;5.33;201-250;2.31;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Recôncavo da Bahia;BA;164;Federal;;;105;15.45;98;5.94;145;4.39;;;136;5.12;;;;;;;;;
+2019;biologia;Centro Universitário de Belo Horizonte;MG;165;Privada;;;106;15.42;92;6.07;89;5.79;;;201-250;3.56;;;;;;;;;
+2019;biologia;Universidade Federal do Sul e Sudeste do Pará;PA;166;Federal;;;109;15.41;29;7.41;;;;;1;8;;;;;;;;;
+2019;biologia;Universidade de Mogi das Cruzes;SP;167;Privada;;;111;15.17;124;5.39;77;6.09;;;201-250;3.69;;;;;;;;;
+2019;biologia;Centro Universitário Católica do Leste de Minas Gerais;MG;168;Privada;;;112;15.09;120;5.48;74;6.17;;;201-250;3.44;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;169;Federal;;;114;15.02;157;4.69;201-250;2.33;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;170;Federal;;;116;14.83;201-250;2.99;167;3.84;;;1;8;;;;;;;;;
+2019;biologia;Universidade Federal do Cariri;CE;171;Federal;;;117;14.68;63;6.68;;;;;1;8;;;;;;;;;
+2019;biologia;Universidade da Região de Joinville;SC;172;Privada;;;118;14.55;123;5.41;147;4.34;;;151;4.8;;;;;;;;;
+2019;biologia;Universidade Comunitária da Região de Chapecó;SC;173;Privada;;;119;14.54;147;4.9;128;4.82;;;150;4.82;;;;;;;;;
+2019;biologia;Centro Universitário Brasília do Estado de Goiás;GO;174;Privada;;;120;14.54;70;6.54;;;;;1;8;;;;;;;;;
+2019;biologia;Faculdade da Região dos Lagos;RJ;175;Privada;;;122;14.47;201-250;3.37;38;7.07;;;187;4.03;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;176;Federal;;;124;14.29;180;4.2;121;4.99;;;137;5.1;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;177;Federal;;;126;14.28;251-300;2.57;172;3.71;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Católico Salesiano Auxilium;SP;178;Privada;;;127;14.18;87;6.18;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Integrado de Campo Mourão;PR;179;Privada;;;129;13.93;194;3.91;66;6.37;;;201-250;3.65;;;;;;;;;
+2019;biologia;Centro Universitário de Várzea Grande;MT;180;Privada;;;130;13.88;118;5.52;112;5.22;;;201-250;3.14;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;181;Federal;;;131;13.87;251-300;2.53;61;6.5;;;149;4.84;;;;;;;;;
+2019;biologia;Centro Universitário da Fundação Herminio Ometto;SP;182;Privada;;;132;13.85;155;4.73;15;7.65;;;301-350;1.47;;;;;;;;;
+2019;biologia;Centro Universitário de Votuporanga;SP;183;Privada;;;135;13.77;190;3.99;32;7.22;;;251-300;2.56;;;;;;;;;
+2019;biologia;Centro Universitário de Sete Lagoas;MG;184;Privada;;;137;13.65;108;5.73;86;5.87;;;251-300;2.05;;;;;;;;;
+2019;biologia;Universidade de Franca;SP;185;Privada;;;138;13.62;45;7.07;201-250;2.43;;;183;4.12;;;;;;;;;
+2019;biologia;Faculdade Metropolitana São Carlos BJI;RJ;186;Privada;;;139;13.6;114;5.6;;;;;1;8;;;;;;;;;
+2019;biologia;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;187;Privada;;;140;13.56;150;4.84;130;4.77;;;191;3.95;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;188;Federal;;;141;13.5;201-250;3.44;201-250;2.06;;;1;8;;;;;;;;;
+2019;biologia;Universidade de Taubaté;SP;189;Municipal;;;142;13.44;181;4.18;132;4.72;;;163;4.54;;;;;;;;;
+2019;biologia;Universidade Federal do Amapá;AP;190;Federal;;;143;13.42;201-250;3.61;201-250;1.81;;;1;8;;;;;;;;;
+2019;biologia;Faculdade União Araruama de Ensino S/s Ltda.;RJ;191;Privada;;;144;13.22;132;5.22;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário das Américas;SP;192;Privada;;;145;13.18;134;5.18;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Zarns;BA;193;Privada;;;147;13.14;136;5.14;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Serra dos Órgãos;RJ;194;Privada;;;148;13.09;201-250;2.97;96;5.62;;;165;4.5;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;195;Federal;;;152;12.92;301-350;0.76;154;4.16;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Dom Pedro II;BA;196;Privada;;;153;12.88;148;4.88;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário do Distrito Federal;DF;197;Privada;;;154;12.86;80;6.32;150;4.26;;;251-300;2.28;;;;;;;;;
+2019;biologia;Universidade do Vale do Paraíba;SP;198;Privada;;;155;12.84;141;5.03;97;5.59;;;251-300;2.22;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;199;Federal;;;156;12.82;301-350;1.63;193;3.19;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário de Caratinga;MG;200;Privada;;;158;12.73;201-250;3.12;50;6.77;;;201-250;2.84;;;;;;;;;
+2019;biologia;Centro Universitário Módulo;SP;201;Privada;;;201-250;10.14;182;4.16;194;3.16;;;201-250;2.82;;;;;;;;;
+2019;biologia;Faculdade Dom Luis de Orleans e Bragança;BA;201;Privada;;;181;11.85;251-300;2.42;251-300;1.43;;;1;8;;;;;;;;;
+2019;biologia;Faculdade Ages de Lagarto;SE;201;Privada;;;201-250;10.7;251-300;2.7;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Metodista Izabela Hendrix;MG;201;Privada;;;180;11.88;170;4.41;65;6.4;;;301-350;1.07;;;;;;;;;
+2019;biologia;Faculdades Integradas de Ciências Humanas, Saúde e Educação de Guarulhos;SP;201;Privada;;;163;12.63;160;4.63;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Faesa;ES;201;Privada;;;191;11.39;201-250;2.87;113;5.19;;;201-250;3.33;;;;;;;;;
+2019;biologia;Universidade de Passo Fundo;RS;201;Privada;;;177;11.95;189;4.01;91;5.74;;;251-300;2.2;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;201;Federal;;;184;11.72;301-350;0.74;201-250;2.98;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;201;Federal;;;164;12.59;301-350;0.85;171;3.74;;;1;8;;;;;;;;;
+2019;biologia;Universidade La Salle;RS;201;Privada;;;188;11.49;20;7.6;251-300;0.6;;;201-250;3.29;;;;;;;;;
+2019;biologia;Centro Universitário Salesiano;ES;201;Privada;;;201-250;9.69;201-250;3.03;104;5.42;;;301-350;1.24;;;;;;;;;
+2019;biologia;Universidade Cidade de São Paulo;SP;201;Privada;;;173;12.11;42;7.13;251-300;0.9;;;185;4.08;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;201;Federal;;;190;11.42;201-250;3.42;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário da Vitória de Santo Antão;PE;201;Privada;;;183;11.74;201-250;3.74;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Unime;BA;201;Privada;;;175;12.05;201-250;3.23;17;7.6;;;301-350;1.22;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;201;Federal;;;201-250;9.97;251-300;2.4;201-250;2.66;;;146;4.91;;;;;;;;;
+2019;biologia;Centro Universitário Cenecista de Osório;RS;201;Privada;;;201-250;9.7;201-250;3.76;140;4.51;;;301-350;1.43;;;;;;;;;
+2019;biologia;Universidade Metodista de Piracicaba;SP;201;Privada;;;185;11.63;61;6.73;133;4.69;;;351-400;0.21;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;201;Federal;;;174;12.1;351-400;0.21;165;3.89;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Fundação de Ensino Octávio Bastos;SP;201;Privada;;;198;11.03;188;4.03;110;5.27;;;251-300;1.73;;;;;;;;;
+2019;biologia;Centro Universitário Academia;MG;201;Privada;;;201-250;10.04;179;4.22;103;5.44;;;351-400;0.38;;;;;;;;;
+2019;biologia;Universidade de Araraquara;SP;201;Privada;;;201-250;10.71;72;6.49;201-250;2.26;;;251-300;1.96;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;201;Federal;;;201-250;9.6;251-300;2.04;201-250;2.78;;;152;4.78;;;;;;;;;
+2019;biologia;Centro Universitário Araguaia;GO;201;Privada;;;178;11.94;201-250;3.06;153;4.19;;;156;4.69;;;;;;;;;
+2019;biologia;Universidade de Santa Cruz do Sul;RS;201;Privada;;;176;11.98;116;5.56;143;4.44;;;251-300;1.98;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;201;Federal;;;182;11.8;199;3.8;;;;;1;8;;;;;;;;;
+2019;biologia;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;201;Privada;;;200;11;191;3.97;123;4.94;;;251-300;2.09;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;201;Federal;;;194;11.3;251-300;1.83;139;4.54;;;145;4.93;;;;;;;;;
+2019;biologia;Centro Universitário Goyazes;GO;201;Privada;;;192;11.37;201-250;3.29;301-350;0.08;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário de Adamantina;SP;201;Municipal;;;201-250;9.85;301-350;1.08;92;5.72;;;201-250;3.05;;;;;;;;;
+2019;biologia;Universidade do Contestado;SC;201;Privada;;;186;11.51;201-250;2.89;116;5.12;;;201-250;3.5;;;;;;;;;
+2019;biologia;Universidade Estadual de Roraima;RR;201;Estadual;;;201-250;10.2;89;6.13;251-300;1.08;;;201-250;2.99;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Linhares;ES;201;Privada;;;201-250;9.85;301-350;1.51;70;6.27;;;251-300;2.07;;;;;;;;;
+2019;biologia;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;195;11.2;201-250;2.72;301-350;0.48;;;1;8;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;201;Federal;;;179;11.9;301-350;1.04;201-250;2.86;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário de Itajubá;MG;201;Privada;;;171;12.13;167;4.48;169;3.79;;;195;3.86;;;;;;;;;
+2019;biologia;Faculdade Eduvale de Avaré;SP;201;Privada;;;199;11.01;161;4.61;81;5.99;;;351-400;0.41;;;;;;;;;
+2019;biologia;Universidade Federal do Acre;AC;201;Federal;;;161;12.71;195;3.88;173;3.69;;;135;5.14;;;;;;;;;
+2019;biologia;Centro Universitário Jorge Amado;BA;201;Privada;;;201-250;9.71;183;4.14;199;3.03;;;251-300;2.54;;;;;;;;;
+2019;biologia;Centro Universitário Fieo;SP;201;Privada;;;201-250;10.18;102;5.86;201-250;2.76;;;301-350;1.56;;;;;;;;;
+2019;biologia;Centro Universitário Facex;RN;201;Privada;;;201-250;10.88;177;4.27;60;6.52;;;351-400;0.09;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;201;Federal;;;201-250;9.66;301-350;1.36;301-350;0.3;;;1;8;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Belo Horizonte;MG;201;Privada;;;186;11.51;198;3.82;83;5.94;;;251-300;1.75;;;;;;;;;
+2019;biologia;Faculdade Uniftb;SE;201;Privada;;;201-250;9.7;251-300;2.1;155;4.14;;;201-250;3.46;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Primavera do Leste;MT;201;Privada;;;201-250;9.97;351-400;0.57;30;7.27;;;251-300;2.13;;;;;;;;;
+2019;biologia;Faculdade de Presidente Venceslau;SP;201;Privada;;;201-250;10.08;251-300;2.08;;;;;1;8;;;;;;;;;
+2019;biologia;Universidade Estadual de Mato Grosso do Sul;MS;201;Estadual;;;201-250;9.95;128;5.31;163;3.94;;;301-350;0.7;;;;;;;;;
+2019;biologia;Faculdade de Apucarana;PR;201;Privada;;;201-250;10.14;351-400;0.3;101;5.49;;;172;4.35;;;;;;;;;
+2019;biologia;Centro Universitário de Formiga;MG;201;Privada;;;201-250;9.75;251-300;1.95;48;6.82;;;301-350;0.98;;;;;;;;;
+2019;biologia;Faculdade Doctum de Serra;ES;201;Privada;;;195;11.2;301-350;1.34;201-250;1.86;;;1;8;;;;;;;;;
+2019;biologia;Faculdades Famep-PI;PI;251;Privada;;;201-250;9.1;301-350;1.1;;;;;1;8;;;;;;;;;
+2019;biologia;Fundação Universidade do Estado de Santa Catarina;SC;251;Estadual;;;251-300;7.25;117;5.54;;;;;251-300;1.71;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;251;Federal;;;251-300;7.42;301-350;0.59;201-250;1.88;;;144;4.95;;;;;;;;;
+2019;biologia;Centro Universitário de Barra Mansa;RJ;251;Privada;;;251-300;7.42;251-300;2.29;168;3.81;;;301-350;1.32;;;;;;;;;
+2019;biologia;Centro Universitário de Jales;SP;251;Privada;;;251-300;8.62;301-350;0.62;;;;;1;8;;;;;;;;;
+2019;biologia;Faculdade do Acre;AC;251;Privada;;;251-300;7.32;201-250;3.33;301-350;0.23;;;200;3.76;;;;;;;;;
+2019;biologia;Centro Universitário de Goiás;GO;251;Privada;;;251-300;7.38;200;3.78;201-250;1.98;;;251-300;1.62;;;;;;;;;
+2019;biologia;Faculdade Estácio de Castanhal;PA;251;Privada;;;251-300;7.71;251-300;2.27;201-250;2.58;;;201-250;2.86;;;;;;;;;
+2019;biologia;Universidade do Estado de Minas Gerais;MG;251;Estadual;;;201-250;8.98;251-300;2.14;190;3.26;;;201-250;3.58;;;;;;;;;
+2019;biologia;Universidade do Oeste de Santa Catarina;SC;251;Privada;;;251-300;8.49;251-300;2.33;178;3.56;;;251-300;2.6;;;;;;;;;
+2019;biologia;Faculdade de Educação de Jaru;RO;251;Privada;;;201-250;8.84;301-350;0.64;301-350;0.2;;;1;8;;;;;;;;;
+2019;biologia;Universidade de Itaúna;MG;251;Privada;;;201-250;9.21;54;6.88;;;;;251-300;2.33;;;;;;;;;
+2019;biologia;Faculdade de Saúde e Humanidades Ibituruna;MG;251;Privada;;;251-300;7.68;251-300;2.36;251-300;1.05;;;176;4.27;;;;;;;;;
+2019;biologia;Centro Universitário Estácio Meta de Rio Branco Estácio;AC;251;Privada;;;251-300;7.72;251-300;2.59;201-250;1.76;;;201-250;3.37;;;;;;;;;
+2019;biologia;Centro Regional Universitário de Espírito Santo do Pinhal;SP;251;Privada;;;251-300;7.95;94;6.03;;;;;251-300;1.92;;;;;;;;;
+2019;biologia;Centro Universitário do Estado do Pará;PA;251;Privada;;;251-300;7.75;73;6.47;;;;;301-350;1.28;;;;;;;;;
+2019;biologia;Universidade Santa Úrsula;RJ;251;Privada;;;251-300;8.57;74;6.45;251-300;1.46;;;301-350;0.66;;;;;;;;;
+2019;biologia;Centro Universitário São Camilo - Espírito Santo;ES;251;Privada;;;201-250;8.77;201-250;3.08;201-250;2.96;;;201-250;2.73;;;;;;;;;
+2019;biologia;Instituto Luterano de Ensino Superior de Itumbiara;GO;251;Privada;;;251-300;8.29;351-400;0.49;198;3.06;;;154;4.74;;;;;;;;;
+2019;biologia;Centro Universitário de Patos de Minas;MG;251;Privada;;;201-250;9.01;301-350;1.55;54;6.67;;;301-350;0.79;;;;;;;;;
+2019;biologia;Centro Universitário de Rio Preto;SP;251;Privada;;;201-250;9.59;173;4.35;201-250;2.83;;;251-300;2.41;;;;;;;;;
+2019;biologia;Centro Universitário União das Américas Descomplica;PR;251;Privada;;;251-300;8.07;201-250;2.8;251-300;1.56;;;201-250;3.71;;;;;;;;;
+2019;biologia;Universidade Brasil;SP;251;Privada;;;251-300;7.5;201-250;2.82;301-350;0.33;;;172;4.35;;;;;;;;;
+2019;biologia;Faculdade do Futuro;MG;251;Privada;;;201-250;9.02;301-350;1.02;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Mário Palmério;MG;251;Privada;;;251-300;7.4;251-300;1.97;251-300;1.25;;;180;4.18;;;;;;;;;
+2019;biologia;Centro Universitário Nossa Senhora do Patrocínio;SP;251;Privada;;;251-300;7.63;301-350;1.23;100;5.52;;;301-350;0.88;;;;;;;;;
+2019;biologia;Instituto Superior de Educação Ibituruna;MG;251;Privada;;;251-300;8.59;301-350;1.17;201-250;2.68;;;154;4.74;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;251;Federal;;;251-300;7.82;351-400;0.47;201-250;2.36;;;142;4.99;;;;;;;;;
+2019;biologia;Faculdade de Educação São Luís;SP;251;Privada;;;251-300;8.01;251-300;1.72;196;3.11;;;201-250;3.18;;;;;;;;;
+2019;biologia;Centro de Ensino Superior do Vale São Francisco;PE;251;Municipal;;;201-250;9.4;351-400;0.17;251-300;1.23;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário para o Desenvolvimento do Alto Vale do Itajaí;SC;251;Privada;;;201-250;8.74;201-250;2.76;102;5.47;;;351-400;0.51;;;;;;;;;
+2019;biologia;Faculdade São Vicente;AL;251;Privada;;;251-300;7.64;251-300;2.5;251-300;0.68;;;167;4.46;;;;;;;;;
+2019;biologia;Centro Universitário São Miguel;PE;251;Privada;;;201-250;9.37;90;6.11;;;;;201-250;3.26;;;;;;;;;
+2019;biologia;Centro Universitário Una de Betim;MG;251;Privada;;;201-250;8.64;192;3.95;175;3.64;;;301-350;1.05;;;;;;;;;
+2019;biologia;Faculdade Santa Marcelina Muriaé;MG;251;Privada;;;251-300;7.77;351-400;0.32;79;6.04;;;301-350;1.41;;;;;;;;;
+2019;biologia;Centro Universitário da Fundação Educacional de Barretos;SP;251;Privada;;;251-300;8.02;138;5.09;201-250;2.03;;;301-350;0.9;;;;;;;;;
+2019;biologia;Centro Universitário Celso Lisboa;RJ;251;Privada;;;251-300;8.39;201-250;3.54;201-250;2.46;;;251-300;2.39;;;;;;;;;
+2019;biologia;Centro Universitário LS;DF;251;Privada;;;251-300;8.33;301-350;0.68;181;3.49;;;181;4.16;;;;;;;;;
+2019;biologia;Centro Universitário Metodista;RS;251;Privada;;;251-300;7.79;49;6.98;;;;;301-350;0.81;;;;;;;;;
+2019;biologia;Universidade do Vale do Sapucaí;MG;251;Privada;;;251-300;8.26;169;4.44;201-250;2.16;;;251-300;1.66;;;;;;;;;
+2019;biologia;Faculdade de Itaituba;PA;251;Privada;;;201-250;9.19;301-350;1.19;;;;;1;8;;;;;;;;;
+2019;biologia;Faculdade de São Paulo;SP;251;Privada;;;201-250;9.21;125;5.37;;;;;196;3.84;;;;;;;;;
+2019;biologia;Universidade Estadual de Alagoas;AL;251;Estadual;;;251-300;7.4;251-300;2.12;251-300;1.35;;;192;3.93;;;;;;;;;
+2019;biologia;Centro Universitário São Camilo;SP;251;Privada;;;201-250;9.23;68;6.58;251-300;1.48;;;301-350;1.17;;;;;;;;;
+2019;biologia;Centro Universitário São Lucas;RO;251;Privada;;;201-250;9.04;201-250;3.48;251-300;1.1;;;167;4.46;;;;;;;;;
+2019;biologia;Faculdade Ages de Tucano;BA;251;Privada;;;201-250;9.34;301-350;1.34;;;;;1;8;;;;;;;;;
+2019;biologia;Centro Universitário Central Paulista;SP;251;Privada;;;201-250;9.47;126;5.35;189;3.29;;;301-350;0.83;;;;;;;;;
+2019;biologia;Centro Universitário Newton Paiva;MG;251;Privada;;;201-250;8.81;159;4.65;251-300;1;;;201-250;3.16;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;251;Federal;;;201-250;8.92;351-400;0.23;176;3.61;;;138;5.08;;;;;;;;;
+2019;biologia;Faculdade de Jandaia do Sul;PR;251;Privada;;;251-300;8.55;301-350;1.57;53;6.7;;;351-400;0.28;;;;;;;;;
+2019;biologia;Universidade Paranaense;PR;301;Privada;;;301-350;6.09;251-300;2.21;184;3.41;;;351-400;0.47;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Anápolis;GO;301;Privada;;;301-350;5.63;351-400;0.51;161;3.99;;;301-350;1.13;;;;;;;;;
+2019;biologia;Instituto Superior de Educação Elvira Dayrell;MG;301;Privada;;;301-350;5.88;351-400;0.19;251-300;0.78;;;146;4.91;;;;;;;;;
+2019;biologia;Escola Superior Batista do Amazonas;AM;301;Privada;;;251-300;6.64;251-300;2.55;301-350;0.25;;;196;3.84;;;;;;;;;
+2019;biologia;Faculdade Frassinetti do Recife;PE;301;Privada;;;301-350;5.33;251-300;1.78;251-300;1.2;;;251-300;2.35;;;;;;;;;
+2019;biologia;Faculdades Integradas de Fernandópolis;SP;301;Privada;;;301-350;5.36;251-300;2.44;;;;;201-250;2.92;;;;;;;;;
+2019;biologia;Centro Universitário da Fundação Educacional Guaxupé;MG;301;Privada;;;301-350;4.75;201-250;3.31;301-350;0.35;;;301-350;1.09;;;;;;;;;
+2019;biologia;Faculdade Metropolitana São Carlos;RJ;301;Privada;;;301-350;6.23;175;4.31;;;;;251-300;1.92;;;;;;;;;
+2019;biologia;Centro Universitário Teresa D'ávila;SP;301;Privada;;;301-350;6.36;251-300;2.16;197;3.09;;;301-350;1.11;;;;;;;;;
+2019;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;301;Federal;;;251-300;6.92;301-350;0.93;251-300;1.4;;;161;4.59;;;;;;;;;
+2019;biologia;Centro Universitário do Norte;AM;301;Privada;;;301-350;5.1;251-300;1.76;201-250;2.08;;;301-350;1.26;;;;;;;;;
+2019;biologia;Centro Universitário Assis Gurgacz;PR;301;Privada;;;301-350;5.62;301-350;0.89;187;3.34;;;301-350;1.39;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Macapá;AP;301;Privada;;;301-350;5.26;301-350;1.15;201-250;2.53;;;301-350;1.58;;;;;;;;;
+2019;biologia;Centro Universitário Multivix Vitória;ES;301;Privada;;;301-350;4.28;301-350;1.34;;;;;201-250;2.94;;;;;;;;;
+2019;biologia;Centro Universitário Guairacá;PR;301;Privada;;;251-300;6.84;301-350;1.61;251-300;0.88;;;172;4.35;;;;;;;;;
+2019;biologia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;301;Privada;;;301-350;6.15;201-250;3.2;201-250;2.91;;;351-400;0.04;;;;;;;;;
+2019;biologia;Universidade do Planalto Catarinense;SC;301;Privada;;;301-350;4.98;301-350;1.46;251-300;1.73;;;251-300;1.79;;;;;;;;;
+2019;biologia;Faculdade de Taquaritinga;SP;301;Privada;;;301-350;5.08;201-250;3.27;;;;;251-300;1.81;;;;;;;;;
+2019;biologia;Centro Universitário do Cerrado-patrocínio;MG;301;Privada;;;301-350;6.18;251-300;2.48;251-300;0.63;;;201-250;3.07;;;;;;;;;
+2019;biologia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;301;Municipal;;;301-350;4.21;351-400;0.26;251-300;1.18;;;201-250;2.77;;;;;;;;;
+2019;biologia;Centro Universitário do Rio de Janeiro;RJ;301;Privada;;;301-350;5.43;201-250;2.95;;;;;251-300;2.48;;;;;;;;;
+2019;biologia;Escola Superior em Meio Ambiente;MG;301;Privada;;;301-350;4.9;301-350;1.59;301-350;0.28;;;201-250;3.03;;;;;;;;;
+2019;biologia;Centro Universitário da Grande Dourados;MS;301;Privada;;;251-300;7.13;201-250;2.91;;;;;178;4.22;;;;;;;;;
+2019;biologia;Centro Universitário São Lucas Ji-paraná;RO;301;Privada;;;301-350;6.3;251-300;1.87;251-300;0.55;;;194;3.88;;;;;;;;;
+2019;biologia;Faculdade Uniguaçu;PR;301;Privada;;;301-350;5.08;351-400;0.57;188;3.31;;;301-350;1.2;;;;;;;;;
+2019;biologia;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;301;Privada;;;301-350;4.28;201-250;2.93;251-300;0.5;;;301-350;0.85;;;;;;;;;
+2019;biologia;Centro Universitário Maurício de Nassau de Cacoal;RO;301;Privada;;;301-350;4.77;351-400;0.09;301-350;0.43;;;177;4.25;;;;;;;;;
+2019;biologia;Centro Universitário de Santa Fé do Sul;SP;301;Municipal;;;301-350;6.38;251-300;2.19;251-300;0.58;;;201-250;3.61;;;;;;;;;
+2019;biologia;Faculdade de Ciências e Letras de Bragança Paulista;SP;301;Municipal;;;301-350;4.95;301-350;1.06;170;3.76;;;351-400;0.13;;;;;;;;;
+2019;biologia;Faculdade Cidade de Patos de Minas;MG;301;Privada;;;251-300;6.9;251-300;2.38;;;;;164;4.52;;;;;;;;;
+2019;biologia;Faculdade Cidade de João Pinheiro;MG;301;Privada;;;301-350;4.65;301-350;0.98;;;;;201-250;3.67;;;;;;;;;
+2019;biologia;Faculdade de Ciências da Saúde de São Paulo;SP;301;Privada;;;301-350;6.2;106;5.77;;;;;351-400;0.43;;;;;;;;;
+2019;biologia;Centro Universitário da Amazônia;PA;301;Privada;;;301-350;5.36;251-300;2.23;251-300;0.7;;;251-300;2.43;;;;;;;;;
+2019;biologia;Faculdade Cesumar de Ponta Grossa;PR;301;Privada;;;251-300;6.5;251-300;2.7;;;;;198;3.8;;;;;;;;;
+2019;biologia;Centro Universitário Luterano de Palmas;TO;301;Privada;;;301-350;5.99;251-300;1.85;;;;;182;4.14;;;;;;;;;
+2019;biologia;Centro Universitário da Região da Campanha;RS;301;Privada;;;301-350;5.55;251-300;1.7;201-250;2.21;;;251-300;1.64;;;;;;;;;
+2019;biologia;Faculdade de Educação de Porto Velho;RO;301;Privada;;;301-350;5.31;301-350;1.49;201-250;2.28;;;301-350;1.54;;;;;;;;;
+2019;biologia;Faculdade Cathedral;RR;301;Privada;;;301-350;6.32;251-300;2.02;301-350;0.4;;;193;3.9;;;;;;;;;
+2019;biologia;Faculdades Magsul;MS;301;Privada;;;301-350;5.56;351-400;0.45;157;4.09;;;301-350;1.02;;;;;;;;;
+2019;biologia;Faculdade de Filosofia Ciências e Letras Dom Bosco;RJ;301;Privada;;;301-350;5.58;201-250;3.18;201-250;2.23;;;351-400;0.17;;;;;;;;;
+2019;biologia;Faculdade Maria Thereza;RJ;301;Privada;;;251-300;6.95;152;4.8;251-300;1.38;;;301-350;0.77;;;;;;;;;
+2019;biologia;Centro Universitário Ritter dos Reis;RS;301;Privada;;;301-350;5.16;148;4.88;;;;;351-400;0.28;;;;;;;;;
+2019;biologia;Faculdade Metropolitana de Anápolis;GO;301;Privada;;;301-350;4.45;301-350;0.83;251-300;0.65;;;201-250;2.97;;;;;;;;;
+2019;biologia;Escola Superior São Francisco de Assis;ES;301;Privada;;;301-350;6.17;351-400;0.53;108;5.32;;;351-400;0.32;;;;;;;;;
+2019;biologia;Universidade Evangélica de Goiás;GO;301;Privada;;;251-300;6.67;201-250;3.69;301-350;0.1;;;201-250;2.88;;;;;;;;;
+2019;biologia;Centro Universitário Cnec de Bento Gonçalves;RS;301;Privada;;;301-350;5.35;196;3.86;;;;;301-350;1.49;;;;;;;;;
+2019;biologia;Universidade Alto Vale do Rio do Peixe;SC;301;Privada;;;251-300;6.8;251-300;1.66;251-300;1.66;;;201-250;3.48;;;;;;;;;
+2019;biologia;Faculdade Estácio do Amazonas;AM;301;Privada;;;301-350;4.56;251-300;2.06;301-350;0.05;;;251-300;2.45;;;;;;;;;
+2019;biologia;Faculdade do Belo Jardim;PE;301;Municipal;;;301-350;5.55;351-400;0.42;201-250;1.78;;;201-250;3.35;;;;;;;;;
+2019;biologia;Faculdade de São Lourenço;MG;301;Privada;;;301-350;5.74;251-300;2.65;;;;;201-250;3.09;;;;;;;;;
+2019;biologia;Faculdade de Ciências Humanas do Sertão Central;PE;351;Municipal;;;351-400;0.58;351-400;0.02;;;;;301-350;0.56;;;;;;;;;
+2019;biologia;Faculdade de Formação de Professores da Mata Sul;PE;351;Municipal;;;351-400;2.58;301-350;0.66;;;;;251-300;1.92;;;;;;;;;
+2019;biologia;Faculdade de Filosofia, Ciências e Letras do Alto São Francisco;MG;351;Privada;;;351-400;3.82;351-400;0.34;251-300;0.73;;;201-250;2.75;;;;;;;;;
+2019;biologia;Faculdade Guaraí;TO;351;Privada;;;351-400;2.79;351-400;0.15;301-350;0.38;;;251-300;2.26;;;;;;;;;
+2019;biologia;Centro Universitário do Triângulo;MG;351;Privada;;;351-400;2.37;351-400;0.36;;;;;251-300;2.01;;;;;;;;;
+2019;biologia;Centro Universitário do Vale do Ribeira;SP;351;Privada;;;351-400;2.51;301-350;1.13;251-300;0.93;;;351-400;0.45;;;;;;;;;
+2019;biologia;Faculdade Fasup;PE;351;Privada;;;351-400;2.55;251-300;1.8;;;;;301-350;0.75;;;;;;;;;
+2019;biologia;Centro de Ensino Superior de Arcoverde;PE;351;Municipal;;;351-400;1.54;351-400;0.4;301-350;0.18;;;301-350;0.96;;;;;;;;;
+2019;biologia;Faculdade de Filosofia, Ciências e Letras de Duque de Caxias;RJ;351;Privada;;;351-400;1.78;301-350;1.42;;;;;351-400;0.36;;;;;;;;;
+2019;biologia;Faculdade de Caldas Novas;GO;351;Privada;;;351-400;2.9;351-400;0.04;251-300;0.75;;;251-300;2.11;;;;;;;;;
+2019;biologia;Faculdade Unibrasília de Minas Gerais;MG;351;Privada;;;351-400;3.37;301-350;0.87;251-300;0.98;;;301-350;1.52;;;;;;;;;
+2019;biologia;Faculdade de Filosofia Ciências e Letras de Alegre;ES;351;Municipal;;;351-400;3.65;351-400;0.28;301-350;0.15;;;201-250;3.22;;;;;;;;;
+2019;biologia;Faculdade de Formação de Professores de Serra Talhada;PE;351;Municipal;;;301-350;4.13;301-350;0.91;251-300;1.3;;;251-300;1.92;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Brasília;DF;351;Privada;;;351-400;1.92;301-350;1;;;;;301-350;0.92;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Bauru;SP;351;Privada;;;351-400;4.1;301-350;0.96;201-250;2.61;;;351-400;0.53;;;;;;;;;
+2019;biologia;Faculdade de Filosofia Ciências e Letras de São José do Rio Pardo;SP;351;Municipal;;;351-400;3.36;301-350;1.4;201-250;1.96;;;;;;;;;;;;;
+2019;biologia;Instituto Superior de Educação Professora Nair Fortes Abu-merhy;MG;351;Privada;;;351-400;1.26;351-400;0.11;251-300;1.13;;;351-400;0.02;;;;;;;;;
+2019;biologia;Faculdade Anhanguera de Pelotas;RS;351;Privada;;;351-400;1.83;301-350;0.83;;;;;301-350;1;;;;;;;;;
+2019;biologia;Faculdade Global de Umuarama;PR;351;Privada;;;351-400;3.18;351-400;0.38;;;;;201-250;2.8;;;;;;;;;
+2019;biologia;Centro Universitário da Serra Gaúcha;RS;351;Privada;;;351-400;3.74;201-250;3.25;;;;;351-400;0.49;;;;;;;;;
+2019;biologia;Faculdades Integradas Espírita;PR;351;Privada;;;351-400;3.2;201-250;3.14;;;;;351-400;0.06;;;;;;;;;
+2019;biologia;Universidade Nilton Lins;AM;351;Privada;;;351-400;3.17;251-300;1.74;251-300;0.85;;;301-350;0.58;;;;;;;;;
+2019;biologia;Centro Universitário dos Guararapes;PE;351;Privada;;;351-400;4.05;251-300;2.25;301-350;0.03;;;251-300;1.77;;;;;;;;;
+2019;biologia;Faculdades Integradas de Itapetininga;SP;351;Privada;;;351-400;2.95;351-400;0.13;201-250;2.63;;;351-400;0.19;;;;;;;;;
+2019;biologia;Faculdades Integradas Regionais de Avaré;SP;351;Municipal;;;351-400;2.53;301-350;0.79;251-300;1.63;;;351-400;0.11;;;;;;;;;
+2019;biologia;Faculdade de São Vicente;SP;351;Privada;;;351-400;3.92;301-350;1.34;;;;;251-300;2.58;;;;;;;;;
+2019;biologia;Faculdade Presidente Antônio Carlos de Aimorés;MG;351;Privada;;;351-400;2.73;351-400;0.06;;;;;251-300;2.67;;;;;;;;;
+2023;biologia;Universidade de São Paulo;SP;1;Estadual;1;36;1;62.59;39;7.12;24;7.47;;;1;8;1;40;;;;;;;
+2023;biologia;Universidade Estadual de Campinas;SP;2;Estadual;2;35.82;2;62.08;55;6.75;3;7.95;;;1;8;2;39.38;;;;;;;
+2023;biologia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;3;Estadual;2;35.82;4;61.34;38;7.14;25;7.45;;;1;8;3;38.75;;;;;;;
+2023;biologia;Universidade Federal de Minas Gerais;MG;4;Federal;5;35.27;3;61.78;42;7.05;2;7.98;;;1;8;3;38.75;;;;;;;
+2023;biologia;Universidade Federal do Rio de Janeiro;RJ;5;Federal;2;35.82;5;61.18;52;6.82;18;7.61;;;1;8;3;38.75;;;;;;;
+2023;biologia;Universidade Federal de Viçosa;MG;6;Federal;17;33.08;6;59.68;46;6.96;8;7.84;;;1;8;6;36.88;;;;;;;
+2023;biologia;Universidade Federal de São Carlos;SP;7;Federal;17;33.08;7;59.5;40;7.1;22;7.52;;;1;8;6;36.88;;;;;;;
+2023;biologia;Universidade Federal do Rio Grande do Sul;RS;8;Federal;17;33.08;8;59.4;59;6.66;7;7.86;;;1;8;6;36.88;;;;;;;
+2023;biologia;Universidade Federal de São Paulo;SP;9;Federal;17;33.08;9;58.65;1;8;16;7.65;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal de Goiás;GO;10;Federal;8;34.72;16;56.92;61;6.61;31;7.31;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal de Santa Catarina;SC;11;Federal;17;33.08;12;57.72;47;6.93;10;7.79;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal da Bahia;BA;12;Federal;8;34.72;20;55.94;120;5.24;14;7.7;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Estadual de Londrina;PR;13;Estadual;17;33.08;13;57.28;63;6.56;13;7.72;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade de Brasília;DF;14;Federal;17;33.08;17;56.91;88;5.98;4;7.93;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Estadual de Maringá;PR;15;Estadual;17;33.08;19;56.11;90;5.94;37;7.17;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade do Estado do Rio de Janeiro;RJ;16;Estadual;5;35.27;23;50.63;83;6.1;49;6.89;;;201-250;2.64;9;35;;;;;;;
+2023;biologia;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;17;Estadual;53;26.5;11;58.24;1;8;34;7.24;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Presbiteriana Mackenzie;SP;18;Privada;8;34.72;26;49.35;86;6.03;35;7.22;;;251-300;1.1;9;35;;;;;;;
+2023;biologia;Universidade Federal Rural do Rio de Janeiro;RJ;19;Federal;53;26.5;14;57.24;57;6.7;21;7.54;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal de Ouro Preto;MG;20;Federal;53;26.5;15;57.21;50;6.86;29;7.35;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal do Ceará;CE;21;Federal;17;33.08;24;50.17;130;5.01;33;7.26;;;201-250;2.9;9;35;;;;;;;
+2023;biologia;Universidade Federal de Uberlândia;MG;22;Federal;53;26.5;21;55.68;62;6.59;84;6.09;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal Fluminense;RJ;23;Federal;5;35.27;29;46.29;48;6.91;17;7.63;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Estadual de Feira de Santana;BA;24;Estadual;53;26.5;22;53.66;140;4.78;93;5.88;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal de Juiz de Fora;MG;25;Federal;17;33.08;27;46.62;45;6.98;6;7.89;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Rio Grande do Norte;RN;26;Federal;17;33.08;32;45.28;77;6.24;32;7.29;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal de Pernambuco;PE;27;Federal;8;34.72;38;43.2;69;6.42;130;5.03;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Paraná;PR;28;Federal;8;34.72;43;41.49;44;7;9;7.82;;;201-250;2.92;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Pará;PA;29;Federal;17;33.08;41;42.09;51;6.84;196;3.5;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Amazonas;AM;30;Federal;17;33.08;42;41.56;153;4.48;117;5.33;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal de Lavras;MG;31;Federal;111;15.9;10;58.59;1;8;19;7.59;;;1;8;9;35;;;;;;;
+2023;biologia;Universidade Federal de Santa Maria;RS;32;Federal;53;26.5;30;46.16;43;7.03;28;7.38;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Estadual do Centro Oeste;PR;33;Estadual;111;15.9;18;56.6;56;6.73;50;6.87;;;1;8;9;35;;;;;;;
+2023;biologia;Pontifícia Universidade Católica do Paraná;PR;34;Privada;17;33.08;46;39.37;126;5.1;11;7.77;;;201-250;2.75;27;23.75;;;;;;;
+2023;biologia;Universidade Estadual do Ceará;CE;35;Estadual;17;33.08;48;38.96;201-250;3.04;167;4.17;;;1;8;27;23.75;;;;;;;
+2023;biologia;Pontifícia Universidade Católica de Minas Gerais;MG;36;Privada;8;34.72;56;36.63;173;4.01;69;6.43;;;201-250;2.44;27;23.75;;;;;;;
+2023;biologia;Universidade do Grande Rio Professor José de Souza Herdy;RJ;37;Privada;17;33.08;52;38.11;191;3.59;201-250;2.77;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal Rural de Pernambuco;PE;38;Federal;53;26.5;33;44.47;68;6.45;76;6.27;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade do Vale do Taquari;RS;39;Privada;53;26.5;34;44.34;110;5.47;39;7.12;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Estadual de Goiás;GO;40;Estadual;17;33.08;54;37.07;201-250;3.29;251-300;2.03;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Estadual do Oeste do Paraná;PR;41;Estadual;53;26.5;40;42.2;95;5.82;147;4.63;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Estácio de Sá;RJ;42;Privada;17;33.08;59;35.23;134;4.92;134;4.93;;;251-300;1.63;27;23.75;;;;;;;
+2023;biologia;Universidade Federal de Campina Grande;PB;43;Federal;53;26.5;44;41;159;4.34;135;4.91;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Nove de Julho;SP;44;Privada;53;26.5;45;40.87;92;5.89;201-250;3.23;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal de Pelotas;RS;45;Federal;111;15.9;24;50.17;301-350;0.16;44;7.01;;;1;8;9;35;;;;;;;
+2023;biologia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;46;Privada;53;26.5;50;38.79;1;8;59;6.66;;;301-350;0.38;27;23.75;;;;;;;
+2023;biologia;Universidade do Oeste Paulista;SP;47;Privada;53;26.5;51;38.67;102;5.66;67;6.48;;;201-250;2.78;27;23.75;;;;;;;
+2023;biologia;Universidade Regional do Cariri;CE;48;Estadual;53;26.5;58;36.14;251-300;2.18;251-300;2.21;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Estado do Rio de Janeiro;RJ;49;Federal;111;15.9;31;45.57;91;5.91;5;7.91;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Católica do Salvador;BA;50;Privada;53;26.5;61;33.99;201-250;2.85;61;6.62;;;301-350;0.77;27;23.75;;;;;;;
+2023;biologia;Centro Universitário Barão de Mauá;SP;51;Privada;53;26.5;62;33.66;201-250;2.64;119;5.28;;;251-300;1.99;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Sul da Bahia;BA;52;Federal;111;15.9;36;43.59;79;6.19;103;5.65;;;1;8;27;23.75;;;;;;;
+2023;biologia;Fundação Universidade Federal do Pampa;RS;53;Federal;111;15.9;37;43.27;71;6.38;125;5.14;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Cruzeiro do Sul;SP;54;Privada;53;26.5;64;30.91;123;5.17;251-300;1.75;;;301-350;0.24;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Oeste da Bahia;BA;55;Federal;111;15.9;47;39.31;198;3.43;169;4.13;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal da Fronteira Sul;SC;56;Federal;111;15.9;49;38.91;84;6.08;82;6.13;;;201-250;2.95;27;23.75;;;;;;;
+2023;biologia;Universidade Federal da Paraíba;PB;57;Federal;17;33.08;71;21.15;72;6.35;53;6.8;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Espírito Santo;ES;57;Federal;17;33.08;71;21.15;73;6.33;52;6.82;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Estado de Mato Grosso;MT;59;Estadual;111;15.9;55;36.65;251-300;1.69;201-250;3.21;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal de Sergipe;SE;60;Federal;17;33.08;95;19.17;107;5.54;104;5.63;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Estado da Bahia;BA;61;Estadual;8;34.72;137;16.7;152;4.5;166;4.2;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de Alagoas;AL;62;Federal;17;33.08;107;17.85;116;5.33;152;4.52;;;1;8;;;;;;;;;
+2023;biologia;Universidade de Pernambuco;PE;63;Estadual;8;34.72;153;16.11;160;4.31;183;3.8;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Maranhão;MA;64;Federal;17;33.08;122;17.3;137;4.85;155;4.45;;;1;8;;;;;;;;;
+2023;biologia;Universidade da Região de Joinville;SC;65;Privada;111;15.9;60;34.29;165;4.2;176;3.97;;;201-250;2.37;27;23.75;;;;;;;
+2023;biologia;Universidade Luterana do Brasil;RS;66;Privada;17;33.08;146;16.32;201-250;3.22;127;5.1;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Piauí;PI;67;Federal;17;33.08;160;15.98;149;4.57;200;3.41;;;1;8;;;;;;;;;
+2023;biologia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;68;Privada;17;33.08;163;15.84;64;6.54;36;7.19;;;201-250;2.11;;;;;;;;;
+2023;biologia;Universidade de Sorocaba;SP;69;Privada;111;15.9;63;32.49;143;4.71;186;3.74;;;301-350;0.29;27;23.75;;;;;;;
+2023;biologia;Universidade do Vale do Rio dos Sinos;RS;70;Privada;17;33.08;168;15.12;78;6.21;85;6.06;;;201-250;2.85;;;;;;;;;
+2023;biologia;Universidade Estadual do Piauí;PI;71;Estadual;17;33.08;174;14.7;201-250;2.76;177;3.94;;;1;8;;;;;;;;;
+2023;biologia;Universidade Católica de Brasília;DF;72;Privada;17;33.08;175;14.65;119;5.26;51;6.85;;;201-250;2.54;;;;;;;;;
+2023;biologia;Universidade de Cuiabá;MT;73;Privada;53;26.5;76;20.83;98;5.75;41;7.08;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;74;Federal;;;28;46.51;1;8;55;6.76;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Estadual de Santa Cruz;BA;75;Estadual;53;26.5;83;19.87;74;6.31;107;5.56;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual do Maranhão;MA;76;Estadual;17;33.08;192;13.23;251-300;1.86;201-250;3.37;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de Mato Grosso do Sul;MS;77;Federal;17;33.08;193;13.13;101;5.68;133;4.96;;;201-250;2.49;;;;;;;;;
+2023;biologia;Fundação Universidade Federal do Tocantins;TO;78;Federal;53;26.5;87;19.67;1;8;189;3.67;;;1;8;;;;;;;;;
+2023;biologia;Universidade Tecnológica Federal do Paraná;PR;79;Federal;53;26.5;88;19.63;100;5.7;91;5.93;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual de Ponta Grossa;PR;80;Estadual;53;26.5;90;19.54;96;5.8;99;5.74;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de Mato Grosso;MT;81;Federal;53;26.5;93;19.19;82;6.12;128;5.07;;;1;8;;;;;;;;;
+2023;biologia;Universidade São Judas Tadeu;SP;81;Privada;53;26.5;93;19.19;118;5.29;92;5.9;;;1;8;;;;;;;;;
+2023;biologia;Universidade Católica de Santos;SP;83;Privada;53;26.5;101;18.45;97;5.77;145;4.68;;;1;8;;;;;;;;;
+2023;biologia;Pontifícia Universidade Católica de Campinas;SP;84;Privada;17;33.08;201-250;11.47;189;3.64;23;7.49;;;301-350;0.34;;;;;;;;;
+2023;biologia;Universidade Estadual do Paraná;PR;85;Estadual;53;26.5;114;17.52;135;4.89;147;4.63;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual do Sudoeste da Bahia;BA;86;Estadual;53;26.5;117;17.45;154;4.45;131;5;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Una;MG;87;Privada;53;26.5;118;17.41;123;5.17;164;4.24;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Patos de Minas;MG;88;Privada;;;35;43.73;75;6.28;101;5.7;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal de Roraima;RR;89;Federal;53;26.5;124;17.21;112;5.43;184;3.78;;;1;8;;;;;;;;;
+2023;biologia;Universidade Paulista;SP;90;Privada;8;34.72;251-300;8.81;201-250;2.71;160;4.33;;;251-300;1.77;;;;;;;;;
+2023;biologia;Universidade do Estado do Rio Grande do Norte;RN;91;Estadual;53;26.5;129;16.96;201-250;2.62;73;6.34;;;1;8;;;;;;;;;
+2023;biologia;Pontifícia Universidade Católica de Goiás;GO;92;Privada;17;33.08;251-300;10.22;127;5.08;201-250;3.34;;;251-300;1.8;;;;;;;;;
+2023;biologia;Universidade Estadual do Norte do Paraná;PR;93;Estadual;53;26.5;136;16.71;179;3.87;138;4.84;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual de Montes Claros;MG;94;Estadual;53;26.5;142;16.46;163;4.24;165;4.22;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Católica do Leste de Minas Gerais;MG;95;Privada;;;39;42.72;1;8;201-250;2.97;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Santo Amaro;SP;96;Privada;53;26.5;154;16.09;182;3.8;162;4.29;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual da Paraíba;PB;97;Estadual;53;26.5;155;16.07;201-250;3.32;142;4.75;;;1;8;;;;;;;;;
+2023;biologia;Universidade Tiradentes;SE;98;Privada;17;33.08;251-300;9.23;110;5.47;201-250;3.04;;;301-350;0.72;;;;;;;;;
+2023;biologia;Centro Universitário Adventista de São Paulo;SP;99;Privada;17;33.08;251-300;9.12;251-300;2.16;98;5.76;;;251-300;1.2;;;;;;;;;
+2023;biologia;Centro Universitário Geraldo Di Biase;RJ;100;Privada;53;26.5;180;14.28;251-300;1.48;140;4.8;;;1;8;;;;;;;;;
+2023;biologia;Fundação Universidade Federal do ABC;SP;101;Federal;111;15.9;65;24;1;8;1;8;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Estado do Amazonas;AM;102;Estadual;53;26.5;197;13.01;251-300;1.9;201-250;3.11;;;1;8;;;;;;;;;
+2023;biologia;Universidade Veiga de Almeida;RJ;103;Privada;53;26.5;200;12.73;151;4.52;27;7.4;;;301-350;0.81;;;;;;;;;
+2023;biologia;Universidade de Rio Verde;GO;104;Municipal;53;26.5;201-250;12.65;201-250;2.62;251-300;2.03;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Brasília;DF;105;Privada;53;26.5;201-250;12.28;186;3.71;20;7.56;;;251-300;1.01;;;;;;;;;
+2023;biologia;Universidade Estadual Vale do Acaraú;CE;106;Estadual;53;26.5;201-250;12.21;150;4.55;129;5.05;;;201-250;2.61;;;;;;;;;
+2023;biologia;Centro Universitário Jorge Amado;BA;107;Privada;111;15.9;67;22.78;1;8;54;6.78;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;108;Privada;53;26.5;201-250;12.15;141;4.75;71;6.39;;;251-300;1.01;;;;;;;;;
+2023;biologia;Universidade da Amazônia;PA;109;Privada;17;33.08;301-350;5.14;201-250;2.3;251-300;1.55;;;251-300;1.29;;;;;;;;;
+2023;biologia;Universidade Salgado de Oliveira;RJ;110;Privada;53;26.5;201-250;11.42;251-300;1.44;251-300;1.98;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Fundação de Ensino Octávio Bastos;SP;111;Privada;;;53;37.88;92;5.89;80;6.18;;;201-250;2.06;27;23.75;;;;;;;
+2023;biologia;Universidade La Salle;RS;112;Privada;111;15.9;68;21.83;1;8;95;5.83;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de São João Del Rei;MG;113;Federal;111;15.9;69;21.64;58;6.68;46;6.96;;;1;8;;;;;;;;;
+2023;biologia;Universidade Anhanguera de São Paulo;SP;114;Privada;53;26.5;201-250;10.74;117;5.31;201-250;3.18;;;201-250;2.25;;;;;;;;;
+2023;biologia;Universidade Positivo;PR;115;Privada;53;26.5;201-250;10.73;141;4.75;201-250;3.27;;;201-250;2.71;;;;;;;;;
+2023;biologia;Centro Universitário Ritter dos Reis;RS;116;Privada;53;26.5;201-250;10.66;201-250;2.78;57;6.71;;;251-300;1.17;;;;;;;;;
+2023;biologia;Universidade Vila Velha;ES;117;Privada;111;15.9;70;21.22;92;5.89;30;7.33;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Vale do Itajaí;SC;118;Privada;53;26.5;201-250;10.54;201-250;2.99;65;6.52;;;251-300;1.03;;;;;;;;;
+2023;biologia;Universidade Federal de Catalão;GO;119;Federal;111;15.9;75;20.91;49;6.89;87;6.02;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Sul de Santa Catarina;SC;120;Privada;53;26.5;251-300;10.16;201-250;2.99;81;6.16;;;251-300;1.01;;;;;;;;;
+2023;biologia;Universidade Federal de Alfenas;MG;121;Federal;111;15.9;77;20.7;81;6.15;64;6.55;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Fundação Santo André;SP;122;Privada;53;26.5;251-300;9.86;201-250;3.11;102;5.67;;;251-300;1.08;;;;;;;;;
+2023;biologia;Universidade Cidade de São Paulo;SP;124;Privada;53;26.5;251-300;9.74;67;6.47;301-350;0.97;;;201-250;2.3;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;125;Federal;;;57;36.21;251-300;1.83;201-250;2.63;;;1;8;27;23.75;;;;;;;
+2023;biologia;Universidade Federal do Triângulo Mineiro;MG;126;Federal;111;15.9;82;20;53;6.79;122;5.21;;;1;8;;;;;;;;;
+2023;biologia;Universidade Católica Dom Bosco;MS;127;Privada;53;26.5;251-300;9.25;201-250;2.74;190;3.64;;;201-250;2.87;;;;;;;;;
+2023;biologia;Universidade de Passo Fundo;RS;128;Privada;111;15.9;84;19.79;114;5.38;70;6.41;;;1;8;;;;;;;;;
+2023;biologia;Fundação Universidade Federal do Vale do São Francisco;PE;129;Federal;111;15.9;85;19.77;75;6.28;110;5.49;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Volta Redonda;RJ;130;Privada;111;15.9;86;19.75;66;6.49;120;5.26;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Extremo Sul Catarinense;SC;131;Privada;53;26.5;251-300;9.02;201-250;3.13;158;4.38;;;251-300;1.51;;;;;;;;;
+2023;biologia;Universidade de Mogi das Cruzes;SP;132;Privada;111;15.9;91;19.47;108;5.52;90;5.95;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Várzea Grande;MT;133;Privada;111;15.9;92;19.28;165;4.2;41;7.08;;;1;8;;;;;;;;;
+2023;biologia;Universidade Católica de Pernambuco;PE;134;Privada;53;26.5;251-300;8.52;146;4.64;193;3.57;;;301-350;0.31;;;;;;;;;
+2023;biologia;Universidade Universus Veritas Guarulhos;SP;135;Privada;53;26.5;251-300;8.36;201-250;2.62;174;4.01;;;251-300;1.73;;;;;;;;;
+2023;biologia;Universidade Cesumar;PR;136;Privada;111;15.9;99;18.79;139;4.8;88;5.99;;;1;8;;;;;;;;;
+2023;biologia;Universidade Potiguar;RN;137;Privada;53;26.5;251-300;7.79;187;3.69;201-250;3.09;;;251-300;1.01;;;;;;;;;
+2023;biologia;Universidade Santa Cecília;SP;138;Privada;111;15.9;102;18.34;60;6.63;187;3.71;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Cariri;CE;139;Federal;111;15.9;105;18.05;1;8;251-300;2.05;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Oeste de Santa Catarina;SC;140;Privada;111;15.9;106;17.91;201-250;3.27;60;6.64;;;1;8;;;;;;;;;
+2023;biologia;Fundação Universidade Federal de Rondônia;RO;141;Federal;111;15.9;110;17.8;162;4.27;108;5.53;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;142;Federal;111;15.9;111;17.73;155;4.43;118;5.3;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;143;Federal;111;15.9;112;17.6;201-250;3.01;62;6.59;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;144;Federal;111;15.9;113;17.55;144;4.68;137;4.87;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Ages;BA;145;Privada;111;15.9;120;17.36;1;8;251-300;1.36;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal da Integração Latino-americana;PR;146;Federal;111;15.9;121;17.33;1;8;66;6.5;;;201-250;2.83;;;;;;;;;
+2023;biologia;Centro Universitário Faesa;ES;147;Privada;111;15.9;123;17.29;201-250;3.06;78;6.23;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Sagrado Coração;SP;148;Privada;53;26.5;251-300;6.32;181;3.83;301-350;0.81;;;251-300;1.68;;;;;;;;;
+2023;biologia;Universidade Estadual de Roraima;RR;149;Estadual;111;15.9;130;16.88;1;8;301-350;0.88;;;1;8;;;;;;;;;
+2023;biologia;Universidade de Franca;SP;150;Privada;111;15.9;131;16.85;1;8;301-350;0.85;;;1;8;;;;;;;;;
+2023;biologia;Universidade Metodista de Piracicaba;SP;151;Privada;111;15.9;134;16.81;1;8;301-350;0.81;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Campos de Andrade;PR;152;Privada;111;15.9;139;16.59;128;5.06;195;3.53;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual de Alagoas;AL;153;Estadual;53;26.5;301-350;5.73;251-300;1.55;251-300;1.38;;;201-250;2.8;;;;;;;;;
+2023;biologia;Centro Universitário de Belo Horizonte;MG;154;Privada;111;15.9;148;16.25;1;8;301-350;0.25;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal Rural da Amazônia;PA;155;Federal;111;15.9;158;15.99;115;5.36;201-250;2.63;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Recôncavo da Bahia;BA;155;Federal;111;15.9;158;15.99;131;4.99;201-250;3;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Aparício Carvalho;RO;157;Privada;111;15.9;160;15.98;174;3.99;175;3.99;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Assis Gurgacz;PR;158;Privada;111;15.9;163;15.84;301-350;0.74;40;7.1;;;1;8;;;;;;;;;
+2023;biologia;Universidade Estadual do Rio Grande do Sul;RS;159;Estadual;111;15.9;165;15.76;102;5.66;251-300;2.1;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Estado de Minas Gerais;MG;160;Estadual;111;15.9;169;14.88;251-300;2.06;139;4.82;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário União das Américas Descomplica;PR;161;Privada;111;15.9;171;14.76;155;4.43;201-250;2.33;;;1;8;;;;;;;;;
+2023;biologia;Universidade Anhanguera;MS;162;Privada;111;15.9;173;14.72;70;6.4;301-350;0.32;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;163;Federal;111;15.9;177;14.39;251-300;1.23;124;5.16;;;1;8;;;;;;;;;
+2023;biologia;Universidade Evangélica de Goiás;GO;164;Privada;111;15.9;178;14.34;174;3.99;201-250;2.35;;;1;8;;;;;;;;;
+2023;biologia;Universidade Iguaçu;RJ;165;Privada;111;15.9;179;14.31;201-250;2.25;172;4.06;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Ages de Lagarto;SE;166;Privada;111;15.9;182;14.14;301-350;0.74;114;5.4;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário São Lucas Ji-paraná;RO;167;Privada;111;15.9;184;14.1;201-250;2.62;197;3.48;;;1;8;;;;;;;;;
+2023;biologia;Fundação Universidade do Estado de Santa Catarina;SC;168;Estadual;111;15.9;186;13.95;105;5.59;45;6.99;;;251-300;1.37;;;;;;;;;
+2023;biologia;Centro Universitário da Vitória de Santo Antão;PE;169;Privada;111;15.9;187;13.9;171;4.06;251-300;1.84;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Cesmac;AL;170;Privada;53;26.5;301-350;2.35;301-350;0.74;251-300;1.15;;;301-350;0.46;;;;;;;;;
+2023;biologia;Universidade de Caxias do Sul;RS;171;Privada;111;15.9;199;12.8;122;5.19;97;5.79;;;251-300;1.82;;;;;;;;;
+2023;biologia;Centro Universitário Metodista;RS;172;Privada;111;15.9;201-250;12.5;1;8;178;3.92;;;301-350;0.58;;;;;;;;;
+2023;biologia;Universidade do Estado do Pará;PA;173;Estadual;111;15.9;201-250;12.49;251-300;1.93;201-250;2.56;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;174;Federal;111;15.9;201-250;12.43;301-350;0.81;191;3.62;;;1;8;;;;;;;;;
+2023;biologia;Universidade Metodista de São Paulo;SP;175;Privada;53;26.5;301-350;1.55;301-350;0.74;301-350;0.81;;;;;;;;;;;;;
+2023;biologia;Universidade Nilton Lins;AM;176;Privada;111;15.9;201-250;11.91;201-250;2.62;251-300;1.29;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário São Lucas;RO;177;Privada;111;15.9;201-250;11.72;301-350;0.79;201-250;2.93;;;1;8;;;;;;;;;
+2023;biologia;Universidade Regional de Blumenau;SC;178;Municipal;111;15.9;201-250;11.64;200;3.39;12;7.75;;;301-350;0.5;;;;;;;;;
+2023;biologia;Universidade de Santa Cruz do Sul;RS;179;Privada;111;15.9;201-250;11.6;171;4.06;96;5.81;;;251-300;1.73;;;;;;;;;
+2023;biologia;Universidade Feevale;RS;180;Privada;111;15.9;201-250;11.29;102;5.66;161;4.31;;;251-300;1.32;;;;;;;;;
+2023;biologia;Universidade Anhembi Morumbi;SP;181;Privada;111;15.9;201-250;11.22;112;5.43;182;3.83;;;251-300;1.96;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;182;Federal;111;15.9;201-250;10.28;201-250;3.15;146;4.66;;;201-250;2.47;;;;;;;;;
+2023;biologia;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;183;Privada;111;15.9;251-300;10.26;192;3.57;121;5.23;;;251-300;1.46;;;;;;;;;
+2023;biologia;Faculdade do Belo Jardim;PE;184;Municipal;111;15.9;251-300;9.48;301-350;0.44;301-350;1.04;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Vale do Sapucaí;MG;185;Privada;111;15.9;251-300;9.46;251-300;2.04;123;5.19;;;201-250;2.23;;;;;;;;;
+2023;biologia;Centro Universitário Maurício de Nassau de Fortaleza;CE;186;Privada;111;15.9;251-300;8.68;251-300;2.13;113;5.42;;;251-300;1.13;;;;;;;;;
+2023;biologia;Centro Universitário da Fundação Herminio Ometto;SP;187;Privada;111;15.9;251-300;8.34;201-250;2.23;109;5.51;;;301-350;0.6;;;;;;;;;
+2023;biologia;Faculdade Anhanguera de Primavera do Leste;MT;188;Privada;;;66;23.08;1;8;41;7.08;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário das Faculdades Integradas de Ourinhos;SP;189;Privada;111;15.9;251-300;7.07;201-250;2.9;201-250;2.54;;;251-300;1.63;;;;;;;;;
+2023;biologia;Centro Universitário São Camilo - Espírito Santo;ES;190;Privada;111;15.9;251-300;6.8;194;3.53;201-250;2.26;;;251-300;1.01;;;;;;;;;
+2023;biologia;Instituto Luterano de Ensino Superior de Itumbiara;GO;191;Privada;111;15.9;251-300;6.48;251-300;1.99;251-300;2.14;;;201-250;2.35;;;;;;;;;
+2023;biologia;Faculdade Maria Thereza;RJ;192;Privada;111;15.9;301-350;5.9;201-250;2.99;251-300;2.12;;;301-350;0.79;;;;;;;;;
+2023;biologia;Centro Universitário Módulo;SP;193;Privada;111;15.9;301-350;5.81;194;3.53;251-300;1.27;;;251-300;1.01;;;;;;;;;
+2023;biologia;Centro Universitário do Norte;AM;194;Privada;111;15.9;301-350;5.8;251-300;1.25;201-250;3.14;;;251-300;1.41;;;;;;;;;
+2023;biologia;Universidade Castelo Branco;RJ;195;Privada;111;15.9;301-350;5.62;201-250;2.69;201-250;2.67;;;301-350;0.26;;;;;;;;;
+2023;biologia;Faculdade Frassinetti do Recife;PE;196;Privada;111;15.9;301-350;5.47;251-300;1.67;201-250;2.65;;;251-300;1.15;;;;;;;;;
+2023;biologia;Centro Universitário Brasileiro;PE;197;Privada;;;73;21.12;1;8;126;5.12;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de Itajubá;MG;198;Federal;;;74;20.99;106;5.57;26;7.42;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário da Fundação Educacional de Barretos;SP;199;Privada;111;15.9;301-350;4.68;201-250;2.62;301-350;0.81;;;251-300;1.25;;;;;;;;;
+2023;biologia;Fundação Universidade Federal da Grande Dourados;MS;200;Federal;;;78;20.56;65;6.52;86;6.04;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Educação de Jaru;RO;201;Privada;;;96;18.93;1;8;201-250;2.93;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Sul e Sudeste do Pará;PA;201;Federal;;;100;18.63;1;8;201-250;2.63;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;201;Federal;;;98;18.88;144;4.68;79;6.2;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Oeste do Pará;PA;201;Federal;;;133;16.82;87;6.01;201-250;2.81;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;201;Federal;;;157;16.02;190;3.62;157;4.4;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Integrado de Campo Mourão;PR;201;Privada;;;128;16.97;1;8;301-350;0.97;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;201;Federal;;;116;17.47;201-250;3.36;83;6.11;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Uninorte;AC;201;Privada;;;145;16.39;1;8;301-350;0.39;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de Rondonópolis;MT;201;Federal;;;151;16.17;178;3.9;163;4.27;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário das Américas;SP;201;Privada;;;104;18.25;80;6.17;171;4.08;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Rio Grande;RS;201;Federal;;;79;20.53;89;5.96;63;6.57;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Filosofia Ciências e Letras Dom Bosco;RJ;201;Privada;111;15.9;301-350;3.56;251-300;1.39;251-300;1.98;;;301-350;0.19;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;201;Federal;;;167;15.16;251-300;1.81;116;5.35;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Anhanguera de Macapá;AP;201;Privada;;;182;14.14;98;5.75;301-350;0.39;;;1;8;;;;;;;;;
+2023;biologia;Faculdade União Araruama de Ensino S/s Ltda.;RJ;201;Privada;;;166;15.32;201-250;2.62;144;4.7;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Itajubá;MG;201;Privada;;;156;16.03;174;3.99;173;4.04;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;201;Federal;;;89;19.56;136;4.87;58;6.69;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário São Miguel;PE;201;Privada;;;109;17.82;1;8;251-300;1.82;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;201;Federal;;;96;18.93;183;3.78;38;7.15;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário São José;RJ;201;Privada;;;131;16.85;54;6.77;251-300;2.08;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Barra Mansa;RJ;201;Privada;111;15.9;301-350;4.12;251-300;1.37;251-300;1.98;;;301-350;0.77;;;;;;;;;
+2023;biologia;Faculdade Anhanguera de Belo Horizonte;MG;201;Privada;;;143;16.45;131;4.99;198;3.46;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Delta do Parnaíba;PI;201;Federal;;;152;16.12;138;4.82;201-250;3.3;;;1;8;;;;;;;;;
+2023;biologia;Faculdades Magsul;MS;201;Privada;;;146;16.32;1;8;301-350;0.32;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Ciências Humanas do Sertão Central;PE;201;Municipal;111;15.9;301-350;0.53;301-350;0.09;301-350;0.44;;;;;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;201;Federal;;;114;17.52;188;3.66;94;5.86;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;201;Federal;;;108;17.83;165;4.2;104;5.63;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Anhanguera de Brasília;DF;201;Privada;;;170;14.84;169;4.1;201-250;2.74;;;1;8;;;;;;;;;
+2023;biologia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;201;Federal;;;127;17.12;108;5.52;192;3.6;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Brasília do Estado de Goiás;GO;201;Privada;;;188;13.54;131;4.99;301-350;0.55;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário do Cerrado-patrocínio;MG;201;Privada;111;15.9;301-350;4.53;251-300;1.53;301-350;1.08;;;251-300;1.92;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;201;Federal;;;139;16.59;201-250;2.62;89;5.97;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;201;Federal;;;185;13.96;201-250;3.08;201-250;2.88;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Anclivepa;SP;201;Privada;;;134;16.81;1;8;301-350;0.81;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Ages de Tucano;BA;201;Privada;;;118;17.41;1;8;251-300;1.41;;;1;8;;;;;;;;;
+2023;biologia;Universidade Alto Vale do Rio do Peixe;SC;201;Privada;;;126;17.2;1;8;251-300;1.2;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Central Paulista;SP;201;Privada;;;103;18.31;1;8;201-250;2.31;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Facvest;SC;201;Privada;;;80;20.51;41;7.07;112;5.44;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário LS;DF;201;Privada;;;181;14.21;251-300;1.62;149;4.59;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal de Jataí;GO;201;Federal;;;124;17.21;128;5.06;168;4.15;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Anhanguera de Anápolis;GO;201;Privada;;;141;16.55;1;8;301-350;0.55;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Acre;AC;201;Federal;;;176;14.57;185;3.73;201-250;2.84;;;1;8;;;;;;;;;
+2023;biologia;Universidade Comunitária da Região de Chapecó;SC;201;Privada;;;162;15.86;198;3.43;156;4.43;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Ciências e Tecnologias de Campos Gerais;MG;201;Privada;;;148;16.25;1;8;301-350;0.25;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Ciências e Letras de Bragança Paulista;SP;201;Municipal;111;15.9;301-350;2.42;301-350;0.74;251-300;1.66;;;301-350;0.02;;;;;;;;;
+2023;biologia;Centro Universitário Una de Betim;MG;201;Privada;;;148;16.25;1;8;301-350;0.25;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Augusto Motta;RJ;201;Privada;111;15.9;301-350;3.92;301-350;0.88;201-250;2.42;;;301-350;0.62;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;201;Federal;;;172;14.75;251-300;2.02;143;4.73;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Eduvale de Avaré;SP;201;Privada;;;138;16.69;1;8;68;6.46;;;201-250;2.23;;;;;;;;;
+2023;biologia;Universidade Estadual da Região Tocantina do Maranhão;MA;201;Estadual;;;144;16.44;193;3.55;136;4.89;;;1;8;;;;;;;;;
+2023;biologia;Universidade de Araraquara;SP;251;Privada;;;201-250;10.6;148;4.59;111;5.46;;;301-350;0.55;;;;;;;;;
+2023;biologia;Centro Universitário do Distrito Federal;DF;251;Privada;;;201-250;10.94;1;8;251-300;1.31;;;251-300;1.63;;;;;;;;;
+2023;biologia;Centro Universitário Ingá;PR;251;Privada;;;191;13.4;155;4.43;301-350;0.97;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Saúde e Humanidades Ibituruna;MG;251;Privada;;;201-250;10.38;251-300;2.13;301-350;0.25;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;251;Federal;;;190;13.48;251-300;1.72;185;3.76;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;251;Federal;;;201-250;11.6;169;4.1;141;4.77;;;201-250;2.73;;;;;;;;;
+2023;biologia;Centro Universitário de Rio Preto;SP;251;Privada;;;201-250;11.92;121;5.22;75;6.29;;;301-350;0.41;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;251;Federal;;;251-300;10.22;251-300;1.16;301-350;1.06;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;251;Federal;;;201-250;12.23;251-300;1.51;201-250;2.72;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;251;Municipal;;;201-250;10.98;251-300;1.3;251-300;1.68;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Contestado;SC;251;Privada;;;201-250;12.56;201-250;3.34;251-300;1.22;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;251;Federal;;;251-300;10.17;301-350;0.74;251-300;1.43;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;251;Federal;;;201-250;11.4;251-300;1.16;251-300;2.24;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Unibrasília de Minas Gerais;MG;251;Privada;;;201-250;12.01;184;3.76;301-350;0.25;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;251;Federal;;;251-300;10.03;301-350;1.02;301-350;1.01;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;251;Federal;;;201-250;10.46;251-300;1.88;301-350;0.58;;;1;8;;;;;;;;;
+2023;biologia;Escola Superior Batista do Amazonas;AM;251;Privada;;;201-250;11.59;201-250;3.2;301-350;0.39;;;1;8;;;;;;;;;
+2023;biologia;Universidade de Taubaté;SP;251;Municipal;;;201-250;11.38;201-250;2.81;56;6.73;;;251-300;1.84;;;;;;;;;
+2023;biologia;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;251-300;9.85;251-300;1.16;47;6.94;;;251-300;1.75;;;;;;;;;
+2023;biologia;Centro Universitário de Sete Lagoas;MG;251;Privada;;;251-300;9.47;201-250;2.62;74;6.32;;;301-350;0.53;;;;;;;;;
+2023;biologia;Centro Universitário de Goiás;GO;251;Privada;;;251-300;10.17;251-300;1.62;301-350;0.55;;;1;8;;;;;;;;;
+2023;biologia;Universidade do Planalto Catarinense;SC;251;Privada;;;251-300;9.94;301-350;0.74;251-300;1.2;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Goyazes;GO;251;Privada;;;251-300;10.08;301-350;0.74;251-300;1.34;;;1;8;;;;;;;;;
+2023;biologia;Centro de Ensino Superior do Vale São Francisco;PE;251;Municipal;;;201-250;10.29;251-300;1.3;301-350;0.99;;;1;8;;;;;;;;;
+2023;biologia;Faculdade do Futuro;MG;251;Privada;;;251-300;9.41;251-300;1.16;301-350;0.25;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Serra dos Órgãos;RJ;251;Privada;;;201-250;10.72;301-350;0.74;251-300;1.98;;;1;8;;;;;;;;;
+2023;biologia;Universidade Santa Úrsula;RJ;251;Privada;;;251-300;9.87;164;4.22;106;5.58;;;301-350;0.07;;;;;;;;;
+2023;biologia;Centro Universitário dos Guararapes;PE;251;Privada;;;201-250;12.44;201-250;2.62;251-300;1.82;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;251;Federal;;;201-250;11.7;301-350;0.26;199;3.44;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Uniftb;SE;251;Privada;;;201-250;11.04;1;8;201-250;3.04;;;;;;;;;;;;;
+2023;biologia;Faculdade Metropolitana de Anápolis;GO;251;Privada;;;251-300;9.29;301-350;0.74;301-350;0.55;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário Unime;BA;251;Privada;;;201-250;10.6;85;6.05;251-300;1.87;;;201-250;2.68;;;;;;;;;
+2023;biologia;Universidade do Vale do Paraíba;SP;251;Privada;;;201-250;11.44;201-250;3.25;48;6.92;;;251-300;1.27;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;251;Federal;;;251-300;9.42;155;4.43;201-250;2.4;;;201-250;2.59;;;;;;;;;
+2023;biologia;Faculdades Famep-PI;PI;251;Privada;;;201-250;10.36;251-300;1.21;251-300;1.15;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;251;Federal;;;251-300;9.66;301-350;0.02;251-300;1.64;;;1;8;;;;;;;;;
+2023;biologia;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;251;Privada;;;196;13.02;180;3.85;15;7.68;;;251-300;1.49;;;;;;;;;
+2023;biologia;Centro Universitário Redentor;RJ;251;Privada;;;201-250;11.74;301-350;0.42;201-250;3.32;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Educação São Luís;SP;251;Privada;;;201-250;11.81;301-350;0.84;201-250;2.97;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário do Paraná;PR;251;Privada;;;251-300;9.29;251-300;2.13;100;5.72;;;251-300;1.44;;;;;;;;;
+2023;biologia;Centro Universitário de Santa Fé do Sul;SP;251;Municipal;;;201-250;12.55;251-300;1.16;201-250;3.39;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;251;Federal;;;201-250;11.12;301-350;0.93;251-300;2.19;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Estácio de Castanhal;PA;251;Privada;;;195;13.08;194;3.53;251-300;1.55;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;251;Federal;;;201-250;12.56;201-250;2.83;251-300;1.73;;;1;8;;;;;;;;;
+2023;biologia;Faculdade de Filosofia, Ciências e Letras do Alto São Francisco;MG;251;Privada;;;201-250;12.13;201-250;2.88;251-300;1.25;;;1;8;;;;;;;;;
+2023;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;251;Federal;;;189;13.5;201-250;2.99;201-250;2.51;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Formiga;MG;251;Privada;;;201-250;10.49;147;4.61;154;4.47;;;251-300;1.41;;;;;;;;;
+2023;biologia;Centro Universitário Dom Pedro II;BA;251;Privada;;;201-250;10.35;301-350;0.74;251-300;1.61;;;1;8;;;;;;;;;
+2023;biologia;Faculdade Brasileira Cristã;ES;251;Privada;;;201-250;10.44;251-300;1.97;71;6.39;;;201-250;2.08;;;;;;;;;
+2023;biologia;Centro Universitário Dinâmica das Cataratas;PR;251;Privada;;;198;12.96;174;3.99;301-350;0.97;;;1;8;;;;;;;;;
+2023;biologia;Universidade Federal do Amapá;AP;251;Federal;;;194;13.11;201-250;2.67;201-250;2.44;;;1;8;;;;;;;;;
+2023;biologia;Faculdades Integradas de Itapetininga;SP;301;Privada;;;251-300;9;301-350;0.19;301-350;0.81;;;1;8;;;;;;;;;
+2023;biologia;Centro Universitário de Jales;SP;301;Privada;;;301-350;3.47;301-350;0.74;301-350;0.81;;;251-300;1.92;;;;;;;;;
+2023;biologia;Centro Universitário Nossa Senhora do Patrocínio;SP;301;Privada;;;251-300;8.87;165;4.2;201-250;2.49;;;201-250;2.18;;;;;;;;;
+2023;biologia;Faculdade São Vicente;AL;301;Privada;;;301-350;1.89;301-350;0.74;251-300;1.15;;;;;;;;;;;;;
+2023;biologia;Centro Universitário do Vale do Ribeira;SP;301;Privada;;;301-350;3.23;301-350;1.04;251-300;1.71;;;301-350;0.48;;;;;;;;;
+2023;biologia;Centro de Ensino Superior de Arcoverde;PE;301;Municipal;;;301-350;1.59;301-350;0.14;251-300;1.45;;;;;;;;;;;;;
+2023;biologia;Escola Superior em Meio Ambiente;MG;301;Privada;;;301-350;1.88;301-350;0.3;251-300;1.48;;;301-350;0.1;;;;;;;;;
+2023;biologia;Faculdade Fasup;PE;301;Privada;;;301-350;2.2;301-350;0.33;251-300;1.82;;;301-350;0.05;;;;;;;;;
+2023;biologia;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;301;Privada;;;251-300;6.92;201-250;2.62;201-250;3.25;;;251-300;1.05;;;;;;;;;
+2023;biologia;Centro Universitário Araguaia;GO;301;Privada;;;251-300;8.31;201-250;3.2;194;3.55;;;251-300;1.56;;;;;;;;;
+2023;biologia;Faculdade Cidade de João Pinheiro;MG;301;Privada;;;301-350;5.66;301-350;0.9;201-250;2.7;;;201-250;2.06;;;;;;;;;
+2023;biologia;Centro Universitário Salesiano;ES;301;Privada;;;251-300;8.53;251-300;1.37;132;4.98;;;201-250;2.18;;;;;;;;;
+2023;biologia;Faculdade Presidente Antônio Carlos de Aimorés;MG;301;Privada;;;301-350;0.25;;;301-350;0.25;;;;;;;;;;;;;
+2023;biologia;Instituto Superior de Educação Elvira Dayrell;MG;301;Privada;;;301-350;1.69;301-350;0.07;301-350;0.25;;;251-300;1.37;;;;;;;;;
+2023;biologia;Faculdade Guaraí;TO;301;Privada;;;301-350;5.21;301-350;0.86;251-300;2.17;;;201-250;2.18;;;;;;;;;
+2023;biologia;Faculdade de Apucarana;PR;301;Privada;;;301-350;5.47;301-350;0.28;151;4.54;;;301-350;0.65;;;;;;;;;
+2023;biologia;Centro Universitário Amparense;SP;301;Privada;;;301-350;5.35;194;3.53;301-350;0.81;;;251-300;1.01;;;;;;;;;
+2023;biologia;Centro Universitário de Caratinga;MG;301;Privada;;;251-300;7.55;251-300;1.97;201-250;3.16;;;201-250;2.42;;;;;;;;;
+2023;biologia;Instituto Superior de Educação Ibituruna;MG;301;Privada;;;301-350;0.28;;;301-350;0.28;;;;;;;;;;;;;
+2023;biologia;Centro Universitário Cenecista de Osório;RS;301;Privada;;;301-350;5.54;251-300;1.62;178;3.92;;;;;;;;;;;;;
+2023;biologia;Faculdade Cesumar de Ponta Grossa;PR;301;Privada;;;251-300;6.35;251-300;1.65;188;3.69;;;251-300;1.01;;;;;;;;;
+2023;biologia;Faculdade Anhanguera de Linhares;ES;301;Privada;;;251-300;8.92;161;4.29;201-250;2.28;;;201-250;2.35;;;;;;;;;
+2023;biologia;Faculdades Integradas Espírita;PR;301;Privada;;;251-300;7.99;201-250;2.62;115;5.37;;;;;;;;;;;;;
+2023;biologia;Faculdade Uniguaçu;PR;301;Privada;;;251-300;8.34;251-300;1.44;153;4.5;;;201-250;2.4;;;;;;;;;
+2023;biologia;Centro Universitário Guairacá;PR;301;Privada;;;301-350;5.14;301-350;0.95;251-300;1.89;;;201-250;2.3;;;;;;;;;
+2023;biologia;Centro Universitário da Região da Campanha;RS;301;Privada;;;251-300;7.24;201-250;2.62;178;3.92;;;301-350;0.7;;;;;;;;;
+2023;biologia;Faculdade de Formação de Professores de Serra Talhada;PE;301;Municipal;;;301-350;4.9;301-350;0.77;251-300;1.59;;;201-250;2.54;;;;;;;;;
+2023;biologia;Centro Universitário Facex;RN;301;Privada;;;301-350;4.21;301-350;1;201-250;3.09;;;301-350;0.12;;;;;;;;;
+2023;biologia;Instituto Superior de Educação Professora Nair Fortes Abu-merhy;MG;301;Privada;;;301-350;0.3;301-350;0.05;301-350;0.25;;;;;;;;;;;;;
+2023;biologia;Centro Universitário Cnec de Bento Gonçalves;RS;301;Privada;;;301-350;5.73;251-300;1.81;178;3.92;;;;;;;;;;;;;
+2023;biologia;Centro Universitário Academia;MG;301;Privada;;;301-350;6.22;251-300;1.48;150;4.57;;;301-350;0.17;;;;;;;;;
+2023;biologia;Faculdade de Caldas Novas;GO;301;Privada;;;301-350;0.93;301-350;0.14;301-350;0.55;;;301-350;0.24;;;;;;;;;
+2023;biologia;Universidade Estadual de Mato Grosso do Sul;MS;301;Estadual;;;251-300;8.27;125;5.13;201-250;2.47;;;301-350;0.67;;;;;;;;;
+2023;biologia;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;301-350;1.99;301-350;0.23;251-300;1.59;;;301-350;0.17;;;;;;;;;
+2023;biologia;Centro Universitário Metodista Izabela Hendrix;MG;301;Privada;;;251-300;6.76;251-300;2.2;170;4.1;;;301-350;0.46;;;;;;;;;
+2023;biologia;Faculdade de São Vicente;SP;301;Privada;;;301-350;4.32;301-350;0.21;201-250;2.86;;;251-300;1.25;;;;;;;;;
+2023;biologia;Centro Universitário Teresa D'ávila;SP;301;Privada;;;251-300;9.23;201-250;2.62;77;6.25;;;301-350;0.36;;;;;;;;;
+2023;biologia;Faculdade Mozarteum de São Paulo;SP;301;Privada;;;301-350;3.22;301-350;0.35;301-350;0.81;;;201-250;2.06;;;;;;;;;
+2023;biologia;Faculdade de Formação de Professores da Mata Sul;PE;301;Municipal;;;301-350;0.81;301-350;0.39;301-350;0.42;;;;;;;;;;;;;
+2023;biologia;Faculdade de Itaituba;PA;301;Privada;;;301-350;3.48;301-350;0.37;251-300;1.55;;;251-300;1.56;;;;;;;;;
+2023;biologia;Centro Universitário de Adamantina;SP;301;Municipal;;;301-350;5.24;251-300;1.21;201-250;2.38;;;251-300;1.65;;;;;;;;;
+2023;biologia;Universidade de Uberaba;MG;301;Privada;;;301-350;4.67;251-300;1.74;301-350;0.25;;;201-250;2.68;;;;;;;;;
+2023;biologia;Faculdade Estácio do Amazonas;AM;301;Privada;;;301-350;4.56;251-300;1.81;301-350;0.83;;;251-300;1.92;;;;;;;;;
+2023;biologia;Centro Universitário Celso Lisboa;RJ;301;Privada;;;251-300;7;201-250;2.27;201-250;2.79;;;251-300;1.94;;;;;;;;;
+2023;biologia;Centro Universitário Mário Palmério;MG;301;Privada;;;301-350;4.13;251-300;1.32;301-350;0.25;;;201-250;2.56;;;;;;;;;
+2023;biologia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;301;Privada;;;301-350;1.81;301-350;1;301-350;0.81;;;;;;;;;;;;;
+2024;biologia;Universidade de São Paulo;SP;1;Estadual;1;36;1;63.12;;;24;7.45;;;1;8;;;15;7.67;1;40;;;
+2024;biologia;Universidade Estadual de Campinas;SP;2;Estadual;2;35.82;2;62.7;;;3;7.95;;;1;8;;;33;7.23;2;39.52;;;
+2024;biologia;Universidade Federal de Minas Gerais;MG;3;Federal;2;35.82;3;62.58;;;2;7.98;;;1;8;;;20;7.55;3;39.05;;;
+2024;biologia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;4;Estadual;2;35.82;4;62.17;;;25;7.43;;;1;8;;;14;7.69;3;39.05;;;
+2024;biologia;Universidade Federal do Rio de Janeiro;RJ;5;Federal;2;35.82;5;61.98;;;18;7.6;;;1;8;;;29;7.33;3;39.05;;;
+2024;biologia;Universidade Federal de São Carlos;SP;6;Federal;10;34.37;8;60.21;;;22;7.5;;;1;8;;;19;7.57;7;37.14;;;
+2024;biologia;Universidade Federal do Rio Grande do Sul;RS;7;Federal;22;32.2;6;60.76;;;7;7.86;;;1;8;;;31;7.28;6;37.62;;;
+2024;biologia;Universidade de Brasília;DF;8;Federal;10;34.37;11;58.35;;;4;7.93;;;1;8;;;55;6.71;10;35.71;;;
+2024;biologia;Universidade Federal de Viçosa;MG;9;Federal;22;32.2;7;60.35;;;8;7.83;;;1;8;;;27;7.38;7;37.14;;;
+2024;biologia;Universidade Federal de Goiás;GO;10;Federal;10;34.37;12;58.11;;;31;7.29;;;1;8;;;38;7.11;10;35.71;;;
+2024;biologia;Universidade Federal de Santa Catarina;SC;11;Federal;22;32.2;9;58.94;;;11;7.76;;;1;8;;;23;7.47;10;35.71;;;
+2024;biologia;Universidade Federal Fluminense;RJ;12;Federal;10;34.37;15;56.26;;;17;7.62;;;1;8;;;30;7.31;15;33.33;;;
+2024;biologia;Universidade Federal do Paraná;PR;13;Federal;10;34.37;16;56.2;;;9;7.81;;;171;3.85;;;26;7.4;7;37.14;;;
+2024;biologia;Universidade Estadual de Londrina;PR;14;Estadual;10;34.37;19;56.08;;;13;7.71;;;1;8;;;41;7.04;15;33.33;;;
+2024;biologia;Universidade Federal da Bahia;BA;15;Federal;6;35.1;22;55.25;;;14;7.69;;;1;8;;;75;6.23;15;33.33;;;
+2024;biologia;Universidade Federal de São Paulo;SP;16;Federal;22;32.2;13;56.97;;;16;7.64;;;1;8;;;1;8;15;33.33;;;
+2024;biologia;Universidade Federal de Santa Maria;RS;17;Federal;22;32.2;17;56.19;;;28;7.36;;;1;8;;;22;7.5;15;33.33;;;
+2024;biologia;Universidade Federal de Pernambuco;PE;18;Federal;10;34.37;27;53.25;;;129;4.95;;;1;8;;;44;6.97;15;33.33;;;
+2024;biologia;Universidade Federal do Rio Grande do Norte;RN;19;Federal;22;32.2;23;55.13;;;32;7.26;;;1;8;;;62;6.54;15;33.33;;;
+2024;biologia;Universidade do Estado do Rio de Janeiro;RJ;20;Estadual;6;35.1;28;52.21;;;49;6.86;;;194;3.29;;;70;6.35;10;35.71;;;
+2024;biologia;Universidade Federal do Espírito Santo;ES;21;Federal;22;32.2;24;54.87;;;52;6.79;;;1;8;;;53;6.75;15;33.33;;;
+2024;biologia;Universidade Federal de Uberlândia;MG;22;Federal;22;32.2;26;54.51;;;84;6.02;;;1;8;;;36;7.16;15;33.33;;;
+2024;biologia;Universidade Federal do Pará;PA;23;Federal;22;32.2;29;52.06;;;195;3.38;;;1;8;;;28;7.35;15;33.33;;;
+2024;biologia;Universidade Federal do Amazonas;AM;24;Federal;22;32.2;31;51.43;;;117;5.24;;;1;8;;;132;4.86;15;33.33;;;
+2024;biologia;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;25;Estadual;68;23.88;10;58.92;;;34;7.21;;;1;8;;;1;8;10;35.71;;;
+2024;biologia;Universidade Federal do Ceará;CE;26;Federal;22;32.2;32;50.16;;;33;7.24;;;161;4.1;;;106;5.49;15;33.33;;;
+2024;biologia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;27;Privada;22;32.2;33;50.05;;;36;7.17;;;201-250;2.46;;;39;7.09;15;33.33;;;
+2024;biologia;Universidade Estadual de Feira de Santana;BA;28;Estadual;22;32.2;34;49.25;;;93;5.81;;;1;8;;;201-250;2.11;15;33.33;;;
+2024;biologia;Universidade Federal de Lavras;MG;29;Federal;68;23.88;14;56.54;;;19;7.57;;;1;8;;;16;7.64;15;33.33;;;
+2024;biologia;Universidade Federal de Ouro Preto;MG;30;Federal;68;23.88;18;56.09;;;29;7.33;;;1;8;;;25;7.43;15;33.33;;;
+2024;biologia;Universidade Federal Rural do Rio de Janeiro;RJ;31;Federal;68;23.88;20;55.99;;;21;7.52;;;1;8;;;37;7.14;15;33.33;;;
+2024;biologia;Universidade Federal do Estado do Rio de Janeiro;RJ;32;Federal;68;23.88;21;55.85;;;5;7.91;;;1;8;;;59;6.61;15;33.33;;;
+2024;biologia;Universidade Federal de Juiz de Fora;MG;33;Federal;22;32.2;36;47.14;;;6;7.88;;;1;8;;;24;7.45;35;23.81;;;
+2024;biologia;Universidade Estadual de Maringá;PR;34;Estadual;68;23.88;25;54.77;;;37;7.14;;;1;8;;;72;6.3;15;33.33;;;
+2024;biologia;Universidade Estadual do Oeste do Paraná;PR;35;Estadual;22;32.2;45;42.8;;;146;4.55;;;1;8;;;66;6.44;35;23.81;;;
+2024;biologia;Universidade Federal de Campina Grande;PB;36;Federal;22;32.2;48;41.34;;;134;4.83;;;1;8;;;139;4.7;35;23.81;;;
+2024;biologia;Universidade Presbiteriana Mackenzie;SP;37;Privada;10;34.37;58;39.02;;;35;7.19;;;251-300;1.29;;;54;6.73;35;23.81;;;
+2024;biologia;Universidade de Pernambuco;PE;38;Estadual;22;32.2;50;40.65;;;182;3.69;;;1;8;;;120;5.15;35;23.81;;;
+2024;biologia;Pontifícia Universidade Católica do Paraná;PR;39;Privada;22;32.2;51;40.2;;;10;7.79;;;201-250;2.68;;;88;5.92;35;23.81;;;
+2024;biologia;Universidade do Vale do Rio dos Sinos;RS;40;Privada;22;32.2;52;40.13;;;85;6;;;184;3.54;;;52;6.78;35;23.81;;;
+2024;biologia;Universidade Estadual do Ceará;CE;41;Estadual;22;32.2;55;39.58;;;165;4.1;;;1;8;;;182;3.67;35;23.81;;;
+2024;biologia;Fundação Universidade Federal do ABC;SP;42;Federal;68;23.88;35;47.81;;;1;8;;;1;8;;;1;8;35;23.81;;;
+2024;biologia;Pontifícia Universidade Católica de Minas Gerais;MG;43;Privada;6;35.1;69;36.51;;;69;6.38;;;201-250;2.2;;;163;4.12;35;23.81;;;
+2024;biologia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;44;Privada;22;32.2;60;38.47;;;59;6.62;;;301-350;0.42;;;17;7.62;35;23.81;;;
+2024;biologia;Universidade Estadual do Centro Oeste;PR;45;Estadual;68;23.88;38;45.54;;;50;6.83;;;1;8;;;47;6.9;35;23.81;;;
+2024;biologia;Universidade Federal de Alfenas;MG;46;Federal;68;23.88;39;45.14;;;64;6.5;;;1;8;;;50;6.83;35;23.81;;;
+2024;biologia;Universidade Estadual de Goiás;GO;47;Estadual;22;32.2;68;36.59;;;251-300;1.88;;;1;8;;;201-250;2.9;35;23.81;;;
+2024;biologia;Universidade Federal Rural de Pernambuco;PE;48;Federal;68;23.88;40;44.89;;;76;6.21;;;1;8;;;48;6.87;35;23.81;;;
+2024;biologia;Universidade Federal do Sul da Bahia;BA;49;Federal;68;23.88;42;44.59;;;103;5.57;;;1;8;;;34;7.21;35;23.81;;;
+2024;biologia;Universidade Regional do Cariri;CE;50;Estadual;22;32.2;70;36.2;;;201-250;2.07;;;1;8;;;201-250;2.32;35;23.81;;;
+2024;biologia;Fundação Universidade Federal do Pampa;RS;51;Federal;68;23.88;43;43.54;;;124;5.07;;;1;8;;;57;6.66;35;23.81;;;
+2024;biologia;Universidade Estadual de Santa Cruz;BA;52;Estadual;68;23.88;44;42.99;;;107;5.48;;;1;8;;;97;5.7;35;23.81;;;
+2024;biologia;Universidade do Vale do Itajaí;SC;53;Privada;22;32.2;75;34.38;;;65;6.48;;;251-300;1.1;;;201-250;2.99;35;23.81;;;
+2024;biologia;Universidade Federal de Mato Grosso;MT;53;Federal;68;23.88;46;42.7;;;127;5;;;1;8;;;89;5.89;35;23.81;;;
+2024;biologia;Universidade Estácio de Sá;RJ;55;Privada;22;32.2;78;33.7;;;133;4.86;;;251-300;1.22;;;176;3.81;35;23.81;;;
+2024;biologia;Universidade do Vale do Taquari;RS;56;Privada;68;23.88;49;40.66;;;39;7.1;;;168;3.93;;;92;5.82;35;23.81;;;
+2024;biologia;Universidade do Grande Rio Professor José de Souza Herdy;RJ;57;Privada;22;32.2;83;31.88;;;201-250;2.64;;;180;3.63;;;251-300;1.8;35;23.81;;;
+2024;biologia;Universidade Federal do Oeste da Bahia;BA;58;Federal;68;23.88;53;39.91;;;167;4.05;;;1;8;;;166;4.05;35;23.81;;;
+2024;biologia;Universidade Vila Velha;ES;59;Privada;68;23.88;56;39.41;;;30;7.31;;;201-250;2.71;;;102;5.58;35;23.81;;;
+2024;biologia;Universidade do Oeste Paulista;SP;60;Privada;68;23.88;57;39.31;;;67;6.43;;;195;3.27;;;93;5.8;35;23.81;;;
+2024;biologia;Universidade do Estado de Minas Gerais;MG;61;Estadual;68;23.88;59;38.75;;;138;4.74;;;1;8;;;201-250;2.2;35;23.81;;;
+2024;biologia;Universidade Federal do Sul e Sudeste do Pará;PA;62;Federal;68;23.88;61;37.85;;;201-250;2.5;;;164;4.02;;;21;7.52;35;23.81;;;
+2024;biologia;Universidade de Passo Fundo;RS;63;Privada;68;23.88;62;37.51;;;70;6.36;;;201-250;2;;;112;5.34;35;23.81;;;
+2024;biologia;Universidade Federal do Amapá;AP;64;Federal;68;23.88;64;37.33;;;201-250;2.31;;;1;8;;;201-250;3.21;35;23.81;;;
+2024;biologia;Universidade da Região de Joinville;SC;65;Privada;68;23.88;72;35.24;;;174;3.88;;;201-250;3.07;;;148;4.48;35;23.81;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;66;Federal;68;23.88;73;35.02;;;145;4.57;;;201-250;3.02;;;184;3.62;35;23.81;;;
+2024;biologia;Universidade Nove de Julho;SP;67;Privada;68;23.88;74;34.48;;;201-250;3.1;;;201-250;2.73;;;133;4.84;35;23.81;;;
+2024;biologia;Universidade de Franca;SP;68;Privada;68;23.88;76;34.11;;;301-350;0.86;;;201-250;2.37;;;40;7.07;35;23.81;;;
+2024;biologia;Universidade Católica do Salvador;BA;69;Privada;68;23.88;77;33.97;;;61;6.57;;;251-300;0.88;;;201-250;2.71;35;23.81;;;
+2024;biologia;Universidade Cidade de São Paulo;SP;70;Privada;68;23.88;80;32.99;;;251-300;0.98;;;201-250;2.98;;;117;5.22;35;23.81;;;
+2024;biologia;Universidade Federal de Pelotas;RS;71;Federal;174;4.7;30;51.57;;;44;6.98;;;1;8;;;199;3.26;15;33.33;;;
+2024;biologia;Universidade Cruzeiro do Sul;SP;72;Privada;68;23.88;82;32.02;;;251-300;1.71;;;301-350;0.34;;;78;6.16;35;23.81;;;
+2024;biologia;Universidade de Sorocaba;SP;73;Privada;68;23.88;84;31.72;;;185;3.62;;;301-350;0.1;;;160;4.19;35;23.81;;;
+2024;biologia;Universidade Federal de Sergipe;SE;74;Federal;10;34.37;98;19.59;;;104;5.55;;;1;8;;;83;6.04;;;;;
+2024;biologia;Universidade Federal da Paraíba;PB;75;Federal;22;32.2;87;21.44;;;53;6.76;;;1;8;;;56;6.68;;;;;
+2024;biologia;Universidade do Estado da Bahia;BA;76;Estadual;10;34.37;136;16.34;;;164;4.12;;;1;8;;;159;4.22;;;;;
+2024;biologia;Universidade Federal de Alagoas;AL;77;Federal;22;32.2;103;18.42;;;151;4.43;;;1;8;;;85;5.99;;;;;
+2024;biologia;Fundação Universidade Federal do Tocantins;TO;78;Federal;22;32.2;104;18.35;;;188;3.55;;;1;8;;;51;6.8;;;;;
+2024;biologia;Universidade Estadual do Sudoeste da Bahia;BA;79;Estadual;22;32.2;113;17.86;;;130;4.93;;;1;8;;;129;4.93;;;;;
+2024;biologia;Universidade Federal do Maranhão;MA;80;Federal;22;32.2;118;17.63;;;154;4.36;;;1;8;;;115;5.27;;;;;
+2024;biologia;Universidade Federal do Rio Grande;RS;81;Federal;174;4.7;41;44.73;;;63;6.52;;;1;8;;;68;6.4;35;23.81;;;
+2024;biologia;Universidade Estadual da Paraíba;PB;82;Estadual;22;32.2;133;16.67;;;141;4.67;;;1;8;;;168;4;;;;;
+2024;biologia;Universidade Federal do Piauí;PI;83;Federal;22;32.2;137;16.32;;;199;3.29;;;1;8;;;125;5.03;;;;;
+2024;biologia;Universidade Estadual do Piauí;PI;84;Estadual;22;32.2;147;15.29;;;175;3.86;;;1;8;;;192;3.43;;;;;
+2024;biologia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;85;Federal;174;4.7;47;42.47;;;136;4.79;;;1;8;;;90;5.87;35;23.81;;;
+2024;biologia;Universidade Católica de Brasília;DF;86;Privada;22;32.2;155;14.68;;;51;6.81;;;201-250;2.24;;;100;5.63;;;;;
+2024;biologia;Universidade Federal de Mato Grosso do Sul;MS;87;Federal;22;32.2;156;14.64;;;132;4.88;;;188;3.44;;;71;6.32;;;;;
+2024;biologia;Pontifícia Universidade Católica de Campinas;SP;88;Privada;10;34.37;187;12.23;;;23;7.48;;;301-350;0.29;;;149;4.46;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;89;Federal;;;37;46.52;;;55;6.71;;;1;8;;;1;8;35;23.81;;;
+2024;biologia;Universidade do Estado do Amazonas;AM;90;Estadual;22;32.2;171;13.45;;;201-250;2.98;;;1;8;;;201-250;2.47;;;;;
+2024;biologia;Universidade La Salle;RS;91;Privada;68;23.88;86;21.76;;;95;5.76;;;1;8;;;1;8;;;;;
+2024;biologia;Pontifícia Universidade Católica de Goiás;GO;92;Privada;10;34.37;201-250;10.76;;;201-250;3.21;;;201-250;2.54;;;126;5.01;;;;;
+2024;biologia;Universidade Federal de São João Del Rei;MG;93;Federal;68;23.88;89;21.01;;;46;6.93;;;1;8;;;81;6.08;;;;;
+2024;biologia;Universidade Paulista;SP;94;Privada;6;35.1;201-250;9.6;;;158;4.26;;;201-250;2.49;;;201-250;2.85;;;;;
+2024;biologia;Universidade Federal de Catalão;GO;95;Federal;68;23.88;90;20.8;;;87;5.95;;;1;8;;;49;6.85;;;;;
+2024;biologia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;96;Privada;22;32.2;193;12.04;;;71;6.33;;;251-300;1.78;;;171;3.93;;;;;
+2024;biologia;Universidade Estadual de Ponta Grossa;PR;97;Estadual;68;23.88;92;20.26;;;99;5.67;;;1;8;;;60;6.59;;;;;
+2024;biologia;Centro Universitário Una;MG;98;Privada;22;32.2;195;11.85;;;162;4.17;;;201-250;3.1;;;144;4.58;;;;;
+2024;biologia;Universidade Tecnológica Federal do Paraná;PR;99;Federal;68;23.88;95;19.97;;;91;5.86;;;1;8;;;80;6.11;;;;;
+2024;biologia;Universidade Luterana do Brasil;RS;100;Privada;22;32.2;198;11.63;;;126;5.02;;;189;3.42;;;201-250;3.19;;;;;
+2024;biologia;Fundação Universidade Federal de Rondônia;RO;101;Federal;68;23.88;99;19.13;;;108;5.45;;;1;8;;;98;5.68;;;;;
+2024;biologia;Centro Universitário de Volta Redonda;RJ;102;Privada;68;23.88;100;18.82;;;120;5.17;;;1;8;;;99;5.65;;;;;
+2024;biologia;Universidade Católica Dom Bosco;MS;103;Privada;22;32.2;201-250;10.45;;;189;3.52;;;187;3.46;;;190;3.47;;;;;
+2024;biologia;Universidade Católica de Santos;SP;104;Privada;68;23.88;101;18.73;;;144;4.6;;;1;8;;;79;6.13;;;;;
+2024;biologia;Universidade Federal da Integração Latino-americana;PR;105;Federal;68;23.88;107;17.99;;;66;6.45;;;167;3.95;;;18;7.59;;;;;
+2024;biologia;Universidade Tiradentes;SE;106;Privada;22;32.2;201-250;9.6;;;201-250;2.91;;;251-300;1.59;;;122;5.1;;;;;
+2024;biologia;Universidade Federal de Roraima;RR;106;Federal;68;23.88;110;17.92;;;183;3.67;;;1;8;;;74;6.25;;;;;
+2024;biologia;Universidade Federal do Cariri;CE;108;Federal;68;23.88;111;17.91;;;251-300;1.91;;;1;8;;;1;8;;;;;
+2024;biologia;Universidade Santa Cecília;SP;109;Privada;68;23.88;114;17.8;;;186;3.6;;;1;8;;;76;6.2;;;;;
+2024;biologia;Centro Universitário Jorge Amado;BA;110;Privada;68;23.88;117;17.71;;;54;6.74;;;177;3.71;;;32;7.26;;;;;
+2024;biologia;Universidade do Estado de Mato Grosso;MT;111;Estadual;174;4.7;65;36.84;;;201-250;3.07;;;1;8;;;251-300;1.96;35;23.81;;;
+2024;biologia;Centro Universitário de Várzea Grande;MT;112;Privada;68;23.88;120;17.59;;;41;7.05;;;1;8;;;201-250;2.54;;;;;
+2024;biologia;Universidade do Estado do Rio Grande do Norte;RN;113;Estadual;68;23.88;121;17.43;;;73;6.29;;;1;8;;;201-250;3.14;;;;;
+2024;biologia;Centro Universitário Adventista de São Paulo;SP;113;Privada;22;32.2;251-300;9.11;;;98;5.69;;;251-300;1.17;;;201-250;2.25;;;;;
+2024;biologia;Universidade Estadual do Maranhão;MA;115;Estadual;22;32.2;251-300;8.89;;;201-250;3.24;;;176;3.73;;;251-300;1.92;;;;;
+2024;biologia;Centro Universitário Facvest;SC;116;Privada;68;23.88;126;17.14;;;112;5.36;;;1;8;;;177;3.78;;;;;
+2024;biologia;Universidade Estadual de Montes Claros;MG;117;Estadual;68;23.88;127;17.03;;;163;4.14;;;1;8;;;131;4.89;;;;;
+2024;biologia;Universidade Estadual do Norte do Paraná;PR;118;Estadual;68;23.88;128;17;;;137;4.76;;;1;8;;;158;4.24;;;;;
+2024;biologia;Universidade Estadual de Roraima;RR;119;Estadual;68;23.88;130;16.88;;;251-300;0.88;;;1;8;;;1;8;;;;;
+2024;biologia;Universidade Positivo;PR;120;Privada;22;32.2;251-300;8.41;;;201-250;3.14;;;169;3.9;;;251-300;1.37;;;;;
+2024;biologia;Universidade Católica de Pernambuco;PE;121;Privada;22;32.2;251-300;8.22;;;192;3.45;;;301-350;0.27;;;147;4.5;;;;;
+2024;biologia;Centro Universitário de Patos de Minas;MG;122;Privada;174;4.7;71;35.61;;;101;5.62;;;251-300;1.51;;;140;4.67;35;23.81;;;
+2024;biologia;Centro Universitário de Belo Horizonte;MG;123;Privada;68;23.88;139;16.26;;;301-350;0.26;;;1;8;;;1;8;;;;;
+2024;biologia;Universidade de Cuiabá;MT;124;Privada;68;23.88;141;16.25;;;41;7.05;;;172;3.83;;;111;5.37;;;;;
+2024;biologia;Universidade Federal da Fronteira Sul;SC;125;Federal;;;54;39.89;;;82;6.07;;;182;3.59;;;67;6.42;35;23.81;;;
+2024;biologia;Centro Universitário Assis Gurgacz;PR;126;Privada;68;23.88;142;15.91;;;40;7.07;;;1;8;;;251-300;0.84;;;;;
+2024;biologia;Centro Universitário Campos de Andrade;PR;127;Privada;68;23.88;148;15.15;;;194;3.41;;;1;8;;;179;3.74;;;;;
+2024;biologia;Fundação Universidade do Estado de Santa Catarina;SC;128;Estadual;68;23.88;149;15.13;;;45;6.95;;;251-300;1.81;;;69;6.37;;;;;
+2024;biologia;Universidade São Judas Tadeu;SP;129;Privada;68;23.88;150;15.05;;;92;5.83;;;169;3.9;;;113;5.32;;;;;
+2024;biologia;Faculdade Ages de Lagarto;SE;130;Privada;68;23.88;151;14.84;;;114;5.31;;;1;8;;;251-300;1.53;;;;;
+2024;biologia;Centro Universitário União das Américas Descomplica;PR;131;Privada;68;23.88;153;14.74;;;201-250;2.19;;;1;8;;;145;4.55;;;;;
+2024;biologia;Universidade Estadual da Região Tocantina do Maranhão;MA;132;Estadual;68;23.88;154;14.7;;;135;4.81;;;1;8;;;251-300;1.89;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;133;Federal;68;23.88;158;14.51;;;123;5.1;;;1;8;;;251-300;1.41;;;;;
+2024;biologia;Centro Universitário Geraldo Di Biase;RJ;134;Privada;68;23.88;160;14.34;;;139;4.71;;;1;8;;;251-300;1.63;;;;;
+2024;biologia;Centro Universitário Ages;BA;135;Privada;68;23.88;161;14.29;;;251-300;1.31;;;1;8;;;127;4.98;;;;;
+2024;biologia;Centro Universitário Fundação de Ensino Octávio Bastos;SP;136;Privada;174;4.7;79;33.4;;;80;6.12;;;251-300;0.98;;;201-250;2.49;35;23.81;;;
+2024;biologia;Centro Universitário Aparício Carvalho;RO;137;Privada;68;23.88;167;13.64;;;173;3.91;;;1;8;;;251-300;1.73;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;138;Federal;;;63;37.48;;;140;4.69;;;174;3.78;;;118;5.2;35;23.81;;;
+2024;biologia;Centro Universitário da Vitória de Santo Antão;PE;139;Privada;68;23.88;170;13.47;;;251-300;1.76;;;1;8;;;180;3.71;;;;;
+2024;biologia;Universidade Estadual Vale do Acaraú;CE;140;Estadual;68;23.88;172;13.4;;;128;4.98;;;185;3.51;;;130;4.91;;;;;
+2024;biologia;Universidade Veiga de Almeida;RJ;141;Privada;68;23.88;173;13.38;;;27;7.38;;;251-300;0.95;;;124;5.05;;;;;
+2024;biologia;Centro Universitário Católica do Leste de Minas Gerais;MG;142;Privada;;;66;36.83;;;201-250;2.83;;;201-250;3;;;35;7.19;35;23.81;;;
+2024;biologia;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;143;Privada;;;67;36.76;;;15;7.67;;;251-300;1.73;;;187;3.55;35;23.81;;;
+2024;biologia;Universidade Regional de Blumenau;SC;144;Municipal;68;23.88;178;12.69;;;12;7.74;;;301-350;0.66;;;156;4.29;;;;;
+2024;biologia;Universidade Santo Amaro;SP;145;Privada;68;23.88;183;12.32;;;160;4.21;;;190;3.39;;;138;4.72;;;;;
+2024;biologia;Universidade de Santa Cruz do Sul;RS;146;Privada;68;23.88;185;12.26;;;96;5.74;;;251-300;1.56;;;128;4.96;;;;;
+2024;biologia;Universidade de Caxias do Sul;RS;147;Privada;68;23.88;188;12.21;;;97;5.71;;;251-300;1.88;;;142;4.62;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;148;Federal;68;23.88;191;12.12;;;190;3.5;;;1;8;;;301-350;0.62;;;;;
+2024;biologia;Centro Universitário de Brasília;DF;149;Privada;68;23.88;199;11.61;;;20;7.55;;;251-300;0.83;;;200;3.23;;;;;
+2024;biologia;Universidade Anhanguera;MS;150;Privada;68;23.88;200;11.59;;;301-350;0.31;;;1;8;;;198;3.28;;;;;
+2024;biologia;Centro Universitário Redentor;RJ;151;Privada;68;23.88;201-250;11.55;;;201-250;3.19;;;1;8;;;301-350;0.36;;;;;
+2024;biologia;Universidade Anhanguera de São Paulo;SP;152;Privada;68;23.88;201-250;11.52;;;201-250;3.05;;;192;3.34;;;121;5.13;;;;;
+2024;biologia;Centro Universitário Unime;BA;153;Privada;68;23.88;201-250;11.43;;;251-300;1.81;;;200;3.15;;;65;6.47;;;;;
+2024;biologia;Centro Universitário Ritter dos Reis;RS;154;Privada;68;23.88;201-250;11.16;;;57;6.67;;;251-300;1.9;;;201-250;2.59;;;;;
+2024;biologia;Universidade do Sul de Santa Catarina;SC;155;Privada;68;23.88;201-250;11.15;;;81;6.1;;;201-250;1.98;;;201-250;3.07;;;;;
+2024;biologia;Centro Universitário Fundação Santo André;SP;156;Privada;68;23.88;201-250;10.82;;;102;5.6;;;251-300;1.15;;;165;4.07;;;;;
+2024;biologia;Universidade de Araraquara;SP;157;Privada;68;23.88;201-250;10.64;;;111;5.38;;;301-350;0.49;;;136;4.77;;;;;
+2024;biologia;Universidade Evangélica de Goiás;GO;158;Privada;68;23.88;201-250;9.8;;;201-250;2.21;;;177;3.71;;;173;3.88;;;;;
+2024;biologia;Centro Universitário Barão de Mauá;SP;159;Privada;68;23.88;201-250;9.76;;;119;5.19;;;201-250;2.15;;;201-250;2.42;;;;;
+2024;biologia;Centro Universitário Maurício de Nassau de Fortaleza;CE;160;Privada;68;23.88;201-250;9.23;;;113;5.33;;;251-300;1.46;;;201-250;2.44;;;;;
+2024;biologia;Centro Universitário Faesa;ES;161;Privada;68;23.88;201-250;9.2;;;78;6.17;;;251-300;0.85;;;201-250;2.18;;;;;
+2024;biologia;Universidade Potiguar;RN;162;Privada;68;23.88;251-300;8.88;;;201-250;2.95;;;201-250;1.95;;;169;3.98;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;163;Federal;;;81;32.49;;;201-250;2.5;;;160;4.12;;;201-250;2.06;35;23.81;;;
+2024;biologia;Universidade do Extremo Sul Catarinense;SC;164;Privada;68;23.88;251-300;8.49;;;157;4.29;;;251-300;1.37;;;201-250;2.83;;;;;
+2024;biologia;Universidade do Vale do Sapucaí;MG;165;Privada;68;23.88;251-300;8.44;;;122;5.12;;;251-300;1.76;;;251-300;1.56;;;;;
+2024;biologia;Universidade do Estado do Pará;PA;166;Estadual;68;23.88;251-300;8.34;;;201-250;2.5;;;162;4.07;;;251-300;1.77;;;;;
+2024;biologia;Centro Universitário do Distrito Federal;DF;167;Privada;68;23.88;251-300;8.26;;;251-300;1.26;;;251-300;1.49;;;105;5.51;;;;;
+2024;biologia;Centro Universitário da Fundação Herminio Ometto;SP;168;Privada;68;23.88;251-300;8.17;;;109;5.43;;;301-350;0.46;;;201-250;2.28;;;;;
+2024;biologia;Universidade Universus Veritas Guarulhos;SP;169;Privada;68;23.88;251-300;7.58;;;172;3.93;;;251-300;1.71;;;251-300;1.94;;;;;
+2024;biologia;Centro Universitário São Camilo - Espírito Santo;ES;170;Privada;68;23.88;251-300;7.5;;;201-250;2.14;;;251-300;1.02;;;154;4.34;;;;;
+2024;biologia;Universidade Iguaçu;RJ;171;Privada;68;23.88;251-300;7.46;;;170;3.98;;;251-300;1.83;;;251-300;1.65;;;;;
+2024;biologia;Centro Universitário das Faculdades Integradas de Ourinhos;SP;172;Privada;68;23.88;251-300;7.17;;;201-250;2.41;;;251-300;1.24;;;188;3.52;;;;;
+2024;biologia;Centro Universitário do Norte;AM;173;Privada;68;23.88;251-300;7.15;;;201-250;3;;;201-250;2.81;;;251-300;1.34;;;;;
+2024;biologia;Centro Universitário Sagrado Coração;SP;174;Privada;68;23.88;251-300;7.07;;;301-350;0.81;;;251-300;1.85;;;151;4.41;;;;;
+2024;biologia;Universidade Estadual de Alagoas;AL;175;Estadual;68;23.88;251-300;6.5;;;251-300;1.33;;;179;3.66;;;251-300;1.51;;;;;
+2024;biologia;Instituto Luterano de Ensino Superior de Itumbiara;GO;176;Privada;68;23.88;251-300;6.31;;;251-300;2;;;201-250;2.61;;;251-300;1.7;;;;;
+2024;biologia;Faculdade Maria Thereza;RJ;177;Privada;68;23.88;251-300;5.95;;;251-300;1.98;;;301-350;0.59;;;194;3.38;;;;;
+2024;biologia;Faculdade Frassinetti do Recife;PE;178;Privada;68;23.88;251-300;5.88;;;201-250;2.52;;;251-300;1.68;;;251-300;1.68;;;;;
+2024;biologia;Universidade da Amazônia;PA;179;Privada;68;23.88;251-300;5.56;;;251-300;1.5;;;251-300;1.54;;;201-250;2.52;;;;;
+2024;biologia;Centro Universitário do Cerrado-patrocínio;MG;180;Privada;68;23.88;301-350;5.1;;;251-300;1.1;;;201-250;2.39;;;251-300;1.61;;;;;
+2024;biologia;Universidade Nilton Lins;AM;181;Privada;68;23.88;301-350;4.86;;;251-300;1.24;;;201-250;2.59;;;251-300;1.03;;;;;
+2024;biologia;Faculdade do Belo Jardim;PE;182;Municipal;68;23.88;301-350;4.79;;;251-300;1.05;;;196;3.24;;;301-350;0.5;;;;;
+2024;biologia;Centro Universitário Facex;RN;183;Privada;68;23.88;301-350;4.32;;;201-250;2.95;;;301-350;0.17;;;251-300;1.2;;;;;
+2024;biologia;Faculdade de Filosofia Ciências e Letras Dom Bosco;RJ;184;Privada;68;23.88;301-350;2.89;;;251-300;1.86;;;301-350;0.05;;;251-300;0.98;;;;;
+2024;biologia;Centro Universitário Cesmac;AL;185;Privada;68;23.88;301-350;2.6;;;251-300;1.14;;;251-300;1;;;301-350;0.46;;;;;
+2024;biologia;Universidade de Mogi das Cruzes;SP;186;Privada;174;4.7;97;19.85;;;89;5.91;;;1;8;;;87;5.94;;;;;
+2024;biologia;Faculdade Anhanguera de Primavera do Leste;MT;187;Privada;;;85;23.05;;;41;7.05;;;1;8;;;1;8;;;;;
+2024;biologia;Universidade Estadual do Paraná;PR;188;Estadual;174;4.7;106;17.99;;;146;4.55;;;1;8;;;108;5.44;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;189;Federal;174;4.7;123;17.38;;;118;5.21;;;1;8;;;161;4.17;;;;;
+2024;biologia;Universidade Federal de Itajubá;MG;190;Federal;;;88;21.42;;;26;7.41;;;1;8;;;84;6.01;;;;;
+2024;biologia;Fundação Universidade Federal da Grande Dourados;MS;191;Federal;;;91;20.54;;;86;5.98;;;1;8;;;61;6.56;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;192;Federal;;;93;20.17;;;58;6.64;;;1;8;;;104;5.53;;;;;
+2024;biologia;Universidade Federal do Triângulo Mineiro;MG;193;Federal;;;94;20.09;;;121;5.14;;;1;8;;;45;6.95;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;194;Federal;;;96;19.91;;;38;7.12;;;1;8;;;135;4.79;;;;;
+2024;biologia;Universidade Cesumar;PR;195;Privada;174;4.7;152;14.75;;;88;5.93;;;201-250;3.05;;;94;5.77;;;;;
+2024;biologia;Centro Universitário Ingá;PR;196;Privada;174;4.7;165;13.79;;;251-300;0.98;;;1;8;;;134;4.81;;;;;
+2024;biologia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;197;Federal;;;102;18.47;;;191;3.48;;;1;8;;;43;6.99;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;198;Federal;;;105;18.2;;;104;5.55;;;1;8;;;141;4.65;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;199;Federal;;;108;17.95;;;62;6.55;;;1;8;;;193;3.4;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;200;Federal;;;109;17.93;;;94;5.79;;;1;8;;;162;4.14;;;;;
+2024;biologia;Universidade Federal Rural da Amazônia;PA;201;Federal;;;132;16.68;;;201-250;2.5;;;1;8;;;77;6.18;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;201;Federal;;;159;14.39;;;142;4.64;;;1;8;;;251-300;1.75;;;;;
+2024;biologia;Centro Universitário São Lucas;RO;201;Privada;;;196;11.84;;;201-250;2.79;;;1;8;;;251-300;1.05;;;;;
+2024;biologia;Faculdade União Araruama de Ensino S/s Ltda.;RJ;201;Privada;;;144;15.57;;;143;4.62;;;1;8;;;201-250;2.95;;;;;
+2024;biologia;Universidade Federal do Acre;AC;201;Federal;;;157;14.61;;;201-250;2.71;;;1;8;;;172;3.9;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;201;Federal;;;145;15.37;;;115;5.29;;;1;8;;;201-250;2.08;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;201;Federal;;;176;12.86;;;184;3.64;;;1;8;;;251-300;1.22;;;;;
+2024;biologia;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;168;13.58;;;251-300;0.98;;;1;8;;;143;4.6;;;;;
+2024;biologia;Centro Universitário São Lucas Ji-paraná;RO;201;Privada;;;166;13.66;;;196;3.36;;;1;8;;;201-250;2.3;;;;;
+2024;biologia;Centro Universitário de Itajubá;MG;201;Privada;;;138;16.31;;;171;3.95;;;1;8;;;153;4.36;;;;;
+2024;biologia;Universidade Federal do Oeste do Pará;PA;201;Federal;;;124;17.18;;;201-250;2.69;;;1;8;;;64;6.49;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;201;Federal;;;140;16.26;;;156;4.31;;;1;8;;;170;3.95;;;;;
+2024;biologia;Centro Universitário São Miguel;PE;201;Privada;;;116;17.74;;;251-300;1.74;;;1;8;;;1;8;;;;;
+2024;biologia;Faculdade de Saúde e Humanidades Ibituruna;MG;201;Privada;;;201-250;11.23;;;301-350;0.26;;;1;8;;;201-250;2.97;;;;;
+2024;biologia;Faculdade de Ciências e Tecnologias de Campos Gerais;MG;201;Privada;;;169;13.55;;;301-350;0.26;;;1;8;;;114;5.29;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;201;Federal;;;115;17.78;;;79;6.14;;;1;8;;;183;3.64;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;201;Federal;;;164;13.87;;;201-250;2.76;;;1;8;;;201-250;3.11;;;;;
+2024;biologia;Centro Universitário Brasília do Estado de Goiás;GO;201;Privada;;;162;14.11;;;301-350;0.55;;;1;8;;;103;5.56;;;;;
+2024;biologia;Universidade Feevale;RS;201;Privada;174;4.7;197;11.74;;;159;4.24;;;251-300;1.44;;;82;6.06;;;;;
+2024;biologia;Universidade Federal de Rondonópolis;MT;201;Federal;;;143;15.88;;;161;4.19;;;1;8;;;181;3.69;;;;;
+2024;biologia;Centro Universitário LS;DF;201;Privada;;;174;13.24;;;148;4.5;;;1;8;;;301-350;0.74;;;;;
+2024;biologia;Centro Universitário Central Paulista;SP;201;Privada;174;4.7;201-250;9.26;;;201-250;2.17;;;251-300;0.81;;;73;6.28;;;;;
+2024;biologia;Centro Universitário Metodista;RS;201;Privada;;;180;12.44;;;176;3.83;;;301-350;0.61;;;1;8;;;;;
+2024;biologia;Universidade Federal de Jataí;GO;201;Federal;;;111;17.91;;;166;4.07;;;1;8;;;91;5.84;;;;;
+2024;biologia;Faculdade Anhanguera de Belo Horizonte;MG;201;Privada;;;189;12.18;;;197;3.33;;;201-250;3.12;;;96;5.73;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;201;Federal;;;201-250;11.25;;;201-250;2.1;;;1;8;;;251-300;1.15;;;;;
+2024;biologia;Universidade Comunitária da Região de Chapecó;SC;201;Privada;174;4.7;182;12.33;;;155;4.33;;;166;3.98;;;167;4.02;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;201;Federal;;;179;12.64;;;201-250;2.6;;;1;8;;;201-250;2.04;;;;;
+2024;biologia;Universidade Federal do Delta do Parnaíba;PI;201;Federal;;;125;17.15;;;201-250;3.19;;;1;8;;;86;5.96;;;;;
+2024;biologia;Faculdade de Filosofia Ciências e Letras de Ituverava;SP;201;Privada;;;185;12.26;;;301-350;0.81;;;1;8;;;191;3.45;;;;;
+2024;biologia;Universidade do Oeste de Santa Catarina;SC;201;Privada;;;119;17.62;;;60;6.6;;;1;8;;;201-250;3.02;;;;;
+2024;biologia;Centro Universitário São José;RJ;201;Privada;;;131;16.85;;;251-300;1.93;;;1;8;;;46;6.92;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;201;Federal;174;4.7;201-250;11.13;;;301-350;0.57;;;1;8;;;201-250;2.56;;;;;
+2024;biologia;Universidade Estadual de Mato Grosso do Sul;MS;201;Estadual;174;4.7;251-300;8.42;;;201-250;2.33;;;301-350;0.68;;;109;5.41;;;;;
+2024;biologia;Faculdade Eduvale de Avaré;SP;201;Privada;;;177;12.78;;;68;6.41;;;251-300;1.2;;;119;5.17;;;;;
+2024;biologia;Universidade Estadual do Rio Grande do Sul;RS;201;Estadual;;;134;16.59;;;251-300;1.95;;;1;8;;;58;6.64;;;;;
+2024;biologia;Universidade do Vale do Paraíba;SP;201;Privada;174;4.7;183;12.32;;;48;6.88;;;251-300;1.61;;;175;3.83;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;201;Federal;;;122;17.4;;;83;6.05;;;1;8;;;195;3.35;;;;;
+2024;biologia;Fundação Universidade Federal do Vale do São Francisco;PE;201;Federal;;;135;16.48;;;110;5.41;;;163;4.05;;;42;7.02;;;;;
+2024;biologia;Faculdade Anhanguera de Brasília;DF;201;Privada;174;4.7;201-250;9.8;;;201-250;2.62;;;193;3.32;;;174;3.86;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;201;Federal;;;175;13.02;;;251-300;1.69;;;1;8;;;196;3.33;;;;;
+2024;biologia;Faculdade Anhanguera de Macapá;AP;201;Privada;;;163;13.97;;;301-350;0.36;;;1;8;;;101;5.61;;;;;
+2024;biologia;Universidade de Taubaté;SP;201;Municipal;174;4.7;181;12.34;;;56;6.69;;;201-250;2.78;;;201-250;2.87;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;201;Federal;;;129;16.92;;;90;5.88;;;1;8;;;201-250;3.04;;;;;
+2024;biologia;Universidade Anhembi Morumbi;SP;201;Privada;174;4.7;201-250;10.07;;;181;3.71;;;201-250;1.93;;;150;4.43;;;;;
+2024;biologia;Universidade Federal do Recôncavo da Bahia;BA;201;Federal;;;192;12.11;;;201-250;2.86;;;165;4;;;116;5.25;;;;;
+2024;biologia;Centro Universitário de Rio Preto;SP;201;Privada;174;4.7;194;12.03;;;75;6.24;;;251-300;0.71;;;123;5.08;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;201;Federal;;;190;12.12;;;198;3.31;;;1;8;;;301-350;0.81;;;;;
+2024;biologia;Faculdade Anclivepa;SP;201;Privada;;;146;15.33;;;301-350;0.81;;;1;8;;;63;6.52;;;;;
+2024;biologia;Faculdade Metropolitana de Anápolis;GO;201;Privada;;;201-250;11.26;;;301-350;0.55;;;1;8;;;201-250;2.71;;;;;
+2024;biologia;Centro Universitário das Américas;SP;251;Privada;;;201-250;10.73;;;169;4;;;251-300;1.27;;;107;5.46;;;;;
+2024;biologia;Faculdade Uniguaçu;PR;251;Privada;;;251-300;8.44;;;152;4.41;;;201-250;2.93;;;251-300;1.1;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;251;Federal;;;201-250;10.72;;;251-300;2.05;;;1;8;;;301-350;0.67;;;;;
+2024;biologia;Faculdade de Filosofia, Ciências e Letras do Alto São Francisco;MG;251;Privada;;;201-250;10.68;;;251-300;1.19;;;1;8;;;251-300;1.49;;;;;
+2024;biologia;Centro Universitário Brasileiro;PE;251;Privada;;;201-250;10.91;;;125;5.05;;;201-250;2.1;;;178;3.76;;;;;
+2024;biologia;Centro Universitário Celso Lisboa;RJ;251;Privada;;;251-300;7.73;;;201-250;2.67;;;201-250;2.83;;;201-250;2.23;;;;;
+2024;biologia;Faculdade Unibrasília de Minas Gerais;MG;251;Privada;;;251-300;7.33;;;301-350;0.26;;;201-250;2.76;;;155;4.31;;;;;
+2024;biologia;Faculdade Brasileira Cristã;ES;251;Privada;;;201-250;11.15;;;71;6.33;;;201-250;2.98;;;251-300;1.84;;;;;
+2024;biologia;Centro Universitário da Região da Campanha;RS;251;Privada;;;251-300;8.12;;;176;3.83;;;251-300;1.34;;;201-250;2.95;;;;;
+2024;biologia;Centro Universitário de Adamantina;SP;251;Municipal;174;4.7;301-350;5;;;201-250;2.24;;;251-300;1.63;;;251-300;1.13;;;;;
+2024;biologia;Centro Universitário Salesiano;ES;251;Privada;;;201-250;9.39;;;131;4.91;;;201-250;2.66;;;251-300;1.82;;;;;
+2024;biologia;Centro Universitário de Santa Fé do Sul;SP;251;Municipal;;;251-300;7.92;;;200;3.26;;;190;3.39;;;251-300;1.27;;;;;
+2024;biologia;Centro Universitário Goyazes;GO;251;Privada;;;201-250;9.82;;;251-300;1.29;;;1;8;;;301-350;0.53;;;;;
+2024;biologia;Centro Universitário Augusto Motta;RJ;251;Privada;174;4.7;301-350;4.87;;;201-250;2.29;;;251-300;1.12;;;251-300;1.46;;;;;
+2024;biologia;Centro Universitário Dom Pedro II;BA;251;Privada;;;201-250;10.03;;;251-300;1.57;;;1;8;;;301-350;0.46;;;;;
+2024;biologia;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;251;Privada;;;201-250;9.54;;;116;5.26;;;251-300;0.78;;;189;3.5;;;;;
+2024;biologia;Universidade Metodista de São Paulo;SP;251;Privada;174;4.7;301-350;4.41;;;301-350;0.81;;;251-300;1.42;;;201-250;2.18;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;251;Federal;;;201-250;10.01;;;201-250;2.26;;;186;3.49;;;157;4.26;;;;;
+2024;biologia;Faculdade Uniftb;SE;251;Privada;;;201-250;10.91;;;201-250;2.91;;;;;;;1;8;;;;;
+2024;biologia;Centro Universitário de Goiás;GO;251;Privada;174;4.7;301-350;5.33;;;301-350;0.55;;;201-250;2.07;;;201-250;2.71;;;;;
+2024;biologia;Centro de Ensino Superior do Vale São Francisco;PE;251;Municipal;;;201-250;10.08;;;251-300;1;;;1;8;;;251-300;1.08;;;;;
+2024;biologia;Centro Universitário Araguaia;GO;251;Privada;;;201-250;9.37;;;193;3.43;;;201-250;2.37;;;186;3.57;;;;;
+2024;biologia;Universidade Metodista de Piracicaba;SP;251;Privada;;;201-250;11.08;;;301-350;0.81;;;201-250;2.27;;;1;8;;;;;
+2024;biologia;Centro Universitário Cnec de Bento Gonçalves;RS;251;Privada;;;251-300;6.55;;;176;3.83;;;301-350;0.37;;;201-250;2.35;;;;;
+2024;biologia;Centro Universitário do Paraná;PR;251;Privada;;;251-300;8.36;;;100;5.64;;;251-300;0.73;;;251-300;1.99;;;;;
+2024;biologia;Faculdade Ages de Tucano;BA;251;Privada;;;251-300;6.89;;;251-300;1.36;;;201-250;2.22;;;197;3.31;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;251;Federal;;;201-250;9.62;;;251-300;1.6;;;1;8;;;301-350;0.02;;;;;
+2024;biologia;Universidade do Contestado;SC;251;Privada;;;251-300;6.62;;;251-300;1.17;;;201-250;2.29;;;201-250;3.16;;;;;
+2024;biologia;Faculdades Famep-PI;PI;251;Privada;;;201-250;9.6;;;301-350;0.43;;;1;8;;;251-300;1.17;;;;;
+2024;biologia;Centro Universitário Nossa Senhora do Patrocínio;SP;251;Privada;;;251-300;6.53;;;201-250;2.36;;;251-300;1.39;;;201-250;2.78;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;251;Federal;;;251-300;8.94;;;201-250;2.38;;;173;3.81;;;201-250;2.75;;;;;
+2024;biologia;Faculdade Cesumar de Ponta Grossa;PR;251;Privada;;;251-300;7.42;;;187;3.57;;;251-300;0.76;;;201-250;3.09;;;;;
+2024;biologia;Centro Universitário de Formiga;MG;251;Privada;;;201-250;9.8;;;153;4.38;;;251-300;1.32;;;164;4.1;;;;;
+2024;biologia;Centro Universitário Teresa D'ávila;SP;251;Privada;;;201-250;9.27;;;77;6.19;;;301-350;0.44;;;201-250;2.64;;;;;
+2024;biologia;Centro Universitário de Sete Lagoas;MG;251;Privada;;;201-250;9.53;;;74;6.26;;;301-350;0.54;;;201-250;2.73;;;;;
+2024;biologia;Faculdades Integradas de Itapetininga;SP;251;Privada;;;251-300;9.03;;;301-350;0.81;;;1;8;;;301-350;0.22;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;251;Federal;;;201-250;9.81;;;251-300;1.02;;;1;8;;;301-350;0.79;;;;;
+2024;biologia;Universidade Santa Úrsula;RJ;251;Privada;;;201-250;10.56;;;106;5.5;;;301-350;0.32;;;137;4.74;;;;;
+2024;biologia;Faculdade Presidente Antônio Carlos de Aimorés;MG;251;Privada;;;251-300;8.26;;;301-350;0.26;;;1;8;;;;;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;251;Federal;;;201-250;10;;;251-300;1.07;;;1;8;;;251-300;0.93;;;;;
+2024;biologia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;251;Municipal;;;201-250;10.5;;;251-300;1.64;;;1;8;;;251-300;0.86;;;;;
+2024;biologia;Centro Universitário de Caratinga;MG;251;Privada;;;201-250;9.15;;;201-250;3.02;;;175;3.76;;;201-250;2.37;;;;;
+2024;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;251;Federal;;;201-250;9.98;;;251-300;1.38;;;1;8;;;301-350;0.6;;;;;
+2024;biologia;Faculdade Anhanguera de Linhares;ES;251;Privada;;;201-250;10.77;;;201-250;2.14;;;201-250;2.88;;;95;5.75;;;;;
+2024;biologia;Centro Universitário Una de Betim;MG;251;Privada;;;251-300;8.89;;;301-350;0.26;;;196;3.24;;;110;5.39;;;;;
+2024;biologia;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;201-250;11.12;;;47;6.91;;;201-250;2.63;;;251-300;1.58;;;;;
+2024;biologia;Centro Universitário de Barra Mansa;RJ;251;Privada;174;4.7;301-350;4.08;;;251-300;1.86;;;251-300;0.9;;;251-300;1.32;;;;;
+2024;biologia;Centro Universitário dos Guararapes;PE;251;Privada;;;251-300;9.08;;;301-350;0.43;;;1;8;;;301-350;0.65;;;;;
+2024;biologia;Centro Universitário Metodista Izabela Hendrix;MG;251;Privada;;;251-300;7.45;;;168;4.02;;;301-350;0.63;;;201-250;2.8;;;;;
+2024;biologia;Faculdade do Futuro;MG;251;Privada;;;201-250;9.51;;;301-350;0.26;;;1;8;;;251-300;1.25;;;;;
+2024;biologia;Universidade de Uberaba;MG;301;Privada;;;301-350;4.72;;;301-350;0.26;;;199;3.17;;;251-300;1.29;;;;;
+2024;biologia;Centro Universitário Guairacá;PR;301;Privada;;;301-350;4.95;;;251-300;1.81;;;201-250;2.44;;;301-350;0.7;;;;;
+2024;biologia;Faculdade de Ciências Humanas do Sertão Central;PE;301;Municipal;;;301-350;0.59;;;301-350;0.45;;;;;;;301-350;0.14;;;;;
+2024;biologia;Faculdade Mozarteum de São Paulo;SP;301;Privada;;;301-350;3.61;;;301-350;0.81;;;201-250;2.51;;;301-350;0.29;;;;;
+2024;biologia;Centro Universitário da Fundação Educacional de Barretos;SP;301;Privada;;;301-350;4.79;;;301-350;0.81;;;301-350;0.39;;;185;3.59;;;;;
+2024;biologia;Faculdade Estácio do Amazonas;AM;301;Privada;;;301-350;3.52;;;301-350;0.83;;;301-350;0.51;;;201-250;2.18;;;;;
+2024;biologia;Faculdade de São Vicente;SP;301;Privada;;;301-350;5.46;;;201-250;2.74;;;201-250;2.17;;;301-350;0.55;;;;;
+2024;biologia;Universidade Castelo Branco;RJ;301;Privada;;;301-350;5.36;;;201-250;2.55;;;301-350;0.2;;;201-250;2.61;;;;;
+2024;biologia;Faculdade Cidade de João Pinheiro;MG;301;Privada;;;251-300;6.24;;;201-250;2.57;;;201-250;2.9;;;301-350;0.77;;;;;
+2024;biologia;Faculdade de Formação de Professores de Serra Talhada;PE;301;Municipal;;;251-300;5.54;;;251-300;1.55;;;181;3.61;;;301-350;0.38;;;;;
+2024;biologia;Centro Universitário Cenecista de Osório;RS;301;Privada;;;251-300;5.7;;;176;3.83;;;;;;;251-300;1.87;;;;;
+2024;biologia;Faculdade de Caldas Novas;GO;301;Privada;;;301-350;0.8;;;301-350;0.55;;;301-350;0.15;;;301-350;0.1;;;;;
+2024;biologia;Centro Universitário Mário Palmério;MG;301;Privada;;;301-350;3.57;;;301-350;0.26;;;201-250;2.42;;;251-300;0.89;;;;;
+2024;biologia;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;301-350;1.91;;;251-300;1.55;;;301-350;0.12;;;301-350;0.24;;;;;
+2024;biologia;Centro Universitário Amparense;SP;301;Privada;;;251-300;6.26;;;301-350;0.81;;;251-300;1.07;;;152;4.38;;;;;
+2024;biologia;Instituto Superior de Educação Professora Nair Fortes Abu-merhy;MG;301;Privada;;;301-350;0.33;;;301-350;0.26;;;;;;;301-350;0.07;;;;;
+2024;biologia;Faculdade Guaraí;TO;301;Privada;;;251-300;6.19;;;251-300;2.05;;;183;3.56;;;301-350;0.58;;;;;
+2024;biologia;Centro Universitário Unicuritiba;PR;301;Privada;;;301-350;3.79;;;251-300;0.98;;;201-250;2.07;;;301-350;0.74;;;;;
+2024;biologia;Faculdade de Educação São Luís;SP;301;Privada;;;251-300;5.91;;;201-250;2.83;;;201-250;2.12;;;251-300;0.96;;;;;
+2024;biologia;Centro Universitário Módulo;SP;301;Privada;;;251-300;6;;;251-300;1.21;;;301-350;0.24;;;145;4.55;;;;;
+2024;biologia;Faculdade de Formação de Professores da Mata Sul;PE;301;Municipal;;;301-350;0.6;;;301-350;0.43;;;;;;;301-350;0.17;;;;;
+2024;biologia;Centro Universitário de Jales;SP;301;Privada;;;301-350;3.61;;;301-350;0.81;;;201-250;2.32;;;301-350;0.48;;;;;
+2024;biologia;Instituto Superior de Educação Ibituruna;MG;301;Privada;;;301-350;3.37;;;301-350;0.29;;;201-250;2.07;;;251-300;1.01;;;;;
+2024;biologia;Escola Superior Batista do Amazonas;AM;301;Privada;;;251-300;5.61;;;301-350;0.36;;;196;3.24;;;251-300;2.01;;;;;
+2024;biologia;Centro Universitário Academia;MG;301;Privada;;;251-300;6.14;;;149;4.48;;;301-350;0.22;;;251-300;1.44;;;;;
+2024;biologia;Faculdade de Apucarana;PR;301;Privada;;;251-300;5.84;;;150;4.45;;;251-300;1.05;;;301-350;0.34;;;;;
+2024;biologia;Centro Universitário Ideau;RS;301;Privada;;;301-350;3.83;;;176;3.83;;;;;;;;;;;;;
+2024;biologia;Faculdade de Ciências e Letras de Bragança Paulista;SP;301;Municipal;;;301-350;1.95;;;251-300;1.62;;;301-350;0.02;;;301-350;0.31;;;;;
+2024;biologia;Faculdade São Vicente;AL;301;Privada;;;301-350;1.6;;;251-300;1.14;;;;;;;301-350;0.46;;;;;
+2024;biologia;Centro Universitário do Vale do Ribeira;SP;301;Privada;;;301-350;3.51;;;251-300;1.67;;;251-300;0.93;;;251-300;0.91;;;;;
+2024;biologia;Faculdade Estácio de Castanhal;PA;301;Privada;;;251-300;6.49;;;251-300;1.5;;;201-250;2.59;;;201-250;2.4;;;;;
+2024;biologia;Centro de Ensino Superior de Arcoverde;PE;301;Municipal;;;301-350;1.6;;;251-300;1.41;;;;;;;301-350;0.19;;;;;
+2024;biologia;Escola Superior em Meio Ambiente;MG;301;Privada;;;301-350;1.76;;;251-300;1.43;;;301-350;0.07;;;301-350;0.26;;;;;
+2024;biologia;Faculdade de Itaituba;PA;301;Privada;;;301-350;4.47;;;251-300;1.5;;;201-250;2.85;;;301-350;0.12;;;;;
+2024;biologia;Faculdade de Filosofia Ciências e Letras Souza Marques;RJ;301;Privada;;;301-350;5.07;;;201-250;3.12;;;301-350;0.56;;;251-300;1.39;;;;;
+2024;biologia;Instituto Superior de Educação Elvira Dayrell;MG;301;Privada;;;301-350;1.97;;;301-350;0.26;;;251-300;1.66;;;301-350;0.05;;;;;
+2025;biologia;Universidade de São Paulo;SP;1;Estadual;1;30;1;68.71;;;24;7.42;;;1;8;;;11;7.74;1;40;1;22;5.55
+2025;biologia;Universidade Estadual de Campinas;SP;2;Estadual;2;29.85;2;67.32;;;3;7.95;;;1;8;;;26;7.36;2;39.47;2;69;4.54
+2025;biologia;Universidade Estadual Paulista Júlio de Mesquita Filho;SP;3;Estadual;2;29.85;3;67.2;;;25;7.39;;;1;8;;;12;7.72;3;38.93;3;40;5.16
+2025;biologia;Universidade Federal do Rio de Janeiro;RJ;4;Federal;2;29.85;5;65.96;;;18;7.57;;;1;8;;;29;7.28;3;38.93;4;86;4.18
+2025;biologia;Universidade Federal de Minas Gerais;MG;5;Federal;2;29.85;6;65.56;;;2;7.98;;;1;8;;;14;7.67;3;38.93;5;142;2.98
+2025;biologia;Universidade Federal do Paraná;PR;6;Federal;12;28.35;4;66.09;;;9;7.8;;;1;8;;;21;7.49;7;36.8;6;1;6
+2025;biologia;Universidade Federal de Viçosa;MG;7;Federal;12;28.35;7;64.17;;;8;7.82;;;1;8;;;22;7.46;7;36.8;7;90;4.09
+2025;biologia;Universidade Federal de São Carlos;SP;8;Federal;12;28.35;8;63.94;;;22;7.47;;;1;8;;;16;7.62;7;36.8;8;92;4.05
+2025;biologia;Universidade Federal de Goiás;GO;9;Federal;6;29.25;13;62.18;;;31;7.24;;;1;8;;;39;7.03;10;35.2;9;61;4.71
+2025;biologia;Universidade de Brasília;DF;10;Federal;12;28.35;12;62.54;;;4;7.92;;;1;8;;;65;6.36;10;35.2;10;45;5.06
+2025;biologia;Universidade Federal do Rio Grande do Sul;RS;11;Federal;35;24.9;9;63.37;;;7;7.85;;;1;8;;;27;7.34;6;37.33;11;148;2.85
+2025;biologia;Universidade Federal de Santa Catarina;SC;12;Federal;35;24.9;10;63.36;;;11;7.75;;;1;8;;;23;7.44;10;35.2;12;49;4.97
+2025;biologia;Universidade Estadual de Londrina;PR;13;Estadual;12;28.35;15;59.84;;;13;7.7;;;1;8;;;33;7.18;17;31.47;13;25;5.49
+2025;biologia;Universidade Federal de Pernambuco;PE;14;Federal;12;28.35;16;59.58;;;124;4.89;;;1;8;;;43;6.93;10;35.2;14;68;4.56
+2025;biologia;Universidade Federal de São Paulo;SP;15;Federal;35;24.9;11;62.59;;;16;7.62;;;1;8;;;1;8;10;35.2;15;105;3.77
+2025;biologia;Universidade Estadual de Maringá;PR;16;Estadual;12;28.35;18;58.41;;;37;7.09;;;1;8;;;58;6.54;17;31.47;16;33;5.31
+2025;biologia;Universidade Federal Fluminense;RJ;17;Federal;12;28.35;22;57.17;;;17;7.6;;;1;8;;;20;7.51;17;31.47;17;160;2.59
+2025;biologia;Universidade Federal da Bahia;BA;18;Federal;6;29.25;27;54.8;;;14;7.67;;;1;8;;;98;5.52;17;31.47;18;181;2.14
+2025;biologia;Universidade Federal do Pará;PA;19;Federal;12;28.35;26;55.25;;;189;3.24;;;1;8;;;28;7.31;17;31.47;19;37;5.23
+2025;biologia;Universidade Federal de Santa Maria;RS;20;Federal;35;24.9;17;58.47;;;28;7.32;;;1;8;;;19;7.54;17;31.47;20;88;4.14
+2025;biologia;Universidade do Estado do Rio de Janeiro;RJ;21;Estadual;6;29.25;29;54.01;;;46;6.86;;;193;3;;;63;6.42;10;35.2;21;163;2.53
+2025;biologia;Universidade Federal de Lavras;MG;22;Federal;35;24.9;19;58.06;;;19;7.54;;;1;8;;;15;7.64;17;31.47;22;122;3.41
+2025;biologia;Universidade Federal Rural do Rio de Janeiro;RJ;23;Federal;35;24.9;20;57.9;;;21;7.49;;;1;8;;;40;7;17;31.47;23;97;3.94
+2025;biologia;Universidade Federal de Uberlândia;MG;24;Federal;35;24.9;21;57.18;;;81;5.98;;;1;8;;;37;7.08;17;31.47;24;64;4.65
+2025;biologia;Universidade Federal do Espírito Santo;ES;25;Federal;35;24.9;23;57.06;;;49;6.79;;;1;8;;;44;6.9;17;31.47;25;99;3.9
+2025;biologia;Universidade Federal do Amazonas;AM;26;Federal;12;28.35;30;53.56;;;112;5.19;;;1;8;;;125;4.83;17;31.47;26;91;4.07
+2025;biologia;Universidade Federal do Ceará;CE;27;Federal;12;28.35;31;53.32;;;33;7.19;;;154;4.01;;;86;5.83;17;31.47;27;56;4.82
+2025;biologia;Universidade Federal do Rio Grande do Norte;RN;28;Federal;35;24.9;24;56.67;;;32;7.22;;;1;8;;;61;6.47;17;31.47;28;117;3.51
+2025;biologia;Universidade Federal de Juiz de Fora;MG;29;Federal;12;28.35;32;51.68;;;6;7.87;;;1;8;;;24;7.41;34;22.4;29;1;6
+2025;biologia;Pontifícia Universidade Católica do Rio Grande do Sul;RS;30;Privada;12;28.35;35;51.23;;;36;7.11;;;201-250;2.58;;;49;6.77;17;31.47;1;127;3.3
+2025;biologia;Universidade Estadual de Feira de Santana;BA;31;Estadual;35;24.9;28;54.33;;;90;5.75;;;1;8;;;127;4.78;17;31.47;30;79;4.33
+2025;biologia;Pontifícia Universidade Católica de Minas Gerais;MG;32;Privada;6;29.25;37;48.51;;;66;6.35;;;201-250;2.35;;;144;4.35;17;31.47;2;95;3.99
+2025;biologia;Universidade Estadual do Norte Fluminense Darcy Ribeiro;RJ;33;Estadual;105;14.4;14;59.96;;;34;7.17;;;1;8;;;1;8;10;35.2;31;201-250;1.59
+2025;biologia;Universidade Federal Rural de Pernambuco;PE;34;Federal;35;24.9;36;48.86;;;73;6.18;;;1;8;;;47;6.82;34;22.4;32;26;5.46
+2025;biologia;Universidade Federal de Alfenas;MG;35;Federal;35;24.9;39;47.42;;;61;6.48;;;1;8;;;52;6.7;34;22.4;33;102;3.84
+2025;biologia;Universidade Estadual do Oeste do Paraná;PR;36;Estadual;35;24.9;40;47.35;;;141;4.46;;;1;8;;;60;6.49;34;22.4;34;1;6
+2025;biologia;Pontifícia Universidade Católica do Paraná;PR;37;Privada;12;28.35;48;43.08;;;10;7.77;;;181;3.31;;;85;5.85;34;22.4;3;106;3.75
+2025;biologia;Universidade Federal do Estado do Rio de Janeiro;RJ;38;Federal;105;14.4;25;56.65;;;5;7.9;;;1;8;;;55;6.62;17;31.47;35;157;2.66
+2025;biologia;Universidade Presbiteriana Mackenzie;SP;39;Privada;12;28.35;53;42.3;;;35;7.14;;;201-250;1.59;;;42;6.95;34;22.4;4;84;4.22
+2025;biologia;Universidade Federal de Mato Grosso;MT;40;Federal;35;24.9;44;45.5;;;122;4.94;;;1;8;;;70;6.24;34;22.4;36;98;3.92
+2025;biologia;Universidade de Pernambuco;PE;41;Estadual;12;28.35;57;41.25;;;177;3.54;;;1;8;;;108;5.27;34;22.4;37;186;2.04
+2025;biologia;Universidade Estadual do Ceará;CE;42;Estadual;35;24.9;45;44.14;;;160;3.98;;;1;8;;;167;3.76;34;22.4;38;1;6
+2025;biologia;Universidade Estadual do Sudoeste da Bahia;BA;43;Estadual;35;24.9;47;44.03;;;125;4.86;;;1;8;;;119;4.98;34;22.4;39;104;3.79
+2025;biologia;Universidade do Vale do Rio dos Sinos;RS;44;Privada;35;24.9;49;43.07;;;83;5.92;;;180;3.34;;;67;6.31;34;22.4;5;43;5.1
+2025;biologia;Universidade do Estado do Rio Grande do Norte;RN;45;Estadual;35;24.9;56;41.34;;;70;6.25;;;1;8;;;201-250;2.63;34;22.4;40;185;2.06
+2025;biologia;Universidade Federal de Campina Grande;PB;46;Federal;35;24.9;58;41.04;;;129;4.76;;;1;8;;;117;5.04;34;22.4;41;201-250;0.84
+2025;biologia;Fundação Universidade Federal do ABC;SP;47;Federal;105;14.4;33;51.39;;;1;8;;;1;8;;;1;8;34;22.4;42;48;4.99
+2025;biologia;Universidade Federal de Ouro Preto;MG;48;Federal;105;14.4;34;51.26;;;29;7.29;;;1;8;;;18;7.57;34;22.4;43;1;6
+2025;biologia;Universidade Regional do Cariri;CE;49;Estadual;35;24.9;60;40.6;;;201-250;1.95;;;1;8;;;201-250;2.25;34;22.4;44;1;6
+2025;biologia;Universidade do Estado de Minas Gerais;MG;50;Estadual;35;24.9;62;39.42;;;134;4.63;;;1;8;;;201-250;1.99;34;22.4;45;169;2.4
+2025;biologia;Universidade Estácio de Sá;RJ;51;Privada;12;28.35;70;35.36;;;127;4.81;;;201-250;1.72;;;180;3.43;34;22.4;6;141;3
+2025;biologia;Universidade de Passo Fundo;RS;52;Privada;35;24.9;64;38.4;;;67;6.33;;;201-250;2.11;;;101;5.44;34;22.4;7;182;2.12
+2025;biologia;Universidade Federal do Amapá;AP;53;Federal;35;24.9;65;38.06;;;201-250;2.23;;;1;8;;;198;2.97;34;22.4;46;166;2.46
+2025;biologia;Universidade Federal do Rio Grande;RS;54;Federal;105;14.4;41;47.29;;;60;6.51;;;1;8;;;59;6.52;34;22.4;47;101;3.86
+2025;biologia;Universidade Federal do Sul da Bahia;BA;55;Federal;105;14.4;42;47.08;;;100;5.49;;;1;8;;;34;7.16;34;22.4;48;93;4.03
+2025;biologia;Universidade do Extremo Sul Catarinense;SC;56;Privada;35;24.9;69;35.63;;;152;4.18;;;201-250;1.98;;;201-250;2.68;34;22.4;8;76;4.39
+2025;biologia;Universidade Estadual do Centro Oeste;PR;57;Estadual;105;14.4;43;45.73;;;47;6.84;;;1;8;;;50;6.75;34;22.4;49;200;1.74
+2025;biologia;Universidade do Vale do Itajaí;SC;58;Privada;35;24.9;71;34.01;;;62;6.46;;;251-300;1.2;;;191;3.14;34;22.4;9;201-250;0.81
+2025;biologia;Universidade Estadual de Santa Cruz;BA;59;Estadual;105;14.4;46;44.05;;;104;5.39;;;1;8;;;104;5.37;34;22.4;50;146;2.89
+2025;biologia;Universidade Federal dos Vales do Jequitinhonha e Mucuri;MG;60;Federal;105;14.4;50;42.78;;;132;4.68;;;1;8;;;106;5.32;34;22.4;51;170;2.38
+2025;biologia;Universidade Federal do Sul e Sudeste do Pará;PA;61;Federal;105;14.4;51;42.5;;;201-250;2.41;;;1;8;;;17;7.59;34;22.4;52;183;2.1
+2025;biologia;Universidade Federal de Pelotas;RS;62;Federal;105;14.4;52;42.47;;;41;6.99;;;1;8;;;188;3.22;34;22.4;53;194;1.86
+2025;biologia;Universidade do Vale do Taquari;RS;63;Privada;105;14.4;54;41.97;;;39;7.04;;;157;3.94;;;93;5.65;34;22.4;10;144;2.94
+2025;biologia;Universidade Federal da Paraíba;PB;64;Federal;12;28.35;76;27.61;;;50;6.76;;;1;8;;;46;6.85;;;54;1;6
+2025;biologia;Universidade de Franca;SP;65;Privada;35;24.9;73;31.03;;;251-300;0.43;;;201-250;1.88;;;81;5.96;34;22.4;11;251-300;0.36
+2025;biologia;Universidade Vila Velha;ES;66;Privada;105;14.4;59;40.84;;;30;7.27;;;200;2.81;;;95;5.6;34;22.4;12;152;2.76
+2025;biologia;Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado;MT;67;Estadual;105;14.4;61;39.66;;;201-250;2.94;;;1;8;;;185;3.3;34;22.4;55;140;3.02
+2025;biologia;Universidade Cruzeiro do Sul;SP;68;Privada;35;24.9;74;29;;;251-300;1.62;;;301-350;0.18;;;138;4.5;34;22.4;13;251-300;0.3
+2025;biologia;Universidade Cidade de São Paulo;SP;69;Privada;35;24.9;75;28.54;;;251-300;0.56;;;201-250;1.77;;;201-250;2.35;34;22.4;14;201-250;1.46
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo;ES;70;Federal;105;14.4;66;37.7;;;135;4.61;;;160;3.86;;;107;5.29;34;22.4;56;201-250;1.54
+2025;biologia;Universidade Federal de Sergipe;SE;71;Federal;12;28.35;84;23.31;;;101;5.47;;;1;8;;;84;5.88;;;57;96;3.96
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais;MG;72;Federal;105;14.4;68;35.85;;;140;4.48;;;184;3.23;;;165;3.81;34;22.4;58;191;1.93
+2025;biologia;Universidade do Estado da Bahia;BA;73;Estadual;6;29.25;114;20.2;;;159;4;;;1;8;;;145;4.32;;;59;100;3.88
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense;RS;74;Federal;;;38;48.45;;;52;6.71;;;1;8;;;1;8;34;22.4;60;125;3.34
+2025;biologia;Universidade Federal de São João Del Rei;MG;75;Federal;35;24.9;83;23.53;;;43;6.94;;;1;8;;;45;6.88;;;61;201-250;1.71
+2025;biologia;Universidade Estadual da Paraíba;PB;76;Estadual;12;28.35;119;19.72;;;136;4.58;;;1;8;;;173;3.6;;;62;116;3.54
+2025;biologia;Universidade Federal de Alagoas;AL;77;Federal;35;24.9;86;23;;;145;4.35;;;1;8;;;80;5.98;;;63;63;4.67
+2025;biologia;Universidade Federal do Maranhão;MA;78;Federal;35;24.9;89;22.58;;;148;4.28;;;1;8;;;115;5.09;;;64;38;5.21
+2025;biologia;Centro Universitário Jorge Amado;BA;79;Privada;35;24.9;94;21.97;;;51;6.73;;;1;8;;;77;6.06;;;15;201-250;1.18
+2025;biologia;Universidade Estadual de Montes Claros;MG;80;Estadual;35;24.9;95;21.86;;;158;4.03;;;1;8;;;128;4.75;;;65;44;5.08
+2025;biologia;Universidade Católica de Santos;SP;81;Privada;35;24.9;105;21.16;;;139;4.51;;;1;8;;;73;6.16;;;16;165;2.49
+2025;biologia;Universidade do Oeste Paulista;SP;82;Privada;35;24.9;106;21.01;;;64;6.41;;;156;3.96;;;87;5.8;;;17;55;4.84
+2025;biologia;Centro Universitário de Volta Redonda;RJ;83;Privada;35;24.9;107;20.87;;;116;5.09;;;1;8;;;97;5.55;;;18;177;2.23
+2025;biologia;Universidade Federal do Piauí;PI;84;Federal;35;24.9;112;20.53;;;194;3.11;;;1;8;;;126;4.81;;;66;66;4.61
+2025;biologia;Universidade Cesumar;PR;85;Privada;35;24.9;120;19.53;;;86;5.85;;;189;3.1;;;113;5.14;;;19;27;5.44
+2025;biologia;Pontifícia Universidade Católica do Rio de Janeiro;RJ;86;Privada;35;24.9;126;19.01;;;56;6.61;;;251-300;0.55;;;25;7.39;;;20;73;4.46
+2025;biologia;Universidade Estadual do Piauí;PI;87;Estadual;35;24.9;129;18.74;;;175;3.6;;;1;8;;;178;3.48;;;67;110;3.66
+2025;biologia;Universidade Federal de Mato Grosso do Sul;MS;88;Federal;35;24.9;132;18.68;;;128;4.79;;;175;3.47;;;69;6.26;;;68;87;4.16
+2025;biologia;Universidade Santa Cecília;SP;89;Privada;35;24.9;137;17.83;;;181;3.44;;;190;3.08;;;72;6.19;;;21;42;5.12
+2025;biologia;Universidade do Estado do Pará;PA;90;Estadual;12;28.35;181;14.29;;;201-250;2.41;;;153;4.04;;;201-250;1.84;;;69;1;6
+2025;biologia;Universidade de Caxias do Sul;RS;91;Privada;35;24.9;140;17.43;;;94;5.65;;;201-250;2.06;;;120;4.96;;;22;59;4.76
+2025;biologia;Centro Universitário Assis Gurgacz;PR;92;Privada;35;24.9;142;17.3;;;40;7.01;;;1;8;;;251-300;0.64;;;23;201-250;1.65
+2025;biologia;Universidade Federal da Fronteira Sul;SC;93;Federal;;;55;41.49;;;79;6.03;;;169;3.62;;;48;6.8;34;22.4;70;158;2.64
+2025;biologia;Pontifícia Universidade Católica de Goiás;GO;93;Privada;12;28.35;201-250;13.14;;;197;3.04;;;199;2.84;;;154;4.09;;;24;133;3.17
+2025;biologia;Pontifícia Universidade Católica de Campinas;SP;95;Privada;35;24.9;151;16.54;;;23;7.44;;;251-300;0.42;;;143;4.37;;;25;80;4.31
+2025;biologia;Centro Universitário de Brasília;DF;96;Privada;35;24.9;153;16.42;;;20;7.52;;;251-300;1.23;;;201-250;2.4;;;26;35;5.27
+2025;biologia;Universidade Católica de Brasília;DF;97;Privada;35;24.9;157;16.16;;;48;6.81;;;201-250;2.71;;;168;3.73;;;27;145;2.91
+2025;biologia;Universidade Tiradentes;SE;98;Privada;12;28.35;201-250;12.68;;;201-250;2.79;;;201-250;2.4;;;123;4.88;;;28;159;2.61
+2025;biologia;Universidade do Estado do Amazonas;AM;99;Estadual;35;24.9;160;16.01;;;201-250;2.86;;;1;8;;;201-250;2.71;;;71;167;2.44
+2025;biologia;Universidade de Mogi das Cruzes;SP;100;Privada;105;14.4;77;25.76;;;113;5.17;;;1;8;;;56;6.59;;;29;1;6
+2025;biologia;Centro Universitário Barão de Mauá;SP;101;Privada;35;24.9;169;15.07;;;115;5.11;;;201-250;2.37;;;201-250;2.17;;;30;28;5.42
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Piauí;PI;102;Federal;35;24.9;171;15;;;184;3.37;;;1;8;;;251-300;0.67;;;72;143;2.96
+2025;biologia;Universidade Luterana do Brasil;RS;103;Privada;35;24.9;176;14.6;;;121;4.96;;;163;3.78;;;192;3.12;;;31;153;2.74
+2025;biologia;Faculdade União Araruama de Ensino S/s Ltda.;RJ;104;Privada;;;63;39.07;;;138;4.53;;;1;8;;;152;4.14;34;22.4;32;;
+2025;biologia;Universidade Paulista;SP;105;Privada;6;29.25;251-300;9.81;;;153;4.15;;;201-250;2.16;;;194;3.07;;;33;251-300;0.43
+2025;biologia;Universidade Federal de Itajubá;MG;106;Federal;105;14.4;79;24.64;;;26;7.37;;;1;8;;;71;6.21;;;73;138;3.06
+2025;biologia;Universidade Federal de Catalão;GO;107;Federal;105;14.4;80;24.56;;;85;5.87;;;1;8;;;35;7.13;;;74;115;3.56
+2025;biologia;Universidade Estadual de Goiás;GO;108;Estadual;35;24.9;189;13.78;;;201-250;1.72;;;1;8;;;183;3.35;;;75;201-250;0.71
+2025;biologia;Centro Universitário Adventista de São Paulo;SP;109;Privada;35;24.9;192;13.59;;;95;5.62;;;251-300;1.33;;;201-250;2.2;;;34;74;4.44
+2025;biologia;Centro Universitário Ingá;PR;110;Privada;35;24.9;195;13.47;;;251-300;0.56;;;1;8;;;122;4.91;;;35;;
+2025;biologia;Universidade Estadual do Maranhão;MA;111;Estadual;35;24.9;196;13.46;;;196;3.06;;;158;3.91;;;201-250;2.12;;;76;77;4.37
+2025;biologia;Universidade Federal do Cariri;CE;112;Federal;105;14.4;82;23.75;;;201-250;1.75;;;1;8;;;1;8;;;77;1;6
+2025;biologia;Universidade Católica Dom Bosco;MS;113;Privada;35;24.9;201-250;12.87;;;183;3.39;;;186;3.18;;;196;3.02;;;36;128;3.28
+2025;biologia;Fundação Universidade Federal do Tocantins;TO;114;Federal;105;14.4;85;23.2;;;149;4.25;;;1;8;;;30;7.26;;;78;109;3.69
+2025;biologia;Universidade São Judas Tadeu;SP;115;Privada;35;24.9;201-250;12.65;;;89;5.77;;;201-250;2.01;;;141;4.42;;;37;251-300;0.45
+2025;biologia;Universidade Federal da Integração Latino-americana;PR;116;Federal;105;14.4;88;22.7;;;63;6.43;;;155;3.99;;;13;7.69;;;79;67;4.59
+2025;biologia;Centro Universitário Ritter dos Reis;RS;117;Privada;35;24.9;201-250;12.09;;;54;6.66;;;251-300;1.3;;;201-250;1.94;;;38;179;2.19
+2025;biologia;Fundação Universidade Federal do Vale do São Francisco;PE;118;Federal;105;14.4;90;22.33;;;107;5.32;;;1;8;;;51;6.72;;;80;174;2.29
+2025;biologia;Universidade do Sul de Santa Catarina;SC;119;Privada;35;24.9;201-250;11.79;;;78;6.05;;;201-250;1.51;;;201-250;2.43;;;39;197;1.8
+2025;biologia;Fundação Universidade Federal de Rondônia;RO;120;Federal;105;14.4;93;22.1;;;105;5.37;;;1;8;;;100;5.47;;;81;129;3.26
+2025;biologia;Universidade Regional do Noroeste do Estado do Rio Grande do Sul;RS;121;Privada;;;67;36.41;;;15;7.65;;;201-250;2.32;;;176;3.53;34;22.4;40;251-300;0.51
+2025;biologia;Universidade Evangélica de Goiás;GO;122;Privada;35;24.9;201-250;11.42;;;201-250;2.1;;;191;3.05;;;175;3.55;;;41;154;2.72
+2025;biologia;Universidade Federal de Rondonópolis;MT;123;Federal;105;14.4;96;21.79;;;156;4.08;;;1;8;;;130;4.7;;;82;47;5.01
+2025;biologia;Fundação Universidade Federal do Pampa;RS;124;Federal;105;14.4;97;21.66;;;119;5.01;;;1;8;;;68;6.29;;;83;171;2.36
+2025;biologia;Universidade Federal do Triângulo Mineiro;MG;125;Federal;105;14.4;98;21.63;;;117;5.06;;;1;8;;;38;7.05;;;84;201-250;1.52
+2025;biologia;Centro Universitário Una;MG;126;Privada;35;24.9;201-250;11.12;;;157;4.05;;;201-250;2.55;;;174;3.58;;;42;201-250;0.94
+2025;biologia;Universidade Estadual do Paraná;PR;127;Estadual;105;14.4;100;21.51;;;141;4.46;;;1;8;;;94;5.62;;;85;121;3.43
+2025;biologia;Universidade Federal Rural da Amazônia;PA;128;Federal;105;14.4;101;21.47;;;201-250;2.41;;;1;8;;;74;6.13;;;86;51;4.93
+2025;biologia;Universidade Católica de Pernambuco;PE;129;Privada;35;24.9;201-250;10.37;;;186;3.32;;;251-300;0.65;;;114;5.11;;;43;201-250;1.29
+2025;biologia;Universidade Comunitária da Região de Chapecó;SC;130;Privada;105;14.4;109;20.8;;;150;4.23;;;1;8;;;121;4.93;;;44;111;3.64
+2025;biologia;Universidade Estadual da Região Tocantina do Maranhão;MA;131;Estadual;105;14.4;110;20.78;;;130;4.73;;;1;8;;;201-250;2.05;;;87;1;6
+2025;biologia;Universidade Tecnológica Federal do Paraná;PR;132;Federal;105;14.4;111;20.73;;;88;5.8;;;1;8;;;79;6.01;;;88;201-250;0.92
+2025;biologia;Universidade Estadual do Norte do Paraná;PR;133;Estadual;105;14.4;116;20.16;;;133;4.66;;;1;8;;;146;4.29;;;89;131;3.21
+2025;biologia;Universidade Anhembi Morumbi;SP;134;Privada;35;24.9;251-300;9.51;;;176;3.57;;;201-250;1.62;;;186;3.27;;;45;201-250;1.05
+2025;biologia;Universidade de Sorocaba;SP;135;Privada;35;24.9;251-300;9.01;;;180;3.47;;;251-300;0.24;;;155;4.06;;;46;201-250;1.24
+2025;biologia;Universidade Federal do Oeste da Bahia;BA;136;Federal;105;14.4;121;19.35;;;162;3.92;;;1;8;;;148;4.24;;;90;132;3.19
+2025;biologia;Universidade Nilton Lins;AM;137;Privada;35;24.9;251-300;8.76;;;251-300;1.06;;;173;3.52;;;201-250;1.97;;;47;178;2.21
+2025;biologia;Fundação Universidade do Estado de Santa Catarina;SC;138;Estadual;105;14.4;122;19.19;;;42;6.96;;;201-250;1.64;;;75;6.11;;;91;72;4.48
+2025;biologia;Faculdade Frassinetti do Recife;PE;139;Privada;35;24.9;251-300;8.65;;;201-250;2.43;;;201-250;1.9;;;201-250;2.07;;;48;176;2.25
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais;MG;140;Federal;105;14.4;124;19.1;;;113;5.17;;;1;8;;;140;4.45;;;92;201-250;1.48
+2025;biologia;Centro Universitário Ages;BA;141;Privada;35;24.9;251-300;8.52;;;251-300;1.19;;;201-250;2.29;;;172;3.63;;;49;201-250;1.41
+2025;biologia;Universidade Veiga de Almeida;RJ;142;Privada;105;14.4;128;18.82;;;27;7.34;;;251-300;1.46;;;112;5.16;;;50;54;4.86
+2025;biologia;Universidade La Salle;RS;143;Privada;105;14.4;131;18.69;;;92;5.7;;;164;3.75;;;31;7.23;;;51;187;2.01
+2025;biologia;Universidade Santo Amaro;SP;144;Privada;105;14.4;134;18.67;;;155;4.1;;;1;8;;;109;5.24;;;52;201-250;1.33
+2025;biologia;Universidade Federal do Recôncavo da Bahia;BA;145;Federal;105;14.4;136;18.12;;;201-250;2.73;;;1;8;;;99;5.5;;;93;193;1.89
+2025;biologia;Centro Universitário do Distrito Federal;DF;146;Privada;35;24.9;251-300;7.19;;;251-300;1.09;;;251-300;1.02;;;160;3.94;;;53;201-250;1.14
+2025;biologia;Universidade Estadual Vale do Acaraú;CE;147;Estadual;105;14.4;139;17.58;;;123;4.91;;;171;3.57;;;150;4.19;;;94;52;4.91
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Pará;PA;148;Federal;;;72;31.84;;;201-250;2.41;;;152;4.07;;;201-250;1.89;34;22.4;95;201-250;1.07
+2025;biologia;Universidade da Amazônia;PA;149;Privada;35;24.9;251-300;6.71;;;251-300;1.39;;;201-250;1.8;;;201-250;2.53;;;54;201-250;0.99
+2025;biologia;Universidade Potiguar;RN;150;Privada;35;24.9;251-300;6.52;;;201-250;2.84;;;251-300;0.44;;;201-250;2.45;;;55;201-250;0.79
+2025;biologia;Centro Universitário Brasileiro;PE;151;Privada;105;14.4;144;16.94;;;120;4.99;;;201-250;2.27;;;170;3.68;;;56;1;6
+2025;biologia;Centro Universitário de Patos de Minas;MG;152;Privada;105;14.4;145;16.93;;;98;5.54;;;251-300;1.38;;;116;5.06;;;57;50;4.95
+2025;biologia;Faculdade Eduvale de Avaré;SP;153;Privada;105;14.4;149;16.74;;;65;6.38;;;251-300;0.83;;;118;5.01;;;58;70;4.52
+2025;biologia;Universidade Feevale;RS;154;Privada;105;14.4;150;16.67;;;154;4.13;;;201-250;2.42;;;54;6.65;;;59;119;3.47
+2025;biologia;Centro Universitário Facvest;SC;155;Privada;105;14.4;155;16.21;;;109;5.27;;;1;8;;;199;2.94;;;60;;
+2025;biologia;Universidade Regional de Blumenau;SC;156;Municipal;105;14.4;156;16.19;;;12;7.72;;;251-300;0.91;;;139;4.47;;;96;137;3.09
+2025;biologia;Universidade Estadual do Rio Grande do Sul;RS;157;Estadual;105;14.4;162;15.72;;;201-250;1.82;;;1;8;;;83;5.9;;;97;;
+2025;biologia;Centro Universitário da Vitória de Santo Antão;PE;158;Privada;105;14.4;163;15.49;;;251-300;1.65;;;1;8;;;162;3.89;;;61;190;1.95
+2025;biologia;Centro Universitário Fundação Santo André;SP;159;Privada;105;14.4;164;15.46;;;99;5.52;;;251-300;1.25;;;142;4.4;;;62;81;4.29
+2025;biologia;Centro Universitário Aparício Carvalho;RO;160;Privada;105;14.4;165;15.42;;;168;3.77;;;1;8;;;251-300;0.41;;;63;130;3.24
+2025;biologia;Faculdade Estácio de Castanhal;PA;161;Privada;105;14.4;166;15.35;;;251-300;1.39;;;1;8;;;251-300;1.61;;;64;78;4.35
+2025;biologia;Centro Universitário de Rio Preto;SP;162;Privada;105;14.4;168;15.15;;;72;6.2;;;251-300;0.86;;;82;5.93;;;65;180;2.16
+2025;biologia;Centro Universitário Faesa;ES;163;Privada;105;14.4;170;15.07;;;75;6.13;;;251-300;1.43;;;161;3.91;;;66;113;3.6
+2025;biologia;Universidade do Vale do Paraíba;SP;164;Privada;105;14.4;172;14.99;;;45;6.89;;;201-250;1.67;;;163;3.86;;;67;161;2.57
+2025;biologia;Universidade Nove de Julho;SP;165;Privada;105;14.4;173;14.9;;;199;2.99;;;201-250;2.79;;;166;3.78;;;68;32;5.34
+2025;biologia;Universidade do Vale do Sapucaí;MG;166;Privada;105;14.4;174;14.87;;;82;5.95;;;201-250;2.68;;;201-250;2.66;;;69;114;3.58
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Norte de Minas Gerais;MG;167;Federal;105;14.4;177;14.49;;;179;3.49;;;1;8;;;251-300;1.56;;;98;201-250;1.44
+2025;biologia;Universidade Estadual de Mato Grosso do Sul;MS;168;Estadual;105;14.4;179;14.37;;;201-250;2.2;;;251-300;0.89;;;89;5.75;;;99;23;5.53
+2025;biologia;Centro Universitário União das Américas Descomplica;PR;169;Privada;105;14.4;181;14.29;;;201-250;2.08;;;1;8;;;189;3.2;;;70;201-250;1.01
+2025;biologia;Centro Universitário Campos de Andrade;PR;170;Privada;105;14.4;184;14.06;;;188;3.27;;;1;8;;;201-250;2.79;;;71;;
+2025;biologia;Centro Universitário Fundação de Ensino Octávio Bastos;SP;171;Privada;105;14.4;190;13.77;;;77;6.08;;;251-300;0.96;;;251-300;1.59;;;72;41;5.14
+2025;biologia;Universidade de Araraquara;SP;172;Privada;105;14.4;193;13.57;;;108;5.29;;;251-300;0.6;;;136;4.55;;;73;135;3.13
+2025;biologia;Centro Universitário das Faculdades Integradas de Ourinhos;SP;173;Privada;105;14.4;198;13.39;;;201-250;2.3;;;201-250;2.19;;;169;3.71;;;74;39;5.19
+2025;biologia;Universidade de Taubaté;SP;174;Municipal;105;14.4;200;13.34;;;53;6.68;;;183;3.26;;;201-250;2.84;;;100;251-300;0.56
+2025;biologia;Centro Universitário de Goiás;GO;175;Privada;105;14.4;201-250;13.16;;;251-300;1.17;;;1;8;;;158;3.99;;;75;;
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Ceará;CE;176;Federal;105;14.4;201-250;12.69;;;118;5.04;;;151;4.09;;;251-300;1.25;;;101;173;2.31
+2025;biologia;Centro Universitário Unime;BA;177;Privada;105;14.4;201-250;12.6;;;201-250;1.7;;;161;3.83;;;41;6.98;;;76;251-300;0.09
+2025;biologia;Universidade de Santa Cruz do Sul;RS;178;Privada;105;14.4;201-250;12.56;;;93;5.67;;;201-250;1.82;;;124;4.86;;;77;251-300;0.21
+2025;biologia;Centro Universitário das Faculdades Metropolitanas Unidas;SP;179;Privada;105;14.4;201-250;12.33;;;68;6.3;;;251-300;1.17;;;195;3.04;;;78;196;1.82
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;MA;180;Federal;105;14.4;201-250;12.27;;;201-250;1.98;;;1;8;;;251-300;1.07;;;102;201-250;1.22
+2025;biologia;Centro Universitário São Lucas Porto Velho;RO;181;Privada;105;14.4;201-250;12.21;;;201-250;2.66;;;1;8;;;251-300;1.23;;;79;251-300;0.32
+2025;biologia;Centro Universitário Central Paulista;SP;182;Privada;105;14.4;201-250;12.03;;;201-250;2.05;;;251-300;1.38;;;1;8;;;80;251-300;0.6
+2025;biologia;Centro Universitário do Norte;AM;183;Privada;105;14.4;201-250;11.99;;;201-250;2.89;;;201-250;2.61;;;251-300;1.2;;;81;34;5.29
+2025;biologia;Universidade Estadual de Alagoas;AL;184;Estadual;105;14.4;201-250;11.57;;;251-300;1.22;;;167;3.67;;;201-250;1.64;;;103;46;5.04
+2025;biologia;Universidade Castelo Branco;RJ;185;Privada;105;14.4;201-250;11.34;;;201-250;2.46;;;251-300;0.76;;;201-250;2.76;;;82;31;5.36
+2025;biologia;Centro Universitário da Fundação Herminio Ometto;SP;186;Privada;105;14.4;201-250;11.13;;;106;5.34;;;251-300;0.63;;;201-250;1.71;;;83;120;3.45
+2025;biologia;Universidade Católica do Salvador;BA;187;Privada;105;14.4;201-250;11.06;;;58;6.56;;;251-300;0.78;;;201-250;2.76;;;84;201-250;0.96
+2025;biologia;Centro Universitário Sagrado Coração;SP;188;Privada;105;14.4;201-250;10.96;;;301-350;0.38;;;201-250;1.95;;;137;4.52;;;85;89;4.11
+2025;biologia;Universidade Estadual de Ponta Grossa;PR;189;Estadual;;;78;25.34;;;96;5.6;;;1;8;;;66;6.34;;;104;29;5.4
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia Baiano;BA;190;Federal;105;14.4;201-250;10.9;;;301-350;0.18;;;1;8;;;201-250;2.33;;;105;251-300;0.39
+2025;biologia;Centro Universitário Salesiano;ES;191;Privada;105;14.4;201-250;10.78;;;126;4.84;;;201-250;2.48;;;201-250;2.15;;;86;201-250;1.31
+2025;biologia;Faculdade Anhanguera de Brasília;DF;192;Privada;105;14.4;201-250;10.25;;;201-250;2.51;;;170;3.6;;;157;4.01;;;87;251-300;0.13
+2025;biologia;Fundação Universidade Federal da Grande Dourados;MS;193;Federal;;;81;23.89;;;84;5.9;;;1;8;;;53;6.67;;;106;126;3.32
+2025;biologia;Centro Universitário de Adamantina;SP;194;Municipal;105;14.4;251-300;8.69;;;201-250;2.13;;;201-250;2.14;;;251-300;1.38;;;107;139;3.04
+2025;biologia;Centro Universitário Anhanguera de São Paulo;SP;195;Privada;105;14.4;251-300;8.47;;;301-350;0.38;;;176;3.44;;;133;4.63;;;88;251-300;0.02
+2025;biologia;Universidade Federal de Roraima;RR;196;Federal;;;87;22.8;;;178;3.52;;;1;8;;;78;6.03;;;108;36;5.25
+2025;biologia;Universidade Iguaçu;RJ;197;Privada;105;14.4;251-300;8.38;;;165;3.85;;;201-250;2.24;;;251-300;1.43;;;89;201-250;0.86
+2025;biologia;Faculdade Maria Thereza;RJ;198;Privada;105;14.4;251-300;7.93;;;201-250;1.85;;;251-300;0.47;;;164;3.83;;;90;198;1.78
+2025;biologia;Universidade Federal de Jataí;GO;199;Federal;;;91;22.25;;;161;3.95;;;1;8;;;92;5.67;;;109;65;4.63
+2025;biologia;Centro Universitário São José;RJ;200;Privada;;;92;22.19;;;201-250;1.8;;;1;8;;;64;6.39;;;91;1;6
+2025;biologia;Universidade de Uberaba;MG;201;Privada;105;14.4;251-300;6.96;;;251-300;0.91;;;188;3.13;;;251-300;1.36;;;92;201-250;1.56
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia Farroupilha;RS;201;Federal;;;147;16.85;;;151;4.2;;;1;8;;;159;3.96;;;126;201-250;0.69
+2025;biologia;Faculdade Guaraí;TO;201;Privada;105;14.4;251-300;6.13;;;201-250;1.92;;;185;3.21;;;251-300;0.59;;;94;251-300;0.41
+2025;biologia;Universidade Federal do Acre;AC;201;Federal;;;125;19.04;;;201-250;2.58;;;1;8;;;129;4.73;;;120;107;3.73
+2025;biologia;Universidade do Oeste de Santa Catarina;SC;201;Privada;;;127;18.86;;;57;6.58;;;1;8;;;171;3.66;;;99;251-300;0.62
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio de Janeiro;RJ;201;Federal;;;108;20.85;;;38;7.06;;;1;8;;;131;4.68;;;114;201-250;1.11
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Brasília;DF;201;Federal;;;123;19.16;;;80;6;;;1;8;;;181;3.4;;;119;199;1.76
+2025;biologia;Centro Universitário Uninorte;AC;201;Privada;;;159;16.08;;;301-350;0.08;;;1;8;;;1;8;;;107;;
+2025;biologia;Centro Universitário do Paraná;PR;201;Privada;;;199;13.37;;;97;5.57;;;251-300;0.34;;;251-300;1.46;;;119;1;6
+2025;biologia;Centro Universitário do Cerrado-patrocínio;MG;201;Privada;105;14.4;251-300;6.81;;;251-300;0.91;;;201-250;2.74;;;251-300;1.53;;;93;201-250;1.63
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amazonas;AM;201;Federal;;;148;16.83;;;137;4.56;;;1;8;;;251-300;1.48;;;127;151;2.79
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul;RS;201;Federal;;;135;18.58;;;91;5.72;;;1;8;;;149;4.22;;;123;251-300;0.64
+2025;biologia;Universidade Federal do Delta do Parnaíba;PI;201;Federal;;;113;20.52;;;198;3.01;;;1;8;;;91;5.7;;;115;103;3.81
+2025;biologia;Centro Universitário Amparense;SP;201;Privada;;;185;14.04;;;301-350;0.38;;;201-250;2.09;;;96;5.57;;;113;1;6
+2025;biologia;Universidade da Integração Internacional da Lusofonia Afro-brasileira;CE;201;Federal;;;102;21.42;;;185;3.34;;;1;8;;;32;7.21;;;111;147;2.87
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;AL;201;Federal;;;154;16.23;;;201-250;2.48;;;1;8;;;251-300;1.51;;;128;83;4.24
+2025;biologia;Centro Universitário Católica do Leste de Minas Gerais;MG;201;Privada;;;179;14.37;;;201-250;2.71;;;191;3.05;;;36;7.11;;;111;201-250;1.5
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Sergipe;SE;201;Federal;;;132;18.68;;;101;5.47;;;1;8;;;110;5.21;;;122;;
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia Fluminense;RJ;201;Federal;;;115;20.17;;;59;6.53;;;1;8;;;182;3.37;;;116;175;2.27
+2025;biologia;Universidade Santa Úrsula;RJ;201;Privada;;;152;16.52;;;103;5.42;;;251-300;0.5;;;134;4.6;;;105;1;6
+2025;biologia;Centro Universitário Cesmac;AL;201;Privada;105;14.4;301-350;2.77;;;251-300;0.96;;;251-300;0.96;;;251-300;0.51;;;103;251-300;0.34
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais;MG;201;Federal;;;102;21.42;;;87;5.82;;;1;8;;;201-250;2.86;;;111;60;4.74
+2025;biologia;Universidade Federal do Norte do Tocantins;TO;201;Federal;;;118;19.93;;;192;3.17;;;1;8;;;76;6.08;;;118;156;2.68
+2025;biologia;Faculdade de Ciências e Tecnologias de Campos Gerais;MG;201;Privada;;;146;16.91;;;251-300;0.91;;;1;8;;;1;8;;;104;;
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso;MT;201;Federal;;;188;13.8;;;251-300;1.49;;;1;8;;;301-350;0.05;;;130;82;4.26
+2025;biologia;Faculdade Cesumar de Ponta Grossa;PR;201;Privada;;;186;13.86;;;182;3.42;;;251-300;0.99;;;179;3.45;;;114;1;6
+2025;biologia;Centro Universitário Metodista Izabela Hendrix;MG;201;Privada;;;191;13.72;;;163;3.9;;;201-250;1.93;;;201-250;2.51;;;116;30;5.38
+2025;biologia;Faculdade do Futuro;MG;201;Privada;105;14.4;301-350;3.18;;;251-300;0.91;;;251-300;1.09;;;251-300;1.18;;;102;;
+2025;biologia;Centro Universitário de Sete Lagoas;MG;201;Privada;;;187;13.85;;;71;6.23;;;251-300;1.04;;;201-250;2.38;;;115;85;4.2
+2025;biologia;Instituto Luterano de Ensino Superior de Itumbiara;GO;201;Privada;105;14.4;251-300;5.99;;;201-250;1.87;;;194;2.97;;;251-300;1.15;;;95;;
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de São Paulo;SP;201;Federal;;;104;21.37;;;55;6.63;;;1;8;;;103;5.39;;;113;201-250;1.35
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia da Paraíba;PB;201;Federal;;;130;18.71;;;111;5.22;;;1;8;;;201-250;2.1;;;121;123;3.39
+2025;biologia;Centro Universitário Facex;RN;201;Privada;105;14.4;251-300;5.79;;;201-250;2.84;;;251-300;0.73;;;201-250;2.22;;;96;;
+2025;biologia;Centro Universitário de Itajubá;MG;201;Privada;;;138;17.6;;;166;3.82;;;1;8;;;88;5.78;;;101;;
+2025;biologia;Centro Universitário Dinâmica das Cataratas;PR;201;Privada;;;158;16.09;;;251-300;0.56;;;1;8;;;156;4.04;;;106;118;3.49
+2025;biologia;Centro Universitário Araguaia;GO;201;Privada;;;178;14.47;;;187;3.29;;;201-250;2.5;;;132;4.65;;;110;93;4.03
+2025;biologia;Centro Universitário Ideau;RS;201;Privada;105;14.4;301-350;3.72;;;170;3.72;;;;;;;;;;;100;;
+2025;biologia;Centro Universitário de Santa Fé do Sul;SP;201;Municipal;;;143;17.25;;;195;3.09;;;1;8;;;201-250;1.66;;;125;71;4.5
+2025;biologia;Centro Universitário da Região da Campanha;RS;201;Privada;;;183;14.25;;;170;3.72;;;251-300;1.28;;;187;3.25;;;112;1;6
+2025;biologia;Centro Universitário de Formiga;MG;201;Privada;;;175;14.85;;;147;4.3;;;201-250;2.55;;;1;8;;;109;;
+2025;biologia;Universidade da Região de Joinville;SC;201;Privada;;;197;13.4;;;169;3.75;;;182;3.28;;;105;5.34;;;118;201-250;1.03
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Triângulo Mineiro;MG;201;Federal;;;141;17.43;;;76;6.1;;;1;8;;;193;3.09;;;124;251-300;0.24
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Goiás;GO;201;Federal;;;167;15.32;;;201-250;2.63;;;1;8;;;184;3.32;;;129;201-250;1.37
+2025;biologia;Centro Universitário da Fundação Educacional de Barretos;SP;201;Privada;105;14.4;251-300;4.84;;;301-350;0.38;;;251-300;0.68;;;201-250;1.79;;;97;188;1.99
+2025;biologia;Centro Universitário LS;DF;201;Privada;;;201-250;13.31;;;143;4.41;;;1;8;;;251-300;0.79;;;120;251-300;0.11
+2025;biologia;Faculdade de Filosofia, Ciências e Letras do Alto São Francisco;MG;201;Privada;;;161;16.01;;;251-300;1.01;;;1;8;;;251-300;1;;;108;1;6
+2025;biologia;Centro Universitário de Barra Mansa;RJ;201;Privada;105;14.4;251-300;4.64;;;201-250;1.8;;;201-250;1.54;;;251-300;1.3;;;98;;
+2025;biologia;Faculdade Anhanguera de Macapá;AP;201;Privada;;;194;13.54;;;301-350;0.08;;;1;8;;;102;5.42;;;117;251-300;0.04
+2025;biologia;Universidade Federal do Oeste do Pará;PA;201;Federal;;;99;21.54;;;201-250;2.56;;;1;8;;;57;6.57;;;110;75;4.41
+2025;biologia;Universidade Estadual de Roraima;RR;201;Estadual;;;117;20.08;;;251-300;0.46;;;1;8;;;1;8;;;117;112;3.62
+2025;biologia;Faculdade de São Vicente;SP;251;Privada;;;251-300;6.3;;;201-250;2.61;;;195;2.95;;;251-300;0.74;;;152;;
+2025;biologia;Centro Universitário das Américas;SP;251;Privada;;;251-300;9.29;;;164;3.87;;;251-300;0.31;;;201-250;2.56;;;139;162;2.55
+2025;biologia;Centro Universitário Academia;MG;251;Privada;;;251-300;8.48;;;144;4.38;;;251-300;0.52;;;201-250;1.74;;;142;195;1.84
+2025;biologia;Faculdade Ages de Tucano;BA;251;Privada;;;251-300;5.29;;;251-300;1.24;;;251-300;1.07;;;201-250;1.82;;;153;201-250;1.16
+2025;biologia;Faculdade de Ciências e Tecnologia Professor Dirson Maciel de Barros;PE;251;Municipal;;;201-250;10.95;;;251-300;1.54;;;1;8;;;251-300;1.41;;;137;;
+2025;biologia;Faculdade Anhanguera de Belo Horizonte;MG;251;Privada;;;201-250;12.63;;;191;3.19;;;172;3.54;;;90;5.73;;;124;251-300;0.17
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Rondônia;RO;251;Federal;;;201-250;10.76;;;251-300;1.27;;;1;8;;;251-300;0.61;;;138;201-250;0.88
+2025;biologia;Universidade do Contestado;SC;251;Privada;;;251-300;8.52;;;251-300;0.99;;;195;2.95;;;135;4.58;;;141;;
+2025;biologia;Centro Universitário Guairacá;PR;251;Privada;;;251-300;7.61;;;201-250;1.7;;;166;3.7;;;201-250;2.02;;;145;251-300;0.19
+2025;biologia;Faculdade de Ciências e Letras de Bragança Paulista;SP;251;Municipal;;;251-300;6.57;;;251-300;1.52;;;301-350;0.03;;;301-350;0.33;;;141;62;4.69
+2025;biologia;Faculdade Estácio do Amazonas;AM;251;Privada;;;251-300;7.39;;;301-350;0.41;;;251-300;0.7;;;190;3.17;;;147;136;3.11
+2025;biologia;Faculdade de Educação São Luís;SP;251;Privada;;;251-300;8.93;;;201-250;2.71;;;198;2.87;;;251-300;0.84;;;140;164;2.51
+2025;biologia;Centro Universitário Cnec de Bento Gonçalves;RS;251;Privada;;;251-300;7.48;;;170;3.72;;;251-300;0.26;;;177;3.5;;;146;;
+2025;biologia;Instituto Superior de Educação Elvira Dayrell;MG;251;Privada;;;251-300;7.02;;;251-300;0.91;;;301-350;0.08;;;301-350;0.03;;;148;1;6
+2025;biologia;Faculdade Unibrasília de Minas Gerais;MG;251;Privada;;;201-250;10.44;;;251-300;0.91;;;195;2.95;;;111;5.19;;;132;201-250;1.39
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia Goiano;GO;251;Federal;;;201-250;12.08;;;201-250;2.15;;;178;3.39;;;153;4.12;;;134;168;2.42
+2025;biologia;Escola Superior Batista do Amazonas;AM;251;Privada;;;201-250;13.1;;;301-350;0.08;;;1;8;;;147;4.27;;;121;201-250;0.75
+2025;biologia;Centro Universitário Goyazes;GO;251;Privada;;;201-250;12.56;;;251-300;1.17;;;1;8;;;251-300;0.56;;;125;149;2.83
+2025;biologia;Centro Universitário Celso Lisboa;RJ;251;Privada;;;251-300;9.47;;;201-250;2.53;;;177;3.41;;;201-250;1.92;;;137;201-250;1.61
+2025;biologia;Faculdade One Learning;SE;251;Privada;;;251-300;7.62;;;110;5.24;;;251-300;1.43;;;251-300;0.95;;;144;;
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Tocantins;TO;251;Federal;;;201-250;12.67;;;192;3.17;;;1;8;;;251-300;0.77;;;132;201-250;0.73
+2025;biologia;Faculdades Integradas de Fernandópolis;SP;251;Privada;;;251-300;10.03;;;44;6.91;;;201-250;2.22;;;251-300;0.9;;;135;;
+2025;biologia;Centro Universitário Augusto Motta;RJ;251;Privada;;;201-250;10.27;;;201-250;2.18;;;201-250;1.56;;;251-300;1.02;;;133;24;5.51
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Acre;AC;251;Federal;;;201-250;12.55;;;251-300;1.6;;;1;8;;;201-250;2.48;;;133;251-300;0.47
+2025;biologia;Universidade Universus Veritas Guarulhos;SP;251;Privada;;;201-250;10.74;;;167;3.8;;;201-250;1.85;;;201-250;2.28;;;129;150;2.81
+2025;biologia;Centro Universitário dos Guararapes;PE;251;Privada;;;201-250;10.74;;;301-350;0.13;;;1;8;;;201-250;2.61;;;129;;
+2025;biologia;Centro de Ensino Superior do Vale São Francisco;PE;251;Municipal;;;201-250;10.29;;;251-300;0.58;;;1;8;;;251-300;1.13;;;139;251-300;0.58
+2025;biologia;Faculdade Anhanguera de Linhares;ES;251;Privada;;;201-250;12.18;;;201-250;2.03;;;168;3.65;;;62;6.44;;;126;251-300;0.06
+2025;biologia;Centro Universitário Dom Pedro II;BA;251;Privada;;;201-250;10.13;;;251-300;1.47;;;1;8;;;251-300;0.51;;;134;251-300;0.15
+2025;biologia;Centro Universitário Mário Palmério;MG;251;Privada;;;251-300;5.17;;;251-300;0.91;;;201-250;2.63;;;251-300;0.97;;;155;201-250;0.66
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia de Roraima;RR;251;Federal;;;201-250;13.18;;;201-250;1.92;;;1;8;;;251-300;0.92;;;131;172;2.34
+2025;biologia;Centro Universitário Módulo;SP;251;Privada;;;251-300;4.5;;;251-300;1.04;;;251-300;0.39;;;201-250;2.81;;;156;251-300;0.26
+2025;biologia;Faculdade Uniftb;SE;251;Privada;;;251-300;9.3;;;201-250;2.79;;;;;;;251-300;0.51;;;138;1;6
+2025;biologia;Centro Universitário do Vale do Ribeira;SP;251;Privada;;;251-300;6.41;;;251-300;1.57;;;251-300;1.15;;;251-300;0.54;;;151;134;3.15
+2025;biologia;Centro Universitário Cenecista de Osório;RS;251;Privada;;;251-300;6.84;;;170;3.72;;;251-300;0.21;;;200;2.91;;;149;;
+2025;biologia;Centro Universitário de Caratinga;MG;251;Privada;;;201-250;12.73;;;201-250;2.91;;;162;3.81;;;201-250;2.3;;;123;108;3.71
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte;RN;251;Federal;;;201-250;11.1;;;251-300;0.61;;;1;8;;;251-300;0.82;;;136;201-250;1.67
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Amapá;AP;251;Federal;;;201-250;11.45;;;251-300;0.66;;;1;8;;;251-300;1.1;;;135;201-250;1.69
+2025;biologia;Centro Universitário Nossa Senhora do Patrocínio;SP;251;Privada;;;251-300;5.23;;;201-250;2.25;;;251-300;0.57;;;201-250;1.87;;;154;251-300;0.54
+2025;biologia;Centro Universitário Una de Betim;MG;251;Privada;;;251-300;6.6;;;251-300;0.91;;;201-250;1.69;;;200;2.91;;;150;201-250;1.09
+2025;biologia;Faculdade de Itaituba;PA;251;Privada;;;251-300;4.38;;;251-300;1.39;;;201-250;2.76;;;301-350;0.23;;;157;;
+2025;biologia;Faculdade do Belo Jardim;PE;251;Municipal;;;251-300;5.14;;;251-300;0.63;;;179;3.36;;;251-300;0.87;;;142;251-300;0.28
+2025;biologia;Centro Universitário Teresa D'ávila;SP;251;Privada;;;201-250;12.93;;;74;6.15;;;251-300;0.29;;;201-250;1.69;;;122;57;4.8
+2025;biologia;Universidade Regional Integrada do Alto Uruguai e das Missões;RS;251;Privada;;;201-250;11.26;;;131;4.71;;;251-300;1.12;;;151;4.17;;;128;201-250;1.26
+2025;biologia;Faculdade Uniguaçu;PR;251;Privada;;;201-250;10.56;;;146;4.33;;;164;3.75;;;251-300;1.28;;;131;201-250;1.2
+2025;biologia;Faculdade de Formação de Professores da Mata Sul;PE;251;Municipal;;;251-300;5.04;;;301-350;0.13;;;;;;;301-350;0.13;;;143;58;4.78
+2025;biologia;Instituto Federal de Educação, Ciência e Tecnologia do Paraná;PR;251;Federal;;;251-300;9.92;;;201-250;2.28;;;159;3.88;;;197;2.99;;;140;201-250;0.77
+2025;biologia;Faculdade Souza Marques;RJ;251;Privada;;;251-300;9.99;;;200;2.96;;;251-300;0.81;;;251-300;1.33;;;136;53;4.89
+2025;biologia;Faculdade Brasileira Cristã;ES;251;Privada;;;201-250;12.07;;;68;6.3;;;173;3.52;;;201-250;1.76;;;127;251-300;0.49
+2025;biologia;Centro Universitário São Lucas Ji-paraná;RO;251;Privada;;;251-300;7.83;;;190;3.22;;;201-250;2.66;;;251-300;1.05;;;143;201-250;0.9
+2025;biologia;Faculdade de Caldas Novas;GO;301;Privada;;;301-350;1.42;;;251-300;1.17;;;301-350;0.1;;;301-350;0.15;;;169;;
+2025;biologia;Centro de Ensino Superior de Arcoverde;PE;301;Municipal;;;301-350;3.3;;;251-300;1.29;;;;;;;301-350;0.1;;;146;192;1.91
+2025;biologia;Instituto de Ensino Superior de Minas Gerais;MG;301;Privada;;;301-350;0.91;;;251-300;0.91;;;;;;;;;;;170;;
+2025;biologia;Faculdade de Ciências Humanas do Sertão Central;PE;301;Municipal;;;301-350;3.69;;;301-350;0.15;;;;;;;301-350;0.18;;;145;124;3.36
+2025;biologia;Faculdade Mozarteum de São Paulo;SP;301;Privada;;;301-350;3.21;;;301-350;0.38;;;201-250;2.45;;;251-300;0.38;;;164;;
+2025;biologia;Faculdades Integradas de Itapetininga;SP;301;Privada;;;301-350;3.73;;;301-350;0.38;;;187;3.15;;;301-350;0.2;;;160;;
+2025;biologia;Universidade Metodista de São Paulo;SP;301;Privada;;;301-350;3.36;;;301-350;0.38;;;251-300;0.37;;;201-250;2.61;;;163;;
+2025;biologia;Centro Universitário Multivix Vitória;ES;301;Privada;;;251-300;4.24;;;201-250;2.03;;;251-300;1.49;;;251-300;0.72;;;158;;
+2025;biologia;Escola Superior em Meio Ambiente;MG;301;Privada;;;301-350;1.63;;;251-300;1.32;;;301-350;0.05;;;301-350;0.26;;;167;;
+2025;biologia;Instituto Superior de Educação Professora Nair Fortes Abu-merhy;MG;301;Privada;;;301-350;3.69;;;251-300;0.91;;;;;;;301-350;0.08;;;162;155;2.7
+2025;biologia;Centro Universitário Metodista;RS;301;Privada;;;301-350;3.72;;;170;3.72;;;;;;;;;;;161;;
+2025;biologia;Faculdade São Vicente;AL;301;Privada;;;301-350;1.47;;;251-300;0.96;;;;;;;251-300;0.51;;;168;;
+2025;biologia;Faculdade Santa Marcelina Muriaé;MG;301;Privada;;;251-300;3.96;;;251-300;1.44;;;301-350;0.16;;;301-350;0.28;;;159;184;2.08
+2025;biologia;Centro Universitário Unicuritiba;PR;301;Privada;;;301-350;3;;;251-300;0.56;;;201-250;1.75;;;251-300;0.69;;;165;;
+2025;biologia;Centro Universitário de Jales;SP;301;Privada;;;301-350;2.77;;;301-350;0.38;;;201-250;2.03;;;251-300;0.36;;;166;;
+2025;biologia;Faculdade de Formação de Professores de Serra Talhada;PE;301;Municipal;;;251-300;3.85;;;251-300;1.44;;;301-350;0.13;;;301-350;0.31;;;144;189;1.97
