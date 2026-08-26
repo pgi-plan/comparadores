@@ -1,207 +1,525 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+<!doctype html>
+<html lang="pt-BR">
 
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PGI/PLAN | Coordenação de Análise de Dados e Indicadores Gerenciais (UFF)</title>
-  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;800&display=swap"
-    rel="stylesheet">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RUF — Ranking de Cursos | UFF Analytics</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
   <style>
     :root {
-      --primary-blue: rgb(0, 91, 170);
-      --dark-grey: rgb(109, 110, 113);
-      --light-grey: #eaeaea;
-      --white: #ffffff;
-      --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
-    }
-
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
+      /* Tema Laranja para o RUF (Folha) */
+      --primary-color: #b34700;
+      --primary-light: #f57c00;
+      --compare-color: #00838f;
+      --bg-color: #f3f4f6;
+      --card-bg: #ffffff;
+      --text-main: #212529;
+      --field: #ccd3db;
     }
 
     body {
-      font-family: 'Plus Jakarta Sans', sans-serif;
-      background-color: var(--white);
-      color: var(--dark-grey);
-      line-height: 1.6;
+      font-family: 'Roboto', sans-serif;
+      background: var(--bg-color);
+      color: var(--text-main);
+      padding-bottom: 40px;
     }
 
-    /* Header com Azul Institucional */
-    header {
-      background-color: var(--primary-blue);
-      height: 200px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      position: relative;
-      margin-bottom: 140px;
+    /* Header */
+    .app-header {
+      background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
+      color: white;
+      padding: 2rem 1rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 10px rgba(179, 71, 0, .2);
     }
 
-    /* Círculo do Logo */
-    .logo-container {
-      position: absolute;
-      bottom: -110px;
-      width: 270px;
-      height: 270px;
-      background-color: var(--white);
-      border-radius: 50%;
+    .app-header h1 {
+      font-weight: 700;
+      margin: 0;
+      font-size: 1.7rem;
+    }
+
+    .app-header .subtitle {
+      opacity: .9;
+      font-weight: 300;
+      font-size: 1.05rem;
+      margin-top: 5px;
+    }
+
+    .app-header .origem {
+      font-size: .78rem;
+      opacity: .8;
+      font-weight: 300;
+    }
+
+    .loader {
+      height: 4px;
+      background: rgba(255, 255, 255, .3);
+      border-radius: 2px;
+      overflow: hidden;
+      margin-top: 6px;
+      width: 220px;
+    }
+
+    .loader span {
+      display: block;
+      height: 100%;
+      width: 0;
+      background: #fff;
+      transition: width .2s;
+    }
+
+    /* Controles */
+    .controls-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 18px 20px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, .05);
+      margin-bottom: 20px;
+      border-left: 5px solid var(--primary-color);
+    }
+
+    .form-label {
+      font-weight: 500;
+      color: var(--primary-color);
+      font-size: .85rem;
+      margin-bottom: 4px;
+    }
+
+    .form-select,
+    .form-control,
+    .btn {
+      border-radius: 8px;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    .btn-primary:hover {
+      background-color: var(--primary-light);
+      border-color: var(--primary-light);
+    }
+
+    .btn-outline-primary {
+      color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    .btn-outline-primary:hover,
+    .btn-check:checked+.btn-outline-primary {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+      color: #fff;
+    }
+
+    .nav-pills .nav-link {
+      color: var(--primary-color);
+      font-weight: 500;
+    }
+
+    .nav-pills .nav-link.active {
+      background-color: var(--primary-color);
+    }
+
+    /* Note card */
+    .note-card {
+      background: #fff4e5;
+      border-left: 4px solid var(--primary-light);
+      border-radius: 8px;
+      padding: 13px 18px;
+      margin-bottom: 20px;
+      font-size: .88rem;
+      color: #6b3000;
       display: flex;
-      justify-content: center;
-      align-items: center;
-      box-shadow: 0 12px 35px rgba(0, 0, 0, 0.15);
-      border: 10px solid var(--white);
+      align-items: flex-start;
+      gap: 12px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .04);
+    }
+
+    .note-card .bi {
+      color: var(--primary-color);
+      font-size: 1.25rem;
+      flex-shrink: 0;
+    }
+
+    .note-card strong {
+      color: var(--primary-color);
+    }
+
+    /* Cards de gráfico */
+    .chart-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, .05);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, .03);
+      margin-bottom: 20px;
       overflow: hidden;
     }
 
-    .logo-img {
-      width: 100%;
-      height: 100%;
-      object-fit: contain;
-      transition: transform 0.3s ease;
+    .chart-header {
+      padding: 14px 20px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
     }
 
-    .logo-container:hover .logo-img {
-      transform: scale(1.05);
-    }
-
-    /* Conteúdo Principal */
-    .container {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 0 20px;
-    }
-
-    .hero {
-      text-align: center;
-      margin-bottom: 60px;
-    }
-
-    /* Grid de Dashboards */
-    .section-title {
-      text-align: center;
-      text-transform: uppercase;
-      letter-spacing: 2px;
-      font-size: 0.95rem;
-      color: var(--primary-blue);
+    .chart-title {
       font-weight: 700;
-      margin-bottom: 40px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 15px;
-    }
-
-    .section-title::before,
-    .section-title::after {
-      content: "";
-      height: 1px;
-      width: 60px;
-      background-color: var(--light-grey);
-    }
-
-    .dashboard-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-      gap: 25px;
-      margin-bottom: 80px;
-    }
-
-    .card {
-      background: var(--white);
-      border: 1px solid var(--light-grey);
-      padding: 40px;
-      border-radius: 20px;
-      text-decoration: none;
-      transition: var(--transition);
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-
-    .card:hover {
-      transform: translateY(-10px);
-      border-color: var(--primary-blue);
-      box-shadow: 0 20px 40px rgba(0, 91, 170, 0.1);
-    }
-
-    .card h3 {
-      color: var(--primary-blue);
-      font-size: 1.4rem;
-      margin-bottom: 15px;
-      display: flex;
-      align-items: center;
-      gap: 12px;
-    }
-
-    .card p {
+      color: var(--primary-color);
       font-size: 1rem;
-      color: var(--dark-grey);
-      margin-bottom: 25px;
-      opacity: 0.9;
+      margin: 0;
     }
 
-    .btn-label {
-      font-size: 0.85rem;
-      font-weight: 700;
-      color: var(--primary-blue);
+    .chart-body {
+      padding: 16px 20px;
+    }
+
+    .grid2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    @media(max-width:1100px) {
+      .grid2 {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* KPIs */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    @media(max-width:900px) {
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    .stat {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, .05);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, .03);
+      padding: 14px 18px;
+    }
+
+    .stat .k {
+      font-size: .72rem;
       text-transform: uppercase;
-      display: flex;
-      align-items: center;
-      gap: 5px;
+      letter-spacing: .05em;
+      color: #6c757d;
+      font-weight: 500;
     }
 
-    /* Footer Estilizado */
-    footer {
-      background-color: var(--light-grey);
-      padding: 60px 20px;
-      text-align: center;
-      color: var(--dark-grey);
-      border-top: 1px solid #ddd;
+    .stat .v {
+      font-size: 1.9rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      line-height: 1.2;
+      margin-top: 2px;
     }
 
-    footer p {
-      margin-bottom: 8px;
-    }
-
-    /* Estilo dos Links do Footer */
-    footer a {
-      text-decoration: none;
-      /* Remove o sublinhado */
-      color: var(--dark-grey);
-      transition: var(--transition);
+    .stat .v small {
+      font-size: .95rem;
+      color: #6c757d;
       font-weight: 400;
     }
 
-    footer a:hover {
-      color: var(--primary-blue);
-      /* Fica azul ao passar o mouse */
+    .stat .s {
+      font-size: .78rem;
+      color: #6c757d;
     }
 
-    /* Destaque para o link principal da UFF */
-    footer b a {
-      color: var(--primary-blue);
-      font-size: 1.1rem;
+    /* Régua do ranking */
+    .ruler-head,
+    .ruler-row {
+      display: grid;
+      grid-template-columns: 210px 1fr 120px 76px;
+      gap: 14px;
+      align-items: center;
+    }
+
+    .ruler-head {
+      padding: 0 4px 8px;
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      color: #6c757d;
+      font-weight: 500;
+    }
+
+    .ruler-head .ends {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .ruler-row {
+      padding: 7px 4px;
+      border-bottom: 1px solid #f2f4f7;
+      cursor: pointer;
+      animation: rise .35s ease both;
+      animation-delay: calc(var(--i) * 14ms);
+    }
+
+    .ruler-row:hover {
+      background: #fff8f1;
+    }
+
+    .ruler-row .name {
+      font-size: .87rem;
+      font-weight: 500;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .track {
+      position: relative;
+      height: 22px;
+    }
+
+    .track .base {
+      position: absolute;
+      top: 10px;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--field);
+      border-radius: 2px;
+    }
+
+    .track .fill {
+      position: absolute;
+      top: 10px;
+      left: 0;
+      height: 3px;
+      background: #a9b4c2;
+      border-radius: 2px;
+      transition: width .5s cubic-bezier(.2, .8, .2, 1);
+    }
+
+    .mark {
+      position: absolute;
+      transform: translateX(-50%);
+      transition: left .5s cubic-bezier(.2, .8, .2, 1);
+    }
+
+    .mark.uff {
+      top: 4px;
+      width: 15px;
+      height: 15px;
+      background: var(--primary-color);
+      border: 2.5px solid #fff;
+      border-radius: 50%;
+      box-shadow: 0 0 0 1px var(--primary-color);
+      z-index: 3;
+    }
+
+    .mark.peer {
+      top: 4px;
+      width: 3px;
+      height: 15px;
+      background: var(--compare-color);
+      border-radius: 2px;
+      z-index: 2;
+    }
+
+    .mark.best {
+      top: 6px;
+      width: 2px;
+      height: 11px;
+      background: #8b97a6;
+    }
+
+    .ruler-row .pos {
+      font-size: .9rem;
       font-weight: 700;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
     }
 
-    footer b a:hover {
-      opacity: 0.8;
+    .ruler-row .pos small {
+      color: #6c757d;
+      font-weight: 400;
     }
 
-    /* Ajustes Mobile */
-    @media (max-width: 768px) {
-      header {
-        height: 160px;
-        margin-bottom: 110px;
+    .ruler-row .delta {
+      font-size: .82rem;
+      font-weight: 600;
+      text-align: right;
+    }
+
+    @media(max-width:760px) {
+
+      .ruler-head,
+      .ruler-row {
+        grid-template-columns: 1fr 100px 60px;
+        gap: 10px;
       }
 
-      .logo-container {
-        width: 200px;
-        height: 200px;
-        bottom: -80px;
+      .ruler-row .name,
+      .ruler-head>div:first-child {
+        grid-column: 1 / -1;
+        white-space: normal;
+      }
+
+      .ruler-head>div:first-child {
+        display: none;
+      }
+    }
+
+    .legend {
+      display: flex;
+      gap: 18px;
+      flex-wrap: wrap;
+      font-size: .8rem;
+      color: #555;
+      margin-bottom: 10px;
+    }
+
+    .legend i {
+      display: inline-block;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      margin-right: 6px;
+      vertical-align: -1px;
+    }
+
+    /* Chips */
+    .chips {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: #e0f4f6;
+      border: 1px solid #b7e0e4;
+      color: #00606b;
+      border-radius: 20px;
+      padding: 4px 6px 4px 12px;
+      font-size: .82rem;
+      font-weight: 500;
+    }
+
+    .chip button {
+      border: 0;
+      background: #b7e0e4;
+      color: #00606b;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: .75rem;
+      line-height: 1;
+    }
+
+    .chip.is-uff {
+      background: #fff4e5;
+      border-color: #f6d5c4;
+      color: #8f3a08;
+      padding-right: 12px;
+    }
+
+    /* Tabelas */
+    .tbl {
+      font-size: .85rem;
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .tbl th {
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      color: #6c757d;
+      font-weight: 500;
+      text-align: left;
+      padding: 6px 10px;
+      border-bottom: 1px solid #e9ecef;
+      white-space: nowrap;
+    }
+
+    .tbl td {
+      padding: 7px 10px;
+      border-bottom: 1px solid #f4f6f8;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .tbl td.num,
+    .tbl th.num {
+      text-align: right;
+    }
+
+    .tbl tr.is-uff td {
+      background: #fff4e5;
+      font-weight: 600;
+    }
+
+    .tbl tr.is-peer td {
+      background: #f0fafb;
+    }
+
+    .up {
+      color: #2e7d32;
+    }
+
+    .down {
+      color: #c62828;
+    }
+
+    .same {
+      color: #757575;
+    }
+
+    footer {
+      margin-top: 36px;
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+    }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+
+      *,
+      .ruler-row,
+      .mark,
+      .fill {
+        animation: none !important;
+        transition: none !important;
       }
     }
   </style>
@@ -209,81 +527,730 @@
 
 <body>
 
-  <header>
-    <div class="logo-container">
-      <img src="https://raw.githubusercontent.com/pjfernandes/pgi_plan_page/refs/heads/main/logotipo_boxplot_menor.png"
-        alt="PGI/PLAN UFF" class="logo-img">
+  <header class="app-header">
+    <div class="container-fluid px-4 d-flex justify-content-between align-items-end flex-wrap gap-3">
+      <div>
+        <h1>RUF — Ranking de Cursos | UFF Analytics</h1>
+        <div class="subtitle">Os 38 cursos da UFF comparados às demais instituições — edições 2019 e 2023–2025</div>
+      </div>
+      <div class="text-end">
+        <div class="origem"><i class="bi bi-github"></i> <span id="loadInfo">conectando ao repositório…</span></div>
+        <div class="origem" id="origem"></div>
+        <div class="loader ms-auto"><span id="loadBar"></span></div>
+      </div>
     </div>
   </header>
 
-  <main class="container">
-    <section class="hero">
+  <div class="container-fluid px-4">
+
+    <div id="alerta" class="note-card d-none">
+      <i class="bi bi-exclamation-triangle-fill"></i>
+      <div>
+        <strong>Não consegui baixar os CSV.</strong> Verifique a conexão e se a pasta
+        <code>cursos_ruf</code> continua pública no repositório
+        <code>pjfernandes/university_ranking_data_visualizer</code>.
+      </div>
+    </div>
+
+    <ul class="nav nav-pills mb-3">
+      <li class="nav-item"><button class="nav-link active" id="tabPanorama"><i class="bi bi-list-ol"></i> Panorama dos
+          38 cursos</button></li>
+      <li class="nav-item"><button class="nav-link" id="tabCurso"><i class="bi bi-graph-up-arrow"></i> Curso a
+          curso</button></li>
+    </ul>
+
+    <!-- ===================== PANORAMA ===================== -->
+    <section id="viewPanorama">
+      <div class="controls-card">
+        <div class="row g-3 align-items-end">
+          <div class="col-md-2">
+            <label class="form-label"><i class="bi bi-calendar-event"></i> Edição</label>
+            <select id="pAno" class="form-select"></select>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-funnel"></i> Comparar com</label>
+            <select id="pEscopo" class="form-select">
+              <option value="todas">todas as instituições</option>
+              <option value="federais">apenas federais</option>
+              <option value="publicas">apenas públicas</option>
+              <option value="rj">apenas do Rio de Janeiro</option>
+            </select>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-sort-down"></i> Ordenar</label>
+            <select id="pOrdem" class="form-select">
+              <option value="pct">melhor colocação primeiro</option>
+              <option value="pctAsc">pior colocação primeiro</option>
+              <option value="delta">quem mais subiu</option>
+              <option value="deltaAsc">quem mais caiu</option>
+              <option value="nome">nome do curso</option>
+            </select>
+          </div>
+          <div class="col-md-4 text-end">
+            <button id="btnReload" class="btn btn-outline-primary btn-sm"><i class="bi bi-arrow-clockwise"></i>
+              Recarregar</button>
+            <button id="pExport" class="btn btn-primary btn-sm"><i class="bi bi-filetype-csv"></i> Baixar
+              tabela</button>
+          </div>
+        </div>
+      </div>
+
+      <div id="pStats" class="stats"></div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title">A régua do ranking</h6>
+        </div>
+        <div class="chart-body">
+          <div class="legend">
+            <span><i style="background:var(--primary-color)"></i>UFF</span>
+            <span><i style="background:#8b97a6;border-radius:1px;width:3px;height:12px"></i>1º colocado</span>
+            <span><i style="background:var(--field);border-radius:1px"></i>demais instituições do curso</span>
+          </div>
+          <div class="ruler-head">
+            <div>curso</div>
+            <div class="ends"><span>último</span><span>1º lugar →</span></div>
+            <div class="text-end">posição</div>
+            <div class="text-end">vs. anterior</div>
+          </div>
+          <div id="pRulers"></div>
+        </div>
+      </div>
+
     </section>
 
-    <h2 class="section-title">Dashboards de Rankings</h2>
-
-    <div class="dashboard-grid">
-      <a href="https://pjfernandes.github.io/university_ranking_data_visualizer/qs_world/" class="card" target="_blank">
-        <div>
-          <h3>🌍 QS World</h3>
-          <p>Análise de desempenho global baseada em reputação e impacto de pesquisa.</p>
+    <!-- ===================== CURSO ===================== -->
+    <section id="viewCurso" class="d-none">
+      <div class="controls-card">
+        <div class="row g-3 align-items-end">
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-mortarboard"></i> Curso</label>
+            <select id="cCurso" class="form-select"></select>
+          </div>
+          <div class="col-md-2">
+            <label class="form-label"><i class="bi bi-calendar-event"></i> Edição</label>
+            <select id="cAno" class="form-select"></select>
+          </div>
+          <div class="col-md-4">
+            <label class="form-label"><i class="bi bi-building-add"></i> Comparar com (até 4)</label>
+            <input id="cBusca" class="form-control" list="cLista" placeholder="digite o nome e tecle Enter">
+            <datalist id="cLista"></datalist>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-lightning"></i> Atalhos</label>
+            <div class="btn-group w-100" id="cPresets">
+              <button class="btn btn-outline-primary btn-sm" data-preset="rj">Federais do RJ</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="top">Top 3</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="limpar">Limpar</button>
+            </div>
+          </div>
         </div>
-        <span class="btn-label">Explorar Dados →</span>
-      </a>
+        <div class="chips" id="cChips"></div>
+      </div>
 
-      <a href="https://pjfernandes.github.io/university_ranking_data_visualizer/qs_sustainability/" class="card"
-        target="_blank">
-        <div>
-          <h3>🌱 QS Sustainability</h3>
-          <p>Métricas de impacto ambiental e compromisso social das instituições.</p>
+      <div id="cStats" class="stats"></div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title" id="cRulerTitle">Posição na edição</h6>
         </div>
-        <span class="btn-label">Explorar Dados →</span>
-      </a>
-
-      <a href="https://pjfernandes.github.io/university_ranking_data_visualizer/qs_latin_america/" class="card"
-        target="_blank">
-        <div>
-          <h3>🌎 QS América Latina</h3>
-          <p>Contexto regional e performance acadêmica em solo latino-americano.</p>
+        <div class="chart-body">
+          <div id="cRuler"></div>
         </div>
-        <span class="btn-label">Explorar Dados →</span>
-      </a>
+      </div>
 
-      <a href="https://pjfernandes.github.io/university_ranking_data_visualizer/times_higher_education/" class="card"
-        target="_blank">
-        <div>
-          <h3>🎓 Times Higher Ed.</h3>
-          <p>Indicadores de ensino, pesquisa e transferência de conhecimento.</p>
+      <div class="grid2">
+        <div class="chart-card">
+          <div class="chart-header">
+            <h6 class="chart-title">Trajetória no ranking</h6>
+          </div>
+          <div class="chart-body">
+            <div id="cBump"></div>
+          </div>
         </div>
-        <span class="btn-label">Explorar Dados →</span>
-      </a>
-
-      <a href="https://pjfernandes.github.io/university_ranking_data_visualizer/times_higher_education_latin_america/"
-        class="card" target="_blank">
-        <div>
-          <h3>🌎 THE América Latina</h3>
-          <p>Excelência e desenvolvimento universitário na região da América Latina.</p>
+        <div class="chart-card">
+          <div class="chart-header">
+            <h6 class="chart-title">Perfil por indicador</h6>
+          </div>
+          <div class="chart-body">
+            <div id="cRadar"></div>
+          </div>
         </div>
-        <span class="btn-label">Explorar Dados →</span>
-      </a>
+      </div>
 
-      <a href="https://pjfernandes.github.io/university_ranking_data_visualizer/ranking_universitario_folha/"
-        class="card" target="_blank">
-        <div>
-          <h3>🇧🇷 RUF (Folha)</h3>
-          <p>A mais completa avaliação do ecossistema de ensino superior brasileiro.</p>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title" id="cIndTitle">Notas por indicador</h6>
         </div>
-        <span class="btn-label">Explorar Dados →</span>
-      </a>
-    </div>
-  </main>
+        <div class="chart-body table-responsive" id="cInd"></div>
+      </div>
 
-  <footer>
-    <p><b><a href="https://www.uff.br/" target="_blank">Universidade Federal Fluminense</a></b></p>
-    <p><a href="https://www.uff.br/proplan/uff-em-numeros/" target="_blank">Coordenação de Análise de Dados e
-        Indicadores Gerenciais</a></p>
-  </footer>
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title" id="cVizTitle">Vizinhança no ranking</h6>
+        </div>
+        <div class="chart-body table-responsive" id="cViz"></div>
+      </div>
+    </section>
 
+    <footer>
+      <strong>Fonte:</strong> Ranking Universitário Folha — Ranking de Cursos, edições 2019 e 2023–2025.
+      Apenas os cursos em que a UFF aparece em ao menos uma edição. Desenvolvido por PGI/PLAN (UFF).
+    </footer>
+  </div>
+
+<script>
+    (function () {
+      "use strict";
+
+      // =================================================================== //
+      // Configuração
+      // =================================================================== //
+      const UFF = "Universidade Federal Fluminense";
+      const ANOS = ["2019", "2023", "2024", "2025"];
+      const ANO_ANTERIOR = { "2025": "2024", "2024": "2023", "2023": "2019", "2019": null };
+
+      // Somente cursos em que a UFF aparece.
+      const CURSOS = [
+        ["administracao-de-empresas", "Administração de Empresas"],
+        ["arquitetura-e-urbanismo", "Arquitetura e Urbanismo"],
+        ["biologia", "Biologia"],
+        ["biomedicina", "Biomedicina"],
+        ["ciencias-contabeis", "Ciências Contábeis"],
+        ["ciencias-sociais", "Ciências Sociais"],
+        ["computacao", "Computação"],
+        ["comunicacao", "Comunicação"],
+        ["design", "Design"],
+        ["design-e-artes-visuais", "Design e Artes Visuais"],
+        ["direito", "Direito"],
+        ["economia", "Economia"],
+        ["educacao-fisica", "Educação Física"],
+        ["enfermagem", "Enfermagem"],
+        ["engenharia-ambiental", "Engenharia Ambiental"],
+        ["engenharia-civil", "Engenharia Civil"],
+        ["engenharia-de-producao", "Engenharia de Produção"],
+        ["engenharia-eletrica", "Engenharia Elétrica"],
+        ["engenharia-mecanica", "Engenharia Mecânica"],
+        ["engenharia-quimica", "Engenharia Química"],
+        ["farmacia", "Farmácia"],
+        ["filosofia", "Filosofia"],
+        ["fisica", "Física"],
+        ["geografia", "Geografia"],
+        ["historia", "História"],
+        ["letras", "Letras"],
+        ["matematica", "Matemática"],
+        ["medicina", "Medicina"],
+        ["medicina-veterinaria", "Medicina Veterinária"],
+        ["nutricao", "Nutrição"],
+        ["odontologia", "Odontologia"],
+        ["pedagogia", "Pedagogia"],
+        ["propaganda-e-marketing", "Propaganda e Marketing"],
+        ["psicologia", "Psicologia"],
+        ["quimica", "Química"],
+        ["relacoes-internacionais", "Relações Internacionais"],
+        ["servico-social", "Serviço Social"],
+        ["turismo", "Turismo"]
+      ].map(([slug, nome]) => ({ slug, nome }));
+
+      const INDICADORES = [
+        ["Nota em qualidade de ensino", "Qualidade de ensino"],
+        ["Nota em avaliação do Mercado", "Mercado"],
+        ["Nota dos concluintes", "Concluintes"],
+        ["Nota em Tempo de Dedicação dos Professores", "Dedicação docente"],
+        ["Nota em Professores com doutorado e mestrado", "Titulação docente"],
+        ["Nota em Instrução dos Professores", "Instrução docente"],
+        ["Nota em avaliação dos docentes", "Avaliação docente"],
+        ["Nota em Permanência dos alunos", "Permanência"],
+        ["Nota no MEC", "MEC"],
+        ["Nota da OAB", "OAB"]
+      ].map(([col, curto]) => ({ col, curto }));
+
+      const C = { uff: "#e2571e", peer: "#1f6fb2", field: "#c3ccd8", ink: "#10203a", muted: "#7c8ba1" };
+      const CFG = { responsive: true, displaylogo: false, displayModeBar: false };
+      const BASE = {
+        margin: { l: 54, r: 16, t: 14, b: 36 },
+        font: { family: "IBM Plex Sans, sans-serif", size: 12, color: "#43536b" },
+        paper_bgcolor: "rgba(0,0,0,0)", plot_bgcolor: "rgba(0,0,0,0)",
+        hoverlabel: { bgcolor: "#10203a", font: { color: "#fff", family: "IBM Plex Sans" } }
+      };
+
+      // =================================================================== //
+      // Estado
+      // =================================================================== //
+      const dados = {};                 // slug -> linhas
+      let pares = [];                   // instituições comparadas
+      const $ = id => document.getElementById(id);
+
+      // =================================================================== //
+      // Utilidades
+      // =================================================================== //
+      function num(v) {
+        if (v === null || v === undefined) return NaN;
+        const s = String(v).trim().replace(",", ".");
+        if (!s) return NaN;
+        const faixa = s.match(/^(\d+)-(\d+)$/);
+        if (faixa) return (+faixa[1] + +faixa[2]) / 2;
+        const m = s.match(/-?\d+(\.\d+)?/);
+        return m ? +m[0] : NaN;
+      }
+      const fmt = (v, c = 1) => isNaN(v) || v === null ? "—"
+        : v.toLocaleString("pt-BR", { minimumFractionDigits: c, maximumFractionDigits: c });
+      const int = v => isNaN(v) || v === null ? "—" : Math.round(v).toLocaleString("pt-BR");
+      const mediana = a => {
+        const x = a.filter(v => !isNaN(v)).sort((p, q) => p - q);
+        if (!x.length) return NaN;
+        const m = x.length >> 1;
+        return x.length % 2 ? x[m] : (x[m - 1] + x[m]) / 2;
+      };
+      const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+      // =================================================================== //
+      // Carga
+      // =================================================================== //
+      function prepara(linhas, slug) {
+        return linhas
+          .filter(r => r && r["Universidade"])
+          .map(r => ({
+            ano: String(r["ano"]).trim(),
+            slug,
+            nome: String(r["Universidade"]).trim(),
+            uf: (r["Estado"] || "").trim(),
+            tipo: (r["Pública ou Privada"] || "").trim(),
+            pos: num(r["Posição"]),
+            bruto: r
+          }))
+          .filter(r => !isNaN(r.pos))
+          .sort((a, b) => a.pos - b.pos);
+      }
+
+      // Origem dos dados: os CSV publicados no repositório.
+      // As alternativas locais só entram em ação se o GitHub não responder.
+      const REPO = "https://raw.githubusercontent.com/pjfernandes/" +
+        "university_ranking_data_visualizer/refs/heads/main/cursos_ruf/";
+      const ORIGENS = [REPO, "./", "./cursos_ruf/", "./por_curso/"];
+      const ROTULOS = new Map([[REPO, "GitHub · cursos_ruf"]]);
+      let origem = null;
+
+      async function descobreOrigem() {
+        for (const base of ORIGENS) {
+          try {
+            const r = await fetch(base + "computacao.csv", { cache: "no-store" });
+            if (r.ok && (await r.text()).includes("Universidade")) { origem = base; return base; }
+          } catch (e) { /* tenta o próximo */ }
+        }
+        return null;
+      }
+
+      async function carregaCurso(c) {
+        const r = await fetch(origem + c.slug + ".csv");
+        if (!r.ok) throw new Error(r.status);
+        dados[c.slug] = prepara(Papa.parse(await r.text(),
+          { header: true, delimiter: ";", skipEmptyLines: true }).data, c.slug);
+      }
+
+      async function carregaTudo() {
+        Object.keys(dados).forEach(k => delete dados[k]);
+        let feito = 0, falhas = 0;
+        for (let i = 0; i < CURSOS.length; i += 8) {
+          await Promise.all(CURSOS.slice(i, i + 8).map(async c => {
+            try { await carregaCurso(c); } catch (e) { falhas++; }
+            $("loadBar").style.width = (100 * ++feito / CURSOS.length) + "%";
+          }));
+        }
+        const ok = Object.keys(dados).length;
+        $("loadInfo").textContent = falhas
+          ? `${ok} de ${CURSOS.length} cursos — ${falhas} não foram lidos`
+          : `${ok} cursos carregados`;
+        setTimeout(() => { $("loadBar").style.width = "0%"; }, 800);
+        return ok;
+      }
+
+      // =================================================================== //
+      // Recortes e cálculos
+      // =================================================================== //
+      function campo(slug, ano, escopo) {
+        let l = (dados[slug] || []).filter(r => r.ano === ano);
+        if (escopo === "federais") l = l.filter(r => r.tipo === "Federal");
+        else if (escopo === "publicas") l = l.filter(r => ["Federal", "Estadual", "Municipal"].includes(r.tipo));
+        else if (escopo === "rj") l = l.filter(r => r.uf === "RJ");
+        return l;                                   // já vem ordenado por posição
+      }
+
+      // posição da instituição dentro do recorte + percentil
+      function coloca(lista, nome) {
+        const i = lista.findIndex(r => r.nome === nome);
+        if (i < 0) return null;
+        const n = lista.length;
+        return { pos: i + 1, n, pct: n > 1 ? 100 * (1 - i / (n - 1)) : 100, linha: lista[i] };
+      }
+
+      function percentilIndicador(lista, nome, col) {
+        const vals = lista.map(r => ({ nome: r.nome, v: num(r.bruto[col]) })).filter(x => !isNaN(x.v));
+        if (!vals.length) return NaN;
+        const alvo = vals.find(x => x.nome === nome);
+        if (!alvo) return NaN;
+        const piores = vals.filter(x => x.v < alvo.v).length;
+        return 100 * piores / (vals.length - 1 || 1);
+      }
+
+      function indicadoresDo(lista) {
+        return INDICADORES.filter(ind => lista.some(r => !isNaN(num(r.bruto[ind.col]))));
+      }
+
+      // =================================================================== //
+      // Régua (componente compartilhado)
+      // =================================================================== //
+      // pos 1 => extremo direito; pior colocado => extremo esquerdo
+      const aoLongo = (pos, n) => n > 1 ? 100 * (1 - (pos - 1) / (n - 1)) : 100;
+
+      function reguaHTML(lista, opts) {
+        const n = lista.length;
+        const uff = coloca(lista, UFF);
+        const marks = [`<div class="mark best" style="left:100%"></div>`];
+        (opts.pares || []).forEach(p => {
+          const c = coloca(lista, p);
+          if (c) marks.push(`<div class="mark peer" title="${esc(p)} · ${c.pos}º" style="left:${aoLongo(c.pos, n)}%"></div>`);
+        });
+        if (uff) marks.push(`<div class="mark uff" title="UFF · ${uff.pos}º de ${n}" style="left:${aoLongo(uff.pos, n)}%"></div>`);
+        const largura = uff ? aoLongo(uff.pos, n) : 0;
+        return `<div class="track"><div class="base"></div>
+          <div class="fill" style="width:${largura}%"></div>${marks.join("")}</div>`;
+      }
+
+      function setaDelta(d) {
+        if (d === null || isNaN(d)) return `<span class="same">—</span>`;
+        if (d > 0) return `<span class="up">▲ ${d}</span>`;
+        if (d < 0) return `<span class="down">▼ ${Math.abs(d)}</span>`;
+        return `<span class="same">=</span>`;
+      }
+
+      // =================================================================== //
+      // Tela 1 — Panorama
+      // =================================================================== //
+      function linhasPanorama() {
+        const ano = $("pAno").value, escopo = $("pEscopo").value, ant = ANO_ANTERIOR[ano];
+        const out = [];
+        CURSOS.forEach(c => {
+          if (!dados[c.slug]) return;
+          const lista = campo(c.slug, ano, escopo);
+          const atual = coloca(lista, UFF);
+          if (!atual) return;
+          const antes = ant ? coloca(campo(c.slug, ant, escopo), UFF) : null;
+          out.push({
+            slug: c.slug, nome: c.nome, lista,
+            pos: atual.pos, n: atual.n, pct: atual.pct,
+            geral: coloca(campo(c.slug, ano, "todas"), UFF),
+            delta: antes ? antes.pos - atual.pos : null, ant
+          });
+        });
+        const ordem = $("pOrdem").value;
+        const cmp = {
+          pct: (a, b) => b.pct - a.pct,
+          pctAsc: (a, b) => a.pct - b.pct,
+          delta: (a, b) => (b.delta ?? -1e9) - (a.delta ?? -1e9),
+          deltaAsc: (a, b) => (a.delta ?? 1e9) - (b.delta ?? 1e9),
+          nome: (a, b) => a.nome.localeCompare(b.nome, "pt-BR")
+        }[ordem];
+        return out.sort(cmp);
+      }
+
+      function renderPanorama() {
+        const ano = $("pAno").value;
+        const linhas = linhasPanorama();
+
+        if (!linhas.length) {
+          $("pRulers").innerHTML = `<p style="color:var(--muted)">Nenhum curso disponível.
+            Verifique a origem dos dados no topo da página.</p>`;
+          $("pStats").innerHTML = ""; return;
+        }
+
+        const rotulo = { todas: "todas as instituições", federais: "as federais", publicas: "as públicas", rj: "as do RJ" }[$("pEscopo").value];
+        const top10 = linhas.filter(d => d.pct >= 90).length;
+        const sub = linhas.filter(d => d.delta > 0).length, cai = linhas.filter(d => d.delta < 0).length;
+        const melhor = linhas.slice().sort((a, b) => a.pos - b.pos)[0];
+
+        $("pStats").innerHTML = `
+          <div class="stat"><div class="k">cursos no ranking</div>
+            <div class="v">${linhas.length}<small> / ${CURSOS.length}</small></div>
+            <div class="s">edição ${ano}, frente a ${rotulo}</div></div>
+          <div class="stat"><div class="k">posição típica</div>
+            <div class="v">${fmt(mediana(linhas.map(d => d.pct)))}<small> percentil</small></div>
+            <div class="s">metade dos cursos está acima disso</div></div>
+          <div class="stat"><div class="k">no topo da lista</div>
+            <div class="v">${top10}</div>
+            <div class="s">cursos entre os 10% melhores</div></div>
+          <div class="stat"><div class="k">melhor colocação</div>
+            <div class="v" style="font-size:20px;line-height:1.3">${melhor.nome}</div>
+            <div class="s">${melhor.pos}º entre ${int(melhor.n)}</div></div>`;
+
+        $("pRulers").innerHTML = linhas.map((d, i) => `
+          <div class="ruler-row" data-slug="${d.slug}" style="--i:${i}" tabindex="0" role="button">
+            <div class="name" title="${esc(d.nome)}">${esc(d.nome)}</div>
+            ${reguaHTML(d.lista, {})}
+            <div class="pos">${d.pos}º <small>de ${int(d.n)}</small></div>
+            <div class="delta" title="${d.ant ? "comparado a " + d.ant : "sem edição anterior"}">${setaDelta(d.delta)}</div>
+          </div>`).join("");
+
+        $("pRulers").querySelectorAll(".ruler-row").forEach(row => {
+          const abrir = () => { $("cCurso").value = row.dataset.slug; mostra("curso"); renderCurso(); };
+          row.addEventListener("click", abrir);
+          row.addEventListener("keydown", e => { if (e.key === "Enter") abrir(); });
+        });
+
+      }
+
+      function exportaPanorama() {
+        const ano = $("pAno").value, linhas = linhasPanorama();
+        if (!linhas.length) return;
+        const cab = ["curso", "edicao", "recorte", "posicao", "instituicoes", "percentil", "posicao_geral", "instituicoes_geral", "variacao"];
+        const corpo = linhas.map(d => [d.nome, ano, $("pEscopo").value, d.pos, d.n, d.pct.toFixed(2),
+        d.geral ? d.geral.pos : "", d.geral ? d.geral.n : "", d.delta ?? ""].join(";"));
+        const blob = new Blob(["\ufeff" + cab.join(";") + "\n" + corpo.join("\n")], { type: "text/csv;charset=utf-8;" });
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(blob);
+        a.download = `uff_ruf_${ano}_${$("pEscopo").value}.csv`;
+        a.click();
+      }
+
+      // =================================================================== //
+      // Tela 2 — Curso
+      // =================================================================== //
+      function anosDoCurso(slug) {
+        return ANOS.filter(a => (dados[slug] || []).some(r => r.ano === a));
+      }
+
+      function renderChips() {
+        $("cChips").innerHTML =
+          `<span class="chip is-uff">Universidade Federal Fluminense</span>` +
+          pares.map(p => `<span class="chip">${esc(p)}<button data-p="${esc(p)}" title="remover">×</button></span>`).join("");
+        $("cChips").querySelectorAll("button").forEach(b =>
+          b.addEventListener("click", () => {
+            pares = pares.filter(x => x !== b.dataset.p);
+            renderCurso();
+          }));
+      }
+
+      function renderCurso() {
+        const slug = $("cCurso").value;
+        const linhasCurso = dados[slug] || [];
+        const anos = anosDoCurso(slug);
+        if (!anos.length) {
+          $("cRuler").innerHTML = "<p style='color:var(--muted)'>Curso não carregado.</p>";
+          return;
+        }
+        const anoAtual = $("cAno").value;
+        if ($("cAno").dataset.slug !== slug) {
+          $("cAno").innerHTML = anos.map(a => `<option>${a}</option>`).join("");
+          $("cAno").value = anos.includes(anoAtual) ? anoAtual : anos[anos.length - 1];
+          $("cAno").dataset.slug = slug;
+        }
+        const ano = $("cAno").value;
+        const lista = campo(slug, ano, "todas");
+        const uff = coloca(lista, UFF);
+        const nomeCurso = (CURSOS.find(c => c.slug === slug) || {}).nome || slug;
+
+        // catálogo de instituições para o campo de busca
+        $("cLista").innerHTML = lista.filter(r => r.nome !== UFF)
+          .map(r => `<option value="${esc(r.nome)}">`).join("");
+
+        renderChips();
+
+        // ---- números-síntese
+        const ant = ANO_ANTERIOR[ano] && anos.includes(ANO_ANTERIOR[ano]) ? ANO_ANTERIOR[ano] : null;
+        const antes = ant ? coloca(campo(slug, ant, "todas"), UFF) : null;
+        const fed = coloca(campo(slug, ano, "federais"), UFF);
+        const rj = coloca(campo(slug, ano, "rj"), UFF);
+        const parPrincipal = pares[0] ? coloca(lista, pares[0]) : null;
+
+        $("cStats").innerHTML = uff ? `
+          <div class="stat"><div class="k">${nomeCurso} · ${ano}</div>
+            <div class="v">${uff.pos}º<small> de ${int(uff.n)}</small></div>
+            <div class="s">${antes ? setaDelta(antes.pos - uff.pos) + " frente a " + ant : "sem edição anterior"}</div></div>
+          <div class="stat"><div class="k">entre as federais</div>
+            <div class="v">${fed ? fed.pos + "º" : "—"}<small> de ${fed ? int(fed.n) : "—"}</small></div>
+            <div class="s">mesmo curso, só instituições federais</div></div>
+          <div class="stat"><div class="k">no Rio de Janeiro</div>
+            <div class="v">${rj ? rj.pos + "º" : "—"}<small> de ${rj ? int(rj.n) : "—"}</small></div>
+            <div class="s">instituições do estado no ranking</div></div>
+          <div class="stat"><div class="k">${pares[0] ? esc(pares[0]) : "comparação"}</div>
+            <div class="v">${parPrincipal ? parPrincipal.pos + "º" : "—"}</div>
+            <div class="s">${parPrincipal ? (parPrincipal.pos > uff.pos ? "atrás da UFF por " + (parPrincipal.pos - uff.pos) + " posições" : "à frente da UFF por " + (uff.pos - parPrincipal.pos) + " posições") : "escolha uma instituição acima"}</div></div>`
+          : `<div class="stat" style="grid-column:1/-1"><div class="k">${nomeCurso} · ${ano}</div>
+              <div class="v" style="font-size:20px">A UFF não consta nesta edição</div></div>`;
+
+        // ---- régua ampliada
+        $("cRulerTitle").textContent = `${nomeCurso} · ${ano} · ${int(lista.length)} instituições`;
+        $("cRuler").innerHTML = `<div class="ruler-row" style="grid-template-columns:1fr 130px;cursor:default">
+            ${reguaHTML(lista, { pares })}
+            <div class="pos">${uff ? uff.pos + "º" : "—"} <small>de ${int(lista.length)}</small></div>
+          </div>
+          <div class="legend" style="padding:12px 0 0">
+            <span><i style="background:var(--uff)"></i>UFF</span>
+            <span><i style="background:var(--peer);border-radius:1px;width:3px;height:12px"></i>instituições comparadas</span>
+            <span><i style="background:#97a5b8;border-radius:1px;width:3px;height:12px"></i>1º colocado</span>
+          </div>`;
+
+        // ---- trajetória (bump)
+        const serie = nome => anos.map(a => {
+          const c = coloca(campo(slug, a, "todas"), nome);
+          return c ? c.pos : null;
+        });
+        const traces = [{
+          x: anos, y: serie(UFF), name: "UFF", type: "scatter", mode: "lines+markers+text",
+          text: serie(UFF).map(v => v ? v + "º" : ""), textposition: "top center",
+          textfont: { size: 11, color: C.uff, family: "IBM Plex Mono" },
+          line: { color: C.uff, width: 3.5 }, marker: { size: 10 }, connectgaps: true
+        }];
+        pares.forEach((p, i) => traces.push({
+          x: anos, y: serie(p), name: p, type: "scatter", mode: "lines+markers",
+          line: { color: C.peer, width: 2, dash: ["solid", "dot", "dash", "longdash"][i % 4] },
+          marker: { size: 7 }, connectgaps: true, opacity: .85
+        }));
+        Plotly.newPlot("cBump", traces, Object.assign({}, BASE, {
+          height: 340,
+          showlegend: pares.length > 0,
+          legend: { orientation: "h", y: -0.2, font: { size: 11 } },
+          xaxis: { type: "category", showgrid: false },
+          yaxis: { title: "posição", autorange: "reversed", gridcolor: "#eef1f5", zeroline: false }
+        }), CFG);
+
+        // ---- perfil por indicador (radar de percentis)
+        const inds = indicadoresDo(lista);
+        if (inds.length >= 3) {
+          const eixos = inds.map(i => i.curto);
+          const polar = [{
+            type: "scatterpolar", name: "UFF", r: inds.map(i => percentilIndicador(lista, UFF, i.col)),
+            theta: eixos, fill: "toself", fillcolor: "rgba(226,87,30,.16)",
+            line: { color: C.uff, width: 2.5 }, hovertemplate: "%{theta}<br>percentil %{r:.1f}<extra>UFF</extra>"
+          }];
+          pares.slice(0, 3).forEach((p, i) => polar.push({
+            type: "scatterpolar", name: p, r: inds.map(x => percentilIndicador(lista, p, x.col)),
+            theta: eixos, fill: "toself", fillcolor: "rgba(31,111,178,.10)",
+            line: { color: C.peer, width: 2, dash: ["solid", "dot", "dash"][i % 3] },
+            hovertemplate: "%{theta}<br>percentil %{r:.1f}<extra>" + esc(p) + "</extra>"
+          }));
+          Plotly.newPlot("cRadar", polar, Object.assign({}, BASE, {
+            height: 340, showlegend: pares.length > 0,
+            legend: { orientation: "h", y: -0.12, font: { size: 11 } },
+            polar: {
+              bgcolor: "#fbfcfd",
+              radialaxis: { range: [0, 100], tickfont: { size: 9 }, gridcolor: "#e4e9ef", angle: 90 },
+              angularaxis: { tickfont: { size: 11 }, gridcolor: "#e4e9ef" }
+            }
+          }), CFG);
+        } else {
+          Plotly.purge("cRadar");
+          $("cRadar").innerHTML = `<p style="color:var(--muted);font-size:13px">
+            Esta edição traz menos de três indicadores para o curso.</p>`;
+        }
+
+        // ---- tabela de indicadores
+        $("cIndTitle").textContent = `Notas por indicador · ${ano}`;
+        $("cInd").innerHTML = `<table class="tbl"><thead><tr>
+            <th>indicador</th><th class="num">UFF</th><th class="num">percentil</th>
+            ${pares.map(p => `<th class="num">${esc(p)}</th>`).join("")}
+            <th class="num">mediana do curso</th><th class="num">melhor nota</th></tr></thead><tbody>
+          ${inds.map(ind => {
+          const vals = lista.map(r => num(r.bruto[ind.col])).filter(v => !isNaN(v));
+          const vUff = uff ? num(uff.linha.bruto[ind.col]) : NaN;
+          const pct = uff ? percentilIndicador(lista, UFF, ind.col) : NaN;
+          return `<tr><td>${ind.curto}</td>
+              <td class="num"><b>${fmt(vUff, 2)}</b></td>
+              <td class="num">${fmt(pct)}</td>
+              ${pares.map(p => {
+            const c = coloca(lista, p);
+            return `<td class="num">${c ? fmt(num(c.linha.bruto[ind.col]), 2) : "—"}</td>`;
+          }).join("")}
+              <td class="num" style="color:var(--muted)">${fmt(mediana(vals), 2)}</td>
+              <td class="num" style="color:var(--muted)">${fmt(Math.max(...vals), 2)}</td></tr>`;
+        }).join("")}</tbody></table>`;
+
+        // ---- vizinhança
+        $("cVizTitle").textContent = `Vizinhança no ranking · ${ano}`;
+        if (uff) {
+          const ini = Math.max(0, uff.pos - 6), fim = Math.min(lista.length, uff.pos + 5);
+          const viz = lista.slice(ini, fim);
+          $("cViz").innerHTML = `<table class="tbl"><thead><tr>
+              <th class="num">#</th><th>instituição</th><th>UF</th><th>categoria</th>
+              <th class="num">qualidade de ensino</th><th class="num">mercado</th></tr></thead><tbody>
+            ${viz.map((r, i) => `<tr class="${r.nome === UFF ? "is-uff" : pares.includes(r.nome) ? "is-peer" : ""}">
+                <td class="num">${ini + i + 1}º</td><td>${esc(r.nome)}</td><td>${r.uf}</td><td>${r.tipo}</td>
+                <td class="num">${fmt(num(r.bruto["Nota em qualidade de ensino"]), 2)}</td>
+                <td class="num">${fmt(num(r.bruto["Nota em avaliação do Mercado"]), 2)}</td></tr>`).join("")}
+            </tbody></table>`;
+        } else {
+          $("cViz").innerHTML = `<p style="color:var(--muted)">A UFF não aparece nesta edição do curso.</p>`;
+        }
+      }
+
+      // =================================================================== //
+      // Interface
+      // =================================================================== //
+      function mostra(qual) {
+        const p = qual === "panorama";
+        $("viewPanorama").classList.toggle("d-none", !p);
+        $("viewCurso").classList.toggle("d-none", p);
+        $("tabPanorama").classList.toggle("active", p);
+        $("tabCurso").classList.toggle("active", !p);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+
+      function presets(qual) {
+        const slug = $("cCurso").value, ano = $("cAno").value;
+        const lista = campo(slug, ano, "todas");
+        if (qual === "limpar") pares = [];
+        if (qual === "rj") pares = lista.filter(r => r.uf === "RJ" && r.tipo === "Federal" && r.nome !== UFF)
+          .slice(0, 3).map(r => r.nome);
+        if (qual === "top") pares = lista.filter(r => r.nome !== UFF).slice(0, 3).map(r => r.nome);
+        renderCurso();
+      }
+
+      function semDados() {
+        $("loadInfo").textContent = "dados indisponíveis";
+        $("loadBar").style.width = "0%";
+        $("alerta").classList.remove("d-none");
+      }
+
+      async function iniciar() {
+        $("cCurso").innerHTML = CURSOS.map(c => `<option value="${c.slug}">${c.nome}</option>`).join("");
+        $("cCurso").value = "computacao";
+        $("pAno").innerHTML = ANOS.slice().reverse().map(a => `<option>${a}</option>`).join("");
+        $("cAno").innerHTML = ANOS.map(a => `<option>${a}</option>`).join("");
+        $("cAno").value = "2025";
+
+        $("tabPanorama").addEventListener("click", () => { mostra("panorama"); renderPanorama(); });
+        $("tabCurso").addEventListener("click", () => { mostra("curso"); renderCurso(); });
+        ["pAno", "pEscopo", "pOrdem"].forEach(id => $(id).addEventListener("change", renderPanorama));
+        $("pExport").addEventListener("click", exportaPanorama);
+        ["cCurso", "cAno"].forEach(id => $(id).addEventListener("change", () => {
+          if (id === "cCurso") pares = [];
+          renderCurso();
+        }));
+        $("cPresets").querySelectorAll("button").forEach(b =>
+          b.addEventListener("click", () => presets(b.dataset.preset)));
+        $("cBusca").addEventListener("change", e => {
+          const v = e.target.value.trim();
+          const lista = campo($("cCurso").value, $("cAno").value, "todas");
+          if (v && lista.some(r => r.nome === v) && v !== UFF && !pares.includes(v) && pares.length < 4) {
+            pares.push(v); renderCurso();
+          }
+          e.target.value = "";
+        });
+        $("btnReload").addEventListener("click", async () => {
+          if (!origem) await descobreOrigem();
+          await carregaTudo(); renderPanorama(); renderCurso();
+        });
+
+        if (!await descobreOrigem()) { semDados(); return; }
+        $("origem").textContent = ROTULOS.get(origem) || origem;
+        const ok = await carregaTudo();
+        renderPanorama();
+        if (ok) renderCurso();
+      }
+
+      document.addEventListener("DOMContentLoaded", iniciar);
+    })();
+  </script>
 </body>
 
 </html>
