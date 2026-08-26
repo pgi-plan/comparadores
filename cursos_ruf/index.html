@@ -58,8 +58,18 @@
 
     .app-header .origem {
       font-size: .78rem;
-      opacity: .8;
+      opacity: .85;
       font-weight: 300;
+    }
+
+    .app-header .origem a {
+      color: #fff;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .app-header .origem a:hover {
+      opacity: .8;
     }
 
     .loader {
@@ -828,7 +838,8 @@
       const REPO = "https://raw.githubusercontent.com/pjfernandes/" +
         "university_ranking_data_visualizer/refs/heads/main/cursos_ruf/";
       const ORIGENS = [REPO, "./", "./cursos_ruf/", "./por_curso/"];
-      const ROTULOS = new Map([[REPO, "GitHub · cursos_ruf"]]);
+      const REPO_PAGINA = "https://github.com/pjfernandes/" +
+        "university_ranking_data_visualizer/tree/main/cursos_ruf";
       let origem = null;
 
       async function descobreOrigem() {
@@ -1242,7 +1253,10 @@
         });
 
         if (!await descobreOrigem()) { semDados(); return; }
-        $("origem").textContent = ROTULOS.get(origem) || origem;
+        $("origem").innerHTML = origem === REPO
+          ? `<a href="${REPO_PAGINA}" target="_blank" rel="noopener">cursos_ruf no GitHub
+             <i class="bi bi-box-arrow-up-right"></i></a>`
+          : esc(origem);
         const ok = await carregaTudo();
         renderPanorama();
         if (ok) renderCurso();
