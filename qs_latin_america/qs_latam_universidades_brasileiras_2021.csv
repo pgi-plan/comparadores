@@ -1,4 +1,4 @@
-﻿rank,university_name,location,papers_per_faculty,citation_per_paper,academic_reputation,staff_with_phd,faculty_student,international_research,web_impact,employer_reputation,overall_score
+rank,university_name,location,citation_per_paper,papers_per_faculty,academic_reputation,faculty_student,staff_with_phd,international_research,web_impact,employer_reputation,overall_score
 2,Universidade de São Paulo,"São Paulo, Brazil",79.9,100,100,46.8,100,100,100,99.1,99.7
 5,Universidade Estadual de Campinas,"Campinas, Brazil",87.5,100,99.9,39.1,100,99.5,99.9,81,95.7
 9,Universidade Federal do Rio de Janeiro,"Rio de Janeiro, Brazil",71.4,96.8,99.3,38.2,100,99.7,100,61.3,89.2
