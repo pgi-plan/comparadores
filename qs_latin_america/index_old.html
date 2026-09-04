@@ -229,7 +229,7 @@
   <header class="app-header">
     <div class="container-fluid px-4">
       <h1>QS Latin America — UFF Analytics</h1>
-      <div class="subtitle">Comparative Analysis Dashboard (2021–2026)</div>
+      <div class="subtitle">Comparative Analysis Dashboard (2018–2026)</div>
     </div>
   </header>
 
@@ -304,6 +304,9 @@
 
       // --- Config ---
       const urls = [
+        //{ y: 2018, u: "qs_latam_universidades_brasileiras_2018.csv" },
+        //{ y: 2019, u: "qs_latam_universidades_brasileiras_2019.csv" },
+        //{ y: 2020, u: "qs_latam_universidades_brasileiras_2020.csv" },
         { y: 2021, u: "qs_latam_universidades_brasileiras_2021.csv" },
         { y: 2022, u: "qs_latam_universidades_brasileiras_2022.csv" },
         { y: 2023, u: "qs_latam_universidades_brasileiras_2023.csv" },
@@ -390,31 +393,32 @@
         `;
       }
 
-      // --- Stats: Paired t-test ---
-      // As duas séries são medidas nos mesmos anos (mesma unidade de observação),
-      // portanto as amostras são dependentes: o teste é feito sobre as diferenças
-      // ano a ano, usando apenas os anos em que ambas as instituições têm valor.
-      function calculatePairedTTest(pairs) {
-        const n = pairs.length;
-        if (n < 3) return { error: `Insufficient paired data (n=${n}, minimum 3)` };
-        const diffs = pairs.map(p => p.uff - p.cmp);
-        const meanD = jStat.mean(diffs);
-        const sdD = jStat.stdev(diffs, true);
-        if (sdD === 0) {
-          return {
-            error: meanD === 0
-              ? "Identical series (all differences = 0)"
-              : "Constant difference (zero variance)"
-          };
+      // --- Stats: Hypothesis Test ---
+      function calculateHypothesisTest(sample1, sample2) {
+        const s1 = sample1.filter(isValid), s2 = sample2.filter(isValid);
+        if (s1.length < 3 || s2.length < 3) return { error: "Insufficient data (n<3)" };
+        const var1 = jStat.variance(s1, true), var2 = jStat.variance(s2, true);
+        const n1 = s1.length, n2 = s2.length;
+        const mean1 = jStat.mean(s1), mean2 = jStat.mean(s2);
+        let fStat = (var1 > var2) ? var1 / var2 : var2 / var1;
+        let df1 = (var1 > var2) ? n1 - 1 : n2 - 1, df2 = (var1 > var2) ? n2 - 1 : n1 - 1;
+        const pValF = 2 * (1 - jStat.centralF.cdf(fStat, df1, df2));
+        const equalVar = pValF > 0.05;
+        let pValT, tStat, testName;
+        if (equalVar) {
+          const pooledVar = ((n1 - 1) * var1 + (n2 - 1) * var2) / (n1 + n2 - 2);
+          const se = Math.sqrt(pooledVar * (1 / n1 + 1 / n2));
+          tStat = (mean1 - mean2) / se;
+          pValT = 2 * (1 - jStat.studentt.cdf(Math.abs(tStat), n1 + n2 - 2));
+          testName = "Student's t-test";
+        } else {
+          const se = Math.sqrt(var1 / n1 + var2 / n2);
+          tStat = (mean1 - mean2) / se;
+          const df = Math.pow(var1 / n1 + var2 / n2, 2) / ((Math.pow(var1 / n1, 2) / (n1 - 1)) + (Math.pow(var2 / n2, 2) / (n2 - 1)));
+          pValT = 2 * (1 - jStat.studentt.cdf(Math.abs(tStat), df));
+          testName = "Welch's t-test";
         }
-        const df = n - 1;
-        const tStat = meanD / (sdD / Math.sqrt(n));
-        const pValT = 2 * (1 - jStat.studentt.cdf(Math.abs(tStat), df));
-        return {
-          n, df, meanD, sdD, tStat, pValT,
-          significant: pValT < 0.05,
-          testUsed: "Paired t-test"
-        };
+        return { pValT, significant: pValT < 0.05, testUsed: testName };
       }
 
       // --- Load Data ---
@@ -483,7 +487,6 @@
           const cmpData = [];
           const uffTime = [];
           const cmpTime = [];
-          const pairs = [];
 
           yrRange.forEach(y => {
             const rUff = rows.find(r => r.name === uffName && r.year === y);
@@ -496,9 +499,6 @@
               const vCmp = rCmp ? parseNumber(rCmp[metric]) : NaN;
               cmpTime.push({ x: y, y: isValid(vCmp) ? vCmp : null });
               if (isValid(vCmp)) cmpData.push(vCmp);
-
-              // Par válido: mesmo ano com valor nas duas instituições
-              if (isValid(vUff) && isValid(vCmp)) pairs.push({ year: y, uff: vUff, cmp: vCmp });
             }
           });
 
@@ -601,22 +601,17 @@
               body.appendChild(tableContainer);
             }
 
-            // Hypothesis Test (paired by year)
-            if (hasCmp) {
-              const stats = calculatePairedTTest(pairs);
+            // Hypothesis Test
+            if (hasCmp && uffData.length > 2 && cmpData.length > 2) {
+              const stats = calculateHypothesisTest(uffData, cmpData);
               const footer = document.createElement("div");
               footer.className = "stats-footer";
-              if (stats.error) {
-                footer.innerHTML = `<div><strong>Paired t-test</strong> | ${stats.error}</div>`;
-              } else {
+              if (stats.error) footer.textContent = stats.error;
+              else {
                 const badge = stats.significant
-                  ? `<span class="stat-badge badge-sig">Sig. Diff (p&lt;0.05)</span>`
+                  ? `<span class="stat-badge badge-sig">Sig. Diff (p<0.05)</span>`
                   : `<span class="stat-badge badge-not-sig">Not Significant</span>`;
-                const fmt = v => v.toFixed(metric === "rank" ? 1 : 2);
-                footer.innerHTML =
-                  `<div><strong>${stats.testUsed}</strong> | ${stats.n} paired years | ` +
-                  `mean diff (UFF − ${compareTo}): ${fmt(stats.meanD)} | ` +
-                  `t(${stats.df}) = ${stats.tStat.toFixed(3)} | p: ${stats.pValT.toFixed(4)} ${badge}</div>`;
+                footer.innerHTML = `<div><strong>${stats.testUsed}</strong> | p: ${stats.pValT.toFixed(4)} ${badge}</div>`;
               }
               card.appendChild(footer);
             }
