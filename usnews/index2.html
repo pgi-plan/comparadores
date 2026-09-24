@@ -1,0 +1,1648 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>US News — Best Global Universities | UFF Analytics</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  <script src="https://cdn.plot.ly/plotly-2.27.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <style>
+    :root {
+      /* Tema azul-petróleo para o US News */
+      --primary-color: #0e7490;
+      --primary-light: #0891b2;
+      --compare-color: #c2410c;
+      --uff: #0e7490;
+      --peer: #c2410c;
+      --muted: #6c757d;
+      --bg-color: #f3f4f6;
+      --card-bg: #ffffff;
+      --text-main: #212529;
+      --field: #ccd3db;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: var(--bg-color);
+      color: var(--text-main);
+      padding-bottom: 40px;
+    }
+
+    /* Header */
+    .app-header {
+      background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
+      color: white;
+      padding: 2rem 1rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 4px 10px rgba(14, 116, 144, .2);
+    }
+
+    .app-header h1 {
+      font-weight: 700;
+      margin: 0;
+      font-size: 1.7rem;
+    }
+
+    .app-header .subtitle {
+      opacity: .9;
+      font-weight: 300;
+      font-size: 1.05rem;
+      margin-top: 5px;
+    }
+
+    .app-header .origem {
+      font-size: .78rem;
+      opacity: .85;
+      font-weight: 300;
+    }
+
+    .app-header .origem a {
+      color: #fff;
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .app-header .origem a:hover {
+      opacity: .8;
+    }
+
+    .loader {
+      height: 4px;
+      background: rgba(255, 255, 255, .3);
+      border-radius: 2px;
+      overflow: hidden;
+      margin-top: 6px;
+      width: 220px;
+    }
+
+    .loader span {
+      display: block;
+      height: 100%;
+      width: 0;
+      background: #fff;
+      transition: width .2s;
+    }
+
+    /* Controles */
+    .controls-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 18px 20px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, .05);
+      margin-bottom: 20px;
+      border-left: 5px solid var(--primary-color);
+    }
+
+    .form-label {
+      font-weight: 500;
+      color: var(--primary-color);
+      font-size: .85rem;
+      margin-bottom: 4px;
+    }
+
+    .form-select,
+    .form-control,
+    .btn {
+      border-radius: 8px;
+    }
+
+    .btn-primary {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    .btn-primary:hover {
+      background-color: var(--primary-light);
+      border-color: var(--primary-light);
+    }
+
+    .btn-outline-primary {
+      color: var(--primary-color);
+      border-color: var(--primary-color);
+    }
+
+    .btn-outline-primary:hover,
+    .btn-check:checked+.btn-outline-primary {
+      background-color: var(--primary-color);
+      border-color: var(--primary-color);
+      color: #fff;
+    }
+
+    .nav-pills .nav-link {
+      color: var(--primary-color);
+      font-weight: 500;
+    }
+
+    .nav-pills .nav-link.active {
+      background-color: var(--primary-color);
+    }
+
+    /* Note card */
+    .note-card {
+      background: #e6f6f9;
+      border-left: 4px solid var(--primary-light);
+      border-radius: 8px;
+      padding: 13px 18px;
+      margin-bottom: 20px;
+      font-size: .88rem;
+      color: #0b4a5a;
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, .04);
+    }
+
+    .note-card .bi {
+      color: var(--primary-color);
+      font-size: 1.25rem;
+      flex-shrink: 0;
+    }
+
+    .note-card strong {
+      color: var(--primary-color);
+    }
+
+    /* Cards de gráfico */
+    .chart-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, .05);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, .03);
+      margin-bottom: 20px;
+      overflow: hidden;
+    }
+
+    .chart-header {
+      padding: 14px 20px;
+      border-bottom: 1px solid #f0f0f0;
+      background: #fafafa;
+    }
+
+    .chart-title {
+      font-weight: 700;
+      color: var(--primary-color);
+      font-size: 1rem;
+      margin: 0;
+    }
+
+    .chart-body {
+      padding: 16px 20px;
+    }
+
+    .grid2 {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+
+    @media(max-width:1100px) {
+      .grid2 {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    /* KPIs */
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 16px;
+      margin-bottom: 20px;
+    }
+
+    @media(max-width:900px) {
+      .stats {
+        grid-template-columns: repeat(2, 1fr);
+      }
+    }
+
+    .stat {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, .05);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, .03);
+      padding: 14px 18px;
+    }
+
+    .stat .k {
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      color: #6c757d;
+      font-weight: 500;
+    }
+
+    .stat .v {
+      font-size: 1.9rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      line-height: 1.2;
+      margin-top: 2px;
+    }
+
+    .stat .v small {
+      font-size: .95rem;
+      color: #6c757d;
+      font-weight: 400;
+    }
+
+    .stat .s {
+      font-size: .78rem;
+      color: #6c757d;
+    }
+
+    /* Faixa de posição */
+    .ruler-head,
+    .ruler-row {
+      display: grid;
+      grid-template-columns: 240px 1fr 120px 76px;
+      gap: 14px;
+      align-items: center;
+    }
+
+    .ruler-head {
+      padding: 0 4px 8px;
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      color: #6c757d;
+      font-weight: 500;
+    }
+
+    .ruler-head .ends {
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .ruler-row {
+      padding: 7px 4px;
+      border-bottom: 1px solid #f2f4f7;
+      cursor: pointer;
+      animation: rise .35s ease both;
+      animation-delay: calc(var(--i) * 14ms);
+    }
+
+    .ruler-row:hover {
+      background: #f0f9fb;
+    }
+
+    .ruler-row .name {
+      font-size: .87rem;
+      font-weight: 500;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .track {
+      position: relative;
+      height: 22px;
+    }
+
+    .track .base {
+      position: absolute;
+      top: 10px;
+      left: 0;
+      right: 0;
+      height: 3px;
+      background: var(--field);
+      border-radius: 2px;
+    }
+
+    .track .fill {
+      position: absolute;
+      top: 10px;
+      left: 0;
+      height: 3px;
+      background: #a9b4c2;
+      border-radius: 2px;
+      transition: width .5s cubic-bezier(.2, .8, .2, 1);
+    }
+
+    .mark {
+      position: absolute;
+      transform: translateX(-50%);
+      transition: left .5s cubic-bezier(.2, .8, .2, 1);
+    }
+
+    .mark.uff {
+      top: 4px;
+      width: 15px;
+      height: 15px;
+      background: var(--primary-color);
+      border: 2.5px solid #fff;
+      border-radius: 50%;
+      box-shadow: 0 0 0 1px var(--primary-color);
+      z-index: 3;
+    }
+
+    .mark.peer {
+      top: 4px;
+      width: 3px;
+      height: 15px;
+      background: var(--compare-color);
+      border-radius: 2px;
+      z-index: 2;
+    }
+
+    .mark.best {
+      top: 6px;
+      width: 2px;
+      height: 11px;
+      background: #8b97a6;
+    }
+
+    .ruler-row .pos {
+      font-size: .9rem;
+      font-weight: 700;
+      text-align: right;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .ruler-row .pos small {
+      color: #6c757d;
+      font-weight: 400;
+    }
+
+    .ruler-row .delta {
+      font-size: .82rem;
+      font-weight: 600;
+      text-align: right;
+    }
+
+    @media(max-width:760px) {
+
+      .ruler-head,
+      .ruler-row {
+        grid-template-columns: 1fr 100px 60px;
+        gap: 10px;
+      }
+
+      .ruler-row .name,
+      .ruler-head>div:first-child {
+        grid-column: 1 / -1;
+        white-space: normal;
+      }
+
+      .ruler-head>div:first-child {
+        display: none;
+      }
+    }
+
+    .legend {
+      display: flex;
+      gap: 18px;
+      flex-wrap: wrap;
+      font-size: .8rem;
+      color: #555;
+      margin-bottom: 10px;
+    }
+
+    .legend i {
+      display: inline-block;
+      width: 11px;
+      height: 11px;
+      border-radius: 50%;
+      margin-right: 6px;
+      vertical-align: -1px;
+    }
+
+    /* Chips */
+    .chips {
+      display: flex;
+      gap: 6px;
+      flex-wrap: wrap;
+      margin-top: 12px;
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      background: #fdf0e6;
+      border: 1px solid #f6cfb0;
+      color: #9a3412;
+      border-radius: 20px;
+      padding: 4px 6px 4px 12px;
+      font-size: .82rem;
+      font-weight: 500;
+    }
+
+    .chip button {
+      border: 0;
+      background: #f6cfb0;
+      color: #9a3412;
+      width: 18px;
+      height: 18px;
+      border-radius: 50%;
+      cursor: pointer;
+      font-size: .75rem;
+      line-height: 1;
+    }
+
+    .chip.is-uff {
+      background: #e6f6f9;
+      border-color: #b5e0e9;
+      color: #0b5566;
+      padding-right: 12px;
+    }
+
+    /* Tabelas */
+    .tbl {
+      font-size: .85rem;
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .tbl th {
+      font-size: .72rem;
+      text-transform: uppercase;
+      letter-spacing: .04em;
+      color: #6c757d;
+      font-weight: 500;
+      text-align: left;
+      padding: 6px 10px;
+      border-bottom: 1px solid #e9ecef;
+      white-space: nowrap;
+    }
+
+    .tbl td {
+      padding: 7px 10px;
+      border-bottom: 1px solid #f4f6f8;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .tbl td.num,
+    .tbl th.num {
+      text-align: right;
+    }
+
+    .tbl tr.is-uff td {
+      background: #e6f6f9;
+      font-weight: 600;
+    }
+
+    .tbl tr.is-peer td {
+      background: #fdf3ea;
+    }
+
+    .up {
+      color: #2e7d32;
+    }
+
+    .down {
+      color: #c62828;
+    }
+
+    .same {
+      color: #757575;
+    }
+
+    footer {
+      margin-top: 36px;
+      text-align: center;
+      font-size: 13px;
+      color: #999;
+    }
+
+    @keyframes rise {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+
+      to {
+        opacity: 1;
+        transform: none;
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+
+      *,
+      .ruler-row,
+      .mark,
+      .fill {
+        animation: none !important;
+        transition: none !important;
+      }
+    }
+    /* US News: posição mundial sob a posição no Brasil, marca de valor substituto */
+    .ruler-row .pos .mundo {
+      display: block;
+      font-size: .72rem;
+      font-weight: 400;
+      color: #6c757d;
+    }
+
+    .ruler-row .pos .emp,
+    .tbl .emp {
+      color: #6c757d;
+      font-weight: 400;
+      font-size: .78rem;
+      margin-left: 1px;
+    }
+
+    .tbl .sub {
+      color: var(--compare-color);
+      font-weight: 700;
+    }
+
+    .tbl td small {
+      color: #6c757d;
+      font-weight: 400;
+    }
+    /* Panorama: um gráfico pequeno por área e por indicador */
+    .mini-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 14px;
+    }
+
+    .mini-card {
+      border: 1px solid #edf0f4;
+      border-radius: 10px;
+      padding: 12px 14px 6px;
+      cursor: pointer;
+      transition: border-color .15s ease, box-shadow .15s ease;
+    }
+
+    .mini-card:hover,
+    .mini-card:focus {
+      border-color: #b5e0e9;
+      box-shadow: 0 4px 12px rgba(14, 116, 144, .08);
+      outline: none;
+    }
+
+    .mini-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+      margin-bottom: 2px;
+    }
+
+    .mini-nome {
+      font-weight: 600;
+      font-size: .88rem;
+      color: #10203a;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .mini-uff {
+      font-weight: 700;
+      font-size: .95rem;
+      color: var(--primary-color);
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .mini-uff small {
+      color: #6c757d;
+      font-weight: 400;
+    }
+
+    .mini-sem {
+      font-size: .75rem;
+      color: #6c757d;
+      margin: 0 0 6px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header class="app-header">
+    <div class="container-fluid px-4 d-flex justify-content-between align-items-end flex-wrap gap-3">
+      <div>
+        <h1>US News — Best Global Universities | UFF Analytics</h1>
+      </div>
+      <div class="text-end">
+        <div class="origem"><a href="https://github.com/pgi-plan/comparadores/tree/main/usnews" target="_blank"
+            rel="noopener"><i class="bi bi-github"></i> pgi-plan/comparadores
+            <i class="bi bi-box-arrow-up-right"></i></a></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container-fluid px-4">
+
+    <div id="alerta" class="note-card d-none">
+      <i class="bi bi-exclamation-triangle-fill"></i>
+      <div>
+        <strong>Não consegui baixar o CSV.</strong> Verifique a conexão e se o arquivo
+        <code>usnews_brasil_2026.csv</code> continua público na pasta <code>usnews</code> do repositório
+        <code>pgi-plan/comparadores</code>.
+      </div>
+    </div>
+
+    <ul class="nav nav-pills mb-3">
+      <li class="nav-item"><button class="nav-link active" id="tabPanorama"><i class="bi bi-list-ol"></i> Panorama
+          das áreas</button></li>
+      <li class="nav-item"><button class="nav-link" id="tabArea"><i class="bi bi-graph-up-arrow"></i> Área a
+          área</button></li>
+    </ul>
+
+    <!-- ===================== PANORAMA ===================== -->
+    <section id="viewPanorama">
+      <div class="controls-card">
+        <div class="row g-3 align-items-end">
+          <div class="col-md-2">
+            <label class="form-label"><i class="bi bi-calendar-event"></i> Edição</label>
+            <select id="pAno" class="form-select"></select>
+          </div>
+          <div class="col-md-2">
+            <label class="form-label"><i class="bi bi-funnel"></i> Recorte</label>
+            <select id="pEscopo" class="form-select">
+              <option value="todas">todas as brasileiras</option>
+              <option value="federais">apenas federais</option>
+              <option value="publicas">apenas públicas</option>
+              <option value="rj">apenas do Rio de Janeiro</option>
+            </select>
+          </div>
+          <div class="col-md-2">
+            <label class="form-label"><i class="bi bi-sort-down"></i> Ordenar</label>
+            <select id="pOrdem" class="form-select">
+              <option value="pct">melhor colocação primeiro</option>
+              <option value="pctAsc">pior colocação primeiro</option>
+              <option value="delta">quem mais subiu</option>
+              <option value="deltaAsc">quem mais caiu</option>
+              <option value="nome">nome</option>
+            </select>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-building-add"></i> Comparar com (até 4)</label>
+            <input id="pBusca" class="form-control" list="pLista" placeholder="digite o nome ou a sigla e tecle Enter">
+            <datalist id="pLista"></datalist>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-lightning"></i> Atalhos</label>
+            <div class="btn-group w-100" id="pPresets">
+              <button class="btn btn-outline-primary btn-sm" data-preset="rj">Federais do RJ</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="top">Top 3</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="limpar">Limpar</button>
+            </div>
+          </div>
+        </div>
+        <div class="d-flex justify-content-between align-items-center gap-3 flex-wrap">
+          <div class="chips" id="pChips"></div>
+          <button id="btnReload" class="btn btn-outline-primary btn-sm mt-2"><i class="bi bi-arrow-clockwise"></i>
+            Recarregar</button>
+        </div>
+      </div>
+
+      <div id="pStats" class="stats"></div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title">Posição no Brasil por área do conhecimento</h6>
+        </div>
+        <div class="chart-body">
+          <div id="pAreas" class="mini-grid"></div>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title">Posição no Brasil nos indicadores da classificação geral</h6>
+        </div>
+        <div class="chart-body">
+          <div id="pInd" class="mini-grid"></div>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ===================== ÁREA ===================== -->
+    <section id="viewArea" class="d-none">
+      <div class="controls-card">
+        <div class="row g-3 align-items-end">
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-diagram-3"></i> Área</label>
+            <select id="cArea" class="form-select"></select>
+          </div>
+          <div class="col-md-2">
+            <label class="form-label"><i class="bi bi-calendar-event"></i> Edição</label>
+            <select id="cAno" class="form-select"></select>
+          </div>
+          <div class="col-md-4">
+            <label class="form-label"><i class="bi bi-building-add"></i> Comparar com (até 4)</label>
+            <input id="cBusca" class="form-control" list="cLista" placeholder="digite o nome ou a sigla e tecle Enter">
+            <datalist id="cLista"></datalist>
+          </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-lightning"></i> Atalhos</label>
+            <div class="btn-group w-100" id="cPresets">
+              <button class="btn btn-outline-primary btn-sm" data-preset="rj">Federais do RJ</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="top">Top 3</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="limpar">Limpar</button>
+            </div>
+          </div>
+        </div>
+        <div class="chips" id="cChips"></div>
+      </div>
+
+      <div id="cStats" class="stats"></div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title" id="cRulerTitle">Posição na edição</h6>
+        </div>
+        <div class="chart-body">
+          <div id="cRuler"></div>
+        </div>
+      </div>
+
+      <div class="grid2">
+        <div class="chart-card">
+          <div class="chart-header">
+            <h6 class="chart-title" id="cEsqTitle">Posição em cada indicador</h6>
+          </div>
+          <div class="chart-body">
+            <div id="cEsq"></div>
+          </div>
+        </div>
+        <div class="chart-card">
+          <div class="chart-header">
+            <h6 class="chart-title">Perfil por indicador</h6>
+          </div>
+          <div class="chart-body">
+            <div id="cRadar"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title" id="cIndTitle">Posições por indicador</h6>
+        </div>
+        <div class="chart-body table-responsive" id="cInd"></div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title" id="cVizTitle">Vizinhança no ranking</h6>
+        </div>
+        <div class="chart-body table-responsive" id="cViz"></div>
+      </div>
+    </section>
+
+    <footer>
+      <strong>Fonte:</strong> U.S. News &amp; World Report — Best Global Universities,
+      <span id="rodapeEdicoes">edição 2026-2027</span>. Desenvolvido por PGI/PLAN (UFF).
+    </footer>
+  </div>
+
+<script>
+    (function () {
+      "use strict";
+
+      // =================================================================== //
+      // Configuração
+      // =================================================================== //
+      // Cada edição é um CSV gerado pelo usnews.py (usnews_brasil_<ano>.csv).
+      // Para incluir a próxima coleta, basta acrescentar o ano aqui.
+      const EDICOES = [
+        { ano: "2026", nome: "2026-2027" }
+      ];
+      const ANOS = EDICOES.map(e => e.ano);
+      const NOME_EDICAO = Object.fromEntries(EDICOES.map(e => [e.ano, e.nome]));
+      const ANO_ANTERIOR = Object.fromEntries(ANOS.map((a, i) => [a, i ? ANOS[i - 1] : null]));
+
+      const UFF = 506244;                 // id_usnews da UFF
+      const GERAL = "Geral";
+
+      // id_usnews -> sigla, nome, UF e categoria administrativa
+      const INST = {
+        500437: ["USP", "Universidade de São Paulo", "SP", "Estadual"],
+        504975: ["Unicamp", "Universidade Estadual de Campinas", "SP", "Estadual"],
+        500468: ["UFRGS", "Universidade Federal do Rio Grande do Sul", "RS", "Federal"],
+        504608: ["UFRJ", "Universidade Federal do Rio de Janeiro", "RJ", "Federal"],
+        506043: ["UFMG", "Universidade Federal de Minas Gerais", "MG", "Federal"],
+        503331: ["Unesp", "Universidade Estadual Paulista", "SP", "Estadual"],
+        501953: ["Unifesp", "Universidade Federal de São Paulo", "SP", "Federal"],
+        500204: ["UFSC", "Universidade Federal de Santa Catarina", "SC", "Federal"],
+        504217: ["UnB", "Universidade de Brasília", "DF", "Federal"],
+        503933: ["UFPR", "Universidade Federal do Paraná", "PR", "Federal"],
+        505014: ["UFSCar", "Universidade Federal de São Carlos", "SP", "Federal"],
+        506633: ["UFPE", "Universidade Federal de Pernambuco", "PE", "Federal"],
+        528977: ["UFBA", "Universidade Federal da Bahia", "BA", "Federal"],
+        529407: ["UFRN", "Universidade Federal do Rio Grande do Norte", "RN", "Federal"],
+        529583: ["PUCRS", "Pontifícia Universidade Católica do Rio Grande do Sul", "RS", "Privada"],
+        528920: ["UFABC", "Universidade Federal do ABC", "SP", "Federal"],
+        528834: ["UFPel", "Universidade Federal de Pelotas", "RS", "Federal"],
+        502771: ["UERJ", "Universidade do Estado do Rio de Janeiro", "RJ", "Estadual"],
+        500881: ["UFSM", "Universidade Federal de Santa Maria", "RS", "Federal"],
+        506244: ["UFF", "Universidade Federal Fluminense", "RJ", "Federal"],
+        503817: ["UFC", "Universidade Federal do Ceará", "CE", "Federal"],
+        529150: ["UFJF", "Universidade Federal de Juiz de Fora", "MG", "Federal"],
+        529175: ["UFG", "Universidade Federal de Goiás", "GO", "Federal"],
+        529244: ["UFU", "Universidade Federal de Uberlândia", "MG", "Federal"],
+        529811: ["PUC-Rio", "Pontifícia Universidade Católica do Rio de Janeiro", "RJ", "Privada"],
+        503863: ["UFV", "Universidade Federal de Viçosa", "MG", "Federal"],
+        529597: ["PUCPR", "Pontifícia Universidade Católica do Paraná", "PR", "Privada"],
+        529248: ["UFPB", "Universidade Federal da Paraíba", "PB", "Federal"],
+        529218: ["UFPA", "Universidade Federal do Pará", "PA", "Federal"],
+        529299: ["UFES", "Universidade Federal do Espírito Santo", "ES", "Federal"],
+        529105: ["UFLA", "Universidade Federal de Lavras", "MG", "Federal"],
+        529586: ["UFS", "Universidade Federal de Sergipe", "SE", "Federal"],
+        530198: ["UFMS", "Universidade Federal de Mato Grosso do Sul", "MS", "Federal"],
+        529672: ["FURG", "Universidade Federal do Rio Grande", "RS", "Federal"],
+        529115: ["UEL", "Universidade Estadual de Londrina", "PR", "Estadual"],
+        529117: ["UEM", "Universidade Estadual de Maringá", "PR", "Estadual"],
+        529468: ["UFMT", "Universidade Federal de Mato Grosso", "MT", "Federal"],
+        529590: ["UTFPR", "Universidade Tecnológica Federal do Paraná", "PR", "Federal"],
+        529322: ["UFSJ", "Universidade Federal de São João del-Rei", "MG", "Federal"],
+        530082: ["UFMA", "Universidade Federal do Maranhão", "MA", "Federal"],
+        529592: ["UFRPE", "Universidade Federal Rural de Pernambuco", "PE", "Federal"],
+        530010: ["UFAM", "Universidade Federal do Amazonas", "AM", "Federal"],
+        530023: ["UFPI", "Universidade Federal do Piauí", "PI", "Federal"],
+        529580: ["UFAL", "Universidade Federal de Alagoas", "AL", "Federal"],
+        530008: ["UDESC", "Universidade do Estado de Santa Catarina", "SC", "Estadual"],
+        529757: ["UFTM", "Universidade Federal do Triângulo Mineiro", "MG", "Federal"],
+        529582: ["UFOP", "Universidade Federal de Ouro Preto", "MG", "Federal"],
+        530470: ["FGV", "Fundação Getulio Vargas", "RJ", "Privada"],
+        530325: ["UPE", "Universidade de Pernambuco", "PE", "Estadual"],
+        529666: ["UEFS", "Universidade Estadual de Feira de Santana", "BA", "Estadual"],
+        530143: ["UESC", "Universidade Estadual de Santa Cruz", "BA", "Estadual"],
+        530639: ["UENF", "Universidade Estadual do Norte Fluminense", "RJ", "Estadual"],
+        530634: ["UFRA", "Universidade Federal Rural da Amazônia", "PA", "Federal"],
+        529587: ["UFRRJ", "Universidade Federal Rural do Rio de Janeiro", "RJ", "Federal"],
+        530376: ["UFERSA", "Universidade Federal Rural do Semi-Árido", "RN", "Federal"],
+        530813: ["Uninove", "Universidade Nove de Julho", "SP", "Privada"]
+      };
+
+      const AREAS_PT = {
+        "Geral": "Classificação geral",
+        "Agricultural Sciences": "Ciências Agrárias",
+        "Arts and Humanities": "Artes e Humanidades",
+        "Biology and Biochemistry": "Biologia e Bioquímica",
+        "Biotechnology and Applied Microbiology": "Biotecnologia e Microbiologia Aplicada",
+        "Cardiac and Cardiovascular Systems": "Sistemas Cardíaco e Cardiovascular",
+        "Cell Biology": "Biologia Celular",
+        "Chemical Engineering": "Engenharia Química",
+        "Chemistry": "Química",
+        "Civil Engineering": "Engenharia Civil",
+        "Clinical Medicine": "Medicina Clínica",
+        "Computer Science": "Ciência da Computação",
+        "Ecology": "Ecologia",
+        "Economics and Business": "Economia e Negócios",
+        "Electrical and Electronic Engineering": "Engenharia Elétrica e Eletrônica",
+        "Endocrinology and Metabolism": "Endocrinologia e Metabolismo",
+        "Energy and Fuels": "Energia e Combustíveis",
+        "Engineering": "Engenharia",
+        "Environment/Ecology": "Meio Ambiente e Ecologia",
+        "Environmental Engineering": "Engenharia Ambiental",
+        "Food Science and Technology": "Ciência e Tecnologia de Alimentos",
+        "Gastroenterology and Hepatology": "Gastroenterologia e Hepatologia",
+        "Geosciences": "Geociências",
+        "Green and Sustainable Science and Technology": "Ciência e Tecnologia Sustentáveis",
+        "Immunology": "Imunologia",
+        "Infectious Diseases": "Doenças Infecciosas",
+        "Marine and Freshwater Biology": "Biologia Marinha e de Água Doce",
+        "Materials Science": "Ciência dos Materiais",
+        "Mathematics": "Matemática",
+        "Mechanical Engineering": "Engenharia Mecânica",
+        "Microbiology": "Microbiologia",
+        "Molecular Biology and Genetics": "Biologia Molecular e Genética",
+        "Neuroscience and Behavior": "Neurociência e Comportamento",
+        "Oncology": "Oncologia",
+        "Optics": "Óptica",
+        "Pharmacology and Toxicology": "Farmacologia e Toxicologia",
+        "Physical Chemistry": "Físico-Química",
+        "Physics": "Física",
+        "Plant and Animal Science": "Ciências Vegetais e Animais",
+        "Polymer Science": "Ciência de Polímeros",
+        "Psychiatry/Psychology": "Psiquiatria e Psicologia",
+        "Public, Environmental and Occupational Health": "Saúde Pública, Ambiental e Ocupacional",
+        "Radiology, Nuclear Medicine and Medical Imaging": "Radiologia e Medicina Nuclear",
+        "Social Sciences and Public Health": "Ciências Sociais e Saúde Pública",
+        "Space Science": "Ciências Espaciais",
+        "Surgery": "Cirurgia",
+        "Water Resources": "Recursos Hídricos"
+      };
+      const areaPT = a => AREAS_PT[a] || a;
+
+      // ordem da metodologia; rótulo curto usado nos gráficos e tabelas
+      const INDICADORES = [
+        ["Global research reputation", "Reputação global"],
+        ["Regional research reputation", "Reputação regional"],
+        ["Publications", "Publicações"],
+        ["Books", "Livros"],
+        ["Conferences", "Conferências"],
+        ["Normalized citation impact", "Impacto normalizado"],
+        ["Total citations", "Citações totais"],
+        ["Number of publications that are among the 10% most cited", "Nº de pub. top 10%"],
+        ["Percentage of total publications that are among the 10% most cited", "% de pub. top 10%"],
+        ["International collaboration - relative to country", "Colab. int. relativa ao país"],
+        ["International collaboration", "Colaboração internacional"],
+        ["Number of highly cited papers that are among the top 1% most cited", "Nº de pub. top 1%"],
+        ["Percentage of highly cited papers that are among the top 1% most cited", "% de pub. top 1%"]
+      ].map(([col, curto]) => ({ col, curto }));
+      const indCurto = col => (INDICADORES.find(i => i.col === col) || { curto: col }).curto;
+
+      const C = { uff: "#0e7490", peer: "#c2410c", field: "#c3ccd8", ink: "#10203a", muted: "#7c8ba1" };
+      const CFG = { responsive: true, displaylogo: false, displayModeBar: false };
+      const BASE = {
+        margin: { l: 54, r: 16, t: 14, b: 36 },
+        font: { family: "IBM Plex Sans, sans-serif", size: 12, color: "#43536b" },
+        paper_bgcolor: "rgba(0,0,0,0)", plot_bgcolor: "rgba(0,0,0,0)",
+        hoverlabel: { bgcolor: "#10203a", font: { color: "#fff", family: "IBM Plex Sans" } }
+      };
+
+      // =================================================================== //
+      // Estado
+      // =================================================================== //
+      // dados[ano] = { nomes: {id: nome}, areas: {area: {id: {pos, emp, score}}},
+      //                ind: {area: {indicador: {id: {pos, sub}}}} }
+      const dados = {};
+      let pares = [];                   // instituições comparadas (compartilhadas pelas duas abas)
+      const $ = id => document.getElementById(id);
+
+      // =================================================================== //
+      // Utilidades
+      // =================================================================== //
+      const num = v => {
+        if (v === null || v === undefined) return NaN;
+        const s = String(v).trim();
+        return s === "" ? NaN : +s;
+      };
+      const fmt = (v, c = 1) => isNaN(v) || v === null ? "—"
+        : v.toLocaleString("pt-BR", { minimumFractionDigits: c, maximumFractionDigits: c });
+      const int = v => isNaN(v) || v === null ? "—" : Math.round(v).toLocaleString("pt-BR");
+      const ord = v => isNaN(v) || v === null ? "—" : int(v) + "º";
+      const mediana = a => {
+        const x = a.filter(v => !isNaN(v)).sort((p, q) => p - q);
+        if (!x.length) return NaN;
+        const m = x.length >> 1;
+        return x.length % 2 ? x[m] : (x[m - 1] + x[m]) / 2;
+      };
+      const esc = s => String(s).replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+
+      const meta = (id, ano) => {
+        const m = INST[id];
+        const nomeCsv = ano && dados[ano] ? dados[ano].nomes[id] : null;
+        return m ? { sigla: m[0], nome: m[1], uf: m[2], tipo: m[3] }
+          : { sigla: nomeCsv || String(id), nome: nomeCsv || String(id), uf: "", tipo: "" };
+      };
+      const sigla = id => meta(id).sigla;
+
+      function noEscopo(id, escopo) {
+        const m = meta(id);
+        if (escopo === "federais") return m.tipo === "Federal";
+        if (escopo === "publicas") return ["Federal", "Estadual", "Municipal"].includes(m.tipo);
+        if (escopo === "rj") return m.uf === "RJ";
+        return true;
+      }
+
+      // =================================================================== //
+      // Carga
+      // =================================================================== //
+      function prepara(linhas) {
+        const d = { nomes: {}, areas: {}, ind: {} };
+        const slot = (obj, k) => obj[k] || (obj[k] = {});
+        linhas.forEach(r => {
+          const id = +r.id_usnews;
+          if (!id) return;
+          d.nomes[id] = r.universidade;
+          const v = num(r.valor);
+          if (isNaN(v)) return;
+          const emp = r.observacao === "empate";
+          if (r.bloco === "Ranking geral" && r.indicador === "Best Global Universities") {
+            Object.assign(slot(slot(d.areas, GERAL), id), { pos: v, emp });
+          } else if (r.bloco === "Ranking geral" && r.indicador === "Global score") {
+            slot(slot(d.areas, GERAL), id).score = v;
+          } else if (r.bloco === "Ranking por area" && r.indicador === "Posicao na area") {
+            Object.assign(slot(slot(d.areas, r.area), id), { pos: v, emp });
+          } else if (r.bloco === "Ranking por area" && r.indicador === "Score na area") {
+            slot(slot(d.areas, r.area), id).score = v;
+          } else if (r.bloco === "Indicador") {
+            slot(slot(d.ind, r.area), r.indicador)[id] = { pos: v, sub: r.observacao === "substituto" };
+          }
+        });
+        return d;
+      }
+
+      // Origem dos dados: o CSV publicado no repositório.
+      // As alternativas locais só entram em ação se o GitHub não responder.
+      const REPO = "https://raw.githubusercontent.com/pgi-plan/comparadores/refs/heads/main/usnews/";
+      const ORIGENS = [REPO, "./", "./usnews/", "./dados/"];
+      const arquivo = ano => `usnews_brasil_${ano}.csv`;
+      let origem = null;
+
+      async function descobreOrigem() {
+        for (const base of ORIGENS) {
+          try {
+            const r = await fetch(base + arquivo(ANOS[ANOS.length - 1]), { cache: "no-store" });
+            if (r.ok && (await r.text()).includes("id_usnews")) { origem = base; return base; }
+          } catch (e) { /* tenta o próximo */ }
+        }
+        return null;
+      }
+
+      async function carregaTudo() {
+        Object.keys(dados).forEach(k => delete dados[k]);
+        await Promise.all(ANOS.map(async ano => {
+          try {
+            const r = await fetch(origem + arquivo(ano));
+            if (!r.ok) throw new Error(r.status);
+            dados[ano] = prepara(Papa.parse(await r.text(), { header: true, skipEmptyLines: true }).data);
+          } catch (e) { /* edição indisponível */ }
+        }));
+        const ok = ANOS.filter(a => dados[a]);
+        if (ok.length) {
+          const nomes = ok.map(a => NOME_EDICAO[a]);
+          $("rodapeEdicoes").textContent = (nomes.length > 1 ? "edições " : "edição ") + nomes.join(", ");
+        }
+        return ok.length;
+      }
+
+      // =================================================================== //
+      // Recortes e cálculos
+      // =================================================================== //
+      const anosCom = () => ANOS.filter(a => dados[a]);
+
+      // instituições brasileiras ranqueadas na área, ordenadas pela posição mundial
+      function campo(ano, area, escopo) {
+        const tab = ((dados[ano] || {}).areas || {})[area] || {};
+        return Object.entries(tab)
+          .filter(([id, v]) => !isNaN(v.pos) && v.pos !== undefined && noEscopo(+id, escopo))
+          .map(([id, v]) => ({ id: +id, pos: v.pos, emp: v.emp, score: v.score }))
+          .sort((a, b) => a.pos - b.pos);
+      }
+
+      // mesma estrutura para um indicador de uma área
+      function campoInd(ano, area, col, escopo) {
+        const tab = ((((dados[ano] || {}).ind || {})[area]) || {})[col] || {};
+        return Object.entries(tab)
+          .filter(([id]) => noEscopo(+id, escopo))
+          .map(([id, v]) => ({ id: +id, pos: v.pos, sub: v.sub }))
+          .sort((a, b) => a.pos - b.pos);
+      }
+
+      // posição no recorte (empates dividem a mesma posição) + percentil
+      function coloca(lista, id) {
+        const eu = lista.find(r => r.id === id);
+        if (!eu) return null;
+        const n = lista.length;
+        const pos = 1 + lista.filter(r => r.pos < eu.pos).length;
+        const emp = lista.filter(r => r.pos === eu.pos).length > 1;
+        return { pos, n, emp, pct: n > 1 ? 100 * (1 - (pos - 1) / (n - 1)) : 100, linha: eu };
+      }
+
+      // áreas em que a UFF aparece na edição (a comparação usa só estas)
+      function areasUFF(ano) {
+        const areas = Object.keys((dados[ano] || {}).areas || {})
+          .filter(a => a !== GERAL && campo(ano, a, "todas").some(r => r.id === UFF))
+          .sort((a, b) => areaPT(a).localeCompare(areaPT(b), "pt-BR"));
+        return campo(ano, GERAL, "todas").some(r => r.id === UFF) ? [GERAL, ...areas] : areas;
+      }
+
+      // indicadores da área em que a UFF tem valor, na ordem da metodologia
+      function indicadoresDo(ano, area) {
+        const tab = (((dados[ano] || {}).ind || {})[area]) || {};
+        const cols = Object.keys(tab).filter(c => tab[c][UFF]);
+        return INDICADORES.filter(i => cols.includes(i.col))
+          .concat(cols.filter(c => !INDICADORES.some(i => i.col === c)).map(c => ({ col: c, curto: c })));
+      }
+
+      // =================================================================== //
+      // Faixa de posição (componente compartilhado)
+      // =================================================================== //
+      // pos 1 => extremo direito; pior colocado => extremo esquerdo
+      const aoLongo = (pos, n) => n > 1 ? 100 * (1 - (pos - 1) / (n - 1)) : 100;
+
+      function reguaHTML(lista, opts) {
+        const n = lista.length;
+        const uff = coloca(lista, UFF);
+        const marks = [`<div class="mark best" style="left:100%"></div>`];
+        (opts.pares || []).forEach(p => {
+          const c = coloca(lista, p);
+          if (c) marks.push(`<div class="mark peer" title="${esc(sigla(p))} · ${c.pos}º" style="left:${aoLongo(c.pos, n)}%"></div>`);
+        });
+        if (uff) marks.push(`<div class="mark uff" title="UFF · ${uff.pos}º de ${n}" style="left:${aoLongo(uff.pos, n)}%"></div>`);
+        const largura = uff ? aoLongo(uff.pos, n) : 0;
+        return `<div class="track"><div class="base"></div>
+          <div class="fill" style="width:${largura}%"></div>${marks.join("")}</div>`;
+      }
+
+      function setaDelta(d) {
+        if (d === null || isNaN(d)) return `<span class="same">—</span>`;
+        if (d > 0) return `<span class="up">▲ ${d}</span>`;
+        if (d < 0) return `<span class="down">▼ ${Math.abs(d)}</span>`;
+        return `<span class="same">=</span>`;
+      }
+
+      const marcaEmpate = c => c && c.emp ? `<span class="emp" title="empatada">=</span>` : "";
+
+      // =================================================================== //
+      // Tela 1 — Panorama
+      // =================================================================== //
+      const ORDENS = {
+        pct: (a, b) => b.pct - a.pct,
+        pctAsc: (a, b) => a.pct - b.pct,
+        delta: (a, b) => (b.delta ?? -1e9) - (a.delta ?? -1e9),
+        deltaAsc: (a, b) => (a.delta ?? 1e9) - (b.delta ?? 1e9),
+        nome: (a, b) => a.nome.localeCompare(b.nome, "pt-BR")
+      };
+
+      function linhasPanorama() {
+        const ano = $("pAno").value, escopo = $("pEscopo").value, ant = ANO_ANTERIOR[ano];
+        const out = [];
+        areasUFF(ano).forEach(area => {
+          const lista = campo(ano, area, escopo);
+          const atual = coloca(lista, UFF);
+          if (!atual) return;
+          const antes = ant && dados[ant] ? coloca(campo(ant, area, escopo), UFF) : null;
+          out.push({
+            area, nome: areaPT(area), lista, ...atual,
+            mundo: atual.linha.pos, score: atual.linha.score,
+            delta: antes ? antes.pos - atual.pos : null, ant
+          });
+        });
+        const geral = out.filter(d => d.area === GERAL);
+        const resto = out.filter(d => d.area !== GERAL).sort(ORDENS[$("pOrdem").value]);
+        return geral.concat(resto);                 // classificação geral sempre no topo
+      }
+
+      function linhasIndicadores() {
+        const ano = $("pAno").value, escopo = $("pEscopo").value, ant = ANO_ANTERIOR[ano];
+        const out = indicadoresDo(ano, GERAL).map(ind => {
+          const lista = campoInd(ano, GERAL, ind.col, escopo);
+          const atual = coloca(lista, UFF);
+          if (!atual) return null;
+          const antes = ant && dados[ant] ? coloca(campoInd(ant, GERAL, ind.col, escopo), UFF) : null;
+          return {
+            col: ind.col, nome: ind.curto, lista, ...atual, mundo: atual.linha.pos,
+            delta: antes ? antes.pos - atual.pos : null, ant
+          };
+        }).filter(Boolean);
+        return out.sort(ORDENS[$("pOrdem").value]);
+      }
+
+      // Um gráfico pequeno por item (área ou indicador): a posição no Brasil da UFF
+      // e das instituições escolhidas, da melhor para a pior. O eixo vai até o total
+      // de instituições do recorte, então o comprimento da barra também diz onde
+      // cada uma está no campo.
+      function gradeMini(div, linhas, aoClicar) {
+        const cont = $(div);
+        const seta = d => d.delta > 0 ? ` <span class="up">▲${d.delta}</span>`
+          : d.delta < 0 ? ` <span class="down">▼${-d.delta}</span>` : "";
+        cont.innerHTML = linhas.map((d, i) => `
+          <div class="mini-card" data-i="${i}" tabindex="0" role="button" title="abrir ${esc(d.nome)}">
+            <div class="mini-head">
+              <span class="mini-nome" title="${esc(d.nome)}">${esc(d.nome)}</span>
+              <span class="mini-uff">${d.pos}º${d.emp ? "=" : ""} <small>de ${int(d.n)}</small>${seta(d)}</span>
+            </div>
+            <div id="${div}-${i}"></div>
+          </div>`).join("");
+
+        linhas.forEach((d, i) => {
+          const itens = [{ id: UFF, c: d }].concat(pares.map(p => ({ id: p, c: coloca(d.lista, p) })));
+          const com = itens.filter(x => x.c).sort((a, b) => a.c.pos - b.c.pos);
+          const sem = itens.filter(x => !x.c).map(x => sigla(x.id));
+          const cor = com.map(x => x.id === UFF ? C.uff : C.peer);
+          Plotly.newPlot(`${div}-${i}`, [{
+            type: "bar", orientation: "h",
+            y: com.map(x => x.id === UFF ? "<b>UFF</b>" : esc(sigla(x.id))),
+            x: com.map(x => x.c.pos),
+            marker: { color: cor },
+            text: com.map(x => `${x.c.pos}º${x.c.emp ? "=" : ""}`),
+            textposition: "outside", cliponaxis: false,
+            textfont: { size: 11, color: cor, family: "IBM Plex Sans" },
+            customdata: com.map(x => [x.c.n, int(x.c.linha.pos)]),
+            hovertemplate: "<b>%{y}</b>: %{x}º de %{customdata[0]} no Brasil · %{customdata[1]}º no mundo<extra></extra>"
+          }], Object.assign({}, BASE, {
+            height: 26 * com.length + 40,
+            margin: { l: 8, r: 34, t: 4, b: 22 },
+            bargap: .3, showlegend: false,
+            xaxis: {
+              range: [0, d.n * 1.15], fixedrange: true, zeroline: false, gridcolor: "#eef1f5",
+              nticks: 5, tickfont: { size: 10 }
+            },
+            yaxis: { autorange: "reversed", automargin: true, fixedrange: true, tickfont: { size: 11, color: "#10203a" } }
+          }), CFG);
+          if (sem.length) {
+            $(`${div}-${i}`).insertAdjacentHTML("afterend",
+              `<p class="mini-sem">sem posição: ${sem.map(esc).join(", ")}</p>`);
+          }
+        });
+
+        cont.querySelectorAll(".mini-card").forEach(el => {
+          const abrir = () => aoClicar(linhas[+el.dataset.i]);
+          el.addEventListener("click", abrir);
+          el.addEventListener("keydown", e => { if (e.key === "Enter") abrir(); });
+        });
+      }
+
+      function renderPanorama() {
+        const ano = $("pAno").value;
+        preencheBusca();
+        const linhas = linhasPanorama();
+
+        if (!linhas.length) {
+          $("pAreas").innerHTML = `<p style="color:var(--muted)">Nenhuma área disponível.</p>`;
+          $("pInd").innerHTML = "";
+          $("pStats").innerHTML = ""; return;
+        }
+
+        const rotulo = { todas: "frente a todas as brasileiras", federais: "frente às federais", publicas: "frente às públicas", rj: "frente às do RJ" }[$("pEscopo").value];
+        const geral = linhas.find(d => d.area === GERAL);
+        const areas = linhas.filter(d => d.area !== GERAL);
+        const totalAreas = Object.keys(dados[ano].areas).filter(a => a !== GERAL).length;
+        const melhor = areas.slice().sort((a, b) => b.pct - a.pct)[0];
+
+        // terceiro número: posição típica ou, com uma instituição escolhida, o placar da comparação
+        let terceiro;
+        if (pares.length) {
+          const duelos = areas.flatMap(d => pares.map(p => ({ d, c: coloca(d.lista, p) }))).filter(x => x.c);
+          const frente = duelos.filter(x => x.c.pos > x.d.pos).length;
+          const alvo = pares.length === 1 ? esc(sigla(pares[0])) : "as escolhidas";
+          terceiro = `<div class="stat"><div class="k">UFF × ${alvo}</div>
+            <div class="v">${frente}<small> de ${duelos.length}</small></div>
+            <div class="s">${pares.length === 1 ? "áreas" : "comparações por área"} em que a UFF está à frente</div></div>`;
+        } else {
+          terceiro = `<div class="stat"><div class="k">posição típica</div>
+            <div class="v">${fmt(mediana(areas.map(d => d.pct)))}<small> percentil</small></div>
+            <div class="s">metade das áreas está acima disso</div></div>`;
+        }
+
+        $("pStats").innerHTML = `
+          <div class="stat"><div class="k">classificação geral</div>
+            <div class="v">${geral ? geral.pos + "º" : "—"}<small> de ${geral ? int(geral.n) : "—"}</small></div>
+            <div class="s">${geral ? int(geral.mundo) + "º no mundo · " + rotulo : "fora da classificação geral"}</div></div>
+          <div class="stat"><div class="k">áreas ranqueadas</div>
+            <div class="v">${areas.length}<small> / ${totalAreas}</small></div>
+            <div class="s">áreas com brasileiras na edição ${NOME_EDICAO[ano]}</div></div>
+          ${terceiro}
+          <div class="stat"><div class="k">melhor colocação</div>
+            <div class="v" style="font-size:20px;line-height:1.3">${melhor ? esc(melhor.nome) : "—"}</div>
+            <div class="s">${melhor ? melhor.pos + "º entre " + int(melhor.n) + " · " + int(melhor.mundo) + "º no mundo" : ""}</div></div>`;
+
+        const abrir = area => { $("cArea").value = area; $("cAno").value = ano; mostra("area"); renderArea(); };
+        renderChips();
+        gradeMini("pAreas", linhas, d => abrir(d.area));
+        gradeMini("pInd", linhasIndicadores(), () => abrir(GERAL));
+      }
+
+      // =================================================================== //
+      // Tela 2 — Área
+      // =================================================================== //
+      function renderChips() {
+        const html = `<span class="chip is-uff">UFF — Universidade Federal Fluminense</span>` +
+          pares.map(p => `<span class="chip" title="${esc(meta(p).nome)}">${esc(sigla(p))}<button data-p="${p}" title="remover">×</button></span>`).join("");
+        ["pChips", "cChips"].forEach(id => {
+          $(id).innerHTML = html;
+          $(id).querySelectorAll("button").forEach(b =>
+            b.addEventListener("click", () => {
+              pares = pares.filter(x => x !== +b.dataset.p);
+              renderAtual();
+            }));
+        });
+      }
+
+      // percentil de cada instituição num indicador (entre as brasileiras com valor)
+      function percentis(lista) {
+        const n = lista.length, out = {};
+        lista.forEach(r => {
+          const piores = lista.filter(x => x.pos > r.pos).length;
+          out[r.id] = n > 1 ? 100 * piores / (n - 1) : 100;
+        });
+        return out;
+      }
+
+      function renderEsquerda(ano, area, inds, pv) {
+        const anos = anosCom().filter(a => campo(a, area, "todas").length);
+
+        // com mais de uma edição: trajetória; com uma só: distribuição por indicador
+        if (anos.length > 1) {
+          $("cEsqTitle").textContent = "Trajetória no ranking (posição no Brasil)";
+          const serie = id => anos.map(a => { const c = coloca(campo(a, area, "todas"), id); return c ? c.pos : null; });
+          const traces = [{
+            x: anos.map(a => NOME_EDICAO[a]), y: serie(UFF), name: "UFF", type: "scatter", mode: "lines+markers+text",
+            text: serie(UFF).map(v => v ? v + "º" : ""), textposition: "top center",
+            textfont: { size: 11, color: C.uff, family: "IBM Plex Mono" },
+            line: { color: C.uff, width: 3.5 }, marker: { size: 10 }, connectgaps: true
+          }];
+          pv.forEach((p, i) => traces.push({
+            x: anos.map(a => NOME_EDICAO[a]), y: serie(p), name: sigla(p), type: "scatter", mode: "lines+markers",
+            line: { color: C.peer, width: 2, dash: ["solid", "dot", "dash", "longdash"][i % 4] },
+            marker: { size: 7 }, connectgaps: true, opacity: .85
+          }));
+          Plotly.newPlot("cEsq", traces, Object.assign({}, BASE, {
+            height: 340, showlegend: pv.length > 0,
+            legend: { orientation: "h", y: -0.2, font: { size: 11 } },
+            xaxis: { type: "category", showgrid: false },
+            yaxis: { title: "posição no Brasil", autorange: "reversed", gridcolor: "#eef1f5", zeroline: false }
+          }), CFG);
+          return;
+        }
+
+        $("cEsqTitle").textContent = "Posição em cada indicador";
+        if (!inds.length) {
+          Plotly.purge("cEsq");
+          $("cEsq").innerHTML = `<p style="color:var(--muted);font-size:13px">Sem indicadores para a área.</p>`;
+          return;
+        }
+        const k = inds.length;
+        const jitter = id => ((id * 9301 + 49297) % 233280) / 233280 - 0.5;
+        const campoX = [], campoY = [], campoT = [];
+        const parX = [], parY = [], parT = [];
+        const uffX = [], uffY = [], uffT = [];
+        inds.forEach((ind, j) => {
+          const y = k - 1 - j;
+          const lista = campoInd(ano, area, ind.col, "todas");
+          const pct = percentis(lista);
+          lista.forEach(r => {
+            const c = coloca(lista, r.id);
+            const txt = `<b>${esc(sigla(r.id))}</b> · ${ind.curto}<br>${c.pos}º de ${c.n} no Brasil · ${int(r.pos)}º no mundo`;
+            if (r.id === UFF) { uffX.push(pct[r.id]); uffY.push(y); uffT.push(txt); }
+            else if (pv.includes(r.id)) { parX.push(pct[r.id]); parY.push(y + jitter(r.id) * 0.35); parT.push(txt); }
+            else { campoX.push(pct[r.id]); campoY.push(y + jitter(r.id) * 0.5); campoT.push(txt); }
+          });
+        });
+        const traces = [
+          {
+            x: campoX, y: campoY, text: campoT, type: "scatter", mode: "markers", name: "demais brasileiras",
+            marker: { size: 6, color: C.field, opacity: .75 }, hovertemplate: "%{text}<extra></extra>"
+          },
+          {
+            x: parX, y: parY, text: parT, type: "scatter", mode: "markers", name: "comparadas",
+            marker: { size: 9, color: C.peer, symbol: "line-ns-open", line: { width: 3, color: C.peer } },
+            hovertemplate: "%{text}<extra></extra>"
+          },
+          {
+            x: uffX, y: uffY, text: uffT, type: "scatter", mode: "markers", name: "UFF",
+            marker: { size: 13, color: C.uff, line: { color: "#fff", width: 2 } }, hovertemplate: "%{text}<extra></extra>"
+          }
+        ];
+        Plotly.newPlot("cEsq", traces, Object.assign({}, BASE, {
+          height: Math.max(340, 30 * k + 90),
+          margin: { l: 10, r: 16, t: 14, b: 44 },
+          showlegend: false,
+          xaxis: {
+            range: [-4, 104], zeroline: false, gridcolor: "#eef1f5", fixedrange: true,
+            tickvals: [0, 25, 50, 75, 100], ticktext: ["última", "25", "50", "75", "1ª →"],
+            title: { text: "percentil entre as brasileiras", font: { size: 11 } }
+          },
+          yaxis: {
+            tickvals: inds.map((_, j) => k - 1 - j), ticktext: inds.map(i => i.curto),
+            range: [-0.6, k - 0.4], showgrid: false, zeroline: false, fixedrange: true, automargin: true
+          }
+        }), CFG);
+      }
+
+      function renderArea() {
+        const area = $("cArea").value;
+        const anos = anosCom().filter(a => campo(a, area, "todas").some(r => r.id === UFF));
+        if (!anos.length) {
+          $("cRuler").innerHTML = "<p style='color:var(--muted)'>Área não carregada.</p>";
+          return;
+        }
+        const anoAtual = $("cAno").value;
+        if ($("cAno").dataset.area !== area) {
+          $("cAno").innerHTML = anos.map(a => `<option value="${a}">${NOME_EDICAO[a]}</option>`).join("");
+          $("cAno").value = anos.includes(anoAtual) ? anoAtual : anos[anos.length - 1];
+          $("cAno").dataset.area = area;
+        }
+        const ano = $("cAno").value;
+        const lista = campo(ano, area, "todas");
+        preencheBusca();
+        const uff = coloca(lista, UFF);
+        const nomeArea = areaPT(area);
+        const pv = pares.filter(p => lista.some(r => r.id === p));   // escolhidas com posição na área
+
+
+        renderChips();
+
+        // ---- números-síntese
+        const ant = ANO_ANTERIOR[ano] && anos.includes(ANO_ANTERIOR[ano]) ? ANO_ANTERIOR[ano] : null;
+        const antes = ant ? coloca(campo(ant, area, "todas"), UFF) : null;
+        const fed = coloca(campo(ano, area, "federais"), UFF);
+        const rj = coloca(campo(ano, area, "rj"), UFF);
+        const parPrincipal = pv[0] ? coloca(lista, pv[0]) : null;
+
+        $("cStats").innerHTML = uff ? `
+          <div class="stat"><div class="k">${esc(nomeArea)} · ${NOME_EDICAO[ano]}</div>
+            <div class="v">${uff.pos}º${marcaEmpate(uff)}<small> de ${int(uff.n)}</small></div>
+            <div class="s">${int(uff.linha.pos)}º no mundo · ${antes ? setaDelta(antes.pos - uff.pos) + " frente a " + NOME_EDICAO[ant] : "sem edição anterior"}</div></div>
+          <div class="stat"><div class="k">entre as federais</div>
+            <div class="v">${fed ? fed.pos + "º" : "—"}<small> de ${fed ? int(fed.n) : "—"}</small></div>
+            <div class="s">mesma área, só instituições federais</div></div>
+          <div class="stat"><div class="k">no Rio de Janeiro</div>
+            <div class="v">${rj ? rj.pos + "º" : "—"}<small> de ${rj ? int(rj.n) : "—"}</small></div>
+            <div class="s">instituições do estado na área</div></div>
+          <div class="stat"><div class="k">${pv[0] ? esc(sigla(pv[0])) : "comparação"}</div>
+            <div class="v">${parPrincipal ? parPrincipal.pos + "º" : "—"}</div>
+            <div class="s">${parPrincipal ? (parPrincipal.pos > uff.pos ? "atrás da UFF por " + (parPrincipal.pos - uff.pos) + " posições"
+            : parPrincipal.pos < uff.pos ? "à frente da UFF por " + (uff.pos - parPrincipal.pos) + " posições" : "empatada com a UFF")
+            : pares.length ? "as escolhidas não têm posição nesta área" : "escolha uma instituição acima"}</div></div>`
+          : `<div class="stat" style="grid-column:1/-1"><div class="k">${esc(nomeArea)} · ${NOME_EDICAO[ano]}</div>
+              <div class="v" style="font-size:20px">A UFF não consta nesta edição</div></div>`;
+
+        // ---- faixa de posição ampliada
+        $("cRulerTitle").textContent = `${nomeArea} · ${NOME_EDICAO[ano]} · ${int(lista.length)} instituições brasileiras`;
+        $("cRuler").innerHTML = `<div class="ruler-row" style="grid-template-columns:1fr 130px;cursor:default">
+            ${reguaHTML(lista, { pares: pv })}
+            <div class="pos">${uff ? uff.pos + "º" : "—"}${marcaEmpate(uff)} <small>de ${int(lista.length)}</small></div>
+          </div>
+          <div class="legend" style="padding:12px 0 0">
+            <span><i style="background:var(--uff)"></i>UFF</span>
+            <span><i style="background:var(--peer);border-radius:1px;width:3px;height:12px"></i>instituições comparadas</span>
+            <span><i style="background:#97a5b8;border-radius:1px;width:3px;height:12px"></i>1ª brasileira</span>
+          </div>`;
+
+        // ---- indicadores (só os que a UFF tem na área)
+        const inds = indicadoresDo(ano, area);
+        const listas = Object.fromEntries(inds.map(i => [i.col, campoInd(ano, area, i.col, "todas")]));
+
+        renderEsquerda(ano, area, inds, pv);
+
+        // ---- perfil por indicador (radar de percentis entre as brasileiras)
+        if (inds.length >= 3) {
+          const eixos = inds.map(i => i.curto);
+          const pctDe = id => inds.map(i => { const p = percentis(listas[i.col])[id]; return p === undefined ? null : p; });
+          const polar = [{
+            type: "scatterpolar", name: "UFF", r: pctDe(UFF),
+            theta: eixos, fill: "toself", fillcolor: "rgba(14,116,144,.16)",
+            line: { color: C.uff, width: 2.5 }, hovertemplate: "%{theta}<br>percentil %{r:.1f}<extra>UFF</extra>"
+          }];
+          pv.slice(0, 3).forEach((p, i) => polar.push({
+            type: "scatterpolar", name: sigla(p), r: pctDe(p),
+            theta: eixos, fill: "toself", fillcolor: "rgba(194,65,12,.10)",
+            line: { color: C.peer, width: 2, dash: ["solid", "dot", "dash"][i % 3] },
+            hovertemplate: "%{theta}<br>percentil %{r:.1f}<extra>" + esc(sigla(p)) + "</extra>"
+          }));
+          Plotly.newPlot("cRadar", polar, Object.assign({}, BASE, {
+            height: Math.max(340, 30 * inds.length + 90), showlegend: pv.length > 0,
+            legend: { orientation: "h", y: -0.12, font: { size: 11 } },
+            polar: {
+              bgcolor: "#fbfcfd",
+              radialaxis: { range: [0, 100], tickfont: { size: 9 }, gridcolor: "#e4e9ef", angle: 90 },
+              angularaxis: { tickfont: { size: 11 }, gridcolor: "#e4e9ef" }
+            }
+          }), CFG);
+        } else {
+          Plotly.purge("cRadar");
+          $("cRadar").innerHTML = `<p style="color:var(--muted);font-size:13px">
+            Esta área traz menos de três indicadores para a UFF.</p>`;
+        }
+
+        // ---- tabela de indicadores
+        const posBR = (l, id) => {
+          const c = coloca(l, id);
+          if (!c) return "—";
+          const sub = c.linha.sub ? `<span class="sub" title="valor substituto do US News">*</span>` : "";
+          return `<span title="${int(c.linha.pos)}º no mundo">${c.pos}º${marcaEmpate(c)}${sub}</span>`;
+        };
+        $("cIndTitle").textContent = `Posições por indicador · ${nomeArea} · ${NOME_EDICAO[ano]}`;
+        $("cInd").innerHTML = `<table class="tbl"><thead><tr>
+            <th>indicador</th><th class="num">UFF no Brasil</th><th class="num">UFF no mundo</th>
+            ${pv.map(p => `<th class="num" title="${esc(meta(p).nome)}">${esc(sigla(p))}</th>`).join("")}
+            <th>melhor brasileira</th></tr></thead><tbody>
+          ${inds.map(ind => {
+          const l = listas[ind.col];
+          const c = coloca(l, UFF);
+          const topo = l[0];
+          return `<tr><td>${ind.curto}</td>
+              <td class="num"><b>${posBR(l, UFF)}</b> <small>de ${int(l.length)}</small></td>
+              <td class="num">${c ? int(c.linha.pos) + "º" : "—"}</td>
+              ${pv.map(p => `<td class="num">${posBR(l, p)}</td>`).join("")}
+              <td style="color:var(--muted)">${topo ? esc(sigla(topo.id)) : "—"}</td></tr>`;
+        }).join("")}</tbody></table>`;
+
+        // ---- vizinhança
+        $("cVizTitle").textContent = `Vizinhança no ranking · ${nomeArea} · ${NOME_EDICAO[ano]}`;
+        if (uff) {
+          const i = lista.findIndex(r => r.id === UFF);
+          const ini = Math.max(0, i - 5), fim = Math.min(lista.length, i + 6);
+          const viz = lista.slice(ini, fim);
+          $("cViz").innerHTML = `<table class="tbl"><thead><tr>
+              <th class="num">#</th><th>instituição</th><th>UF</th><th>categoria</th>
+              <th class="num">posição no mundo</th><th class="num">pontuação</th></tr></thead><tbody>
+            ${viz.map(r => {
+            const c = coloca(lista, r.id), m = meta(r.id);
+            return `<tr class="${r.id === UFF ? "is-uff" : pv.includes(r.id) ? "is-peer" : ""}">
+                <td class="num">${c.pos}º${marcaEmpate(c)}</td><td><b>${esc(m.sigla)}</b> — ${esc(m.nome)}</td>
+                <td>${m.uf}</td><td>${m.tipo}</td>
+                <td class="num">${int(r.pos)}º</td><td class="num">${fmt(r.score)}</td></tr>`;
+          }).join("")}
+            </tbody></table>`;
+        } else {
+          $("cViz").innerHTML = `<p style="color:var(--muted)">A UFF não aparece nesta edição da área.</p>`;
+        }
+      }
+
+      // =================================================================== //
+      // Interface
+      // =================================================================== //
+      function mostra(qual) {
+        const p = qual === "panorama";
+        $("viewPanorama").classList.toggle("d-none", !p);
+        $("viewArea").classList.toggle("d-none", p);
+        $("tabPanorama").classList.toggle("active", p);
+        $("tabArea").classList.toggle("active", !p);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+
+      const noPanorama = () => !$("viewPanorama").classList.contains("d-none");
+      const renderAtual = () => noPanorama() ? renderPanorama() : renderArea();
+
+      // instituições disponíveis para escolher: no panorama, todas as da edição;
+      // na aba Área, as que têm posição na área
+      function catalogo() {
+        if (noPanorama()) {
+          const ano = $("pAno").value;
+          const geral = campo(ano, GERAL, "todas").map(r => r.id);
+          const resto = Object.keys((dados[ano] || { nomes: {} }).nomes).map(Number).filter(id => !geral.includes(id));
+          return geral.concat(resto).map(id => ({ id }));
+        }
+        return campo($("cAno").value, $("cArea").value, "todas");
+      }
+
+      function presets(qual) {
+        const lista = noPanorama() ? campo($("pAno").value, GERAL, "todas") : campo($("cAno").value, $("cArea").value, "todas");
+        if (qual === "limpar") pares = [];
+        if (qual === "rj") pares = catalogo().filter(r => r.id !== UFF && meta(r.id).uf === "RJ" && meta(r.id).tipo === "Federal")
+          .slice(0, 4).map(r => r.id);
+        if (qual === "top") pares = lista.filter(r => r.id !== UFF).slice(0, 3).map(r => r.id);
+        renderAtual();
+      }
+
+      function preencheBusca() {
+        const opts = catalogo().filter(r => r.id !== UFF)
+          .map(r => `<option value="${esc(sigla(r.id) + " — " + meta(r.id).nome)}">`).join("");
+        $("pLista").innerHTML = opts;
+        $("cLista").innerHTML = opts;
+      }
+
+      function adicionaPela(texto) {
+        const v = texto.trim().toLowerCase();
+        const ano = noPanorama() ? $("pAno").value : $("cAno").value;
+        const achado = catalogo().find(r => {
+          const m = meta(r.id);
+          return [m.sigla, m.nome, m.sigla + " — " + m.nome, (dados[ano] || { nomes: {} }).nomes[r.id] || ""]
+            .some(s => s.toLowerCase() === v);
+        });
+        if (achado && achado.id !== UFF && !pares.includes(achado.id) && pares.length < 4) {
+          pares.push(achado.id); renderAtual();
+        }
+      }
+
+      function preencheAreas() {
+        const ultimo = anosCom()[anosCom().length - 1];
+        const atual = $("cArea").value;
+        const areas = [...new Set(anosCom().flatMap(areasUFF))]
+          .sort((a, b) => a === GERAL ? -1 : b === GERAL ? 1 : areaPT(a).localeCompare(areaPT(b), "pt-BR"));
+        $("cArea").innerHTML = areas.map(a => `<option value="${esc(a)}">${esc(areaPT(a))}</option>`).join("");
+        $("cArea").value = areas.includes(atual) ? atual : (areas.includes(GERAL) ? GERAL : areas[0]);
+        $("pAno").innerHTML = anosCom().slice().reverse()
+          .map(a => `<option value="${a}">${NOME_EDICAO[a]}</option>`).join("");
+        $("pAno").value = ultimo;
+        $("cAno").dataset.area = "";
+      }
+
+      function semDados() {
+        $("alerta").classList.remove("d-none");
+      }
+
+      async function iniciar() {
+        $("tabPanorama").addEventListener("click", () => { mostra("panorama"); renderPanorama(); });
+        $("tabArea").addEventListener("click", () => { mostra("area"); renderArea(); });
+        ["pAno", "pEscopo", "pOrdem"].forEach(id => $(id).addEventListener("change", renderPanorama));
+        ["cArea", "cAno"].forEach(id => $(id).addEventListener("change", renderArea));
+        ["pPresets", "cPresets"].forEach(g => $(g).querySelectorAll("button").forEach(b =>
+          b.addEventListener("click", () => presets(b.dataset.preset))));
+        ["pBusca", "cBusca"].forEach(id => $(id).addEventListener("change", e => {
+          adicionaPela(e.target.value); e.target.value = "";
+        }));
+        $("btnReload").addEventListener("click", async () => {
+          if (!origem) await descobreOrigem();
+          if (!origem) { semDados(); return; }
+          await carregaTudo(); preencheAreas(); renderPanorama(); renderArea();
+        });
+
+        if (!await descobreOrigem()) { semDados(); return; }
+        const ok = await carregaTudo();
+        if (!ok) { semDados(); return; }
+        preencheAreas();
+        renderPanorama();
+        renderArea();
+      }
+
+      document.addEventListener("DOMContentLoaded", iniciar);
+    })();
+  </script>
+</body>
+
+</html>
