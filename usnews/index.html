@@ -560,68 +560,62 @@
       color: #6c757d;
       font-weight: 400;
     }
-    /* Panorama: colunas opcionais (instituição comparada e variação entre edições) */
-    #viewPanorama .ruler-head,
-    #viewPanorama .ruler-row {
-      grid-template-columns: 240px 1fr 110px 110px 76px;
+    /* Panorama: um gráfico pequeno por área e por indicador */
+    .mini-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 14px;
     }
 
-    #viewPanorama.sem-par .ruler-head,
-    #viewPanorama.sem-par .ruler-row {
-      grid-template-columns: 240px 1fr 110px 76px;
+    .mini-card {
+      border: 1px solid #edf0f4;
+      border-radius: 10px;
+      padding: 12px 14px 6px;
+      cursor: pointer;
+      transition: border-color .15s ease, box-shadow .15s ease;
     }
 
-    #viewPanorama.sem-ant .ruler-head,
-    #viewPanorama.sem-ant .ruler-row {
-      grid-template-columns: 240px 1fr 110px 110px;
+    .mini-card:hover,
+    .mini-card:focus {
+      border-color: #b5e0e9;
+      box-shadow: 0 4px 12px rgba(14, 116, 144, .08);
+      outline: none;
     }
 
-    #viewPanorama.sem-par.sem-ant .ruler-head,
-    #viewPanorama.sem-par.sem-ant .ruler-row {
-      grid-template-columns: 240px 1fr 110px;
+    .mini-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 8px;
+      margin-bottom: 2px;
     }
 
-    #viewPanorama.sem-par .col-par,
-    #viewPanorama.sem-par .par,
-    #viewPanorama.sem-ant .col-delta,
-    #viewPanorama.sem-ant .delta {
-      display: none;
+    .mini-nome {
+      font-weight: 600;
+      font-size: .88rem;
+      color: #10203a;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
-    .ruler-row .par {
-      font-size: .9rem;
+    .mini-uff {
       font-weight: 700;
-      text-align: right;
-      color: var(--compare-color);
+      font-size: .95rem;
+      color: var(--primary-color);
+      white-space: nowrap;
       font-variant-numeric: tabular-nums;
     }
 
-    .ruler-row .par small {
+    .mini-uff small {
       color: #6c757d;
       font-weight: 400;
     }
 
-    @media(max-width:760px) {
-
-      #viewPanorama .ruler-head,
-      #viewPanorama .ruler-row {
-        grid-template-columns: 1fr 88px 88px 50px;
-      }
-
-      #viewPanorama.sem-par .ruler-head,
-      #viewPanorama.sem-par .ruler-row {
-        grid-template-columns: 1fr 100px 60px;
-      }
-
-      #viewPanorama.sem-ant .ruler-head,
-      #viewPanorama.sem-ant .ruler-row {
-        grid-template-columns: 1fr 96px 96px;
-      }
-
-      #viewPanorama.sem-par.sem-ant .ruler-head,
-      #viewPanorama.sem-par.sem-ant .ruler-row {
-        grid-template-columns: 1fr 110px;
-      }
+    .mini-sem {
+      font-size: .75rem;
+      color: #6c757d;
+      margin: 0 0 6px;
     }
   </style>
 </head>
@@ -660,16 +654,12 @@
     </ul>
 
     <!-- ===================== PANORAMA ===================== -->
-    <section id="viewPanorama" class="sem-par sem-ant">
+    <section id="viewPanorama">
       <div class="controls-card">
         <div class="row g-3 align-items-end">
           <div class="col-md-2">
             <label class="form-label"><i class="bi bi-calendar-event"></i> Edição</label>
             <select id="pAno" class="form-select"></select>
-          </div>
-          <div class="col-md-3">
-            <label class="form-label"><i class="bi bi-building-add"></i> Comparar com</label>
-            <select id="pPar" class="form-select"></select>
           </div>
           <div class="col-md-2">
             <label class="form-label"><i class="bi bi-funnel"></i> Recorte</label>
@@ -687,13 +677,27 @@
               <option value="pctAsc">pior colocação primeiro</option>
               <option value="delta">quem mais subiu</option>
               <option value="deltaAsc">quem mais caiu</option>
-              <option value="nome">nome da área</option>
+              <option value="nome">nome</option>
             </select>
           </div>
-          <div class="col-md-3 text-end">
-            <button id="btnReload" class="btn btn-outline-primary btn-sm"><i class="bi bi-arrow-clockwise"></i>
-              Recarregar</button>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-building-add"></i> Comparar com (até 4)</label>
+            <input id="pBusca" class="form-control" list="pLista" placeholder="digite o nome ou a sigla e tecle Enter">
+            <datalist id="pLista"></datalist>
           </div>
+          <div class="col-md-3">
+            <label class="form-label"><i class="bi bi-lightning"></i> Atalhos</label>
+            <div class="btn-group w-100" id="pPresets">
+              <button class="btn btn-outline-primary btn-sm" data-preset="rj">Federais do RJ</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="top">Top 3</button>
+              <button class="btn btn-outline-primary btn-sm" data-preset="limpar">Limpar</button>
+            </div>
+          </div>
+        </div>
+        <div class="d-flex justify-content-between align-items-center gap-3 flex-wrap">
+          <div class="chips" id="pChips"></div>
+          <button id="btnReload" class="btn btn-outline-primary btn-sm mt-2"><i class="bi bi-arrow-clockwise"></i>
+            Recarregar</button>
         </div>
       </div>
 
@@ -704,20 +708,7 @@
           <h6 class="chart-title">Posição no Brasil por área do conhecimento</h6>
         </div>
         <div class="chart-body">
-          <div class="legend">
-            <span><i style="background:var(--primary-color)"></i>UFF</span>
-            <span class="leg-par d-none"><i style="background:var(--peer);border-radius:1px;width:3px;height:12px"></i><span class="leg-par-nome"></span></span>
-            <span><i style="background:#8b97a6;border-radius:1px;width:3px;height:12px"></i>1ª brasileira</span>
-            <span><i style="background:var(--field);border-radius:1px"></i>demais brasileiras da área</span>
-          </div>
-          <div class="ruler-head">
-            <div>área</div>
-            <div class="ends"><span>última</span><span>1º lugar →</span></div>
-            <div class="text-end">UFF</div>
-            <div class="text-end col-par"></div>
-            <div class="text-end col-delta">vs. anterior</div>
-          </div>
-          <div id="pRulers"></div>
+          <div id="pAreas" class="mini-grid"></div>
         </div>
       </div>
 
@@ -726,14 +717,16 @@
           <h6 class="chart-title">Posição no Brasil nos indicadores da classificação geral</h6>
         </div>
         <div class="chart-body">
-          <div class="ruler-head">
-            <div>indicador</div>
-            <div class="ends"><span>última</span><span>1º lugar →</span></div>
-            <div class="text-end">UFF</div>
-            <div class="text-end col-par"></div>
-            <div class="text-end col-delta">vs. anterior</div>
-          </div>
-          <div id="pIndicadores"></div>
+          <div id="pInd" class="mini-grid"></div>
+        </div>
+      </div>
+
+      <div class="chart-card">
+        <div class="chart-header">
+          <h6 class="chart-title">Pontuação por área</h6>
+        </div>
+        <div class="chart-body">
+          <div id="pRadar"></div>
         </div>
       </div>
 
@@ -982,8 +975,7 @@
       // dados[ano] = { nomes: {id: nome}, areas: {area: {id: {pos, emp, score}}},
       //                ind: {area: {indicador: {id: {pos, sub}}}} }
       const dados = {};
-      let pares = [];                   // ids das instituições comparadas (aba Área)
-      const parPanorama = () => +$("pPar").value || null;   // instituição comparada no panorama
+      let pares = [];                   // instituições comparadas (compartilhadas pelas duas abas)
       const $ = id => document.getElementById(id);
 
       // =================================================================== //
@@ -1089,13 +1081,19 @@
       // =================================================================== //
       const anosCom = () => ANOS.filter(a => dados[a]);
 
+      // Ordem por posição; entre empatadas, a mesma ordem do site do US News, que é a
+      // alfabética pelo nome da instituição como o site o escreve (coluna "universidade").
+      const nomeSite = (ano, id) => ((dados[ano] || {}).nomes || {})[id] || "";
+      const cmpTexto = (x, y) => x < y ? -1 : x > y ? 1 : 0;
+      const porPosicao = ano => (a, b) => a.pos - b.pos || cmpTexto(nomeSite(ano, a.id), nomeSite(ano, b.id));
+
       // instituições brasileiras ranqueadas na área, ordenadas pela posição mundial
       function campo(ano, area, escopo) {
         const tab = ((dados[ano] || {}).areas || {})[area] || {};
         return Object.entries(tab)
           .filter(([id, v]) => !isNaN(v.pos) && v.pos !== undefined && noEscopo(+id, escopo))
           .map(([id, v]) => ({ id: +id, pos: v.pos, emp: v.emp, score: v.score }))
-          .sort((a, b) => a.pos - b.pos);
+          .sort(porPosicao(ano));
       }
 
       // mesma estrutura para um indicador de uma área
@@ -1104,7 +1102,7 @@
         return Object.entries(tab)
           .filter(([id]) => noEscopo(+id, escopo))
           .map(([id, v]) => ({ id: +id, pos: v.pos, sub: v.sub }))
-          .sort((a, b) => a.pos - b.pos);
+          .sort(porPosicao(ano));
       }
 
       // posição no recorte (empates dividem a mesma posição) + percentil
@@ -1207,35 +1205,133 @@
         return out.sort(ORDENS[$("pOrdem").value]);
       }
 
-      function celulaPar(d, par) {
-        if (!par) return `<div class="par"></div>`;
-        const c = coloca(d.lista, par);
-        if (!c) return `<div class="par"><small>${noEscopo(par, $("pEscopo").value) ? "não ranqueada" : "fora do recorte"}</small></div>`;
-        const dif = c.pos - d.pos;
-        const rel = dif > 0 ? `UFF ${dif} à frente` : dif < 0 ? `UFF ${-dif} atrás` : "empatadas";
-        return `<div class="par" title="${esc(sigla(par))}: ${int(c.linha.pos)}º no mundo · ${rel}">${c.pos}º${marcaEmpate(c)}
-            <small>de ${int(c.n)}</small></div>`;
+      // Um gráfico pequeno por item (área ou indicador): a posição no Brasil da UFF
+      // e das instituições escolhidas, da melhor para a pior. O eixo vai até o total
+      // de instituições do recorte, então o comprimento da barra também diz onde
+      // cada uma está no campo.
+      function gradeMini(div, linhas, aoClicar) {
+        const cont = $(div);
+        const seta = d => d.delta > 0 ? ` <span class="up">▲${d.delta}</span>`
+          : d.delta < 0 ? ` <span class="down">▼${-d.delta}</span>` : "";
+        cont.innerHTML = linhas.map((d, i) => `
+          <div class="mini-card" data-i="${i}" tabindex="0" role="button" title="abrir ${esc(d.nome)}">
+            <div class="mini-head">
+              <span class="mini-nome" title="${esc(d.nome)}">${esc(d.nome)}</span>
+              <span class="mini-uff">${d.pos}º${d.emp ? "=" : ""} <small>de ${int(d.n)}</small>${seta(d)}</span>
+            </div>
+            <div id="${div}-${i}"></div>
+          </div>`).join("");
+
+        linhas.forEach((d, i) => {
+          const itens = [{ id: UFF, c: d }].concat(pares.map(p => ({ id: p, c: coloca(d.lista, p) })));
+          const com = itens.filter(x => x.c)
+            .sort((a, b) => a.c.pos - b.c.pos || cmpTexto(nomeSite($("pAno").value, a.id), nomeSite($("pAno").value, b.id)));
+          const escopo = $("pEscopo").value;
+          const fora = itens.filter(x => !x.c && !noEscopo(x.id, escopo)).map(x => sigla(x.id));
+          const sem = itens.filter(x => !x.c && noEscopo(x.id, escopo)).map(x => sigla(x.id));
+          const cor = com.map(x => x.id === UFF ? C.uff : C.peer);
+          Plotly.newPlot(`${div}-${i}`, [{
+            type: "bar", orientation: "h",
+            y: com.map(x => x.id === UFF ? "<b>UFF</b>" : esc(sigla(x.id))),
+            x: com.map(x => x.c.pos),
+            marker: { color: cor },
+            text: com.map(x => `${x.c.pos}º${x.c.emp ? "=" : ""}`),
+            textposition: "outside", cliponaxis: false,
+            textfont: { size: 11, color: cor, family: "IBM Plex Sans" },
+            customdata: com.map(x => [x.c.n, int(x.c.linha.pos)]),
+            hovertemplate: "<b>%{y}</b>: %{x}º de %{customdata[0]} no Brasil · %{customdata[1]}º no mundo<extra></extra>"
+          }], Object.assign({}, BASE, {
+            height: 26 * com.length + 40,
+            margin: { l: 8, r: 34, t: 4, b: 22 },
+            bargap: .3, showlegend: false,
+            xaxis: {
+              range: [0, d.n * 1.15], fixedrange: true, zeroline: false, gridcolor: "#eef1f5",
+              nticks: 5, tickfont: { size: 10 }
+            },
+            yaxis: { autorange: "reversed", automargin: true, fixedrange: true, tickfont: { size: 11, color: "#10203a" } }
+          }), CFG);
+          const avisos = [sem.length ? "sem posição: " + sem.map(esc).join(", ") : "",
+          fora.length ? "fora do recorte: " + fora.map(esc).join(", ") : ""].filter(Boolean);
+          if (avisos.length) {
+            $(`${div}-${i}`).insertAdjacentHTML("afterend", `<p class="mini-sem">${avisos.join(" · ")}</p>`);
+          }
+        });
+
+        cont.querySelectorAll(".mini-card").forEach(el => {
+          const abrir = () => aoClicar(linhas[+el.dataset.i]);
+          el.addEventListener("click", abrir);
+          el.addEventListener("keydown", e => { if (e.key === "Enter") abrir(); });
+        });
       }
 
-      function linhaRegua(d, i, dataAttr, par) {
-        return `
-          <div class="ruler-row" ${dataAttr} style="--i:${i}" tabindex="0" role="button">
-            <div class="name" title="${esc(d.nome)}">${esc(d.nome)}</div>
-            ${reguaHTML(d.lista, { pares: par ? [par] : [] })}
-            <div class="pos" title="UFF: ${int(d.mundo)}º no mundo">${d.pos}º${marcaEmpate(d)} <small>de ${int(d.n)}</small></div>
-            ${celulaPar(d, par)}
-            <div class="delta" title="${d.ant ? "comparado a " + NOME_EDICAO[d.ant] : "sem edição anterior"}">${setaDelta(d.delta)}</div>
-          </div>`;
+      // Pontuação (score 0–100 publicado pelo US News) da UFF e das escolhidas.
+      // Eixos: as áreas da UFF e, em seguida, as áreas em que só as escolhidas são
+      // ranqueadas (rótulo em cinza). Área sem posição para uma instituição fica vazia.
+      function radarPontuacao(ano) {
+        const daUFF = areasUFF(ano).filter(a => a !== GERAL);
+        const tab = dados[ano].areas;
+        const extras = [...new Set(pares.flatMap(p => Object.keys(tab)
+          .filter(a => a !== GERAL && !daUFF.includes(a) && tab[a][p] && !isNaN(tab[a][p].pos))))]
+          .sort((a, b) => areaPT(a).localeCompare(areaPT(b), "pt-BR"));
+        const areas = daUFF.concat(extras);
+        if (areas.length < 3) {
+          Plotly.purge("pRadar");
+          $("pRadar").innerHTML = `<p style="color:var(--muted);font-size:13px">A UFF tem menos de três áreas nesta edição.</p>`;
+          return;
+        }
+        const quebra = s => s.length > 18 ? s.replace(/^(.{6,18})\s/, "$1<br>") : s;
+        const eixos = areas.map(a => daUFF.includes(a) ? quebra(areaPT(a))
+          : `<span style="color:#9aa5b4">${quebra(areaPT(a))}</span>`);
+        const fechar = arr => arr.concat(arr.slice(0, 1));        // fecha o polígono
+        const serie = id => areas.map(a => {
+          const v = (((dados[ano].areas[a] || {})[id]) || {});
+          return v.score === undefined || isNaN(v.score) ? null : v.score;
+        });
+        const hover = id => areas.map(a => {
+          const c = coloca(campo(ano, a, "todas"), id);
+          return c ? `${c.pos}º de ${c.n} no Brasil` : "sem posição na área";
+        });
+
+        const ids = [UFF].concat(pares);
+        const todos = ids.flatMap(serie).filter(v => v !== null);
+        const teto = Math.min(100, Math.ceil(Math.max(...todos) / 10) * 10 + 10);
+
+        const traces = ids.map((id, i) => {
+          const eUFF = id === UFF;
+          return {
+            type: "scatterpolar", name: eUFF ? "UFF" : sigla(id),
+            r: fechar(serie(id)), theta: fechar(eixos), customdata: fechar(hover(id)),
+            connectgaps: false, fill: eUFF ? "toself" : "none",
+            fillcolor: "rgba(14,116,144,.14)",
+            line: { color: eUFF ? C.uff : C.peer, width: eUFF ? 2.8 : 2, dash: eUFF ? "solid" : ["solid", "dot", "dash", "longdash"][(i - 1) % 4] },
+            marker: { size: eUFF ? 7 : 5 },
+            hovertemplate: "<b>%{theta}</b><br>" + esc(eUFF ? "UFF" : sigla(id)) +
+              ": %{r:.1f} · %{customdata}<extra></extra>"
+          };
+        });
+
+        const muitas = areas.length > 20;
+        Plotly.newPlot("pRadar", traces, Object.assign({}, BASE, {
+          height: Math.min(720, 460 + Math.max(0, areas.length - 12) * 8),
+          margin: { l: 70, r: 70, t: 36, b: 40 },
+          showlegend: pares.length > 0,
+          legend: { orientation: "h", x: 0.5, xanchor: "center", y: -0.08, font: { size: 12 } },
+          polar: {
+            bgcolor: "#fbfcfd",
+            radialaxis: { range: [0, teto], tickfont: { size: 9 }, gridcolor: "#e4e9ef", angle: 90, dtick: 10 },
+            angularaxis: { tickfont: { size: muitas ? 9 : 11 }, gridcolor: "#e4e9ef", direction: "clockwise" }
+          }
+        }), CFG);
       }
 
       function renderPanorama() {
         const ano = $("pAno").value;
+        preencheBusca();
         const linhas = linhasPanorama();
 
         if (!linhas.length) {
-          $("pRulers").innerHTML = `<p style="color:var(--muted)">Nenhuma área disponível.
-            Verifique a origem dos dados no topo da página.</p>`;
-          $("pIndicadores").innerHTML = "";
+          $("pAreas").innerHTML = `<p style="color:var(--muted)">Nenhuma área disponível.</p>`;
+          $("pInd").innerHTML = "";
           $("pStats").innerHTML = ""; return;
         }
 
@@ -1244,23 +1340,16 @@
         const areas = linhas.filter(d => d.area !== GERAL);
         const totalAreas = Object.keys(dados[ano].areas).filter(a => a !== GERAL).length;
         const melhor = areas.slice().sort((a, b) => b.pct - a.pct)[0];
-        const par = parPanorama();
-
-        $("viewPanorama").classList.toggle("sem-par", !par);
-        $("viewPanorama").classList.toggle("sem-ant", !(ANO_ANTERIOR[ano] && dados[ANO_ANTERIOR[ano]]));
-        document.querySelectorAll("#viewPanorama .col-par").forEach(el => el.textContent = par ? sigla(par) : "");
-        document.querySelector("#viewPanorama .leg-par").classList.toggle("d-none", !par);
-        document.querySelector("#viewPanorama .leg-par-nome").textContent = par ? sigla(par) : "";
 
         // terceiro número: posição típica ou, com uma instituição escolhida, o placar da comparação
         let terceiro;
-        if (par) {
-          const comuns = areas.map(d => ({ d, c: coloca(d.lista, par) })).filter(x => x.c);
-          const frente = comuns.filter(x => x.c.pos > x.d.pos).length;
-          const empates = comuns.filter(x => x.c.pos === x.d.pos).length;
-          terceiro = `<div class="stat"><div class="k">UFF × ${esc(sigla(par))}</div>
-            <div class="v">${frente}<small> de ${comuns.length} ${comuns.length === 1 ? "área" : "áreas"}</small></div>
-            <div class="s">em que a UFF está à frente${empates ? " · " + empates + (empates > 1 ? " empates" : " empate") : ""}</div></div>`;
+        if (pares.length) {
+          const duelos = areas.flatMap(d => pares.map(p => ({ d, c: coloca(d.lista, p) }))).filter(x => x.c);
+          const frente = duelos.filter(x => x.c.pos > x.d.pos).length;
+          const alvo = pares.length === 1 ? esc(sigla(pares[0])) : "as escolhidas";
+          terceiro = `<div class="stat"><div class="k">UFF × ${alvo}</div>
+            <div class="v">${frente}<small> de ${duelos.length}</small></div>
+            <div class="s">${pares.length === 1 ? "áreas" : "comparações por área"} em que a UFF está à frente</div></div>`;
         } else {
           terceiro = `<div class="stat"><div class="k">posição típica</div>
             <div class="v">${fmt(mediana(areas.map(d => d.pct)))}<small> percentil</small></div>
@@ -1279,46 +1368,38 @@
             <div class="v" style="font-size:20px;line-height:1.3">${melhor ? esc(melhor.nome) : "—"}</div>
             <div class="s">${melhor ? melhor.pos + "º entre " + int(melhor.n) + " · " + int(melhor.mundo) + "º no mundo" : ""}</div></div>`;
 
-        $("pRulers").innerHTML = linhas.map((d, i) => linhaRegua(d, i, `data-area="${esc(d.area)}"`, par)).join("");
-        $("pIndicadores").innerHTML = linhasIndicadores()
-          .map((d, i) => linhaRegua(d, i, `data-area="${GERAL}"`, par)).join("");
-
-        document.querySelectorAll("#pRulers .ruler-row, #pIndicadores .ruler-row").forEach(row => {
-          const abrir = () => {
-            $("cArea").value = row.dataset.area; $("cAno").value = ano;
-            pares = par ? [par] : [];               // leva a instituição escolhida para a aba Área
-            mostra("area"); renderArea();
-          };
-          row.addEventListener("click", abrir);
-          row.addEventListener("keydown", e => { if (e.key === "Enter") abrir(); });
-        });
+        const abrir = area => { $("cArea").value = area; $("cAno").value = ano; mostra("area"); renderArea(); };
+        renderChips();
+        gradeMini("pAreas", linhas, d => abrir(d.area));
+        radarPontuacao(ano);
+        gradeMini("pInd", linhasIndicadores(), () => abrir(GERAL));
       }
 
       // =================================================================== //
       // Tela 2 — Área
       // =================================================================== //
       function renderChips() {
-        $("cChips").innerHTML =
-          `<span class="chip is-uff">UFF — Universidade Federal Fluminense</span>` +
+        const html = `<span class="chip is-uff">UFF — Universidade Federal Fluminense</span>` +
           pares.map(p => `<span class="chip" title="${esc(meta(p).nome)}">${esc(sigla(p))}<button data-p="${p}" title="remover">×</button></span>`).join("");
-        $("cChips").querySelectorAll("button").forEach(b =>
-          b.addEventListener("click", () => {
-            pares = pares.filter(x => x !== +b.dataset.p);
-            renderArea();
-          }));
+        ["pChips", "cChips"].forEach(id => {
+          $(id).innerHTML = html;
+          $(id).querySelectorAll("button").forEach(b =>
+            b.addEventListener("click", () => {
+              pares = pares.filter(x => x !== +b.dataset.p);
+              renderAtual();
+            }));
+        });
       }
 
-      // percentil de cada instituição num indicador (entre as brasileiras com valor)
+      // posição relativa de cada instituição (0 = última, 100 = 1ª), calculada a partir
+      // da posição exibida; empatadas dividem a mesma posição, como em coloca()
       function percentis(lista) {
-        const n = lista.length, out = {};
-        lista.forEach(r => {
-          const piores = lista.filter(x => x.pos > r.pos).length;
-          out[r.id] = n > 1 ? 100 * piores / (n - 1) : 100;
-        });
+        const out = {};
+        lista.forEach(r => { out[r.id] = coloca(lista, r.id).pct; });
         return out;
       }
 
-      function renderEsquerda(ano, area, inds) {
+      function renderEsquerda(ano, area, inds, pv) {
         const anos = anosCom().filter(a => campo(a, area, "todas").length);
 
         // com mais de uma edição: trajetória; com uma só: distribuição por indicador
@@ -1331,13 +1412,13 @@
             textfont: { size: 11, color: C.uff, family: "IBM Plex Mono" },
             line: { color: C.uff, width: 3.5 }, marker: { size: 10 }, connectgaps: true
           }];
-          pares.forEach((p, i) => traces.push({
+          pv.forEach((p, i) => traces.push({
             x: anos.map(a => NOME_EDICAO[a]), y: serie(p), name: sigla(p), type: "scatter", mode: "lines+markers",
             line: { color: C.peer, width: 2, dash: ["solid", "dot", "dash", "longdash"][i % 4] },
             marker: { size: 7 }, connectgaps: true, opacity: .85
           }));
           Plotly.newPlot("cEsq", traces, Object.assign({}, BASE, {
-            height: 340, showlegend: pares.length > 0,
+            height: 340, showlegend: pv.length > 0,
             legend: { orientation: "h", y: -0.2, font: { size: 11 } },
             xaxis: { type: "category", showgrid: false },
             yaxis: { title: "posição no Brasil", autorange: "reversed", gridcolor: "#eef1f5", zeroline: false }
@@ -1353,25 +1434,27 @@
         }
         const k = inds.length;
         const jitter = id => ((id * 9301 + 49297) % 233280) / 233280 - 0.5;
-        const campoX = [], campoY = [], campoT = [];
-        const parX = [], parY = [], parT = [];
-        const uffX = [], uffY = [], uffT = [];
+        const campoX = [], campoY = [], campoT = [], campoS = [];
+        const parX = [], parY = [], parT = [], parS = [];
+        const uffX = [], uffY = [], uffT = [], uffS = [];
         inds.forEach((ind, j) => {
           const y = k - 1 - j;
           const lista = campoInd(ano, area, ind.col, "todas");
           const pct = percentis(lista);
           lista.forEach(r => {
             const c = coloca(lista, r.id);
-            const txt = `<b>${esc(sigla(r.id))}</b> · ${ind.curto}<br>${c.pos}º de ${c.n} no Brasil · ${int(r.pos)}º no mundo`;
-            if (r.id === UFF) { uffX.push(pct[r.id]); uffY.push(y); uffT.push(txt); }
-            else if (pares.includes(r.id)) { parX.push(pct[r.id]); parY.push(y + jitter(r.id) * 0.35); parT.push(txt); }
-            else { campoX.push(pct[r.id]); campoY.push(y + jitter(r.id) * 0.5); campoT.push(txt); }
+            const txt = `<b>${esc(sigla(r.id))}</b> · ${ind.curto}<br>${c.pos}º${c.emp ? "=" : ""} de ${c.n} no Brasil · ` +
+              `${int(r.pos)}º no mundo${r.sub ? "<br>* valor substituto (sem dado medido)" : ""}`;
+            if (r.id === UFF) { uffX.push(pct[r.id]); uffY.push(y); uffT.push(txt); uffS.push(r.sub); }
+            else if (pv.includes(r.id)) { parX.push(pct[r.id]); parY.push(y + jitter(r.id) * 0.35); parT.push(txt); parS.push(r.sub); }
+            else { campoX.push(pct[r.id]); campoY.push(y + jitter(r.id) * 0.5); campoT.push(txt); campoS.push(r.sub); }
           });
         });
         const traces = [
           {
             x: campoX, y: campoY, text: campoT, type: "scatter", mode: "markers", name: "demais brasileiras",
-            marker: { size: 6, color: C.field, opacity: .75 }, hovertemplate: "%{text}<extra></extra>"
+            marker: { size: 6, color: C.field, opacity: .75, symbol: campoS.map(s => s ? "circle-open" : "circle") },
+            hovertemplate: "%{text}<extra></extra>"
           },
           {
             x: parX, y: parY, text: parT, type: "scatter", mode: "markers", name: "comparadas",
@@ -1380,7 +1463,10 @@
           },
           {
             x: uffX, y: uffY, text: uffT, type: "scatter", mode: "markers", name: "UFF",
-            marker: { size: 13, color: C.uff, line: { color: "#fff", width: 2 } }, hovertemplate: "%{text}<extra></extra>"
+            marker: {
+              size: 13, color: uffS.map(s => s ? "#fff" : C.uff),
+              line: { color: uffS.map(s => s ? C.uff : "#fff"), width: uffS.map(s => s ? 3 : 2) }
+            }, hovertemplate: "%{text}<extra></extra>"
           }
         ];
         Plotly.newPlot("cEsq", traces, Object.assign({}, BASE, {
@@ -1389,8 +1475,8 @@
           showlegend: false,
           xaxis: {
             range: [-4, 104], zeroline: false, gridcolor: "#eef1f5", fixedrange: true,
-            tickvals: [0, 25, 50, 75, 100], ticktext: ["última", "25", "50", "75", "1ª →"],
-            title: { text: "percentil entre as brasileiras", font: { size: 11 } }
+            tickvals: [0, 100], ticktext: ["última", "1ª →"],
+            title: { text: "posição relativa entre as brasileiras", font: { size: 11 } }
           },
           yaxis: {
             tickvals: inds.map((_, j) => k - 1 - j), ticktext: inds.map(i => i.curto),
@@ -1414,13 +1500,11 @@
         }
         const ano = $("cAno").value;
         const lista = campo(ano, area, "todas");
+        preencheBusca();
         const uff = coloca(lista, UFF);
         const nomeArea = areaPT(area);
-        pares = pares.filter(p => lista.some(r => r.id === p));
+        const pv = pares.filter(p => lista.some(r => r.id === p));   // escolhidas com posição na área
 
-        // catálogo de instituições para o campo de busca
-        $("cLista").innerHTML = lista.filter(r => r.id !== UFF)
-          .map(r => `<option value="${esc(sigla(r.id) + " — " + meta(r.id).nome)}">`).join("");
 
         renderChips();
 
@@ -1429,7 +1513,7 @@
         const antes = ant ? coloca(campo(ant, area, "todas"), UFF) : null;
         const fed = coloca(campo(ano, area, "federais"), UFF);
         const rj = coloca(campo(ano, area, "rj"), UFF);
-        const parPrincipal = pares[0] ? coloca(lista, pares[0]) : null;
+        const parPrincipal = pv[0] ? coloca(lista, pv[0]) : null;
 
         $("cStats").innerHTML = uff ? `
           <div class="stat"><div class="k">${esc(nomeArea)} · ${NOME_EDICAO[ano]}</div>
@@ -1441,18 +1525,18 @@
           <div class="stat"><div class="k">no Rio de Janeiro</div>
             <div class="v">${rj ? rj.pos + "º" : "—"}<small> de ${rj ? int(rj.n) : "—"}</small></div>
             <div class="s">instituições do estado na área</div></div>
-          <div class="stat"><div class="k">${pares[0] ? esc(sigla(pares[0])) : "comparação"}</div>
+          <div class="stat"><div class="k">${pv[0] ? esc(sigla(pv[0])) : "comparação"}</div>
             <div class="v">${parPrincipal ? parPrincipal.pos + "º" : "—"}</div>
             <div class="s">${parPrincipal ? (parPrincipal.pos > uff.pos ? "atrás da UFF por " + (parPrincipal.pos - uff.pos) + " posições"
             : parPrincipal.pos < uff.pos ? "à frente da UFF por " + (uff.pos - parPrincipal.pos) + " posições" : "empatada com a UFF")
-            : "escolha uma instituição acima"}</div></div>`
+            : pares.length ? "as escolhidas não têm posição nesta área" : "escolha uma instituição acima"}</div></div>`
           : `<div class="stat" style="grid-column:1/-1"><div class="k">${esc(nomeArea)} · ${NOME_EDICAO[ano]}</div>
               <div class="v" style="font-size:20px">A UFF não consta nesta edição</div></div>`;
 
         // ---- faixa de posição ampliada
         $("cRulerTitle").textContent = `${nomeArea} · ${NOME_EDICAO[ano]} · ${int(lista.length)} instituições brasileiras`;
         $("cRuler").innerHTML = `<div class="ruler-row" style="grid-template-columns:1fr 130px;cursor:default">
-            ${reguaHTML(lista, { pares })}
+            ${reguaHTML(lista, { pares: pv })}
             <div class="pos">${uff ? uff.pos + "º" : "—"}${marcaEmpate(uff)} <small>de ${int(lista.length)}</small></div>
           </div>
           <div class="legend" style="padding:12px 0 0">
@@ -1465,25 +1549,30 @@
         const inds = indicadoresDo(ano, area);
         const listas = Object.fromEntries(inds.map(i => [i.col, campoInd(ano, area, i.col, "todas")]));
 
-        renderEsquerda(ano, area, inds);
+        renderEsquerda(ano, area, inds, pv);
 
-        // ---- perfil por indicador (radar de percentis entre as brasileiras)
+        // ---- perfil por indicador: radar da posição relativa entre as brasileiras
+        //      (0 = última, 100 = 1ª; mesma conta da posição exibida, empatadas dividem a posição)
         if (inds.length >= 3) {
           const eixos = inds.map(i => i.curto);
-          const pctDe = id => inds.map(i => { const p = percentis(listas[i.col])[id]; return p === undefined ? null : p; });
+          const serie = id => inds.map(i => { const c = coloca(listas[i.col], id); return c ? c.pct : null; });
+          const hover = id => inds.map(i => {
+            const c = coloca(listas[i.col], id);
+            return c ? `${c.pos}º${c.emp ? "=" : ""} de ${c.n} no Brasil${c.linha.sub ? " · * valor substituto" : ""}` : "sem posição";
+          });
           const polar = [{
-            type: "scatterpolar", name: "UFF", r: pctDe(UFF),
-            theta: eixos, fill: "toself", fillcolor: "rgba(14,116,144,.16)",
-            line: { color: C.uff, width: 2.5 }, hovertemplate: "%{theta}<br>percentil %{r:.1f}<extra>UFF</extra>"
+            type: "scatterpolar", name: "UFF", r: serie(UFF), theta: eixos, customdata: hover(UFF),
+            fill: "toself", fillcolor: "rgba(14,116,144,.16)", line: { color: C.uff, width: 2.5 },
+            hovertemplate: "<b>%{theta}</b><br>UFF: %{customdata} · percentil %{r:.0f}<extra></extra>"
           }];
-          pares.slice(0, 3).forEach((p, i) => polar.push({
-            type: "scatterpolar", name: sigla(p), r: pctDe(p),
-            theta: eixos, fill: "toself", fillcolor: "rgba(194,65,12,.10)",
+          pv.slice(0, 3).forEach((p, i) => polar.push({
+            type: "scatterpolar", name: sigla(p), r: serie(p), theta: eixos, customdata: hover(p),
+            fill: "toself", fillcolor: "rgba(194,65,12,.10)",
             line: { color: C.peer, width: 2, dash: ["solid", "dot", "dash"][i % 3] },
-            hovertemplate: "%{theta}<br>percentil %{r:.1f}<extra>" + esc(sigla(p)) + "</extra>"
+            hovertemplate: "<b>%{theta}</b><br>" + esc(sigla(p)) + ": %{customdata} · percentil %{r:.0f}<extra></extra>"
           }));
           Plotly.newPlot("cRadar", polar, Object.assign({}, BASE, {
-            height: Math.max(340, 30 * inds.length + 90), showlegend: pares.length > 0,
+            height: Math.max(340, 30 * inds.length + 90), showlegend: pv.length > 0,
             legend: { orientation: "h", y: -0.12, font: { size: 11 } },
             polar: {
               bgcolor: "#fbfcfd",
@@ -1507,17 +1596,17 @@
         $("cIndTitle").textContent = `Posições por indicador · ${nomeArea} · ${NOME_EDICAO[ano]}`;
         $("cInd").innerHTML = `<table class="tbl"><thead><tr>
             <th>indicador</th><th class="num">UFF no Brasil</th><th class="num">UFF no mundo</th>
-            ${pares.map(p => `<th class="num" title="${esc(meta(p).nome)}">${esc(sigla(p))}</th>`).join("")}
+            ${pv.map(p => `<th class="num" title="${esc(meta(p).nome)}">${esc(sigla(p))}</th>`).join("")}
             <th>melhor brasileira</th></tr></thead><tbody>
           ${inds.map(ind => {
           const l = listas[ind.col];
           const c = coloca(l, UFF);
-          const topo = l[0];
+          const topo = l.filter(r => l.length && r.pos === l[0].pos);   // todas as empatadas em 1º
           return `<tr><td>${ind.curto}</td>
               <td class="num"><b>${posBR(l, UFF)}</b> <small>de ${int(l.length)}</small></td>
               <td class="num">${c ? int(c.linha.pos) + "º" : "—"}</td>
-              ${pares.map(p => `<td class="num">${posBR(l, p)}</td>`).join("")}
-              <td style="color:var(--muted)">${topo ? esc(sigla(topo.id)) : "—"}</td></tr>`;
+              ${pv.map(p => `<td class="num">${posBR(l, p)}</td>`).join("")}
+              <td style="color:var(--muted)">${topo.length ? topo.map(r => esc(sigla(r.id))).join(", ") + (topo.length > 1 ? " (empate)" : "") : "—"}</td></tr>`;
         }).join("")}</tbody></table>`;
 
         // ---- vizinhança
@@ -1531,7 +1620,7 @@
               <th class="num">posição no mundo</th><th class="num">pontuação</th></tr></thead><tbody>
             ${viz.map(r => {
             const c = coloca(lista, r.id), m = meta(r.id);
-            return `<tr class="${r.id === UFF ? "is-uff" : pares.includes(r.id) ? "is-peer" : ""}">
+            return `<tr class="${r.id === UFF ? "is-uff" : pv.includes(r.id) ? "is-peer" : ""}">
                 <td class="num">${c.pos}º${marcaEmpate(c)}</td><td><b>${esc(m.sigla)}</b> — ${esc(m.nome)}</td>
                 <td>${m.uf}</td><td>${m.tipo}</td>
                 <td class="num">${int(r.pos)}º</td><td class="num">${fmt(r.score)}</td></tr>`;
@@ -1554,13 +1643,48 @@
         window.scrollTo({ top: 0, behavior: "smooth" });
       }
 
+      const noPanorama = () => !$("viewPanorama").classList.contains("d-none");
+      const renderAtual = () => noPanorama() ? renderPanorama() : renderArea();
+
+      // instituições disponíveis para escolher: no panorama, todas as da edição;
+      // na aba Área, as que têm posição na área
+      function catalogo() {
+        if (noPanorama()) {
+          const ano = $("pAno").value;
+          const geral = campo(ano, GERAL, "todas").map(r => r.id);
+          const resto = Object.keys((dados[ano] || { nomes: {} }).nomes).map(Number).filter(id => !geral.includes(id));
+          return geral.concat(resto).map(id => ({ id }));
+        }
+        return campo($("cAno").value, $("cArea").value, "todas");
+      }
+
       function presets(qual) {
-        const lista = campo($("cAno").value, $("cArea").value, "todas");
+        const lista = noPanorama() ? campo($("pAno").value, GERAL, "todas") : campo($("cAno").value, $("cArea").value, "todas");
         if (qual === "limpar") pares = [];
-        if (qual === "rj") pares = lista.filter(r => r.id !== UFF && meta(r.id).uf === "RJ" && meta(r.id).tipo === "Federal")
+        if (qual === "rj") pares = catalogo().filter(r => r.id !== UFF && meta(r.id).uf === "RJ" && meta(r.id).tipo === "Federal")
           .slice(0, 4).map(r => r.id);
         if (qual === "top") pares = lista.filter(r => r.id !== UFF).slice(0, 3).map(r => r.id);
-        renderArea();
+        renderAtual();
+      }
+
+      function preencheBusca() {
+        const opts = catalogo().filter(r => r.id !== UFF)
+          .map(r => `<option value="${esc(sigla(r.id) + " — " + meta(r.id).nome)}">`).join("");
+        $("pLista").innerHTML = opts;
+        $("cLista").innerHTML = opts;
+      }
+
+      function adicionaPela(texto) {
+        const v = texto.trim().toLowerCase();
+        const ano = noPanorama() ? $("pAno").value : $("cAno").value;
+        const achado = catalogo().find(r => {
+          const m = meta(r.id);
+          return [m.sigla, m.nome, m.sigla + " — " + m.nome, (dados[ano] || { nomes: {} }).nomes[r.id] || ""]
+            .some(s => s.toLowerCase() === v);
+        });
+        if (achado && achado.id !== UFF && !pares.includes(achado.id) && pares.length < 4) {
+          pares.push(achado.id); renderAtual();
+        }
       }
 
       function preencheAreas() {
@@ -1574,21 +1698,6 @@
           .map(a => `<option value="${a}">${NOME_EDICAO[a]}</option>`).join("");
         $("pAno").value = ultimo;
         $("cAno").dataset.area = "";
-        preenchePares();
-      }
-
-      // instituições da edição: primeiro as da classificação geral (na ordem), depois as demais
-      function preenchePares() {
-        const ano = $("pAno").value, atual = $("pPar").value;
-        const geral = campo(ano, GERAL, "todas").map(r => r.id);
-        const resto = Object.keys((dados[ano] || { nomes: {} }).nomes).map(Number)
-          .filter(id => !geral.includes(id))
-          .sort((a, b) => sigla(a).localeCompare(sigla(b), "pt-BR"));
-        const opt = id => `<option value="${id}">${esc(sigla(id))} — ${esc(meta(id).nome)}</option>`;
-        $("pPar").innerHTML = `<option value="">nenhuma instituição</option>` +
-          `<optgroup label="na classificação geral">${geral.filter(id => id !== UFF).map(opt).join("")}</optgroup>` +
-          (resto.length ? `<optgroup label="só em rankings por área">${resto.filter(id => id !== UFF).map(opt).join("")}</optgroup>` : "");
-        $("pPar").value = [...$("pPar").options].some(o => o.value === atual) ? atual : "";
       }
 
       function semDados() {
@@ -1598,27 +1707,13 @@
       async function iniciar() {
         $("tabPanorama").addEventListener("click", () => { mostra("panorama"); renderPanorama(); });
         $("tabArea").addEventListener("click", () => { mostra("area"); renderArea(); });
-        ["pEscopo", "pOrdem", "pPar"].forEach(id => $(id).addEventListener("change", renderPanorama));
-        $("pAno").addEventListener("change", () => { preenchePares(); renderPanorama(); });
-        ["cArea", "cAno"].forEach(id => $(id).addEventListener("change", () => {
-          if (id === "cArea") pares = [];
-          renderArea();
+        ["pAno", "pEscopo", "pOrdem"].forEach(id => $(id).addEventListener("change", renderPanorama));
+        ["cArea", "cAno"].forEach(id => $(id).addEventListener("change", renderArea));
+        ["pPresets", "cPresets"].forEach(g => $(g).querySelectorAll("button").forEach(b =>
+          b.addEventListener("click", () => presets(b.dataset.preset))));
+        ["pBusca", "cBusca"].forEach(id => $(id).addEventListener("change", e => {
+          adicionaPela(e.target.value); e.target.value = "";
         }));
-        $("cPresets").querySelectorAll("button").forEach(b =>
-          b.addEventListener("click", () => presets(b.dataset.preset)));
-        $("cBusca").addEventListener("change", e => {
-          const v = e.target.value.trim().toLowerCase();
-          const lista = campo($("cAno").value, $("cArea").value, "todas");
-          const achado = lista.find(r => {
-            const m = meta(r.id);
-            return [m.sigla, m.nome, m.sigla + " — " + m.nome, (dados[$("cAno").value] || { nomes: {} }).nomes[r.id] || ""]
-              .some(s => s.toLowerCase() === v);
-          });
-          if (achado && achado.id !== UFF && !pares.includes(achado.id) && pares.length < 4) {
-            pares.push(achado.id); renderArea();
-          }
-          e.target.value = "";
-        });
         $("btnReload").addEventListener("click", async () => {
           if (!origem) await descobreOrigem();
           if (!origem) { semDados(); return; }
