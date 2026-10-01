@@ -229,7 +229,7 @@
   <header class="app-header">
     <div class="container-fluid px-4">
       <h1>THE Rankings — UFF Analytics</h1>
-      <div class="subtitle">Comparative Analysis Dashboard (2017–2026)</div>
+      <div class="subtitle">Comparative Analysis Dashboard (2017–2027)</div>
     </div>
   </header>
 
@@ -331,12 +331,19 @@
       let rows = [];
 
       // --- Utils ---
+      // Lê valor simples ("27.9") ou faixa ("24.2–27.1", "8.3—18.5", "9.2-15.5").
+      // Retorna { lo, hi, mid, ranged } ou null. Para valor simples, lo = hi = mid.
+      const parseRange = v => {
+        if (v == null) return null;
+        const nums = String(v).replace(/,/g, ".").match(/\d+(\.\d+)?/g);
+        if (!nums) return null;
+        const lo = +nums[0];
+        const hi = nums.length > 1 ? +nums[1] : lo;
+        return { lo: Math.min(lo, hi), hi: Math.max(lo, hi), mid: (lo + hi) / 2, ranged: nums.length > 1 && lo !== hi };
+      };
       const parseNumber = v => {
-        if (v == null) return NaN;
-        // THE data sometimes uses commas, dashes, etc.
-        v = String(v).replace(/–/g, "-").replace(/,/g, ".");
-        const m = v.match(/-?\d+(\.\d+)?/);
-        return m ? +m[0] : NaN;
+        const r = parseRange(v);
+        return r ? r.mid : NaN;
       };
       const isValid = v => typeof v === "number" && !isNaN(v);
       const pretty = s => s.replace(/[_\-]/g, " ").replace(/\b\w/g, c => c.toUpperCase());
@@ -427,9 +434,9 @@
 
         texts.forEach((txt, i) => {
           Papa.parse(txt, { header: true, skipEmptyLines: true }).data.forEach(r => {
-            // Normalizar chaves (trim e lowercase para facilitar)
+            // Normalizar chaves (trim)
             const o = {};
-            Object.keys(r).forEach(k => o[k.trim()] = r[k]); // Mantém case original das chaves por enquanto
+            Object.keys(r).forEach(k => o[k.trim()] = r[k]);
             o.year = urls[i].year;
 
             // Filtro específico para o dataset THE: apenas Brasil
@@ -457,10 +464,10 @@
       // --- Setup Columns & Filters ---
       const allColumns = [...new Set(rows.flatMap(r => Object.keys(r)))];
 
-      // Filtra colunas numéricas (ignora metadados e o rank textual se houver)
+      // Colunas numéricas (rank é texto/faixa e fica fora dos gráficos)
       let numericCols = allColumns.filter(c =>
         !["name", "year", "Country", "location", "nid"].includes(c) &&
-        !/rank/i.test(c) && // THE geralmente tem ranks como strings "601-800", removemos para gráficos de linha diretos se for o caso, ou tratamos. O código original do THE removia 'rank'.
+        !/rank/i.test(c) &&
         rows.some(r => isValid(parseNumber(r[c])))
       );
 
@@ -473,6 +480,21 @@
       years.forEach(y => { minYear.add(new Option(y, y)); maxYear.add(new Option(y, y)); });
       minYear.value = years[0];
       maxYear.value = years.at(-1);
+
+      // Ponto da série a partir de uma linha: y = ponto médio; lo/hi = faixa publicada
+      function seriesPoint(row, metric, year) {
+        const g = row ? parseRange(row[metric]) : null;
+        if (!g) return { x: year, y: null, lo: null, hi: null, ranged: false };
+        return { x: year, y: g.mid, lo: g.lo, hi: g.hi, ranged: g.ranged };
+      }
+
+      // Texto do hover: mostra a faixa quando houver
+      const hoverText = arr => arr.map(d => {
+        if (d.y == null) return "";
+        return d.ranged
+          ? `Band ${d.lo}–${d.hi}<br>Midpoint ${d.y.toFixed(2)}`
+          : `${d.y.toFixed(1)}`;
+      });
 
       // --- Render ---
       function render(compareTo = "") {
@@ -491,15 +513,15 @@
 
           yrRange.forEach(y => {
             const rUff = rows.find(r => r.name === uffName && r.year === y);
-            const vUff = rUff ? parseNumber(rUff[metric]) : NaN;
-            uffTime.push({ x: y, y: isValid(vUff) ? vUff : null });
-            if (isValid(vUff)) uffData.push(vUff);
+            const pUff = seriesPoint(rUff, metric, y);
+            uffTime.push(pUff);
+            if (isValid(pUff.y)) uffData.push(pUff.y);
 
             if (hasCmp) {
               const rCmp = rows.find(r => r.name === compareTo && r.year === y);
-              const vCmp = rCmp ? parseNumber(rCmp[metric]) : NaN;
-              cmpTime.push({ x: y, y: isValid(vCmp) ? vCmp : null });
-              if (isValid(vCmp)) cmpData.push(vCmp);
+              const pCmp = seriesPoint(rCmp, metric, y);
+              cmpTime.push(pCmp);
+              if (isValid(pCmp.y)) cmpData.push(pCmp.y);
             }
           });
 
@@ -516,7 +538,7 @@
           chartsDiv.appendChild(card);
 
           // Configuração de eixos
-          const isRank = metric.toLowerCase().includes("rank"); // Detecção simples
+          const isRank = metric.toLowerCase().includes("rank");
           const yAxisConfig = { title: pretty(metric), automargin: true, gridcolor: "#f0f0f0" };
           if (isRank) yAxisConfig.autorange = "reversed"; else yAxisConfig.autorange = true;
 
@@ -547,20 +569,24 @@
             const traces = [{
               x: uffTime.map(d => d.x), y: uffTime.map(d => d.y),
               mode: "lines+markers", name: "UFF",
-              line: { color: "#b71c1c", width: 3 }, marker: { size: 6 } /* Vermelho para THE */
+              line: { color: "#b71c1c", width: 3 }, marker: { size: 6 },
+              customdata: hoverText(uffTime),
+              hovertemplate: "%{x}<br>%{customdata}<extra>UFF</extra>"
             }];
             if (hasCmp) {
               traces.push({
                 x: cmpTime.map(d => d.x), y: cmpTime.map(d => d.y),
                 mode: "lines+markers", name: compareTo,
-                line: { color: "#ff9800", width: 3, dash: "dot" }, marker: { size: 6 }
+                line: { color: "#ff9800", width: 3, dash: "dot" }, marker: { size: 6 },
+                customdata: hoverText(cmpTime),
+                hovertemplate: "%{x}<br>%{customdata}<extra></extra>"
               });
             }
 
             const anns = [];
             const addAnn = (arr, col) => arr.forEach(d => {
               if (d.y !== null) anns.push({
-                x: d.x, y: d.y, text: d.y.toFixed(isRank ? 0 : 1),
+                x: d.x, y: d.y, text: d.ranged ? `${d.lo}–${d.hi}` : d.y.toFixed(isRank ? 0 : 1),
                 showarrow: false, yshift: 12,
                 font: { color: col, size: 10, weight: "bold" }, bgcolor: "rgba(255,255,255,0.8)"
               });
@@ -584,7 +610,7 @@
             card.appendChild(footer);
 
           } else {
-            // Box Plot
+            // Box Plot (usa o ponto médio das faixas)
             const traces = [{
               y: uffData, type: 'box', name: 'UFF', marker: { color: '#b71c1c' }, boxpoints: 'outliers'
             }];
