@@ -10,7 +10,7 @@ rank,overall_score,name,location,academic_reputation,citations_per_faculty,facul
 1201-1400,null,Universidade Federal de Santa Maria,Brazil,7,9.9,25,2.2,8.4,2.1,52.5,2.9,6.5,55.7
 1201-1400,null,Universidade Federal de Viçosa,Brazil,6.8,16.2,17.4,4.3,5.7,3.7,26.5,3.4,8.1,49.6
 1201-1400,null,Universidade Federal do Ceará,Brazil,11.3,10.1,7.9,4.8,8,1.7,41.7,1.5,6.1,36.2
-1201-1400,null,Universidade Federal Fluminense,Brazil,12.5,6.4,17.4,3.1,17.6,1.3,57,8.8,5.8,55.7
+1201-1400,12.6,Universidade Federal Fluminense,Brazil,12.5,6.4,17.4,3.1,17.6,1.3,57,8.8,5.8,55.7
 1201-1400,null,Universidade Presbiteriana Mackenzie,Brazil,5.8,3.8,19.5,12.6,56.4,1.1,13.8,2.3,5.6,18.1
 1401+,null,Universidade Federal de Uberlândia,Brazil,5.4,6,21,2.6,3,1.8,32.8,2.4,6.2,42.5
 1401+,null,Universidade Federal do Rio Grande do Norte,Brazil,6.7,7,10.8,1.6,1.4,1.3,50.1,null,5.8,31.3
