@@ -101,6 +101,21 @@
     .trend-down { color: #c62828; font-weight: bold; }
     .trend-flat { color: #616161; font-weight: bold; }
     .form-select-sm { border-radius: 6px; }
+    /* Busca de universidade (combobox) */
+    .uni-combo { position: relative; }
+    .uni-combo .input-group-text { border-radius: 8px 0 0 8px; color: #888; }
+    .uni-combo .form-control { font-size: 0.95rem; }
+    .uni-combo .btn { border-radius: 0 8px 8px 0; }
+    .uni-list { position: absolute; z-index: 1050; top: calc(100% + 4px); left: 0; right: 0; max-height: 320px; overflow-y: auto; border-radius: 8px; background: #fff; }
+    .uni-list .list-group-item { font-size: 0.85rem; padding: 6px 10px; cursor: pointer; display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+    .uni-list .list-group-item.active { background: var(--primary-color); border-color: var(--primary-color); }
+    .uni-list .list-group-item.active .uf { color: rgba(255,255,255,.8); }
+    .uni-list .uf { font-size: 0.7rem; color: #888; white-space: nowrap; }
+    .uni-list mark { padding: 0; background: #ffe58f; color: inherit; border-radius: 2px; }
+    .uni-list .list-group-item.active mark { background: rgba(255,255,255,.3); }
+    .uni-list .empty { font-size: 0.85rem; color: #888; padding: 8px 10px; }
+    .ref-controls .form-check-label { font-size: 0.9rem; }
+
     footer { margin-top: 40px; text-align: center; font-size: 13px; color: #999; }
   </style>
 </head>
@@ -118,10 +133,17 @@
     <div class="controls-card">
       <div class="row g-3 align-items-end">
         <div class="col-md-3">
-          <label class="form-label" for="compareSelect"><i class="bi bi-building"></i> Comparar UFF com:</label>
-          <select id="compareSelect" class="form-select">
-            <option value="">Selecione uma universidade...</option>
-          </select>
+          <label class="form-label" for="compareSearch"><i class="bi bi-building"></i> Comparar UFF com:</label>
+          <div class="uni-combo">
+            <div class="input-group">
+              <span class="input-group-text bg-white"><i class="bi bi-search"></i></span>
+              <input id="compareSearch" type="text" class="form-control" placeholder="Buscar universidade..." autocomplete="off"
+                role="combobox" aria-expanded="false" aria-controls="compareList" aria-autocomplete="list">
+              <button class="btn btn-outline-secondary" id="compareClear" type="button" title="Remover comparação"><i class="bi bi-x-lg"></i></button>
+            </div>
+            <div id="compareList" class="uni-list list-group shadow" role="listbox" hidden></div>
+          </div>
+          <select id="compareSelect" hidden><option value=""></option></select>
         </div>
         <div class="col-md-3">
           <label class="form-label"><i class="bi bi-calendar-range"></i> Período:</label>
@@ -159,8 +181,25 @@
         </div>
       </div>
       <div class="row mt-3">
-        <div class="col-12 d-flex justify-content-between align-items-center flex-wrap gap-2">
-          <div id="status" class="text-primary fw-bold small">Carregando dados...</div>
+        <div class="col-lg-7 d-flex align-items-center flex-wrap gap-3 ref-controls">
+          <span class="form-label mb-0"><i class="bi bi-rulers"></i> Referência nos gráficos de nota:</span>
+          <div class="btn-group btn-group-sm" role="group" aria-label="Estatística de referência">
+            <input type="radio" class="btn-check" name="refStat" id="refMean" value="mean">
+            <label class="btn btn-outline-primary px-3" for="refMean">Média</label>
+            <input type="radio" class="btn-check" name="refStat" id="refMedian" value="median" checked>
+            <label class="btn btn-outline-primary px-3" for="refMedian">Mediana</label>
+          </div>
+          <div class="form-check mb-0">
+            <input class="form-check-input" type="checkbox" id="refNat">
+            <label class="form-check-label" for="refNat">Nacional</label>
+          </div>
+          <div class="form-check mb-0">
+            <input class="form-check-input" type="checkbox" id="refFed">
+            <label class="form-check-label" for="refFed">Federais</label>
+          </div>
+        </div>
+        <div class="col-lg-5 d-flex justify-content-lg-end align-items-center flex-wrap gap-2">
+          <div id="status" class="text-primary fw-bold small me-auto me-lg-2">Carregando dados...</div>
           <div>
             <button id="refreshBtn" class="btn btn-sm btn-outline-secondary me-2"><i class="bi bi-arrow-clockwise"></i> Limpar</button>
             <button id="applyFilter" class="btn btn-primary px-4"><i class="bi bi-check2-circle"></i> Atualizar painel</button>
@@ -177,8 +216,10 @@
           <div class="d-flex gap-2">
             <select id="radarYear" class="form-select form-select-sm" style="width:auto" aria-label="Ano do radar"></select>
             <select id="radarRef" class="form-select form-select-sm" style="width:auto" aria-label="Referência">
-              <option value="all">Mediana nacional</option>
-              <option value="Federal">Mediana das federais</option>
+              <option value="median:all">Mediana nacional</option>
+              <option value="mean:all">Média nacional</option>
+              <option value="median:fed">Mediana das federais</option>
+              <option value="mean:fed">Média das federais</option>
               <option value="none">Sem referência</option>
             </select>
           </div>
@@ -207,6 +248,8 @@
 
       const uffName = "Universidade Federal Fluminense";
       const UFF_COLOR = "#004a8e", CMP_COLOR = "#ff7f0e", CMP_TEXT = "#e65100", REF_COLOR = "#9e9e9e";
+      // Linhas de referência: nacional (cinza) e federais (verde)
+      const REF_STYLE = { all: { color: "#8d8d8d", dash: "dash" }, fed: { color: "#2e8b57", dash: "dashdot" } };
       const ALPHA_TREND = 0.10, ALPHA_DIFF = 0.05;
 
       // Instituições que mudaram de nome entre edições → nome canônico (mais recente)
@@ -232,6 +275,8 @@
       const radarYear = document.getElementById("radarYear");
       const radarRef = document.getElementById("radarRef");
       const statusEl = document.getElementById("status");
+      const searchInput = document.getElementById("compareSearch");
+      const listEl = document.getElementById("compareList");
 
       let annotationMode = "uff";
       let chartType = "line";
@@ -382,6 +427,21 @@
       const getRow = (name, year) => index.get(`${name}|${year}`);
       const getVal = (name, year, col) => { const r = getRow(name, year); return r ? parseNumber(r[col]) : NaN; };
 
+      // Média/mediana de um indicador por ano, para todas ("all") ou só federais ("fed")
+      const aggCache = new Map();
+      const mean = arr => { const a = arr.filter(isValid); return a.length ? a.reduce((s, v) => s + v, 0) / a.length : NaN; };
+      function aggregate(stat, group, year, col) {
+        const key = `${stat}|${group}|${year}|${col}`;
+        if (!aggCache.has(key)) {
+          const vals = rows.filter(r => r.year === year && (group === "all" || r[typeKey] === "Federal"))
+            .map(r => parseNumber(r[col])).filter(isValid);
+          aggCache.set(key, { value: stat === "mean" ? mean(vals) : median(vals), n: vals.length });
+        }
+        return aggCache.get(key);
+      }
+      const refLabel = (stat, group, short = false) =>
+        `${stat === "mean" ? "Média" : "Mediana"} ${group === "all" ? (short ? "nac." : "nacional") : (short ? "fed." : "das federais")}`;
+
       const numericColsRaw = allKeys.filter(c =>
         !["name", "year", "nid", "Country", "location", nameKey, typeKey].includes(c) &&
         rows.some(r => isValid(parseNumber(r[c])))
@@ -410,14 +470,98 @@
         .sort((a, b) => a.localeCompare(b, "pt-BR"));
       uniNames.forEach(n => compareSelect.add(new Option(n, n)));
 
+      // UF e tipo (edição mais recente) para exibir na busca
+      const ufKey = allKeys.find(k => /^estado$|^uf$/i.test(k));
+      const uniInfo = new Map();
+      rows.forEach(r => { const cur = uniInfo.get(r.name); if (!cur || r.year >= cur.year) uniInfo.set(r.name, { year: r.year, uf: r[ufKey] || "", type: r[typeKey] || "" }); });
+      const uniNorm = new Map(uniNames.map(n => [n, norm(n)]));
+
+      // ---------- Busca de universidade ----------
+      let comboMatches = [], activeIdx = -1;
+
+      // Destaca os termos buscados (busca sem acento; índices preservados porque norm() mantém o comprimento em NFC)
+      function highlight(name, toks) {
+        const nn = uniNorm.get(name), mask = new Array(name.length).fill(false);
+        toks.forEach(t => { let i = nn.indexOf(t); while (i >= 0) { for (let k = i; k < i + t.length; k++) mask[k] = true; i = nn.indexOf(t, i + 1); } });
+        let out = "", open = false;
+        for (let i = 0; i < name.length; i++) {
+          if (mask[i] && !open) { out += "<mark>"; open = true; }
+          if (!mask[i] && open) { out += "</mark>"; open = false; }
+          out += escapeHtml(name[i]);
+        }
+        return out + (open ? "</mark>" : "");
+      }
+
+      function renderList(query) {
+        const toks = norm(query).split(/\s+/).filter(Boolean);
+        comboMatches = uniNames.filter(n => toks.every(t => uniNorm.get(n).includes(t)));
+        activeIdx = comboMatches.length ? 0 : -1;
+        listEl.innerHTML = comboMatches.length
+          ? comboMatches.map((n, i) => {
+              const info = uniInfo.get(n) || {};
+              return `<div class="list-group-item list-group-item-action${i === activeIdx ? " active" : ""}" role="option" data-idx="${i}">
+                <span>${highlight(n, toks)}</span><span class="uf">${escapeHtml([info.uf, info.type].filter(Boolean).join(" · "))}</span></div>`;
+            }).join("")
+          : `<div class="empty">Nenhuma universidade encontrada.</div>`;
+        listEl.hidden = false;
+        searchInput.setAttribute("aria-expanded", "true");
+        listEl.scrollTop = 0;
+      }
+
+      function setActive(i) {
+        if (!comboMatches.length) return;
+        activeIdx = (i + comboMatches.length) % comboMatches.length;
+        listEl.querySelectorAll(".list-group-item").forEach((el, k) => el.classList.toggle("active", k === activeIdx));
+        listEl.querySelector(`[data-idx="${activeIdx}"]`)?.scrollIntoView({ block: "nearest" });
+      }
+
+      function closeList() {
+        listEl.hidden = true;
+        searchInput.setAttribute("aria-expanded", "false");
+        searchInput.value = compareSelect.value; // restaura o nome selecionado
+      }
+
+      function setCompare(name) {
+        compareSelect.value = name;
+        searchInput.value = name;
+        searchInput.title = name;
+      }
+
+      function chooseCompare(name) {
+        setCompare(name);
+        closeList();
+        searchInput.blur();
+        render();
+      }
+
+      searchInput.addEventListener("focus", () => { searchInput.select(); renderList(searchInput.value === compareSelect.value ? "" : searchInput.value); });
+      searchInput.addEventListener("input", () => renderList(searchInput.value));
+      searchInput.addEventListener("keydown", e => {
+        if (listEl.hidden && (e.key === "ArrowDown" || e.key === "ArrowUp")) { renderList(""); e.preventDefault(); return; }
+        if (e.key === "ArrowDown") { setActive(activeIdx + 1); e.preventDefault(); }
+        else if (e.key === "ArrowUp") { setActive(activeIdx - 1); e.preventDefault(); }
+        else if (e.key === "Enter") { if (activeIdx >= 0) chooseCompare(comboMatches[activeIdx]); e.preventDefault(); }
+        else if (e.key === "Escape") { closeList(); searchInput.blur(); }
+      });
+      searchInput.addEventListener("blur", () => setTimeout(closeList, 120));
+      // mousedown dispara antes do blur
+      listEl.addEventListener("mousedown", e => {
+        const item = e.target.closest("[data-idx]");
+        if (item) { e.preventDefault(); chooseCompare(comboMatches[+item.dataset.idx]); }
+      });
+      document.getElementById("compareClear").onclick = () => { setCompare(""); render(); };
+
       const years = [...new Set(rows.map(r => r.year))].sort((a, b) => a - b);
       years.forEach(y => {
         minYear.add(new Option(y, y)); maxYear.add(new Option(y, y)); radarYear.add(new Option(y, y));
       });
       const setDefaults = () => {
-        compareSelect.value = "";
+        setCompare("");
         minYear.value = years[0]; maxYear.value = years.at(-1); radarYear.value = years.at(-1);
-        radarRef.value = "all";
+        radarRef.value = "median:all";
+        document.getElementById("refMedian").checked = true;
+        document.getElementById("refNat").checked = false;
+        document.getElementById("refFed").checked = false;
         document.getElementById("typeLine").checked = true; chartType = "line";
         document.getElementById("annUff").checked = true; annotationMode = "uff";
       };
@@ -463,14 +607,14 @@
 
         const traces = [];
         if (radarRef.value !== "none") {
-          const pool = rows.filter(r => r.year === year && (radarRef.value === "all" || r[typeKey] === radarRef.value));
-          const med = INDICATORS.map(ind => median(pool.map(r => parseNumber(r[ind.scoreCol]))));
-          const label = radarRef.value === "all" ? "Mediana nacional" : "Mediana das federais";
+          const [stat, group] = radarRef.value.split(":");
+          const agg = INDICATORS.map(ind => aggregate(stat, group, year, ind.scoreCol));
+          const label = refLabel(stat, group);
           traces.push({
             type: "scatterpolar", mode: "lines", name: label,
-            r: closed(med.map((m, i) => 100 * m / INDICATORS[i].max)), theta: closed(theta),
-            customdata: closed(med.map(m => fmt(m))),
-            hovertemplate: `<b>${label}</b> (n = ${pool.length})<br>%{theta}: %{r:.1f}% · Nota %{customdata}<extra></extra>`,
+            r: closed(agg.map((a, i) => 100 * a.value / INDICATORS[i].max)), theta: closed(theta),
+            customdata: closed(agg.map(a => fmt(a.value))),
+            hovertemplate: `<b>${label}</b> (n = ${agg[0].n})<br>%{theta}: %{r:.1f}% · Nota %{customdata}<extra></extra>`,
             line: { color: REF_COLOR, width: 1.5, dash: "dash" },
           });
         }
@@ -546,6 +690,8 @@
         document.getElementById("gridTitle").textContent = `${titles[chartType]} · ${startY}–${endY}`;
 
         const cmpLabel = hasCmp ? shortName(compareTo) : "";
+        const refStat = document.querySelector("input[name='refStat']:checked").value;
+        const refGroups = [["all", "refNat"], ["fed", "refFed"]].filter(([, id]) => document.getElementById(id).checked).map(([g]) => g);
 
         numericCols.forEach(metric => {
           const isRank = isRankMetric(metric);
@@ -590,16 +736,34 @@
           const adv = p => isRank ? p.c - p.u : p.u - p.c;
 
           if (chartType === "line") {
-            const traces = [{
-              x: yrRange, y: toY(uffTime), mode: "lines+markers", name: "UFF",
+            // Referências (média/mediana) só em métricas de nota: em posições a mediana é apenas o meio da lista
+            const traces = [];
+            if (!isRank) refGroups.forEach(g => {
+              const label = refLabel(refStat, g, true);
+              traces.push({
+                x: yrRange, y: yrRange.map(y => { const v = aggregate(refStat, g, y, metric).value; return isValid(v) ? v : null; }),
+                customdata: yrRange.map(y => aggregate(refStat, g, y, metric).n),
+                mode: "lines+markers", name: label, legendrank: 3,
+                line: { color: REF_STYLE[g].color, dash: REF_STYLE[g].dash, width: 1.5 }, marker: { size: 4 },
+                hovertemplate: `${refLabel(refStat, g)}: %{y:.2f} (n = %{customdata})<extra></extra>`,
+              });
+            });
+            traces.push({
+              x: yrRange, y: toY(uffTime), mode: "lines+markers", name: "UFF", legendrank: 1,
               line: { color: UFF_COLOR, width: 3 }, marker: { size: 7 },
               hovertemplate: "UFF: %{y}<extra></extra>",
-            }];
+            });
             if (hasCmp) traces.push({
-              x: yrRange, y: toY(cmpTime), mode: "lines+markers", name: cmpLabel,
+              x: yrRange, y: toY(cmpTime), mode: "lines+markers", name: (refGroups.length && !isRank) ? shortName(compareTo, 26) : cmpLabel, legendrank: 2,
               line: { color: CMP_COLOR, dash: "dot", width: 2 }, marker: { size: 6 },
               hovertemplate: `${escapeHtml(cmpLabel)}: %{y}<extra></extra>`,
             });
+            // Com referências, a legenda vai para baixo para não cobrir os dados
+            if (traces.length > 2) {
+              plotDiv.style.height = "320px";
+              layout.legend = { orientation: "h", x: 0, y: -0.12, yanchor: "top", font: { size: 10 }, entrywidth: 0.5, entrywidthmode: "fraction" };
+              layout.margin = { ...layout.margin, t: 25, b: 60 };
+            }
 
             const anns = [];
             const addAnn = (arr, color) => arr.forEach(d => {
@@ -662,7 +826,7 @@
       }
 
       // ---------- Eventos ----------
-      compareSelect.onchange = render;
+      document.querySelectorAll("input[name='refStat'], #refNat, #refFed").forEach(el => el.onchange = render);
       minYear.onchange = render;
       maxYear.onchange = render;
       radarYear.onchange = () => renderOverview(compareSelect.value);

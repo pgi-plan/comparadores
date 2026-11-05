@@ -1,0 +1,679 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Análise RUF — UFF</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+  <!-- Versão fixada: "plotly-latest" está congelado na 1.58.5 e não suporta font.weight -->
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jstat@1.9.6/dist/jstat.min.js"></script>
+
+  <style>
+    :root {
+      --primary-color: #004a8e;
+      --primary-light: #0066c2;
+      --bg-color: #f3f4f6;
+      --card-bg: #ffffff;
+      --text-main: #212529;
+    }
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      background: var(--bg-color);
+      color: var(--text-main);
+      padding-bottom: 40px;
+    }
+
+    .app-header {
+      background: linear-gradient(135deg, var(--primary-color) 0%, var(--primary-light) 100%);
+      color: white;
+      padding: 2rem 1rem;
+      margin-bottom: 2rem;
+      box-shadow: 0 4px 10px rgba(0, 74, 142, 0.2);
+    }
+
+    .app-header h1 { font-weight: 700; margin: 0; }
+    .app-header .subtitle { opacity: 0.9; font-weight: 300; font-size: 1.1rem; margin-top: 5px; }
+
+    .controls-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 12px rgba(0, 0, 0, 0.05);
+      margin-bottom: 24px;
+      border-left: 5px solid var(--primary-color);
+    }
+
+    .form-label { font-weight: 500; color: var(--primary-color); font-size: 0.9rem; margin-bottom: 4px; }
+    .form-select, .btn { border-radius: 8px; }
+    .btn-primary { background-color: var(--primary-color); border-color: var(--primary-color); }
+    .btn-primary:hover { background-color: var(--primary-light); }
+    .btn-outline-primary { color: var(--primary-color); border-color: var(--primary-color); }
+    .btn-check:checked + .btn-outline-primary { background-color: var(--primary-color); border-color: var(--primary-color); }
+    .btn-group .btn { font-size: 0.85rem; padding-left: 6px; padding-right: 6px; }
+
+    /* Linha de visão geral (radar + tabela) */
+    .overview { display: grid; grid-template-columns: 3fr 2fr; gap: 20px; margin-bottom: 20px; }
+    @media(max-width: 992px) { .overview { grid-template-columns: 1fr; } }
+
+    .section-title { font-weight: 700; color: var(--primary-color); font-size: 0.95rem; text-transform: uppercase; letter-spacing: .04em; margin: 8px 0 12px; }
+
+    /* Grid Layout de 3 colunas */
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+    @media(max-width: 1200px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+    @media(max-width: 768px) { .grid { grid-template-columns: 1fr; } }
+
+    .chart-card {
+      background: var(--card-bg);
+      border-radius: 12px;
+      border: 1px solid rgba(0, 0, 0, 0.05);
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.03);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+      min-width: 0;
+    }
+    .chart-header { padding: 15px 20px; border-bottom: 1px solid #f0f0f0; background: #fafafa; display: flex; justify-content: space-between; align-items: center; gap: 10px; }
+    .chart-title { font-weight: 700; color: var(--primary-color); font-size: 1rem; margin: 0; }
+    .chart-hint { font-size: 0.72rem; color: #888; font-weight: 400; white-space: nowrap; }
+    .chart-body { padding: 10px; flex-grow: 1; display: flex; flex-direction: column; }
+    .stats-footer { background: #fdfdfd; border-top: 1px solid #eee; padding: 10px 15px; font-size: 0.8rem; color: #555; line-height: 1.55; margin-top: auto; }
+    .stats-footer .muted { color: #888; }
+    .table-stats { font-size: 0.85rem; margin: 0; }
+    .table-stats th { color: var(--primary-color); font-weight: 500; white-space: nowrap; }
+    .table-stats td, .table-stats th { padding: 6px 8px; vertical-align: middle; }
+    .table-stats .pos { color: #888; font-size: 0.75rem; }
+    .stat-badge { display: inline-block; padding: 2px 6px; border-radius: 4px; font-weight: 600; font-size: 0.7rem; margin-left: 5px; }
+    .badge-sig { background-color: #e8f5e9; color: #2e7d32; border: 1px solid #c8e6c9; }
+    .badge-sig-neg { background-color: #ffebee; color: #c62828; border: 1px solid #ffcdd2; }
+    .badge-not-sig { background-color: #f5f5f5; color: #616161; border: 1px solid #e0e0e0; }
+    .trend-up { color: #2e7d32; font-weight: bold; }
+    .trend-down { color: #c62828; font-weight: bold; }
+    .trend-flat { color: #616161; font-weight: bold; }
+    .form-select-sm { border-radius: 6px; }
+    footer { margin-top: 40px; text-align: center; font-size: 13px; color: #999; }
+  </style>
+</head>
+
+<body>
+
+  <header class="app-header">
+    <div class="container-fluid px-4">
+      <h1>RUF — Análise UFF</h1>
+      <div class="subtitle" id="subtitle">Comparativo do Ranking Universitário Folha</div>
+    </div>
+  </header>
+
+  <div class="container-fluid px-4">
+    <div class="controls-card">
+      <div class="row g-3 align-items-end">
+        <div class="col-md-3">
+          <label class="form-label" for="compareSelect"><i class="bi bi-building"></i> Comparar UFF com:</label>
+          <select id="compareSelect" class="form-select">
+            <option value="">Selecione uma universidade...</option>
+          </select>
+        </div>
+        <div class="col-md-3">
+          <label class="form-label"><i class="bi bi-calendar-range"></i> Período:</label>
+          <div class="input-group">
+            <select id="minYear" class="form-select" aria-label="Ano inicial"></select>
+            <span class="input-group-text bg-light text-muted">a</span>
+            <select id="maxYear" class="form-select" aria-label="Ano final"></select>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <label class="form-label"><i class="bi bi-graph-up"></i> Visualização:</label>
+          <div class="btn-group w-100" role="group">
+            <input type="radio" class="btn-check" name="chartType" id="typeLine" value="line" checked>
+            <label class="btn btn-outline-primary" for="typeLine"><i class="bi bi-bezier2"></i> Tendências</label>
+            <input type="radio" class="btn-check" name="chartType" id="typeBox" value="box">
+            <label class="btn btn-outline-primary" for="typeBox"><i class="bi bi-box-seam"></i> Distribuição</label>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <label class="form-label"><i class="bi bi-chat-left-text"></i> Rótulos:</label>
+          <div class="d-flex gap-3 mt-2">
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="annMode" id="annUff" value="uff" checked>
+              <label class="form-check-label" for="annUff">UFF</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="annMode" id="annBoth" value="both">
+              <label class="form-check-label" for="annBoth">Ambas</label>
+            </div>
+            <div class="form-check">
+              <input class="form-check-input" type="radio" name="annMode" id="annNone" value="none">
+              <label class="form-check-label" for="annNone">Nenhum</label>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row mt-3">
+        <div class="col-12 d-flex justify-content-between align-items-center flex-wrap gap-2">
+          <div id="status" class="text-primary fw-bold small">Carregando dados...</div>
+          <div>
+            <button id="refreshBtn" class="btn btn-sm btn-outline-secondary me-2"><i class="bi bi-arrow-clockwise"></i> Limpar</button>
+            <button id="applyFilter" class="btn btn-primary px-4"><i class="bi bi-check2-circle"></i> Atualizar painel</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Visão geral: radar dos 5 indicadores + tabela-resumo -->
+    <div class="overview">
+      <div class="chart-card">
+        <div class="chart-header">
+          <h3 class="chart-title">Perfil dos indicadores <span class="chart-hint">nota em % do peso do indicador</span></h3>
+          <div class="d-flex gap-2">
+            <select id="radarYear" class="form-select form-select-sm" style="width:auto" aria-label="Ano do radar"></select>
+            <select id="radarRef" class="form-select form-select-sm" style="width:auto" aria-label="Referência">
+              <option value="all">Mediana nacional</option>
+              <option value="Federal">Mediana das federais</option>
+              <option value="none">Sem referência</option>
+            </select>
+          </div>
+        </div>
+        <div class="chart-body"><div id="radarPlot" style="height:380px"></div></div>
+      </div>
+      <div class="chart-card">
+        <div class="chart-header"><h3 class="chart-title" id="summaryTitle">Resumo</h3></div>
+        <div class="chart-body" id="summaryBody"></div>
+      </div>
+    </div>
+
+    <div class="section-title" id="gridTitle">Indicadores ao longo do tempo</div>
+    <div id="charts" class="grid"></div>
+
+    <footer>
+      <strong>Fonte dos dados:</strong> Ranking Universitário Folha (RUF). Desenvolvido por PGI/PLAN (UFF).
+    </footer>
+  </div>
+
+  <script>
+    (async function () {
+      const BASE = "https://raw.githubusercontent.com/pjfernandes/university_ranking_data_visualizer/refs/heads/main/ranking_universitario_folha/";
+      const YEARS_TO_LOAD = [2023, 2024, 2025, 2026];
+      const urls = YEARS_TO_LOAD.map(year => ({ year, url: `${BASE}${year}.csv` }));
+
+      const uffName = "Universidade Federal Fluminense";
+      const UFF_COLOR = "#004a8e", CMP_COLOR = "#ff7f0e", CMP_TEXT = "#e65100", REF_COLOR = "#9e9e9e";
+      const ALPHA_TREND = 0.10, ALPHA_DIFF = 0.05;
+
+      // Instituições que mudaram de nome entre edições → nome canônico (mais recente)
+      const NAME_ALIASES = {
+        "Universidade do Estado de Mato Grosso": "Universidade do Estado de Mato Grosso Carlos Alberto Reyes Maldonado",
+        "Universidade José do Rosário Velano": "Universidade Professor Edson Antônio Velano",
+        "Universidade do Grande Rio Professor José de Souza Herdy": "Afya Universidade Unigranrio",
+      };
+
+      // Pesos máximos de cada indicador na metodologia RUF (soma = 100)
+      const INDICATORS = [
+        { name: "Ensino", weight: 32 },
+        { name: "Pesquisa", weight: 42 },
+        { name: "Mercado", weight: 18 },
+        { name: "Inovação", weight: 4 },
+        { name: "Internacionalização", weight: 4 },
+      ];
+
+      const chartsDiv = document.getElementById("charts");
+      const compareSelect = document.getElementById("compareSelect");
+      const minYear = document.getElementById("minYear");
+      const maxYear = document.getElementById("maxYear");
+      const radarYear = document.getElementById("radarYear");
+      const radarRef = document.getElementById("radarRef");
+      const statusEl = document.getElementById("status");
+
+      let annotationMode = "uff";
+      let chartType = "line";
+      const rows = [];
+
+      // ---------- Utilidades ----------
+      const parseNumber = v => {
+        if (v == null) return NaN;
+        v = String(v).replace(/–/g, "-").replace(/,/g, ".");
+        const m = v.match(/-?\d+(\.\d+)?/);
+        return m ? +m[0] : NaN;
+      };
+      const isValid = v => typeof v === "number" && Number.isFinite(v);
+      const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().trim();
+      const fmt = (v, d = 2) => isValid(v) ? (+v.toFixed(d)).toString().replace(".", ",") : "–";
+      const fmtP = p => p == null ? "= –" : (p < 0.001 ? "< 0,001" : "= " + p.toFixed(3).replace(".", ","));
+      const escapeHtml = s => String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+      const shortName = (s, max = 34) => s.length > max ? s.slice(0, max - 1) + "…" : s;
+      const median = arr => {
+        const a = arr.filter(isValid).sort((x, y) => x - y);
+        if (!a.length) return NaN;
+        const m = Math.floor(a.length / 2);
+        return a.length % 2 ? a[m] : (a[m - 1] + a[m]) / 2;
+      };
+
+      const pretty = s => s.toLowerCase()
+        .replace(/[_\-]/g, " ")
+        .split(" ")
+        .map(w => w.length > 2 ? w.charAt(0).toUpperCase() + w.slice(1) : w)
+        .join(" ");
+
+      const isRankMetric = metric => /posi[cç][aã]o|ranking/i.test(metric);
+
+      // ---------- Estatística ----------
+      // Estatística S de Mann-Kendall
+      const mkS = a => {
+        let S = 0;
+        for (let i = 0; i < a.length - 1; i++)
+          for (let j = i + 1; j < a.length; j++) S += Math.sign(a[j] - a[i]);
+        return S;
+      };
+
+      // Itera todas as permutações (algoritmo de Heap)
+      function forEachPermutation(arr, cb) {
+        const a = arr.slice(), n = a.length, c = new Array(n).fill(0);
+        cb(a);
+        let i = 0;
+        while (i < n) {
+          if (c[i] < i) {
+            const k = i % 2 ? c[i] : 0;
+            [a[k], a[i]] = [a[i], a[k]];
+            cb(a);
+            c[i]++; i = 0;
+          } else { c[i] = 0; i++; }
+        }
+      }
+
+      // Mann-Kendall: p exato por permutação (n ≤ 8, trata empates) ou normal com correção de empates.
+      // Retorna também o declive de Sen (unidades/ano).
+      function calculateMannKendall(points, isRank) {
+        const pts = points.filter(d => isValid(d.y));
+        const n = pts.length;
+        if (n < 3) return { n, S: null, p: null, sen: null, text: "N/D (n < 3)", trend: "trend-flat" };
+
+        const ys = pts.map(d => d.y);
+        const S = mkS(ys);
+        let p, method;
+        if (S === 0) { p = 1; method = n <= 8 ? "exact" : "normal"; }
+        else if (n <= 8) {
+          let extreme = 0, total = 0;
+          const absS = Math.abs(S);
+          forEachPermutation(ys, perm => { total++; if (Math.abs(mkS(perm)) >= absS) extreme++; });
+          p = extreme / total; method = "exact";
+        } else {
+          const counts = {};
+          ys.forEach(v => counts[v] = (counts[v] || 0) + 1);
+          const tieTerm = Object.values(counts).reduce((s, t) => s + t * (t - 1) * (2 * t + 5), 0);
+          const varS = (n * (n - 1) * (2 * n + 5) - tieTerm) / 18;
+          const Z = (S - Math.sign(S)) / Math.sqrt(varS);
+          p = 2 * (1 - jStat.normal.cdf(Math.abs(Z), 0, 1));
+          method = "normal";
+        }
+
+        const slopes = [];
+        for (let i = 0; i < n - 1; i++)
+          for (let j = i + 1; j < n; j++) slopes.push((pts[j].y - pts[i].y) / (pts[j].x - pts[i].x));
+        const sen = median(slopes);
+
+        let text = "Sem tendência significativa", trend = "trend-flat";
+        if (p < ALPHA_TREND && S !== 0) {
+          // Em métricas de posição, número menor = melhor
+          const improving = isRank ? S < 0 : S > 0;
+          text = improving ? "Melhora ▲" : "Piora ▼";
+          trend = improving ? "trend-up" : "trend-down";
+        }
+        return { n, S, p, sen, method, text, trend };
+      }
+
+      // Teste t pareado sobre as diferenças anuais (a − b)
+      function pairedTTest(a, b) {
+        const n = a.length;
+        if (n < 3) return { error: `requer ≥ 3 edições pareadas (n = ${n})`, n };
+        const d = a.map((v, i) => v - b[i]);
+        const mean = jStat.mean(d);
+        const sd = jStat.stdev(d, true);
+        if (sd === 0) return { n, mean, degenerate: true };
+        const se = sd / Math.sqrt(n), df = n - 1;
+        const t = mean / se;
+        const p = 2 * (1 - jStat.studentt.cdf(Math.abs(t), df));
+        const tcrit = jStat.studentt.inv(1 - ALPHA_DIFF / 2, df);
+        return { n, df, mean, sd, t, p, ci: [mean - tcrit * se, mean + tcrit * se], dz: mean / sd, significant: p < ALPHA_DIFF };
+      }
+
+      // Expõe as funções para auditoria/testes no console
+      window.RUFStats = { calculateMannKendall, pairedTTest };
+
+      // ---------- Carga dos dados ----------
+      const results = await Promise.allSettled(urls.map(u =>
+        fetch(u.url).then(r => { if (!r.ok) throw new Error(`HTTP ${r.status}`); return r.text(); })
+      ));
+      const failed = [];
+      results.forEach((res, i) => {
+        if (res.status !== "fulfilled") { failed.push(urls[i].year); return; }
+        Papa.parse(res.value, { header: true, skipEmptyLines: true, delimiter: ";" }).data.forEach(r => {
+          const o = {};
+          Object.keys(r).forEach(k => o[k.replace(/^﻿/, "").trim()] = typeof r[k] === "string" ? r[k].trim() : r[k]);
+          o.year = urls[i].year;
+          rows.push(o);
+        });
+      });
+
+      if (!rows.length) {
+        statusEl.className = "text-danger fw-bold small";
+        statusEl.innerHTML = '<i class="bi bi-x-circle-fill"></i> Não foi possível carregar os dados.';
+        return;
+      }
+
+      const allKeys = Object.keys(rows[0]);
+      const nameKey = allKeys.find(k => /universidade|institution|nome/i.test(k));
+      const typeKey = allKeys.find(k => /p[uú]blica|privada|tipo/i.test(k));
+      rows.forEach(r => {
+        const raw = r[nameKey];
+        r.name = NAME_ALIASES[raw] || raw;
+      });
+
+      // Índice nome|ano → linha
+      const index = new Map(rows.map(r => [`${r.name}|${r.year}`, r]));
+      const getRow = (name, year) => index.get(`${name}|${year}`);
+      const getVal = (name, year, col) => { const r = getRow(name, year); return r ? parseNumber(r[col]) : NaN; };
+
+      const numericColsRaw = allKeys.filter(c =>
+        !["name", "year", "nid", "Country", "location", nameKey, typeKey].includes(c) &&
+        rows.some(r => isValid(parseNumber(r[c])))
+      );
+      // Ordem: Ranking, Nota geral, depois pares Posição/Nota por indicador
+      const isOverallScore = c => norm(c) === "nota";
+      const numericCols = [
+        ...numericColsRaw.filter(c => /^ranking$/i.test(c)),
+        ...numericColsRaw.filter(isOverallScore),
+        ...numericColsRaw.filter(c => !/^ranking$/i.test(c) && !isOverallScore(c)),
+      ];
+
+      // Colunas do radar (busca robusta a acentos)
+      const findCol = (prefix, ind) => allKeys.find(k => norm(k) === norm(`${prefix} em ${ind}`));
+      INDICATORS.forEach(ind => {
+        ind.scoreCol = findCol("Nota", ind.name);
+        ind.posCol = findCol("Posição", ind.name);
+        // Salvaguarda: se algum valor exceder o peso, normaliza pelo máximo observado
+        const obsMax = Math.max(...rows.map(r => parseNumber(r[ind.scoreCol])).filter(isValid));
+        ind.max = obsMax > ind.weight ? obsMax : ind.weight;
+      });
+      const rankCol = allKeys.find(k => /^ranking$/i.test(k));
+      const overallCol = allKeys.find(isOverallScore);
+
+      const uniNames = [...new Set(rows.map(r => r.name))].filter(n => n && n !== uffName)
+        .sort((a, b) => a.localeCompare(b, "pt-BR"));
+      uniNames.forEach(n => compareSelect.add(new Option(n, n)));
+
+      const years = [...new Set(rows.map(r => r.year))].sort((a, b) => a - b);
+      years.forEach(y => {
+        minYear.add(new Option(y, y)); maxYear.add(new Option(y, y)); radarYear.add(new Option(y, y));
+      });
+      const setDefaults = () => {
+        compareSelect.value = "";
+        minYear.value = years[0]; maxYear.value = years.at(-1); radarYear.value = years.at(-1);
+        radarRef.value = "all";
+        document.getElementById("typeLine").checked = true; chartType = "line";
+        document.getElementById("annUff").checked = true; annotationMode = "uff";
+      };
+      setDefaults();
+
+      document.getElementById("subtitle").textContent =
+        `Comparativo do Ranking Universitário Folha (${years[0]}–${years.at(-1)})`;
+
+      if (failed.length) {
+        statusEl.className = "text-warning fw-bold small";
+        statusEl.innerHTML = `<i class="bi bi-exclamation-triangle-fill"></i> Dados carregados, mas as edições ${failed.join(", ")} não puderam ser obtidas.`;
+      } else {
+        statusEl.innerHTML = '<i class="bi bi-check-circle-fill text-success"></i> Dados carregados';
+      }
+
+      const plotConfig = { responsive: true, displaylogo: false };
+      const purgeAll = container => container.querySelectorAll(".js-plotly-plot").forEach(el => Plotly.purge(el));
+
+      // ---------- Radar + tabela-resumo ----------
+      function renderOverview(compareTo) {
+        const year = parseInt(radarYear.value);
+        const hasCmp = !!compareTo;
+        const theta = INDICATORS.map(i => i.name);
+        const closed = arr => [...arr, arr[0]];
+
+        const profile = name => INDICATORS.map(ind => {
+          const score = getVal(name, year, ind.scoreCol);
+          const pos = getVal(name, year, ind.posCol);
+          return { pct: isValid(score) ? 100 * score / ind.max : null, score, pos };
+        });
+
+        const mkTrace = (name, label, color, dash, fillOpacity) => {
+          const prof = profile(name);
+          return {
+            type: "scatterpolar", mode: "lines+markers", name: shortName(label),
+            r: closed(prof.map(p => p.pct)), theta: closed(theta),
+            customdata: closed(prof.map((p, i) => [fmt(p.score), INDICATORS[i].weight, isValid(p.pos) ? p.pos : "–"])),
+            hovertemplate: `<b>${escapeHtml(label)}</b><br>%{theta}: %{r:.1f}% do máximo<br>Nota %{customdata[0]} / %{customdata[1]} · Posição %{customdata[2]}º<extra></extra>`,
+            line: { color, width: 2.5, dash }, marker: { size: 6 },
+            fill: "toself", fillcolor: hexToRgba(color, fillOpacity),
+          };
+        };
+
+        const traces = [];
+        if (radarRef.value !== "none") {
+          const pool = rows.filter(r => r.year === year && (radarRef.value === "all" || r[typeKey] === radarRef.value));
+          const med = INDICATORS.map(ind => median(pool.map(r => parseNumber(r[ind.scoreCol]))));
+          const label = radarRef.value === "all" ? "Mediana nacional" : "Mediana das federais";
+          traces.push({
+            type: "scatterpolar", mode: "lines", name: label,
+            r: closed(med.map((m, i) => 100 * m / INDICATORS[i].max)), theta: closed(theta),
+            customdata: closed(med.map(m => fmt(m))),
+            hovertemplate: `<b>${label}</b> (n = ${pool.length})<br>%{theta}: %{r:.1f}% · Nota %{customdata}<extra></extra>`,
+            line: { color: REF_COLOR, width: 1.5, dash: "dash" },
+          });
+        }
+        if (hasCmp) traces.push(mkTrace(compareTo, compareTo, CMP_COLOR, "dot", 0.06));
+        traces.push(mkTrace(uffName, "UFF", UFF_COLOR, "solid", 0.12));
+
+        const layout = {
+          margin: { t: 30, l: 60, r: 60, b: 50 },
+          showlegend: true, legend: { orientation: "h", x: 0.5, xanchor: "center", y: -0.08 },
+          polar: {
+            // Ensino no topo; eixo radial entre Ensino e Internacionalização para não sobrepor rótulos
+            radialaxis: { range: [0, 100], ticksuffix: "%", tickvals: [25, 50, 75, 100], tickfont: { size: 9, color: "#999" }, gridcolor: "#e5e5e5", angle: 126, linecolor: "#ddd" },
+            angularaxis: { tickfont: { size: 12 }, gridcolor: "#e5e5e5", direction: "clockwise", rotation: 90 },
+          },
+          font: { family: "Roboto, sans-serif" }, separators: ",.",
+        };
+        Plotly.react("radarPlot", traces, layout, plotConfig);
+
+        // Tabela-resumo
+        document.getElementById("summaryTitle").textContent = `Resumo — ${year}`;
+        const cell = (score, pos) => isValid(score) || isValid(pos)
+          ? `${fmt(score)} <span class="pos">(${isValid(pos) ? pos + "º" : "–"})</span>` : "–";
+        const advCell = (uPos, cPos) => {
+          if (!isValid(uPos) || !isValid(cPos)) return "–";
+          const adv = cPos - uPos; // positivo = UFF à frente
+          const cls = adv > 0 ? "trend-up" : adv < 0 ? "trend-down" : "trend-flat";
+          return `<span class="${cls}">${adv > 0 ? "+" : ""}${adv}</span>`;
+        };
+        const lines = [
+          { label: "Geral", weight: 100, u: [getVal(uffName, year, overallCol), getVal(uffName, year, rankCol)],
+            c: hasCmp ? [getVal(compareTo, year, overallCol), getVal(compareTo, year, rankCol)] : null },
+          ...INDICATORS.map(ind => ({
+            label: ind.name, weight: ind.weight,
+            u: [getVal(uffName, year, ind.scoreCol), getVal(uffName, year, ind.posCol)],
+            c: hasCmp ? [getVal(compareTo, year, ind.scoreCol), getVal(compareTo, year, ind.posCol)] : null,
+          })),
+        ];
+        const cmpHeader = hasCmp ? `<th title="${escapeHtml(compareTo)}">${escapeHtml(shortName(compareTo, 22))}</th><th title="Posições à frente (+) ou atrás (−)">Δ pos.</th>` : "";
+        document.getElementById("summaryBody").innerHTML = `
+          <div class="table-responsive">
+          <table class="table table-sm table-stats">
+            <thead><tr><th>Indicador</th><th>Peso</th><th>UFF</th>${cmpHeader}</tr></thead>
+            <tbody>${lines.map(l => `<tr>
+              <td>${l.label === "Geral" ? "<strong>Geral</strong>" : l.label}</td>
+              <td class="text-muted">${l.weight}</td>
+              <td>${cell(l.u[0], l.u[1])}</td>
+              ${hasCmp ? `<td>${cell(l.c[0], l.c[1])}</td><td>${advCell(l.u[1], l.c[1])}</td>` : ""}
+            </tr>`).join("")}</tbody>
+          </table></div>
+          <div class="small text-muted mt-auto">Nota (posição). ${hasCmp ? "Δ pos.: positivo = UFF à frente. " : "Selecione uma universidade para comparar. "}A nota Geral é a soma das cinco notas (pesos somam 100). No radar, cada nota é dividida pelo seu peso, para que todos os eixos fiquem na escala 0–100%.</div>`;
+      }
+
+      function hexToRgba(hex, a) {
+        const n = parseInt(hex.slice(1), 16);
+        return `rgba(${(n >> 16) & 255},${(n >> 8) & 255},${n & 255},${a})`;
+      }
+
+      // ---------- Cards por métrica ----------
+      function render() {
+        const compareTo = compareSelect.value;
+        const hasCmp = !!compareTo && compareTo !== uffName;
+
+        // Garante período válido
+        let startY = parseInt(minYear.value), endY = parseInt(maxYear.value);
+        if (startY > endY) { [startY, endY] = [endY, startY]; minYear.value = startY; maxYear.value = endY; }
+        const yrRange = years.filter(y => y >= startY && y <= endY);
+
+        renderOverview(hasCmp ? compareTo : "");
+        purgeAll(chartsDiv);
+        chartsDiv.innerHTML = "";
+
+        const titles = { line: "Indicadores ao longo do tempo", box: "Distribuição entre as edições" };
+        document.getElementById("gridTitle").textContent = `${titles[chartType]} · ${startY}–${endY}`;
+
+        const cmpLabel = hasCmp ? shortName(compareTo) : "";
+
+        numericCols.forEach(metric => {
+          const isRank = isRankMetric(metric);
+          const uffTime = yrRange.map(y => ({ x: y, y: getVal(uffName, y, metric) }));
+          const cmpTime = hasCmp ? yrRange.map(y => ({ x: y, y: getVal(compareTo, y, metric) })) : [];
+          const toY = arr => arr.map(d => isValid(d.y) ? d.y : null);
+
+          // Card
+          const card = document.createElement("div");
+          card.className = "chart-card";
+          const header = document.createElement("div");
+          header.className = "chart-header";
+          const h = document.createElement("h3");
+          h.className = "chart-title";
+          h.textContent = pretty(metric);
+          header.appendChild(h);
+          card.appendChild(header);
+          const body = document.createElement("div");
+          body.className = "chart-body";
+          const plotDiv = document.createElement("div");
+          plotDiv.style.height = "280px";
+          body.appendChild(plotDiv);
+          card.appendChild(body);
+          chartsDiv.appendChild(card);
+
+          const footer = document.createElement("div");
+          footer.className = "stats-footer";
+
+          const layout = {
+            margin: { t: 40, l: 45, r: 20, b: 35 },
+            showlegend: true, legend: { orientation: "h", x: 0, y: 1.2 },
+            yaxis: { autorange: isRank ? "reversed" : true, gridcolor: "#eee", zeroline: false },
+            xaxis: { gridcolor: "#eee" },
+            font: { family: "Roboto, sans-serif" }, separators: ",.",
+            hovermode: "x unified",
+          };
+
+          // Pares (anos com valor para ambas)
+          const pairs = hasCmp ? yrRange.map((y, i) => ({ x: y, u: uffTime[i].y, c: cmpTime[i].y }))
+            .filter(p => isValid(p.u) && isValid(p.c)) : [];
+          // Vantagem com sinal: positivo = UFF melhor
+          const adv = p => isRank ? p.c - p.u : p.u - p.c;
+
+          if (chartType === "line") {
+            const traces = [{
+              x: yrRange, y: toY(uffTime), mode: "lines+markers", name: "UFF",
+              line: { color: UFF_COLOR, width: 3 }, marker: { size: 7 },
+              hovertemplate: "UFF: %{y}<extra></extra>",
+            }];
+            if (hasCmp) traces.push({
+              x: yrRange, y: toY(cmpTime), mode: "lines+markers", name: cmpLabel,
+              line: { color: CMP_COLOR, dash: "dot", width: 2 }, marker: { size: 6 },
+              hovertemplate: `${escapeHtml(cmpLabel)}: %{y}<extra></extra>`,
+            });
+
+            const anns = [];
+            const addAnn = (arr, color) => arr.forEach(d => {
+              if (isValid(d.y)) anns.push({ x: d.x, y: d.y, text: fmt(d.y), showarrow: false, yshift: 12, font: { color, weight: "bold", size: 10 } });
+            });
+            if (annotationMode !== "none") addAnn(uffTime, UFF_COLOR);
+            if (annotationMode === "both" && hasCmp) addAnn(cmpTime, CMP_TEXT);
+            layout.annotations = anns;
+            layout.xaxis = { ...layout.xaxis, tickmode: "array", tickvals: yrRange, range: [startY - 0.3, endY + 0.3] };
+
+            Plotly.newPlot(plotDiv, traces, layout, plotConfig);
+
+            const unit = isRank ? "pos./ano" : "pts/ano";
+            const mkLine = (label, color, pts) => {
+              const mk = calculateMannKendall(pts, isRank);
+              const detail = mk.S == null ? "" :
+                ` <span class="muted">(S = ${mk.S}, p ${fmtP(mk.p)}${mk.method === "exact" ? " exato" : ""}, Sen = ${mk.sen > 0 ? "+" : ""}${fmt(mk.sen)} ${unit})</span>`;
+              return `<div><span style="color:${color};font-weight:500">${escapeHtml(label)}</span>: <span class="${mk.trend}">${mk.text}</span>${detail}</div>`;
+            };
+            footer.innerHTML = mkLine("UFF", UFF_COLOR, uffTime) + (hasCmp ? mkLine(cmpLabel, CMP_TEXT, cmpTime) : "");
+            card.appendChild(footer);
+
+          } else {
+            const boxTrace = (vals, name, color) => ({
+              y: vals, x: vals.map(() => name), type: "box", name, marker: { color, size: 7 }, line: { color },
+              boxpoints: "all", jitter: 0.3, pointpos: 0, boxmean: true,
+              hovertemplate: `${escapeHtml(name)}: %{y}<extra></extra>`,
+            });
+            const traces = [boxTrace(uffTime.map(d => d.y).filter(isValid), "UFF", UFF_COLOR)];
+            if (hasCmp) traces.push(boxTrace(cmpTime.map(d => d.y).filter(isValid), cmpLabel, CMP_COLOR));
+            layout.hovermode = "closest";
+            layout.showlegend = false;
+            layout.margin.t = 15;
+            Plotly.newPlot(plotDiv, traces, layout, plotConfig);
+            footer.innerHTML = pairedFooter(pairs, adv, isRank, hasCmp);
+            card.appendChild(footer);
+
+          }
+        });
+      }
+
+      function pairedFooter(pairs, adv, isRank, hasCmp) {
+        if (!hasCmp) return `<span class="muted">Selecione uma universidade para o teste t pareado.</span>`;
+        const unit = isRank ? "pos." : "pts";
+        // a − b = vantagem da UFF (positivo = UFF melhor)
+        const test = pairedTTest(pairs.map(p => isRank ? p.c : p.u), pairs.map(p => isRank ? p.u : p.c));
+        if (test.error) return `<strong>Teste t pareado</strong> <span class="muted">— ${test.error}</span>`;
+        const sign = v => (v > 0 ? "+" : "") + fmt(v);
+        if (test.degenerate) {
+          return `<strong>Teste t pareado</strong> · n = ${test.n} · vantagem da UFF constante de ${sign(test.mean)} ${unit} em todas as edições <span class="muted">(variância zero — t indefinido)</span>`;
+        }
+        let badge;
+        if (!test.significant) badge = `<span class="stat-badge badge-not-sig">Não significativo</span>`;
+        else if (test.mean > 0) badge = `<span class="stat-badge badge-sig">UFF à frente (p&lt;${fmt(ALPHA_DIFF)})</span>`;
+        else badge = `<span class="stat-badge badge-sig-neg">UFF atrás (p&lt;${fmt(ALPHA_DIFF)})</span>`;
+        return `<div><strong>Teste t pareado</strong> · n = ${test.n} edições ${badge}</div>
+          <div>Vantagem média da UFF: <strong>${sign(test.mean)} ${unit}</strong>
+          <span class="muted">(IC 95%: ${sign(test.ci[0])} a ${sign(test.ci[1])})</span></div>
+          <div class="muted">t(${test.df}) = ${fmt(test.t)} · p ${fmtP(test.p)} · d<sub>z</sub> = ${fmt(test.dz)}</div>`;
+      }
+
+      // ---------- Eventos ----------
+      compareSelect.onchange = render;
+      minYear.onchange = render;
+      maxYear.onchange = render;
+      radarYear.onchange = () => renderOverview(compareSelect.value);
+      radarRef.onchange = () => renderOverview(compareSelect.value);
+      document.getElementById("applyFilter").onclick = render;
+      document.getElementById("refreshBtn").onclick = () => { setDefaults(); render(); };
+      document.querySelectorAll("input[name='annMode']").forEach(r => r.onchange = e => { annotationMode = e.target.value; render(); });
+      document.querySelectorAll("input[name='chartType']").forEach(r => r.onchange = e => { chartType = e.target.value; render(); });
+
+      render();
+    })();
+  </script>
+</body>
+</html>
