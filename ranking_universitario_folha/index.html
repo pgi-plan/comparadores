@@ -166,7 +166,8 @@
       const urls = [
         { year: 2023, url: "https://raw.githubusercontent.com/pjfernandes/university_ranking_data_visualizer/refs/heads/main/ranking_universitario_folha/2023.csv" },
         { year: 2024, url: "https://raw.githubusercontent.com/pjfernandes/university_ranking_data_visualizer/refs/heads/main/ranking_universitario_folha/2024.csv" },
-        { year: 2025, url: "https://raw.githubusercontent.com/pjfernandes/university_ranking_data_visualizer/refs/heads/main/ranking_universitario_folha/2025.csv" }
+        { year: 2025, url: "https://raw.githubusercontent.com/pjfernandes/university_ranking_data_visualizer/refs/heads/main/ranking_universitario_folha/2025.csv" },
+        { year: 2026, url: "https://raw.githubusercontent.com/pjfernandes/university_ranking_data_visualizer/refs/heads/main/ranking_universitario_folha/2026.csv" },
       ];
 
       const uffName = "Universidade Federal Fluminense";
@@ -187,9 +188,9 @@
         const m = v.match(/-?\d+(\.\d+)?/);
         return m ? +m[0] : NaN;
       };
-      
+
       const isValid = v => typeof v === "number" && !isNaN(v);
-      
+
       // Função Pretty melhorada para evitar "PosiçãO"
       const pretty = s => s.toLowerCase()
         .replace(/[_\-]/g, " ")
@@ -252,8 +253,8 @@
       const nameKey = Object.keys(rows[0]).find(k => /universidade|institution|nome/i.test(k));
       rows.forEach(r => r.name = r[nameKey]);
 
-      const numericCols = Object.keys(rows[0]).filter(c => 
-        !["name", "year", "nid", "Country", "location", nameKey].includes(c) && 
+      const numericCols = Object.keys(rows[0]).filter(c =>
+        !["name", "year", "nid", "Country", "location", nameKey].includes(c) &&
         rows.some(r => isValid(parseNumber(r[c])))
       );
 
@@ -275,7 +276,7 @@
 
         numericCols.forEach(metric => {
           const uffData = [], cmpData = [], uffTime = [], cmpTime = [];
-          
+
           yrRange.forEach(y => {
             const rUff = rows.find(r => r.name === uffName && r.year === y);
             const vUff = rUff ? parseNumber(rUff[metric]) : NaN;
