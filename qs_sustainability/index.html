@@ -80,7 +80,8 @@
     .section-title[data-pillar="env"] { color: var(--env); border-color: var(--env); }
     .section-title[data-pillar="soc"] { color: var(--soc); border-color: var(--soc); }
     .section-title .chart-hint { text-transform: none; letter-spacing: 0; }
-    #gridTitle { margin-top: 4px; }
+    .grid-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin: 4px 0 12px; }
+    .grid-head .section-title { margin: 0; }
 
     .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
     @media(max-width: 1200px) { .grid { grid-template-columns: repeat(2, 1fr); } }
@@ -280,7 +281,17 @@
       </div>
     </div>
 
-    <div class="section-title" id="gridTitle">Tendências</div>
+    <div class="grid-head">
+      <div class="section-title" id="gridTitle">Tendências</div>
+      <div class="btn-group btn-group-sm" id="metricModeGroup" role="group" aria-label="Medida">
+        <input type="radio" class="btn-check" name="metricMode" id="modeScore" value="score" checked>
+        <label class="btn btn-outline-primary px-3" for="modeScore">Score</label>
+        <input type="radio" class="btn-check" name="metricMode" id="modeRank" value="rank">
+        <label class="btn btn-outline-primary px-3" for="modeRank">Rank QS</label>
+        <input type="radio" class="btn-check" name="metricMode" id="modePos" value="pos">
+        <label class="btn btn-outline-primary px-3" for="modePos">Posição BR</label>
+      </div>
+    </div>
     <div id="charts"></div>
     <div id="tables" class="tables" hidden></div>
 
@@ -367,6 +378,7 @@
 
       let annotationMode = "uff";
       let chartType = "line";
+      let metricMode = "score"; // score | rank (QS) | pos (posição entre as brasileiras)
       let compareName = "";
       let tableYearValue = null;
       let sortState = { key: "pos", dir: 1 };
@@ -567,6 +579,40 @@
       const brPos = (name, year) => brPositions(year).get(name) || null;
       const fmtPos = p => p ? `${p.tie ? "=" : ""}${p.pos}º` : "–";
 
+      // Posição entre as brasileiras em cada indicador, pelo score (empates = mesma posição)
+      const indPosCache = new Map();
+      function indicatorPositions(year, key) {
+        const ck = `${year}|${key}`;
+        if (!indPosCache.has(ck)) {
+          const list = rows.filter(r => r.year === year && isValid(r.val[key]));
+          const m = new Map();
+          list.forEach(r => {
+            const v = r.val[key];
+            const better = list.filter(o => o.val[key] > v).length;
+            const same = list.filter(o => o.val[key] === v).length;
+            m.set(r.name, { pos: better + 1, tie: same > 1, total: list.length });
+          });
+          indPosCache.set(ck, m);
+        }
+        return indPosCache.get(ck);
+      }
+
+      // Ponto da série de posição: rank publicado pelo QS ("rank") ou posição BR ("pos")
+      function positionPoint(name, year, key, mode) {
+        const r = getRow(name, year);
+        const empty = { y: null, text: null, hover: "–" };
+        if (!r) return empty;
+        if (mode === "rank") {
+          const txt = key === "overall" ? r.rankText : r.rankOf[key];
+          const b = parseBand(txt);
+          if (!b) return empty;
+          const p = key === "overall" ? brPos(name, year) : indicatorPositions(year, key).get(name);
+          return { y: b.lo, text: txt, hover: p ? `${txt} (${fmtPos(p)} BR)` : txt };
+        }
+        const p = key === "overall" ? brPos(name, year) : indicatorPositions(year, key).get(name);
+        return p ? { y: p.pos, text: fmtPos(p), hover: `${fmtPos(p)} de ${p.total}` } : empty;
+      }
+
       // ---------- Controles ----------
       years.forEach(y => { minYear.add(new Option(y, y)); maxYear.add(new Option(y, y)); radarYear.add(new Option(y, y)); });
 
@@ -650,6 +696,7 @@
         sortState = { key: "pos", dir: 1 };
         $("refMedian").checked = true; $("refNat").checked = false; $("refFed").checked = false;
         $("typeLine").checked = true; chartType = "line";
+        $("modeScore").checked = true; metricMode = "score";
         $("annUff").checked = true; annotationMode = "uff";
       };
       setDefaults();
@@ -809,19 +856,18 @@
 
       const annFont = color => ({ color, size: 10, weight: "bold" });
 
-      // Rank: linha com o início da faixa publicada (eixo invertido); rótulo e hover mostram a faixa
-      function renderRankCard(container, yrRange) {
+      // Posição ao longo do tempo (eixo invertido): rank do QS ou posição entre as brasileiras
+      function renderPositionCard(container, key, yrRange, mode) {
         const hasCmp = !!compareName;
-        const { card, plotDiv, footer } = makeCard(container, `${dotHtml("geral")} Rank`);
-        const series = name => yrRange.map(y => {
-          const r = getRow(name, y);
-          return { x: y, y: r && r.rank ? r.rank.lo : null, text: r && r.rank ? r.rankText : null, pos: brPos(name, y) };
-        });
+        const m = M[key];
+        const title = key === "overall" ? (mode === "rank" ? "Rank" : "Overall") : m.label;
+        const { card, plotDiv, footer } = makeCard(container, `${dotHtml(m.pillar)} ${title}`);
+        const series = name => yrRange.map(y => ({ x: y, ...positionPoint(name, y, key, mode) }));
         const uff = series(uffName), cmp = hasCmp ? series(compareName) : [];
         const trace = (pts, label, color, dash, width) => ({
           x: yrRange, y: pts.map(d => d.y), mode: "lines+markers", name: label,
           line: { color, width, dash }, marker: { size: 8, color, line: { color: "#fff", width: 1.5 } },
-          customdata: pts.map(d => d.text ? `${d.text} (${fmtPos(d.pos)} BR de ${d.pos ? d.pos.total : "–"})` : "–"),
+          customdata: pts.map(d => d.hover),
           hovertemplate: `${escapeHtml(label)}: %{customdata}<extra></extra>`,
         });
         const traces = [trace(uff, "UFF", UFF_COLOR, "solid", 3)];
@@ -832,28 +878,38 @@
         if (annotationMode !== "none") addAnn(uff, UFF_TEXT);
         if (annotationMode === "both" && hasCmp) addAnn(cmp, CMP_TEXT);
 
+        const yaxis = { autorange: "reversed", gridcolor: "#edf0ec", zeroline: false, tickformat: "d" };
+        if (mode === "pos") {
+          const ys = [...uff, ...cmp].map(d => d.y).filter(isValid);
+          const hi = ys.length ? Math.max(...ys) : 1;
+          yaxis.autorange = false;
+          yaxis.range = [hi + Math.max(1, hi * 0.15), Math.max(0.3, 1 - hi * 0.12)];
+          yaxis.tickmode = "auto"; yaxis.nticks = 6;
+        }
         Plotly.newPlot(plotDiv, traces, {
           margin: { t: 40, l: 50, r: 20, b: 35 }, showlegend: true, legend: { orientation: "h", x: 0, y: 1.2 },
-          yaxis: { autorange: "reversed", gridcolor: "#edf0ec", zeroline: false, rangemode: "normal" },
+          yaxis,
           xaxis: { gridcolor: "#edf0ec", tickmode: "array", tickvals: yrRange, range: [yrRange[0] - 0.3, yrRange.at(-1) + 0.3] },
           font: { family: "Roboto, sans-serif" }, separators: ",.", hovermode: "x unified",
           annotations: anns,
         }, plotConfig);
 
-        // Tendência na posição entre as brasileiras (posição menor = melhor)
+        // Mann-Kendall na posição invertida: S > 0 = subiu
         const mkLine = (label, color, pts) => {
-          const mk = calculateMannKendall(pts.map(d => ({ x: d.x, y: d.pos ? -d.pos.pos : null })));
-          return `<div><span style="color:${color};font-weight:500">${escapeHtml(label)}</span>: <span class="${mk.trend}">${mk.text}</span>${mkDetail(mk, "posições/ano")}</div>`;
+          const mk = calculateMannKendall(pts.map(d => ({ x: d.x, y: isValid(d.y) ? -d.y : null })));
+          return `<div><span style="color:${color};font-weight:500">${escapeHtml(label)}</span>: <span class="${mk.trend}">${mk.text}</span>${mkDetail(mk, "posições/ano", true)}</div>`;
         };
-        footer.innerHTML = `<div class="muted mb-1">Mann-Kendall · posição entre as brasileiras</div>` +
+        footer.innerHTML = `<div class="muted mb-1">Mann-Kendall</div>` +
           mkLine("UFF", UFF_TEXT, uff) + (hasCmp ? mkLine(shortName(compareName), CMP_TEXT, cmp) : "");
         card.appendChild(footer);
       }
 
-      // Detalhe do Mann-Kendall; avisa quando n é pequeno demais para atingir α
-      function mkDetail(mk, unit = "pts/ano") {
+      // Detalhe do Mann-Kendall; em posições, o declive de Sen vem com seta (▲ = subiu)
+      function mkDetail(mk, unit = "pts/ano", arrows = false) {
         if (mk.S == null) return "";
-        const senTxt = `Sen ${signed(mk.sen, 2)} ${unit}`;
+        const senTxt = arrows
+          ? `Sen ${mk.sen > 0 ? "▲" : mk.sen < 0 ? "▼" : ""}${fmt(Math.abs(mk.sen), 2)} ${unit}`
+          : `Sen ${signed(mk.sen, 2)} ${unit}`;
         return ` <span class="muted">(p ${fmtP(mk.p)} · ${senTxt})</span>`;
       }
 
@@ -981,7 +1037,11 @@
           const grid = document.createElement("div");
           grid.className = "grid";
           chartsDiv.appendChild(grid);
-          if (sec.rank && chartType === "line") renderRankCard(grid, yrRange);
+          if (chartType === "line" && metricMode !== "score") {
+            sec.keys.forEach(k => renderPositionCard(grid, k, yrRange, metricMode));
+            return;
+          }
+          if (sec.rank && chartType === "line") renderPositionCard(grid, "overall", yrRange, "rank");
           sec.keys.forEach(k => renderScoreCard(grid, k, yrRange, startY, endY, refStat, refGroups));
         });
       }
@@ -1078,6 +1138,7 @@
 
         const titles = { line: "Tendências", box: "Distribuição", table: "Tabelas" };
         $("gridTitle").textContent = titles[chartType];
+        $("metricModeGroup").hidden = chartType !== "line";
         chartsDiv.hidden = chartType === "table";
         tablesDiv.hidden = chartType !== "table";
         if (chartType === "table") renderTables(); else renderCharts();
@@ -1092,6 +1153,7 @@
       $("applyFilter").onclick = render;
       $("refreshBtn").onclick = () => { setDefaults(); render(); };
       document.querySelectorAll("input[name='annMode']").forEach(r => r.onchange = e => { annotationMode = e.target.value; render(); });
+      document.querySelectorAll("input[name='metricMode']").forEach(r => r.onchange = e => { metricMode = e.target.value; render(); });
       document.querySelectorAll("input[name='chartType']").forEach(r => r.onchange = e => { chartType = e.target.value; render(); });
 
       render();
